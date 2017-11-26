@@ -1,0 +1,3773 @@
+<?xml version="1.0" encoding="UTF-8"?><!--
+'*	v_q_0000.xml
+'* 	CourseLab 3
+'*	Copyright (c) Websoft Ltd., Russia.  All rights reserved.
+--><params>
+	<object>
+		<format>3.0</format>
+		<label>Выбор</label>
+		<description>Многообъектное взаимодействие с единственным или множественным выбором</description>
+		<width>120</width>
+		<height>60</height>
+		<state_extension>false</state_extension>
+	</object>
+	<page name="Основные" w="320" h="310">
+		<param type="edit" id="hidden.object" text="" def="Выбор (скрытый объект)" x="10" y="-50" w="1" h="1"/>
+
+		<param type="check" id="display_question_text" text="Текст вопроса" def="yes" x="10" y="8" w="120" h="13">
+			<events>
+				<event name="check" target="q_text_obj" action="enable"/>
+				<event name="uncheck" target="q_text_obj" action="disable"/>
+			</events>
+		</param>
+		<param type="objectid" id="q_text_obj" text="" def="" x="130" y="8" w="103" h="13"/>
+
+		<param type="check" id="display_instruction" text="Инструкция" def="yes" x="10" y="24" w="120" h="13">
+			<events>
+				<event name="check" target="q_instruction_obj" action="enable"/>
+				<event name="uncheck" target="q_instruction_obj" action="disable"/>
+			</events>
+		</param>
+		<param type="objectid" id="q_instruction_obj" text="" def="" x="130" y="24" w="103" h="13"/>
+		
+		<param type="label" id="lab_question_type" text="Тип" def="" x="10" y="42" w="120" h="13"/>
+		<param type="select" id="question_type" text="" def="choice" x="130" y="40" w="120" h="13">
+			<items>
+				<item id="choice" label="Единственный выбор">
+					<events>
+						<event name="selendok" target="lab_q_submit_type" action="show"/>
+						<event name="selendok" target="q_submit_type" action="show"/>
+						<event name="selendok" target="lab_q_submit_explanation" action="hide"/>
+					</events>
+				</item>
+				<item id="select" label="Множественный выбор">
+					<events>
+						<event name="selendok" target="lab_q_submit_type" action="hide"/>
+						<event name="selendok" target="q_submit_type" action="hide"/>
+						<event name="selendok" target="lab_q_submit_explanation" action="show"/>
+					</events>
+				</item>
+			</items>
+		</param>
+		
+		<param type="label" id="lab_q_variants" text="Варианты" def="" x="10" y="58" w="120" h="11"/>
+		<param type="list" id="q_variants" text="" def="no" x="10" y="56" w="300" h="110">
+			<page name="Вариант" w="260" h="222">
+				<param type="check" id="q_right" text="Правильный ответ" def="no" x="10" y="8" w="240" h="13"/>
+				<param type="label" id="lab_q_var_idle" text="Основной" def="" x="10" y="26" w="120" h="11"/>
+				<param type="objectid" id="q_var_idle" text="Осн." def="" x="130" y="24" w="103" h="13"></param>
+				<param type="label" id="lab_q_weight_by_var" text="Вес варианта" def="" x="10" y="42" w="120" h="11"/>
+				<param type="spinner" id="q_weight_by_var" text="Вес" def="1" x="130" y="40" w="32" h="13" min="0" max="99"/>
+				<param type="check" id="var_object_based" text="Использовать объекты вместо состояний" def="no" x="10" y="56" w="240" h="13" listcolumn="0">
+					<events>
+						<event name="check" target="line_vars" action="show"/>
+						<event name="check" target="line_add" action="show"/>
+						<event name="check" target="lab_q_var_selected" action="show"/>
+						<event name="check" target="q_var_selected" action="show"/>
+						<event name="check" target="lab_additional" action="show"/>
+						<event name="check" target="lab_q_var_idle_over" action="show"/>
+						<event name="check" target="q_var_idle_over" action="show"/>
+						<event name="check" target="lab_q_var_selected_over" action="show"/>
+						<event name="check" target="q_var_selected_over" action="show"/>
+						<event name="check" target="lab_q_var_disabled" action="show"/>
+						<event name="check" target="q_var_disabled" action="show"/>
+						<event name="check" target="lab_q_var_correct" action="show"/>
+						<event name="check" target="q_var_correct" action="show"/>
+						<event name="check" target="lab_q_var_error" action="show"/>
+						<event name="check" target="q_var_error" action="show"/>
+
+						<event name="check" target="line_vars_st" action="hide"/>
+						<event name="check" target="line_add_st" action="hide"/>
+						<event name="check" target="lab_state_selected" action="hide"/>
+						<event name="check" target="state_selected" action="hide"/>
+						<event name="check" target="lab_state_active" action="hide"/>
+						<event name="check" target="state_active" action="hide"/>
+						<event name="check" target="lab_additional_st" action="hide"/>
+						<event name="check" target="lab_state_idle_over" action="hide"/>
+						<event name="check" target="state_idle_over" action="hide"/>
+						<event name="check" target="lab_state_selected_over" action="hide"/>
+						<event name="check" target="state_selected_over" action="hide"/>
+						<event name="check" target="lab_state_disabled" action="hide"/>
+						<event name="check" target="state_disabled" action="hide"/>
+						<event name="check" target="lab_state_correct" action="hide"/>
+						<event name="check" target="state_correct" action="hide"/>
+						<event name="check" target="lab_state_error" action="hide"/>
+						<event name="check" target="state_error" action="hide"/>
+						
+						<event name="uncheck" target="line_vars" action="hide"/>
+						<event name="uncheck" target="line_add" action="hide"/>
+						<event name="uncheck" target="lab_q_var_selected" action="hide"/>
+						<event name="uncheck" target="q_var_selected" action="hide"/>
+						<event name="uncheck" target="lab_additional" action="hide"/>
+						<event name="uncheck" target="lab_q_var_idle_over" action="hide"/>
+						<event name="uncheck" target="q_var_idle_over" action="hide"/>
+						<event name="uncheck" target="lab_q_var_selected_over" action="hide"/>
+						<event name="uncheck" target="q_var_selected_over" action="hide"/>
+						<event name="uncheck" target="lab_q_var_disabled" action="hide"/>
+						<event name="uncheck" target="q_var_disabled" action="hide"/>
+						<event name="uncheck" target="lab_q_var_correct" action="hide"/>
+						<event name="uncheck" target="q_var_correct" action="hide"/>
+						<event name="uncheck" target="lab_q_var_error" action="hide"/>
+						<event name="uncheck" target="q_var_error" action="hide"/>
+
+						<event name="uncheck" target="line_vars_st" action="show"/>
+						<event name="uncheck" target="line_add_st" action="show"/>
+						<event name="uncheck" target="lab_state_selected" action="show"/>
+						<event name="uncheck" target="state_selected" action="show"/>
+						<event name="uncheck" target="lab_state_active" action="show"/>
+						<event name="uncheck" target="state_active" action="show"/>
+						<event name="uncheck" target="lab_additional_st" action="show"/>
+						<event name="uncheck" target="lab_state_idle_over" action="show"/>
+						<event name="uncheck" target="state_idle_over" action="show"/>
+						<event name="uncheck" target="lab_state_selected_over" action="show"/>
+						<event name="uncheck" target="state_selected_over" action="show"/>
+						<event name="uncheck" target="lab_state_disabled" action="show"/>
+						<event name="uncheck" target="state_disabled" action="show"/>
+						<event name="uncheck" target="lab_state_correct" action="show"/>
+						<event name="uncheck" target="state_correct" action="show"/>
+						<event name="uncheck" target="lab_state_error" action="show"/>
+						<event name="uncheck" target="state_error" action="show"/>
+					</events>					
+				</param>
+				
+				<param type="line" id="line_vars" x="10" y="72" w="240" h="124"/>
+				<param type="line" id="line_add" x="10" y="94" w="240" h="102"/>
+
+				<param type="label" id="lab_q_var_selected" text="Выбранный" def="" x="15" y="78" w="115" h="11"/>
+				<param type="objectid" id="q_var_selected" text="Выбр." def="" x="130" y="76" w="98" h="13" listcolumn="0"/>
+				<param type="label" id="lab_additional" text="Необязательные" def="" x="130" y="100" w="115" h="11"/>
+				<param type="label" id="lab_q_var_idle_over" text="Основной - при наведении " def="" x="15" y="116" w="115" h="11"/>
+				<param type="objectid" id="q_var_idle_over" text="Осн.нав." def="" x="130" y="114" w="98" h="13" listcolumn="0"/>
+				<param type="label" id="lab_q_var_selected_over" text="Выбранный - при наведении" def="" x="15" y="132" w="115" h="11"/>
+				<param type="objectid" id="q_var_selected_over" text="Выб.нав." def="" x="130" y="130" w="98" h="13" listcolumn="0"/>
+				<param type="label" id="lab_q_var_disabled" text="Неактивный" def="" x="15" y="148" w="115" h="11"/>
+				<param type="objectid" id="q_var_disabled" text="Неакт." def="" x="130" y="146" w="98" h="13" listcolumn="0"/>
+				<param type="label" id="lab_q_var_correct" text="Правильный" def="" x="15" y="164" w="115" h="11"/>
+				<param type="objectid" id="q_var_correct" text="Прав." def="" x="130" y="162" w="98" h="13" listcolumn="0"/>
+				<param type="label" id="lab_q_var_error" text="Ошибочный" def="" x="15" y="180" w="115" h="11"/>
+				<param type="objectid" id="q_var_error" text="Ошиб." def="" x="130" y="178" w="98" h="13" listcolumn="0"/>
+
+				<param type="line" id="line_vars_st" x="10" y="72" w="240" h="140"/>
+				<param type="line" id="line_add_st" x="10" y="110" w="240" h="102"/>
+
+				<param type="label" id="lab_state_selected" text="Выбранный" def="" x="15" y="78" w="115" h="11"/>
+				<param type="label" id="state_selected" text="selected" def="selected" x="130" y="78" w="115" h="13" listcolumn="0"/>
+				<param type="label" id="lab_state_active" text="При нажатии" def="" x="15" y="94" w="115" h="11"/>
+				<param type="label" id="state_active" text="active" def="active" x="130" y="94" w="115" h="13" listcolumn="0"/>
+				<param type="label" id="lab_additional_st" text="Необязательные" def="" x="130" y="116" w="115" h="11"/>
+				<param type="label" id="lab_state_idle_over" text="Основной - при наведении " def="" x="15" y="132" w="115" h="11"/>
+				<param type="label" id="state_idle_over" text="highlighted" def="highlighted" x="130" y="132" w="115" h="13" listcolumn="0"/>
+				<param type="label" id="lab_state_selected_over" text="Выбранный - при наведении" def="" x="15" y="148" w="115" h="11"/>
+				<param type="label" id="state_selected_over" text="selected_over" def="selected_over" x="130" y="148" w="115" h="13" listcolumn="0"/>
+				<param type="label" id="lab_state_disabled" text="Неактивный" def="" x="15" y="164" w="115" h="11"/>
+				<param type="label" id="state_disabled" text="disabled" def="disabled" x="130" y="164" w="115" h="13" listcolumn="0"/>
+				<param type="label" id="lab_state_correct" text="Правильный" def="" x="15" y="180" w="115" h="11"/>
+				<param type="label" id="state_correct" text="correct" def="correct" x="130" y="180" w="115" h="13" listcolumn="0"/>
+				<param type="label" id="lab_state_error" text="Ошибочный" def="" x="15" y="196" w="115" h="11"/>
+				<param type="label" id="state_error" text="incorrect" def="incorrect" x="130" y="196" w="115" h="13" listcolumn="0"/>
+
+			</page>
+		</param>
+
+		<param type="label" id="lab_on_finish" text="По завершению вопроса" def="" x="10" y="174" w="120" h="11"/>
+		<param type="select" id="q_on_finish" text="" def="asis" x="130" y="172" w="180" h="13">
+			<items>
+				<item id="asis" label="Текущее состояние"/>
+				<item id="asis_opacity" label="Текущее состояние, полупрозрачность"/>
+				<item id="disabled" label="Показать неактивные варианты"/>
+			</items>
+		</param>
+		<param type="label" id="lab_q_attempts" text="Количество попыток" def="" x="10" y="190" w="120" h="11"/>
+		<param type="select" id="q_attempts_type" text="" def="fixed" x="130" y="188" w="120" h="13">
+			<items>
+				<item id="fixed" label="По выбору">
+					<events>
+						<event name="selendok" target="q_attempts" action="show"/>
+					</events>
+				</item>
+				<item id="auto" label="Рассчитать автоматически">
+					<events>
+						<event name="selendok" target="q_attempts" action="hide"/>
+					</events>
+				</item>
+			</items>
+		</param>
+		<param type="spinner" id="q_attempts" text="" def="1" x="252" y="188" w="32" h="13" min="1" max="100"/>
+		
+		<param type="label" id="lab_q_submit_type" text="Принимать ответ" def="" x="10" y="206" w="120" h="11"/>
+		<param type="label" id="lab_q_submit_explanation" text="Для вопросов этого типа прием ответа возможен только по кнопке" def="" x="10" y="206" w="300" h="11"/>
+		<param type="select" id="q_submit_type" text="" def="button" x="130" y="204" w="120" h="13">
+			<items>
+				<item id="var" label="По выбору варианта"/>
+				<item id="button" label="По нажатию на кнопку"/>
+			</items>
+		</param>
+		
+		<param type="fieldset" id="fs_accept">
+			<param type="line" id="line_add" x="10" y="224" w="300" h="72"/>
+			<param type="label" id="lab_q_submit_idle" text="Кнопка приема ответа" def="" x="15" y="232" w="115" h="11"/>
+			<param type="objectid" id="q_submit_idle" text="" def="" x="130" y="230" w="103" h="13"/>
+			<param type="check" id="accept_object_based" text="Использовать объекты вместо состояний" def="no" x="15" y="246" w="280" h="13">
+				<events>
+					<event name="check" target="lab_q_submit_over" action="enable"/>
+					<event name="check" target="q_submit_over" action="enable"/>
+					<event name="check" target="lab_q_submit_disabled" action="enable"/>
+					<event name="check" target="q_submit_disabled" action="enable"/>
+					<event name="uncheck" target="lab_q_submit_over" action="disable"/>
+					<event name="uncheck" target="q_submit_over" action="disable"/>
+					<event name="uncheck" target="lab_q_submit_disabled" action="disable"/>
+					<event name="uncheck" target="q_submit_disabled" action="disable"/>
+				</events>
+			</param>	
+			<param type="label" id="lab_q_submit_over" text="При наведении мыши" def="" x="15" y="264" w="120" h="11"/>
+			<param type="objectid" id="q_submit_over" text="" def="" x="130" y="262" w="103" h="13"/>
+			<param type="label" id="lab_q_submit_disabled" text="Неактивная кнопка" def="" x="15" y="280" w="120" h="11"/>
+			<param type="objectid" id="q_submit_disabled" text="" def="" x="130" y="278" w="103" h="13"/>
+		</param>
+
+	</page>
+	<page name="Оценка" w="320" h="280">
+		<param type="line" id="line_scoring" text="" def="" x="4" y="4" w="312" h="152"/>		
+		<param type="check" id="q_scored" text="Оценка вопроса" def="yes" x="10" y="10" w="120" h="13">
+			<events>
+				<event name="check" target="fs_scoring" action="enable"/>
+				<event name="uncheck" target="fs_scoring" action="disable"/>
+			</events>
+		</param>
+		<param type="fieldset" id="fs_scoring">
+			<param type="select" id="q_scoring_type" text="" def="plain" x="130" y="10" w="180" h="13">
+				<items>
+					<item id="plain" label="Базовый балл"/>
+					<item id="regressive" label="Базовый балл регрессивно по попыткам"/>
+					<item id="byobj" label="Баллы по списку целей"/>
+					<item id="sum" label="Сумма весов выбранных вариантов"/>
+				</items>
+			</param>
+			<param type="label" id="lab_q_weight" text="Базовый балл" def="" x="10" y="28" w="120" h="11"/>
+			<param type="dec_spinner" id="q_weight" text="" def="1.0" x="130" y="26" w="32" h="13" min="0" max="100"/>
+			<param type="label" id="lab_q_scoreboards" text="Цели" def="" x="10" y="42" w="120" h="11"/>
+			<param type="list" id="q_scoreboards" text="" def="yes" x="10" y="40" w="300" h="110">
+				<page name="Цель" w="260" h="80">
+					<param type="label" id="lab_q_board" text="Цель" def="" x="10" y="10" w="120" h="11"/>
+					<param type="objectiveid" id="q_board" text="Цель" def="total" x="130" y="8" w="103" h="13"/>
+					<param type="label" id="lab_q_weight_byobj" text="Балл цели" def="" x="10" y="26" w="100" h="13"/>
+					<param type="dec_spinner" id="q_weight_byobj" text="Балл цели" def="1.0" x="130" y="25" w="32" h="13" min="0"/>
+				</page>
+			</param>
+		</param>
+	</page>
+	<page name="Ограничения" w="320" h="280">
+
+		<param type="line" id="line_continue" text="" def="" x="4" y="6" w="312" h="88"/>
+		<param type="label" id="lab_q_continue" text="Незаконченный вопрос" def="" x="10" y="14" w="120" h="11"/>
+		<param type="select" id="q_continue" text="" def="restore_silent" x="130" y="12" w="180" h="13">
+			<items>
+				<item id="restart_silent" label="Начать сначала, без предупреждения">
+					<events>
+						<event name="selendok" target="lab_q_restart_alert" action="disable"/>
+						<event name="selendok" target="q_restart_alert" action="disable"/>
+						<event name="selendok" target="lab_q_restore_alert" action="disable"/>
+						<event name="selendok" target="q_restore_alert" action="disable"/>
+						<event name="selendok" target="lab_q_restore_confirm" action="disable"/>
+						<event name="selendok" target="q_restore_confirm" action="disable"/>
+						<event name="selendok" target="lab_restore_type" action="disable"/>
+						<event name="selendok" target="restore_type" action="disable"/>
+					</events>
+				</item>
+				<item id="restart_alert" label="Начать сначала, с предупреждением">
+					<events>
+						<event name="selendok" target="lab_q_restart_alert" action="enable"/>
+						<event name="selendok" target="q_restart_alert" action="enable"/>
+						<event name="selendok" target="lab_q_restore_alert" action="disable"/>
+						<event name="selendok" target="q_restore_alert" action="disable"/>
+						<event name="selendok" target="lab_q_restore_confirm" action="disable"/>
+						<event name="selendok" target="q_restore_confirm" action="disable"/>
+						<event name="selendok" target="lab_restore_type" action="disable"/>
+						<event name="selendok" target="restore_type" action="disable"/>
+					</events>
+				</item>
+				<item id="restore_silent" label="Восстановить состояние, без предупреждения">
+					<events>
+						<event name="selendok" target="lab_q_restart_alert" action="disable"/>
+						<event name="selendok" target="q_restart_alert" action="disable"/>
+						<event name="selendok" target="lab_q_restore_alert" action="disable"/>
+						<event name="selendok" target="q_restore_alert" action="disable"/>
+						<event name="selendok" target="lab_q_restore_confirm" action="disable"/>
+						<event name="selendok" target="q_restore_confirm" action="disable"/>
+						<event name="selendok" target="lab_restore_type" action="enable"/>
+						<event name="selendok" target="restore_type" action="enable"/>
+					</events>
+				</item>
+				<item id="restore_alert" label="Восстановить состояние, с предупреждением">
+					<events>
+						<event name="selendok" target="lab_q_restart_alert" action="disable"/>
+						<event name="selendok" target="q_restart_alert" action="disable"/>
+						<event name="selendok" target="lab_q_restore_alert" action="enable"/>
+						<event name="selendok" target="q_restore_alert" action="enable"/>
+						<event name="selendok" target="lab_q_restore_confirm" action="disable"/>
+						<event name="selendok" target="q_restore_confirm" action="disable"/>
+						<event name="selendok" target="lab_restore_type" action="enable"/>
+						<event name="selendok" target="restore_type" action="enable"/>
+					</events>
+				</item>
+				<item id="restore_confirm" label="Предложить выбор">
+					<events>
+						<event name="selendok" target="lab_q_restart_alert" action="disable"/>
+						<event name="selendok" target="q_restart_alert" action="disable"/>
+						<event name="selendok" target="lab_q_restore_alert" action="disable"/>
+						<event name="selendok" target="q_restore_alert" action="disable"/>
+						<event name="selendok" target="lab_q_restore_confirm" action="enable"/>
+						<event name="selendok" target="q_restore_confirm" action="enable"/>
+						<event name="selendok" target="lab_restore_type" action="enable"/>
+						<event name="selendok" target="restore_type" action="enable"/>
+					</events>
+				</item>
+			</items>
+		</param>
+		<param type="label" id="lab_q_restart_alert" text="Текст - сброс" def="" x="10" y="30" w="120" h="11"/>
+		<param type="edit" id="q_restart_alert" text="" def="Вопрос будет начат сначала, сохраненное состояние вопроса будет сброшено." x="130" y="28" w="180" h="13"/>
+		<param type="label" id="lab_q_restore_alert" text="Текст - восстановление" def="" x="10" y="46" w="120" h="11"/>
+		<param type="edit" id="q_restore_alert" text="" def="Вопрос уже был начат, его состояние будет восстановлено." x="130" y="44" w="180" h="13"/>
+		<param type="label" id="lab_q_restore_confirm" text="Текст диалога выбора" def="" x="10" y="62" w="120" h="11"/>
+		<param type="edit" id="q_restore_confirm" text="" def="Вопрос уже был начат. Восстановить его состояние?" x="130" y="60" w="180" h="13"/>
+		<param type="label" id="lab_restore_type" text="Восстановить" def="" x="10" y="76" w="120" h="11"/>
+		<param type="select" id="restore_type" text="" def="user" x="130" y="74" w="180" h="13">
+			<items>
+				<item id="user" label="Ответ пользователя"/>
+				<item id="user_fb" label="Ответ пользователя и обратная связь"/>
+				<item id="correct" label="Правильный ответ"/>
+				<item id="correct_fb" label="Правильный ответ и обратная связь"/>
+			</items>
+		</param>
+		<param type="line" id="line_replay" text="" def="" x="4" y="100" w="312" h="72"/>
+		<param type="label" id="lab_q_replay" text="Повторный проход" def="" x="10" y="108" w="120" h="11"/>
+		<param type="select" id="q_replay" text="" def="none_silent" x="130" y="106" w="180" h="13">
+			<items>
+				<item id="none_silent" label="Запрещен, без предупреждения">
+					<events>
+						<event name="selendok" target="lab_q_browse_alert" action="disable"/>
+						<event name="selendok" target="q_browse_alert" action="disable"/>
+						<event name="selendok" target="lab_q_secondrun_alert" action="disable"/>
+						<event name="selendok" target="q_secondrun_alert" action="disable"/>
+						<event name="selendok" target="lab_q_secondrun_confirm" action="disable"/>
+						<event name="selendok" target="q_secondrun_confirm" action="disable"/>
+					</events>
+				</item>
+				<item id="none_alert" label="Запрещен, предупреждение">
+					<events>
+						<event name="selendok" target="lab_q_browse_alert" action="enable"/>
+						<event name="selendok" target="q_browse_alert" action="enable"/>
+						<event name="selendok" target="lab_q_secondrun_alert" action="disable"/>
+						<event name="selendok" target="q_secondrun_alert" action="disable"/>
+						<event name="selendok" target="lab_q_secondrun_confirm" action="disable"/>
+						<event name="selendok" target="q_secondrun_confirm" action="disable"/>
+					</events>
+				</item>
+				<item id="allow_silent" label="Начать автоматически, без предупреждения">
+					<events>
+						<event name="selendok" target="lab_q_browse_alert" action="disable"/>
+						<event name="selendok" target="q_browse_alert" action="disable"/>
+						<event name="selendok" target="lab_q_secondrun_alert" action="disable"/>
+						<event name="selendok" target="q_secondrun_alert" action="disable"/>
+						<event name="selendok" target="lab_q_secondrun_confirm" action="disable"/>
+						<event name="selendok" target="q_secondrun_confirm" action="disable"/>
+					</events>
+				</item>
+				<item id="allow_alert" label="Начать автоматически, предупреждение">
+					<events>
+						<event name="selendok" target="lab_q_browse_alert" action="disable"/>
+						<event name="selendok" target="q_browse_alert" action="disable"/>
+						<event name="selendok" target="lab_q_secondrun_alert" action="enable"/>
+						<event name="selendok" target="q_secondrun_alert" action="enable"/>
+						<event name="selendok" target="lab_q_secondrun_confirm" action="disable"/>
+						<event name="selendok" target="q_secondrun_confirm" action="disable"/>
+					</events>
+				</item>
+				<item id="allow_confirm" label="Предложить выбор">
+					<events>
+						<event name="selendok" target="lab_q_browse_alert" action="disable"/>
+						<event name="selendok" target="q_browse_alert" action="disable"/>
+						<event name="selendok" target="lab_q_secondrun_alert" action="disable"/>
+						<event name="selendok" target="q_secondrun_alert" action="disable"/>
+						<event name="selendok" target="lab_q_secondrun_confirm" action="enable"/>
+						<event name="selendok" target="q_secondrun_confirm" action="enable"/>
+					</events>
+				</item>
+			</items>
+		</param>
+		<param type="label" id="lab_q_browse_alert" text="Текст - запрет" def="" x="10" y="124" w="120" h="11"/>
+		<param type="edit" id="q_browse_alert" text="" def="Вопрос уже отвечен. Повторный подход запрещен." x="130" y="122" w="180" h="13"/>
+		<param type="label" id="lab_q_secondrun_alert" text="Текст - разрешение" def="" x="10" y="140" w="120" h="11"/>
+		<param type="edit" id="q_secondrun_alert" text="" def="Продолжение подхода." x="130" y="138" w="180" h="13"/>
+		<param type="label" id="lab_q_secondrun_confirm" text="Текст диалога выбора" def="" x="10" y="156" w="120" h="11"/>
+		<param type="edit" id="q_secondrun_confirm" text="" def="Вопрос уже отвечен. Нажмите OK, если хотите пройти его заново или Cancel, чтобы оставить старый результат. " x="130" y="154" w="180" h="13"/>
+
+	</page>
+	<page name="Обратная связь" w="320" h="280">
+		<param type="check" id="q_showright" text="Показывать правильный ответ" def="no" x="10" y="8" w="200" h="13">
+			<events>
+				<event name="check" target="lab_q_showright_type" action="enable"/>
+				<event name="check" target="q_showright_type" action="enable"/>
+				<event name="uncheck" target="lab_q_showright_type" action="disable"/>
+				<event name="uncheck" target="q_showright_type" action="disable"/>
+			</events>
+		</param>
+		<param type="label" id="lab_q_showright_type" text="Тип показа" def="" x="10" y="26" w="120" h="11"/>
+		<param type="select" id="q_showright_type" text="" def="full" x="130" y="24" w="180" h="13">
+			<items>
+				<item id="full" label="Все правильные и неправильные"/>
+				<item id="correct_selected" label="Только выбранные правильные"/>
+				<item id="incorrect_selected" label="Только выбранные неправильные"/>
+				<item id="correct_incorrect_selected" label="Все правильные и выбранные неправильные"/>
+				<item id="both_selected" label="Только все выбранные"/>
+			</items>
+		</param>
+
+		<param type="check" id="q_fb_switch" text="Показывать сообщения обратной связи" def="no" x="10" y="40" w="200" h="13">
+			<events>
+				<event name="check" target="fs_fb" action="show"/>
+				<event name="uncheck" target="fs_fb" action="hide"/>
+			</events>
+		</param>
+		<param type="line" id="" text="" def="" x="10" y="56" w="300" h="1"/>
+		<param type="fieldset" id="fs_fb">
+
+			<param type="check" id="q_fb_timerswitch" text="Прятать автоматически через" def="no" x="10" y="64" w="120" h="13">
+				<events>
+					<event name="check" target="q_fb_timer" action="enable"/>
+					<event name="check" target="lab_q_fbtimer2" action="enable"/>
+					<event name="uncheck" target="q_fb_timer" action="disable"/>
+					<event name="uncheck" target="lab_q_fbtimer2" action="disable"/>
+				</events>
+			</param>
+			<param type="time" id="q_fb_timer" text="" def="3000" x="130" y="64" w="32" h="13" min="100" max="99999"/>
+			<param type="label" id="lab_q_fbtimer2" text="сек" def="" x="165" y="66" w="30" h="11"/>
+	
+			<param type="check" id="q_display_fb_correct" text="Правильный ответ" def="yes" x="10" y="80" w="120" h="13">
+				<events>
+					<event name="check" target="q_fb_correct" action="enable"/>
+					<event name="uncheck" target="q_fb_correct" action="disable"/>
+				</events>
+			</param>
+			<param type="objectid" id="q_fb_correct" text="" def="" x="130" y="80" w="163" h="13"/>
+			
+			<param type="label" id="lab_q_fb_incorrect_type" text="Неправильный ответ" def="" x="10" y="98" w="120" h="11"/>
+			<param type="select" id="q_fb_incorrect_type" text="" def="common" x="130" y="96" w="180" h="13">
+				<items>
+					<item id="none" label="Не показывать">
+						<events>
+							<event name="selendok" target="lab_q_fb_incorrect_common" action="disable"/>
+							<event name="selendok" target="q_fb_incorrect_common" action="disable"/>
+							<event name="selendok" target="lab_q_fb_incorrect_by_attempt" action="disable"/>
+							<event name="selendok" target="q_fb_incorrect_by_attempt" action="disable"/>
+						</events>
+					</item>
+					<item id="common" label="Для всех попыток">
+						<events>
+							<event name="selendok" target="lab_q_fb_incorrect_common" action="enable"/>
+							<event name="selendok" target="q_fb_incorrect_common" action="enable"/>
+							<event name="selendok" target="lab_q_fb_incorrect_by_attempt" action="disable"/>
+							<event name="selendok" target="q_fb_incorrect_by_attempt" action="disable"/>
+						</events>
+					</item>
+					<item id="byatt" label="По попыткам">
+						<events>
+							<event name="selendok" target="lab_q_fb_incorrect_common" action="disable"/>
+							<event name="selendok" target="q_fb_incorrect_common" action="disable"/>
+							<event name="selendok" target="lab_q_fb_incorrect_by_attempt" action="enable"/>
+							<event name="selendok" target="q_fb_incorrect_by_attempt" action="enable"/>
+						</events>
+					</item>
+				</items>
+			</param>
+
+			<param type="label" id="lab_q_fb_incorrect_common" text="Объект" def="" x="10" y="114" w="120" h="11"/>
+			<param type="objectid" id="q_fb_incorrect_common" text="" def="" x="130" y="112" w="163" h="13"/>
+
+			<param type="label" id="lab_q_fb_incorrect_by_attempt" text="По попыткам" def="" x="10" y="130" w="120" h="11"/>
+			<param type="list" id="q_fb_incorrect_by_attempt" text="" def="no" x="10" y="128" w="300" h="78">
+				<params w="320" h="140">
+					<param type="label" id="lab_q_fb_incorrect_by_att" text="Объект" def="" x="10" y="10" w="120" h="11"/>
+					<param type="objectid" id="q_fb_incorrect_by_att" text="Объект" def="" x="130" y="8" w="163" h="13"/>
+				</params>
+			</param>
+		</param>
+	</page>
+	<page name="Звук" w="320" h="280">
+		<param type="line" id="LINE_snd_1" text="" def="" x="5" y="8" w="310" h="48"/>
+		<param type="line" id="LINE_snd_2" text="" def="" x="5" y="24" w="310" h="32"/>
+		<param type="label" id="lab_snd_click" text="Нажатие мыши" def="" x="15" y="12" w="120" h="11"/>
+		<param type="select" id="sound_click" text="" def="none" x="15" y="34" w="113" h="13">
+			<items>
+				<item id="none" label="Без звука">
+					<events>
+						<event name="selendok" target="sound_click_file_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="click1" label="Стандартный 1">
+					<events>
+						<event name="selendok" target="sound_click_file_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="click2" label="Стандартный 2">
+					<events>
+						<event name="selendok" target="sound_click_file_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="click3" label="Стандартный 3">
+					<events>
+						<event name="selendok" target="sound_click_file_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="click4" label="Стандартный 4">
+					<events>
+						<event name="selendok" target="sound_click_file_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="custom" label="По выбору">
+					<events>
+						<event name="selendok" target="sound_click_file_custom" action="enable"/>
+					</events>
+				</item>
+			</items>
+		</param>
+		<param type="file" id="sound_click_file_custom" text="" def="" x="130" y="34" w="158" h="13" ext="Звуковые файлы (*.mp3;*.ogg;*.oga;*.webm;*.wav;*.swf)|*.mp3;*.ogg;*.oga;*.webm;*.wav;*.swf|MP3 (*.mp3)|*.mp3|OGG (*.oga;*.ogg)|*.ogg;*.oga;|WebM (*.webm)|*.webm|WAV (*.wav)|*.wav|Все файлы (*.*)|*.*|||"/>
+
+		<param type="line" id="LINE_snd_3" text="" def="" x="5" y="62" w="310" h="48"/>
+		<param type="line" id="LINE_snd_4" text="" def="" x="5" y="78" w="310" h="32"/>
+		<param type="label" id="lab_snd_over" text="Наведение мыши" def="" x="15" y="66" w="120" h="11"/>
+		<param type="select" id="sound_over" text="" def="none" x="15" y="88" w="113" h="13">
+			<items>
+				<item id="none" label="Без звука">
+					<events>
+						<event name="selendok" target="sound_over_file_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="over1" label="Стандартный 1">
+					<events>
+						<event name="selendok" target="sound_over_file_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="over2" label="Стандартный 2">
+					<events>
+						<event name="selendok" target="sound_over_file_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="over3" label="Стандартный 3">
+					<events>
+						<event name="selendok" target="sound_over_file_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="over4" label="Стандартный 4">
+					<events>
+						<event name="selendok" target="sound_over_file_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="custom" label="По выбору">
+					<events>
+						<event name="selendok" target="sound_over_file_custom" action="enable"/>
+					</events>
+				</item>
+			</items>
+		</param>
+		<param type="file" id="sound_over_file_custom" text="" def="" x="130" y="88" w="158" h="13" ext="Звуковые файлы (*.mp3;*.ogg;*.oga;*.webm;*.wav;*.swf)|*.mp3;*.ogg;*.oga;*.webm;*.wav;*.swf|MP3 (*.mp3)|*.mp3|OGG (*.oga;*.ogg)|*.ogg;*.oga;|WebM (*.webm)|*.webm|WAV (*.wav)|*.wav|Все файлы (*.*)|*.*|||"/>
+
+		<param type="line" id="LINE_snd_5" text="" def="" x="5" y="116" w="310" h="48"/>
+		<param type="line" id="LINE_snd_6" text="" def="" x="5" y="132" w="310" h="32"/>
+		<param type="label" id="lab_snd_success" text="Правильный ответ" def="" x="15" y="120" w="120" h="11"/>
+		<param type="select" id="sound_success" text="" def="none" x="15" y="140" w="113" h="13">
+			<items>
+				<item id="none" label="Без звука">
+					<events>
+						<event name="selendok" target="sound_success_file_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="success1" label="Стандартный 1">
+					<events>
+						<event name="selendok" target="sound_success_file_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="success2" label="Стандартный 2">
+					<events>
+						<event name="selendok" target="sound_success_file_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="success3" label="Стандартный 3">
+					<events>
+						<event name="selendok" target="sound_success_file_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="success4" label="Стандартный 4">
+					<events>
+						<event name="selendok" target="sound_success_file_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="custom" label="По выбору">
+					<events>
+						<event name="selendok" target="sound_success_file_custom" action="enable"/>
+					</events>
+				</item>
+			</items>
+		</param>
+		<param type="file" id="sound_success_file_custom" text="" def="" x="130" y="140" w="158" h="13" ext="Звуковые файлы (*.mp3;*.ogg;*.oga;*.webm;*.wav;*.swf)|*.mp3;*.ogg;*.oga;*.webm;*.wav;*.swf|MP3 (*.mp3)|*.mp3|OGG (*.oga;*.ogg)|*.ogg;*.oga;|WebM (*.webm)|*.webm|WAV (*.wav)|*.wav|Все файлы (*.*)|*.*|||"/>
+
+		<param type="line" id="LINE_snd_7" text="" def="" x="5" y="168" w="310" h="48"/>
+		<param type="line" id="LINE_snd_8" text="" def="" x="5" y="184" w="310" h="32"/>
+		<param type="label" id="lab_snd_failure" text="Неправильный ответ" def="" x="15" y="172" w="120" h="11"/>
+		<param type="select" id="sound_failure" text="" def="none" x="15" y="192" w="113" h="13">
+			<items>
+				<item id="none" label="Без звука">
+					<events>
+						<event name="selendok" target="sound_failure_file_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="failure1" label="Стандартный 1">
+					<events>
+						<event name="selendok" target="sound_failure_file_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="failure2" label="Стандартный 2">
+					<events>
+						<event name="selendok" target="sound_failure_file_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="failure3" label="Стандартный 3">
+					<events>
+						<event name="selendok" target="sound_failure_file_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="failure4" label="Стандартный 4">
+					<events>
+						<event name="selendok" target="sound_failure_file_custom" action="disable"/>
+					</events>
+				</item>
+				<item id="custom" label="По выбору">
+					<events>
+						<event name="selendok" target="sound_failure_file_custom" action="enable"/>
+					</events>
+				</item>
+			</items>
+		</param>
+		<param type="file" id="sound_failure_file_custom" text="" def="" x="130" y="192" w="158" h="13" ext="Звуковые файлы (*.mp3;*.ogg;*.oga;*.webm;*.wav;*.swf)|*.mp3;*.ogg;*.oga;*.webm;*.wav;*.swf|MP3 (*.mp3)|*.mp3|OGG (*.oga;*.ogg)|*.ogg;*.oga;|WebM (*.webm)|*.webm|WAV (*.wav)|*.wav|Все файлы (*.*)|*.*|||"/>
+	</page>
+	<page name="Отладка" w="320" h="304">
+		<param type="edit" id="hidden_msg_header" text="" def="Отладочное сообщение от объекта" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_errors" text="" def="Ошибки (могут привести к некорректной работе)" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_error_no_variants" text="" def="[Основные] Ни одного варианта не задано" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_error_q_var_idle_empty" text="" def="[Основные] Пустой ID объекта варианта {{0}} для вида Основной" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_error_q_var_selected_empty" text="" def="[Основные] Пустой ID объекта варианта {{0}} для вида Выбранный" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_error_q_var_correct_empty" text="" def="[Основные] Пустой ID объекта варианта {{0}} для вида Правильный, он используется при выбранном типе показа правильного ответа" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_error_q_var_error_empty" text="" def="[Основные] Пустой ID объекта варианта {{0}} для вида Ошибочный, он используется при выбранном типе показа правильного ответа" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_error_q_var_disabled_empty" text="" def="[Основные] Пустой ID объекта варианта {{0}} для вида Неактивный, он используется при выбранном типе показа при завершении" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_error_q_var_idle_not_exists" text="" def="[Основные] Объект варианта {{0}} для вида Основной не существует (ID {{1}})" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_error_q_var_selected_not_exists" text="" def="[Основные] Объект варианта {{0}} для вида Выбранный не существует (ID {{1}})" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_error_q_var_correct_not_exists" text="" def="[Основные] Объект варианта {{0}} для вида Правильный не существует (ID {{1}}), он используется при выбранном типе показа правильного ответа" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_error_q_var_error_not_exists" text="" def="[Основные] Объект варианта {{0}} для вида Ошибочный не существует (ID {{1}}), он используется при выбранном типе показа правильного ответа" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_error_q_var_disabled_not_exists" text="" def="[Основные] Объект варианта {{0}} для вида Неактивный не существует (ID {{1}}), он используется при выбранном типе показа при завершении" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_error_var_no_state_selected" text="" def="[Основные] У объекта варианта {{0}} (ID {{1}}) отсутствует состояние Выбранный (selected)" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_error_var_no_state_correct" text="" def="[Основные] У объекта варианта {{0}} (ID {{1}}) отсутствует состояние Правильный (correct), оно используется при выбранном типе показа правильного ответа" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_error_var_no_state_incorrect" text="" def="[Основные] У объекта варианта {{0}} (ID {{1}}) отсутствует состояние Ошибочный (incorrect), оно используется при выбранном типе показа правильного ответа" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_error_var_no_state_disabled" text="" def="[Основные] У объекта варианта {{0}} (ID {{1}}) отсутствует состояние Неактивный (disabled), оно используется при выбранном типе показа при завершении" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_error_btn_empty" text="" def="[Основные] Выбран способ принятия ответа по кнопке, но ID объекта кнопки пуст" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_error_btn_not_exists" text="" def="[Основные] Выбран способ принятия ответа по кнопке, но объект кнопки не существует (ID {{0}})" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_error_btn_hover_not_exists" text="" def="[Основные] Объект кнопки для вида При наведении не существует (ID {{0}})" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_error_btn_disabled_not_exists" text="" def="[Основные] Объект кнопки для вида Неактивный не существует (ID {{0}})" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_error_fb_correct_empty" text="" def="[Обратная связь] Не назначен объект обратной связи по правильному ответу" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_error_fb_correct_not_exists" text="" def="[Обратная связь] Объект обратной связи по правильному ответу не существует (ID: {{0}})" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_error_fb_incorrect_empty" text="" def="[Обратная связь] Не назначен объект обратной связи по неправильному ответу" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_error_fb_incorrect_not_exists" text="" def="[Обратная связь] Объект обратной связи по неправильному ответу не существует (ID: {{0}})" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_error_fb_incorrect_list_empty" text="" def="[Обратная связь] Список объектов обратной связи по неправильному ответу пуст" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_error_fb_incorrect_by_att_empty" text="" def="[Обратная связь] Не назначен объект обратной связи по неправильному ответу для попытки {{0}}" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_error_fb_incorrect_by_att_not_exists" text="" def="[Обратная связь] Объект обратной связи по неправильному ответу для попытки {{0}} не существует (ID {{1}})" x="10" y="-50" w="1" h="1"/>
+
+		<param type="edit" id="hidden_msg_warnings" text="" def="Предупреждения (некритические)" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_warning_qtext_empty" text="" def="[Основные] Включен показ текста вопроса, но ID объекта с текстом пуст" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_warning_qtext_not_exists" text="" def="[Основные] Включен показ текста вопроса, но объект с текстом не существует (ID {{0}})" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_warning_instr_empty" text="" def="[Основные] Включен показ инструкции, но ID объекта с инструкцией пуст" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_warning_instr_not_exists" text="" def="[Основные] Включен показ инструкции, но объект с текстом инструкции не существует (ID {{0}})" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_warning_q_var_idle_over_empty" text="" def="[Основные] Пустой ID объекта варианта {{0}} для вида Основной - при наведении" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_warning_q_var_selected_over_empty" text="" def="[Основные] Пустой ID объекта варианта {{0}} для вида Выбранный - при наведении" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_warning_q_var_idle_over_not_exists" text="" def="[Основные] Объект варианта {{0}} для вида Основной - при наведении не существует (ID {{1}})" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_warning_q_var_selected_over_not_exists" text="" def="[Основные] Объект варианта {{0}} для вида Выбранный - при наведении не существует (ID {{1}})" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_warning_var_no_state_highlighted" text="" def="[Основные] Состояние Основной - при наведении (highlighted) для объекта варианта {{0}} (ID: {{1}}) не существует" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_warning_var_no_state_selected_over" text="" def="[Основные] Состояние Выбранный - при наведении (selected_over) для объекта варианта {{0}} (ID: {{1}}) не существует" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_warning_no_btn_hover" text="" def="[Основные] Для кнопки принятия ответа не задан объект для вида При наведении" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_warning_no_btn_disabled" text="" def="[Основные] Для кнопки принятия ответа не задан объект для вида Неактивная, в неактивном состоянии кнопка будет спрятана" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_warning_no_btn_state_highlighted" text="" def="[Основные] Для кнопки принятия ответа не задано состояние При наведении (highlighted)" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_warning_no_btn_state_disabled" text="" def="[Основные] Для кнопки принятия ответа не задано состояние Неактивная (disabled), в неактивном состоянии кнопка будет спрятана" x="10" y="-50" w="1" h="1"/>
+		<param type="edit" id="hidden_msg_warning_no_objectives" text="" def="[Оценка] Не назначено ни одной цели для сохранения баллов" x="10" y="-50" w="1" h="1"/>
+
+		<param type="check" id="display_debug_msg" text="Показывать отладочные сообщения во встроенном браузере" def="yes" x="10" y="8" w="300" h="13"/>
+	</page>
+    <methods>
+		<method name="Constructor" label="_Constructor" access="private">
+			<params>
+			</params>
+			<body>
+			<![CDATA[function Constructor(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var sQuestionId = argobj.pid;
+				var sRestore = oCurObj.jxParams.find("restore_type").text();
+				oCurObj.data =
+				{
+					bCreated: false,
+					bAcceptBtnHasState: (oCurObj.jxParams.children("accept_object_based").text()!="yes"),
+					bCredit: (oCurObj.jxParams.children("q_scored").text()=="yes"),
+					bDisplayQText: (oCurObj.jxParams.children("display_question_text").text()=="yes"),
+					bDisplayInstruction: (oCurObj.jxParams.children("display_instruction").text()=="yes"),
+					bUseBtnState: (oCurObj.jxParams.children("accept_object_based").text()!="yes"),
+					bShowCorrect: (oCurObj.jxParams.children("q_showright").text()=="yes"),
+					bRestoreCorrects: (sRestore=="correct" || sRestore=="correct_fb"),
+					bRestoreFeedback: (sRestore=="user_fb" || sRestore=="correct_fb"),
+					bShowCorrect: (oCurObj.jxParams.children("q_showright").text()=="yes"),
+					bFeedback: (oCurObj.jxParams.children("q_fb_switch").text()=="yes"),
+					bFeedbackTimer: (oCurObj.jxParams.children("q_fb_timerswitch").text()=="yes"),
+					bFeedbackCorrect: (oCurObj.jxParams.children("q_display_fb_correct").text()=="yes"),
+					bFeedbackIncorrect: (oCurObj.jxParams.children("q_fb_incorrect_type").text()!="none"),
+					iHideFBIn: +oCurObj.jxParams.children("q_fb_timer").text(),
+					iFBTimer: 0,
+					iDisplayTimer: 0,
+					jxObjectives: oCurObj.jxParams.find("q_scoreboards > item"),
+					jxVars: oCurObj.jxParams.find("q_variants > item"),
+					nBaseScore: +oCurObj.jxParams.children("q_weight").text(),
+					sFeedbackIncorrect: oCurObj.jxParams.children("q_fb_incorrect_type").text(),
+					sMode: "init",
+					sType: oCurObj.jxParams.children("question_type").text(),
+					sScoringType: oCurObj.jxParams.children("q_scoring_type").text(),
+					sShowCorrectType: oCurObj.jxParams.children("q_showright_type").text(),
+					sSoundSuccess: oCurObj.jxParams.children("sound_success").text(),
+					sSoundFailure: oCurObj.jxParams.children("sound_failure").text(),
+					sSoundClick: oCurObj.jxParams.children("sound_click").text(),
+					sSoundOver: oCurObj.jxParams.children("sound_over").text(),
+					sQTextId: oCurObj.jxParams.children("q_text_obj").text(),
+					sInstrId: oCurObj.jxParams.children("q_instruction_obj").text(),
+					sOnFinish: oCurObj.jxParams.children("q_on_finish").text(),
+					sSubmitType: oCurObj.jxParams.children("q_submit_type").text()
+				};
+				var jAudioContainer = jCurObjDiv.find(".cl-audio-files-list");
+				if(oCurObj.data.sSoundClick!="none")
+				{
+					oCurObj.data.jAudioClick = CL.Sound.Append({ oContainer: jAudioContainer, sId: argobj.pid + "_AUDIO1", sType: oCurObj.data.sSoundClick, sFile: oCurObj.jxParams.children("sound_click_file_custom").text() });
+				}
+				if(oCurObj.data.sSoundOver!="none")
+				{
+					oCurObj.data.jAudioOver = CL.Sound.Append({ oContainer: jAudioContainer, sId: argobj.pid + "_AUDIO2", sType: oCurObj.data.sSoundOver, sFile: oCurObj.jxParams.children("sound_over_file_custom").text() });
+				}
+				if(oCurObj.data.sSoundSuccess!="none")
+				{
+					oCurObj.data.jAudioSuccess = CL.Sound.Append({ oContainer: jAudioContainer, sId: argobj.pid + "_AUDIO3", sType: oCurObj.data.sSoundSuccess, sFile: oCurObj.jxParams.children("sound_success_file_custom").text() });
+				}
+				if(oCurObj.data.sSoundFailure!="none")
+				{
+					oCurObj.data.jAudioFailure = CL.Sound.Append({ oContainer: jAudioContainer, sId: argobj.pid + "_AUDIO4", sType: oCurObj.data.sSoundFailure, sFile: oCurObj.jxParams.children("sound_failure_file_custom").text() });
+				} 
+				if(CLZ.oStore[sQuestionId]!=null)
+				{
+					switch(CLZ.oStore[sQuestionId].u)
+					{
+						case "c":
+						{
+							switch(oCurObj.jxParams.children("q_replay").text())
+							{
+								case "none_alert":
+								{
+									alert(oCurObj.jxParams.children("q_browse_alert").text());
+									// no break
+								}
+								case "none_silent":
+								{
+									oCurObj.data.sMode = "browse";
+									oCurObj.data.bNoMoreAttempts = true;
+									break;
+								}
+								case "allow_alert":
+								{
+									alert(oCurObj.jxParams.children("q_secondrun_alert").text());
+									// no break
+								}
+								case "allow_silent":
+								{
+									CLZ.oStore[sQuestionId] = {};
+									CLZ.oStore[sQuestionId] = null;
+									if(oCurObj.data.bCredit)
+									{
+										for(var j=0; j<oCurObj.data.jxObjectives.length; j++)
+										{
+											CL.SCO.RemoveScoreFromObjective({ sId: $(oCurObj.data.jxObjectives[j]).children("q_board").text(), sSrcId: argobj.pid });
+										}
+									}
+									break;
+								}
+								case "allow_confirm":
+								{
+									if(confirm(oCurObj.jxParams.children("q_secondrun_confirm").text()))
+									{
+										CLZ.oStore[sQuestionId] = {};
+										CLZ.oStore[sQuestionId] = null;
+										if(oCurObj.data.bCredit)
+										{
+											for(var j=0; j<oCurObj.data.jxObjectives.length; j++)
+											{
+												CL.SCO.RemoveScoreFromObjective({ sId: $(oCurObj.data.jxObjectives[j]).children("q_board").text(), sSrcId: argobj.pid });
+											}
+										}
+									}
+									else
+									{
+										oCurObj.data.sMode = "browse";
+										oCurObj.data.bNoMoreAttempts = true;
+									}
+									break;
+								}
+							}
+							break;
+						}
+						case "i":
+						{
+							switch(oCurObj.jxParams.children("q_continue").text())
+							{
+								case "restart_alert":
+								{
+									alert(oCurObj.jxParams.children("q_restart_alert").text());
+									// no break
+								}
+								case "restart_silent":
+								{
+									CLZ.oStore[sQuestionId] = {};
+									CLZ.oStore[sQuestionId] = null;
+									if(oCurObj.data.bCredit)
+									{
+										for(var j=0; j<oCurObj.data.jxObjectives.length; j++)
+										{
+											CL.SCO.RemoveScoreFromObjective({ sId: $(oCurObj.data.jxObjectives[j]).children("q_board").text(), sSrcId: argobj.pid });
+										}
+									}
+									break;
+								}
+								case "restore_alert":
+								{
+									alert(oCurObj.jxParams.children("q_restore_alert").text());
+									// no break
+								}
+								case "restore_silent":
+								{
+									oCurObj.data.sMode = "continue";
+									break;
+								}
+								case "restore_confirm":
+								{
+									if(confirm(oCurObj.jxParams.children("q_restore_confirm").text()))
+									{
+										oCurObj.data.sMode = "continue";
+									}
+									else
+									{
+										CLZ.oStore[sQuestionId] = {};
+										CLZ.oStore[sQuestionId] = null;
+										if(oCurObj.data.bCredit)
+										{
+											for(var j=0; j<oCurObj.data.jxObjectives.length; j++)
+											{
+												CL.SCO.RemoveScoreFromObjective({ sId: $(oCurObj.data.jxObjectives[j]).children("q_board").text(), sSrcId: argobj.pid });
+											}
+										}
+									}
+									break;
+								}
+							}
+							break;
+						}
+						default:
+						{
+							CLZ.oStore[sQuestionId] = {};
+							CLZ.oStore[sQuestionId] = null;
+							if(oCurObj.data.bCredit)
+							{
+								for(var j=0; j<oCurObj.data.jxObjectives.length; j++)
+								{
+									CL.SCO.RemoveScoreFromObjective({ sId: $(oCurObj.data.jxObjectives[j]).children("q_board").text(), sSrcId: argobj.pid });
+								}
+							}
+							break;
+						}
+					}
+				}
+				switch(oCurObj.data.sMode)
+				{
+					case "init":
+					{
+						// create storage
+						CLZ.oStore[sQuestionId] =
+						{
+							A:
+							[
+								{
+									s: 0,
+									d: 0,
+									u: "i"
+								}
+							],
+							O: [],
+							P: [],
+							R: [],
+							s: (new Date()).valueOf(),
+							y: CLD.CLTypeToAbbr[oCurObj.data.sType],
+							u: "i"
+						};
+						if(oCurObj.data.bCredit)
+						{
+							CLZ.oStore[sQuestionId].J = [];
+							oCurObj.data.jxObjectives.each(function () { CLZ.oStore[sQuestionId].J.push( $(this).children("q_board").text() ); });
+						}
+						switch(oCurObj.data.sType)
+						{
+							case "choice":
+							{
+								if(oCurObj.data.sScoringType=="plain" || oCurObj.data.sScoringType=="regressive" || oCurObj.data.sScoringType=="byobj")
+								{
+									for(var i=1; i<=oCurObj.data.jxVars.length; i++)
+									{
+										if($(oCurObj.data.jxVars[i-1]).children("q_right").text()=="yes")
+										{
+											CLZ.oStore[sQuestionId].P.push(i);
+											break;
+										}
+									}
+								}
+								var jxVar;
+								for(var i=1; i<=oCurObj.data.jxVars.length; i++)
+								{
+									CLZ.oStore[sQuestionId].O.push(i);
+									/*jxVar = $(oCurObj.data.jxVars[i-1]);
+									if(jxVar.children("var_object_based").text!="yes")
+									{
+										// difficult to change button dependance type from question type, will try later 
+									}*/
+								}
+								var iMaxAttepmts = 1;
+								if(oCurObj.data.sScoringType!="byvar")
+								{
+									if(oCurObj.jxParams.children("q_attempts_type").text()=="auto")
+									{
+										iMaxAttepmts = oCurObj.data.jxVars.length - 1;
+									}
+									else
+									{
+										iMaxAttepmts = +oCurObj.jxParams.children("q_attempts").text();
+									}
+								}
+								for(var i=1; i<iMaxAttepmts; i++)
+								{
+									CLZ.oStore[sQuestionId].A.push({ u: "n" });
+								}
+								break;
+							}
+							case "select":
+							{
+								if(oCurObj.data.sScoringType=="plain" || oCurObj.data.sScoringType=="regressive" || oCurObj.data.sScoringType=="byobj")
+								{
+									for(var i=1; i<=oCurObj.data.jxVars.length; i++)
+									{
+										if($(oCurObj.data.jxVars[i-1]).children("q_right").text()=="yes")
+										{
+											CLZ.oStore[sQuestionId].P.push(i);
+										}
+									}
+								}					
+								for(var i=1; i<=oCurObj.data.jxVars.length; i++)
+								{
+									CLZ.oStore[sQuestionId].O.push(i);
+								}
+								var iMaxAttepmts = 1;
+								if(oCurObj.data.sScoringType!="byvar")
+								{
+									if(oCurObj.jxParams.children("q_attempts_type").text()=="auto")
+									{
+										iMaxAttepmts = oCurObj.data.jxVars.length - 1;
+									}
+									else
+									{
+										iMaxAttepmts = +oCurObj.jxParams.children("q_attempts").text();
+									}
+								}
+								for(var i=1; i<iMaxAttepmts; i++)
+								{
+									CLZ.oStore[sQuestionId].A.push({ u: "n" });
+								}
+								break;
+							}
+						}
+						break;
+					}
+					case "browse":
+					case "continue":
+					{
+						break;
+					}
+				}
+				oCurObj.data.bCreated = true;
+				CL.Event.Subscribe({ aList: [ { sId: argobj.pid, sEvtName: "EVENT_OBJECT_SHOW" } ] });
+				return true;	
+			}]]>
+			</body>
+		</method>
+		<method name="Validate" label="_Validate" access="private">
+            <params>
+            </params>
+            <body>
+			<![CDATA[function Validate(argobj)
+			{
+				if(navigator.userAgent.toLowerCase().indexOf("courselab")==-1) return false;
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj==null) return false;
+				var aWarnings = [];
+				var aErrors = [];
+				if(oCurObj.data.bDisplayQText)
+				{
+					if(oCurObj.data.sQTextId=="")
+					{
+						aWarnings.push({ sId: "qtext_empty" });
+					}
+					else if(CLO[oCurObj.data.sQTextId]==null && CL.jxGroups.find("group[id='" + oCurObj.data.sQTextId + "']").length==0)
+					{
+						aWarnings.push({ sId: "qtext_not_exist", aSub: [ oCurObj.data.sQTextId ] });
+					}
+				}
+				if(oCurObj.data.bDisplayInstruction)
+				{
+					if(oCurObj.data.sInstrId=="")
+					{
+						aWarnings.push({ sId: "instr_empty" });
+					}
+					else if(CLO[oCurObj.data.sInstrId]==null && CL.jxGroups.find("group[id='" + oCurObj.data.sInstrId + "']").length==0)
+					{
+						aWarnings.push({ sId: "instr_not_exist", aSub: [ oCurObj.data.sInstrId ] });
+					}
+				}			
+				var jxVar;
+				var sId;
+				var aParams = [ "q_var_idle", "q_var_idle_over", "q_var_selected", "q_var_correct", "q_var_error" ];
+				if(oCurObj.data.sType=="select") aParams.push("q_var_selected_over");
+				if(oCurObj.data.sOnFinish=="disabled") aParams.push("q_var_disabled");
+				var sCAType = oCurObj.jxParams.children("q_showright_type").text();
+				if(oCurObj.data.jxVars.length==0)
+				{
+					aErrors.push({ sId: "no_variants" });
+				}
+				for(var i=0; i<oCurObj.data.jxVars.length; i++)
+				{
+					jxVar = $(oCurObj.data.jxVars[i]);
+					if(jxVar.children("var_object_based").text()=="yes")
+					{
+						for(var j=0; j<aParams.length; j++)
+						{
+							sId = jxVar.children(aParams[j]).text();
+							if(sId=="")
+							{
+								if(aParams[j]=="q_var_idle" || aParams[j]=="q_var_selected")
+								{
+									aErrors.push({ sId: aParams[j] + "_empty", aSub: [ i+1 ] });
+								}
+								else
+								{
+									switch(aParams[j])
+									{
+										case "q_var_idle_over":
+										case "q_var_selected_over":
+										{
+											aWarnings.push({ sId: aParams[j] + "_empty", aSub: [ i+1 ] });
+											break;
+										}
+										case "q_var_disabled":
+										{
+											if(oCurObj.data.sOnFinish=="disabled")
+											{
+												aErrors.push({ sId: aParams[j] + "_empty", aSub: [ i+1 ] });
+											}
+											break;
+										}
+										case "q_var_correct":
+										{
+											if(oCurObj.jxParams.children("q_showright").text()=="yes" && sCAType!="incorrect_selected")
+											{
+												aErrors.push({ sId: aParams[j] + "_empty", aSub: [ i+1 ] });
+											}
+											break;
+										}
+										case "q_var_error":
+										{
+											if(oCurObj.jxParams.children("q_showright").text()=="yes" && sCAType!="correct_selected")
+											{
+												aErrors.push({ sId: aParams[j] + "_empty", aSub: [ i+1 ] });
+											}
+											break;
+										}
+									}
+								}
+							}
+							else if(CLO[sId]==null)
+							{
+								if(aParams[j]=="q_var_idle" || aParams[j]=="q_var_selected")
+								{
+									aErrors.push({ sId: aParams[j] + "_not_exists", aSub: [ i+1, sId ] });
+								}
+								else
+								{
+									switch(aParams[j])
+									{
+										case "q_var_idle_over":
+										case "q_var_selected_over":
+										{
+											aWarnings.push({ sId: aParams[j] + "_not_exists", aSub: [ i+1, sId ] });
+											break;
+										}
+										case "q_var_disabled":
+										{
+											if(oCurObj.data.sOnFinish=="disabled")
+											{
+												aErrors.push({ sId: aParams[j] + "_not_exists", aSub: [ i+1, sId ] });
+											}
+											break;
+										}
+										case "q_var_correct":
+										{
+											if(oCurObj.jxParams.children("q_showright").text()=="yes" && sCAType!="incorrect_selected")
+											{
+												aErrors.push({ sId: aParams[j] + "_not_exists", aSub: [ i+1, sId ] });
+											}
+											break;
+										}
+										case "q_var_error":
+										{
+											if(oCurObj.jxParams.children("q_showright").text()=="yes" && sCAType!="correct_selected")
+											{
+												aErrors.push({ sId: aParams[j] + "_not_exists", aSub: [ i+1, sId ] });
+											}
+											break;
+										}
+									}
+								}
+							}
+						}
+					}
+					else
+					{
+						sId = jxVar.children("q_var_idle").text();
+						if(sId=="")
+						{
+							aErrors.push({ sId: "q_var_idle_empty", aSub: [ i+1 ] });
+						}
+						else if(CLO[sId]==null)
+						{
+							aErrors.push({ sId: "q_var_idle_not_exists", aSub: [ i+1, sId ] });
+						}
+						else
+						{
+							for(var j=0; j<aParams.length; j++)
+							{
+								switch(aParams[j])
+								{
+									case "q_var_selected":
+									{
+										if(CLO[sId].oStates["selected"]==null)
+										{
+											aErrors.push({ sId: "var_no_state_selected", aSub: [ i+1, sId ] });
+										}
+										break;
+									}
+									case "q_var_idle_over":
+									{
+										if(CLO[sId].oStates["highlighted"]==null)
+										{
+											aWarnings.push({ sId: "var_no_state_highlighted", aSub: [ i+1, sId ] });
+										}
+										break;
+									}
+									case "q_var_selected_over":
+									{
+										if(CLO[sId].oStates["selected_over"]==null)
+										{
+											aWarnings.push({ sId: "var_no_state_selected_over", aSub: [ i+1, sId ] });
+										}
+										break;
+									}
+									case "q_var_disabled":
+									{
+										if(oCurObj.data.sOnFinish=="disabled")
+										{
+											if(CLO[sId].oStates["disabled"]==null)
+											{
+												aErrors.push({ sId: "var_no_state_disabled", aSub: [ i+1, sId ] });
+											}
+										}
+										break;
+									}
+									case "q_var_correct":
+									{
+										if(oCurObj.jxParams.children("q_showright").text()=="yes" && sCAType!="incorrect_selected")
+										{
+											if(CLO[sId].oStates["correct"]==null)
+											{
+												aErrors.push({ sId: "var_no_state_correct", aSub: [ i+1, sId ] });
+											}
+										}
+										break;
+									}
+									case "q_var_error":
+									{
+										if(oCurObj.jxParams.children("q_showright").text()=="yes" && sCAType!="correct_selected")
+										{
+											if(CLO[sId].oStates["incorrect"]==null)
+											{
+												aErrors.push({ sId: "var_no_state_incorrect", aSub: [ i+1, sId ] });
+											}
+										}
+										break;
+									}
+								}
+							}
+						}
+					}
+				}
+				if(oCurObj.data.sType=="select" || oCurObj.data.sSubmitType=="button")
+				{
+					var sBtnIdle = oCurObj.jxParams.children("q_submit_idle").text();
+					if(sBtnIdle!="")
+					{
+						if(CLO[sBtnIdle]==null)
+						{
+							aErrors.push({ sId: "btn_not_exists", aSub: [ sBtnIdle ] });
+						}
+						else
+						{
+							if(!oCurObj.data.bAcceptBtnHasState)
+							{
+								var sBtnOver = oCurObj.jxParams.children("q_submit_over").text();
+								var sBtnDisabled = oCurObj.jxParams.children("q_submit_disabled").text();
+								if(sBtnOver!="")
+								{
+									if(CLO[sBtnOver]==null)
+									{
+										aErrors.push({ sId: "btn_hover_not_exists", aSub: [ sBtnOver ] });
+									}
+								}
+								else
+								{
+									aWarnings.push({ sId: "no_btn_hover" });
+								}
+								if(sBtnDisabled!="")
+								{
+									if(CLO[sBtnDisabled]==null)
+									{
+										aErrors.push({ sId: "btn_disabled_not_exists", aSub: [ sBtnDisabled ] });
+									}
+								}
+								else
+								{
+									aWarnings.push({ sId: "no_btn_disabled" });
+								}
+							}
+							else
+							{
+								if(CLO[sBtnIdle].oStates["highlighted"]==null)
+								{
+									aWarnings.push({ sId: "no_btn_state_highlighted" });
+								}
+								if(CLO[sBtnIdle].oStates["disabled"]==null)
+								{
+									aWarnings.push({ sId: "no_btn_state_disabled" });
+								}
+							}							
+						}
+					}
+					else
+					{
+						aErrors.push({ sId: "btn_empty" });
+					}
+				}
+				if(oCurObj.jxParams.children("q_scored").text()=="yes")
+				{
+					if(oCurObj.jxParams.find("q_scoreboards:first > item > q_board").length==0)
+					{
+						aWarnings.push({ sId: "no_objectives" });
+					}
+				}
+				if(oCurObj.jxParams.children("q_fb_switch").text()=="yes")
+				{
+					if(oCurObj.jxParams.children("q_display_fb_correct").text()=="yes")
+					{
+						sId = oCurObj.jxParams.children("q_fb_correct").text();
+						if(sId=="")
+						{
+							aErrors.push({ sId: "fb_correct_empty", aSub: [ i+1, j+1 ] });
+						}
+						else if(CLO[sId]==null && CL.jxGroups.find("group[id='" + sId + "']").length==0)
+						{
+							aErrors.push({ sId: "fb_correct_not_exists", aSub: [ sId ] });
+						}
+					}
+					switch(oCurObj.jxParams.children("q_fb_incorrect_type").text())
+					{
+						case "common":
+						{
+							sId = oCurObj.jxParams.children("q_fb_incorrect_common").text();
+							if(sId=="")
+							{
+								aErrors.push({ sId: "fb_incorrect_empty", aSub: [ i+1, j+1 ] });
+							}
+							else if(CLO[sId]==null && CL.jxGroups.find("group[id='" + sId + "']").length==0)
+							{
+								aErrors.push({ sId: "fb_incorrect_not_exists", aSub: [ sId ] });
+							}
+							break;
+						}
+						case "byatt":
+						{
+							var jxFBItems = jxVar.find("q_fb_incorrect_by_attempt:first > item");
+							if(jxFBItems.length==0)
+							{
+								aErrors.push({ sId: "fb_incorrect_list_empty", aSub: [ sId ] });
+							}
+							else
+							{
+								for(var j=0; j<jxFBItems.length; j++)
+								{
+									sId = $(jxFBItems[j]).children("q_fb_incorrect_by_att").text();
+									if(sId=="")
+									{
+										aErrors.push({ sId: "fb_incorrect_by_att_empty", aSub: [ j+1 ] });
+									}
+									else if(CLO[sId]==null && CL.jxGroups.find("group[id='" + sId + "']").length==0)
+									{
+										aErrors.push({ sId: "fb_incorrect_by_att_not_exists", aSub: [ j+1, sId ] });
+									}
+								}
+							}
+							break;
+						}
+					}
+				}
+				if(aErrors.length!=0 || aWarnings.length!=0)
+				{
+					var jMsg = $(document.createElement("div")).addClass("cl-object-debug-msg").appendTo(CL.oBoard);
+					var sTxt = "<h3>" + oCurObj.jxParams.children("hidden_msg_header").text() + " " + oCurObj.jxParams.children("hidden.object").text() + " " + argobj.pid + "</h3>";
+					var sTmp;
+					var aParts;
+					if(aErrors.length!=0)
+					{
+						sTxt += "<h4>" + oCurObj.jxParams.children("hidden_msg_errors").text() + "</h4><ul>";
+						for(var i=0; i<aErrors.length; i++)
+						{
+							sTmp = oCurObj.jxParams.children("hidden_msg_error_" + aErrors[i].sId).text();
+							if(sTmp!="")
+							{
+								if(aErrors[i].aSub!=null)
+								{
+									for(var j=0; j<aErrors[i].aSub.length; j++)
+									{
+										aParts = sTmp.split("{{" + j + "}}");
+										sTmp = aParts.join(aErrors[i].aSub[j]);
+									}
+								}
+								sTxt += "<li>" + sTmp + "</li>";
+							}
+						}
+						sTxt += "</ul>";
+					}
+					if(aWarnings.length!=0)
+					{
+						sTxt += "<h4>" + oCurObj.jxParams.children("hidden_msg_warnings").text() + "</h4><ul>";
+						for(var i=0; i<aWarnings.length; i++)
+						{ 
+							sTmp = oCurObj.jxParams.children("hidden_msg_warning_" + aWarnings[i].sId).text();
+							if(sTmp!="")
+							{
+								if(aWarnings[i].aSub!=null)
+								{
+									for(var j=0; j<aWarnings[i].aSub.length; j++)
+									{
+										aParts = sTmp.split("{{" + j + "}}");
+										sTmp = aParts.join(aWarnings[i].aSub[j]);
+									}
+								}
+								sTxt += "<li>" + sTmp + "</li>";
+							}
+						}
+						sTxt += "</ul>";
+					}
+					jMsg.html(sTxt);
+					$(document.createElement("div")).addClass("cl-object-debug-msg-close").html("&#215;").on("click", function () { jMsg.hide(); }).appendTo(jMsg);
+				}
+				return true;
+			}]]>
+			</body>
+		</method>
+		<method name="Cleanup" label="_Cleanup" access="private">
+            <params>
+            </params>
+            <body>
+			<![CDATA[function Cleanup(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj==null) return false; 
+				if(oCurObj.data.sSubmitType=="button")
+				{
+					var sBtnIdle = oCurObj.jxParams.children("q_submit_idle").text();
+					if(sBtnIdle!="")
+					{
+						if(CLO[sBtnIdle]!=null)
+						{
+							if(oCurObj.data.bAcceptBtnHasState)
+							{
+								if(CLO[sBtnIdle].oStates["selected"]!=null)
+								{
+									CLO[sBtnIdle].oStates["selected"].div.remove();
+									delete CLO[sBtnIdle].oStates["selected"];
+								}
+							}
+						}
+					}
+				}
+				return true;
+			}]]>
+			</body>
+		</method>
+		<method name="HandleEvt" label="_HandleEvt" access="private">
+            <params>
+            </params>
+            <body>
+			<![CDATA[function HandleEvt(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj==null) return false; 
+				switch(argobj.evt)
+				{
+					case "EVENT_OBJECT_SHOW":
+					{
+						if(!oCurObj.data.bCreated) return false;
+						oCurObj.CallMethod({ sMethod: "Cleanup" });
+						if(oCurObj.jxParams.children("display_debug_msg").text()=="yes")
+						{
+							oCurObj.CallMethod({ sMethod: "Validate" });
+						}
+						oCurObj.CallMethod({ sMethod: "Display" });
+						break;
+					}
+				}
+				return true;
+			}]]>
+			</body>
+		</method>
+		<method name="ListenEvt" label="_ListenEvt" access="private">
+            <params>
+            </params>
+            <body>
+			<![CDATA[function ListenEvt(argobj)
+			{
+				if(argobj.sSourceId==null || argobj.sEvtName==null) return false;
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj==null) return false;
+				switch(argobj.sEvtName)
+				{
+					case "onChangeStableState":
+					{ 
+						var oSrcObj = CLO[argobj.sSourceId];
+                        if(oSrcObj==null) return false;
+						if(oSrcObj.sPreviousStableState!="DISABLED")
+						{ 
+							if(oCurObj.data.sType=="select" || (oCurObj.data.sType=="choice" && oSrcObj.sPreviousStableState!="SELECTED"))
+							{
+								oCurObj.CallMethod({ sMethod: "HandleClick", oMethodArgs: { elem: oSrcObj.div } });
+							}
+						}
+						break;
+					}
+					case "onChangeState":
+					{ 
+						var oSrcObj = CLO[argobj.sSourceId];
+						if(oSrcObj==null) return false;
+						if(oSrcObj.sCurrentState==oSrcObj.sPreviousState) return false;
+						if(oSrcObj.sType=="basic_shape")
+						{
+							if(oSrcObj.data.bVQBtn==true)
+							{
+								switch(oSrcObj.sPreviousState)
+								{
+									case "default":
+									{
+										switch(oSrcObj.sCurrentState)
+										{
+											case "highlighted":
+											case "disabled":
+											{
+												break;
+											}
+											case "active":
+											case "selected":
+											{
+												oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { elem: oSrcObj.div } });
+												break;
+											}
+										}
+										break;
+									}
+									case "highlighted":
+									{
+										switch(oSrcObj.sCurrentState)
+										{
+											case "default":
+											case "disabled":
+											{
+												break;
+											}
+											case "active":
+											case "selected":
+											{
+												oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { elem: oSrcObj.div } });
+												break;
+											}
+										}
+										break;
+									}
+									case "selected":
+									case "active":
+									case "disabled":
+									{
+										break;
+									}
+								}
+							}
+						}
+						break;
+					}
+				}
+				return true;
+			}]]>
+			</body>
+		</method>
+		<method name="Ready" label="_Ready" access="private">
+            <params>
+            </params>
+            <body>
+			<![CDATA[function Ready(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj.data.bDisplayQText && oCurObj.data.sQTextId!="")
+				{
+					if(CLO[oCurObj.data.sQTextId]==null) return false;
+				}
+				if(oCurObj.data.bDisplayInstruction && oCurObj.data.sInstrId!="")
+				{
+					if(CLO[oCurObj.data.sInstrId]==null) return false;
+				}
+				var jxVar;
+				var sId;
+				var aParams = [ "q_var_idle", "q_var_idle_over", "q_var_selected", "q_var_correct", "q_var_error" ];
+				if(oCurObj.data.sType=="select") aParams.push("q_var_selected_over");
+				if(oCurObj.data.sOnFinish=="disabled") aParams.push("q_var_disabled");
+				for(var i=0; i<oCurObj.data.jxVars.length; i++)
+				{
+					jxVar = $(oCurObj.data.jxVars[i]);
+					if(jxVar.children("var_object_based").text()=="yes")
+					{
+						for(var j=0; j<aParams.length; j++)
+						{
+							sId = jxVar.children(aParams[j]).text();
+							if(sId!="")
+							{
+								if(CLO[sId]==null) return false;
+							}
+						}
+					}
+					else
+					{
+						sId = jxVar.children("q_var_idle").text();
+						if(sId!="")
+						{
+							if(CLO[sId]==null) return false;
+						}
+					}
+				}
+				// no need to check feedback
+				if(oCurObj.data.sType=="select" || oCurObj.data.sSubmitType=="button")
+				{
+					var sBtnIdle = oCurObj.jxParams.children("q_submit_idle").text();
+					if(sBtnIdle!="")
+					{
+						if(CLO[sBtnIdle]==null) return false;
+					}
+					if(oCurObj.jxParams.children("accept_object_based").text()=="yes")
+					{
+						var sBtnOver = oCurObj.jxParams.children("q_submit_over").text();
+						var sBtnDisabled = oCurObj.jxParams.children("q_submit_disabled").text();
+						if(sBtnOver!="")
+						{
+							if(CLO[sBtnOver]==null) return false;
+						}
+						if(sBtnDisabled!="")
+						{
+							if(CLO[sBtnDisabled]==null) return false;
+						}
+					}
+				}
+				return true;	
+			}]]>
+			</body>
+		</method>
+		<method name="ResetDisplay" label="_ResetDisplay" access="private">
+            <params>
+            </params>
+            <body>
+			<![CDATA[function ResetDisplay(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj==null) return false;
+				var sQuestionId = argobj.pid;
+				var sDisplay;
+				if(oCurObj.data.bDisplayQText)
+				{
+					if(oCurObj.data.sQTextId!=null && oCurObj.data.sQTextId!="")
+					{
+						if(CLO[oCurObj.data.sQTextId]!=null)
+						{
+							CLO[oCurObj.data.sQTextId].display = "slide";
+						}
+					}
+				}
+				if(oCurObj.data.bDisplayInstruction)
+				{
+					if(oCurObj.data.sInstrId!=null && oCurObj.data.sInstrId!="")
+					{
+						if(CLO[oCurObj.data.sInstrId]!=null)
+						{
+							CLO[oCurObj.data.sInstrId].display = "slide";
+						}
+					}
+				}
+				var sVarId;
+				var jxVar;
+				for(var i=1; i<=oCurObj.data.jxVars.length; i++)
+				{
+					jxVar = $(oCurObj.data.jxVars[i-1]);
+					sVarId = jxVar.children("q_var_idle").text();
+					if(sVarId==null || sVarId=="") continue;
+					if(CLO[sVarId]==null) continue;
+					CLO[sVarId].display = "slide";
+					if(jxVar.children("var_object_based").text()=="yes")
+					{
+						sVarId = jxVar.children("q_var_idle_over").text();
+						if(sVarId!=null && sVarId!="")
+						{
+							if(CLO[sVarId]!=null)
+							{
+								CLO[sVarId].display = "slide";
+							}
+						}
+						sVarId = jxVar.children("q_var_selected").text();
+						if(sVarId!=null && sVarId!="")
+						{
+							if(CLO[sVarId]!=null)
+							{
+								CLO[sVarId].display = "slide";
+							}
+						}
+						sVarId = jxVar.children("q_var_selected_over").text();
+						if(sVarId!=null && sVarId!="")
+						{
+							if(CLO[sVarId]!=null)
+							{
+								CLO[sVarId].display = "slide";
+							}
+						}
+						sVarId = jxVar.children("q_var_disabled").text();
+						if(sVarId!=null && sVarId!="")
+						{
+							if(CLO[sVarId]!=null)
+							{
+								CLO[sVarId].display = "slide";
+							}
+						}
+						sVarId = jxVar.children("q_var_correct").text();
+						if(sVarId!=null && sVarId!="")
+						{
+							if(CLO[sVarId]!=null)
+							{
+								CLO[sVarId].display = "slide";
+							}
+						}
+						sVarId = jxVar.children("q_var_error").text();
+						if(sVarId!=null && sVarId!="")
+						{
+							if(CLO[sVarId]!=null)
+							{
+								CLO[sVarId].display = "slide";
+							}
+						}
+					}
+				}
+				var sBtnId;
+				if(oCurObj.data.sType=="select" || oCurObj.data.sSubmitType=="button")
+				{
+					sBtnId = oCurObj.jxParams.children("q_submit_idle").text();
+					if(sBtnId!=null && sBtnId!="")
+					{
+						if(CLO[sBtnId]!=null)
+						{
+							CLO[sBtnId].display = "slide";
+						}
+					}
+					if(oCurObj.jxParams.children("accept_object_based").text()=="yes")
+					{
+						sBtnId = oCurObj.jxParams.children("q_submit_over").text();
+						if(sBtnId!=null && sBtnId!="")
+						{
+							if(CLO[sBtnId]!=null)
+							{
+								CLO[sBtnId].display = "slide";
+							}
+						}
+						sBtnId = oCurObj.jxParams.children("q_submit_disabled").text();
+						if(sBtnId!=null && sBtnId!="")
+						{
+							if(CLO[sBtnId]!=null)
+							{
+								CLO[sBtnId].display = "slide";
+							}
+						}
+					}
+				}
+				if(oCurObj.data.bFeedback)
+				{
+					sVarId = oCurObj.jxParams.children("q_fb_correct").text();
+					if(sVarId!=null && sVarId!="")
+					{
+						var jxGroup = CL.jxGroups.find("group[id='" + sVarId + "']");
+						var aTargets = [];
+						if(jxGroup.length!=0)
+						{
+							jxGroup.children("ref").each(function () { aTargets.push($(this).attr("id")) });
+						}
+						else
+						{
+							aTargets.push(sVarId);
+						}
+						for(var i=0; i<aTargets.length; i++)
+						{
+							if(CLO[aTargets[i]]!=null)
+							{
+								CLO[aTargets[i]].display = "slide";
+							}
+						}
+					}
+					sVarId = oCurObj.jxParams.children("q_fb_incorrect_common").text();
+					if(sVarId!=null && sVarId!="")
+					{
+						var jxGroup = CL.jxGroups.find("group[id='" + sVarId + "']");
+						var aTargets = [];
+						if(jxGroup.length!=0)
+						{
+							jxGroup.children("ref").each(function () { aTargets.push($(this).attr("id")) });
+						}
+						else
+						{
+							aTargets.push(sVarId);
+						}
+						for(var i=0; i<aTargets.length; i++)
+						{
+							if(CLO[aTargets[i]]!=null)
+							{
+								CLO[aTargets[i]].display = "slide";
+							}
+						}
+					}
+					oCurObj.jxParams.find("q_fb_incorrect_by_attempt > item").each(function ()
+					{
+						var sFBId = $(this).children("q_fb_incorrect_by_att").text();
+						if(sFBId!=null && sFBId!="")
+						{
+							var jxGroup = CL.jxGroups.find("group[id='" + sFBId + "']");
+							var aTargets = [];
+							if(jxGroup.length!=0)
+							{
+								jxGroup.children("ref").each(function () { aTargets.push($(this).attr("id")) });
+							}
+							else
+							{
+								aTargets.push(sFBId);
+							}
+							for(var i=0; i<aTargets.length; i++)
+							{
+								if(CLO[aTargets[i]]!=null)
+								{
+									CLO[aTargets[i]].display = "slide";
+								}
+							}
+						}
+					});
+				}
+				return true;
+			}]]>
+			</body>
+		</method>
+		<method name="Display" label="_Display" access="private">
+            <params>
+            </params>
+            <body>
+			<![CDATA[function Display(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj==null) return false;
+				var sQuestionId = argobj.pid;
+				if(!oCurObj.CallMethod({ sMethod: "Ready" }))
+				{ // wait all acting objects to be ready
+					oCurObj.data.iDisplayTimer = setTimeout(function () { oCurObj.CallMethod({ sMethod: "Display" }); }, 100);
+					return false;
+				}
+				oCurObj.FireEvent({ sName: "onReady" });
+				if(oCurObj.display=="slide")
+				{
+					oCurObj.CallMethod({ sMethod: "ResetDisplay" });
+				}
+				switch(oCurObj.data.sMode)
+				{
+					case "init":
+					{
+						if(oCurObj.data.bDisplayQText)
+						{
+							if(oCurObj.data.sQTextId!=null && oCurObj.data.sQTextId!="")
+							{
+								if(CLO[oCurObj.data.sQTextId]!=null)
+								{
+									if(!$(CLO[oCurObj.data.sQTextId].div).is(":visible"))
+									{
+										CLO[oCurObj.data.sQTextId].Show();
+										if(CLO[oCurObj.data.sQTextId].tranin!=null)
+										{
+											var iDur = +CLO[oCurObj.data.sQTextId].tranin.duration;
+											if(iDur>0)
+											{
+												oCurObj.data.iDisplayTimer = setTimeout(function () { oCurObj.CallMethod({ sMethod: "Display" }); }, iDur*1000);
+												return false;
+											}
+										}
+									}
+								}
+							}
+						}
+						if(oCurObj.data.bDisplayInstruction)
+						{
+							if(oCurObj.data.sInstrId!=null && oCurObj.data.sInstrId!="")
+							{
+								if(CLO[oCurObj.data.sInstrId]!=null)
+								{
+									if(!$(CLO[oCurObj.data.sInstrId].div).is(":visible"))
+									{
+										CLO[oCurObj.data.sInstrId].Show();
+										if(CLO[oCurObj.data.sInstrId].tranin!=null)
+										{
+											var iDur = +CLO[oCurObj.data.sInstrId].tranin.duration;
+											if(iDur>0)
+											{
+												oCurObj.data.iDisplayTimer = setTimeout(function () { oCurObj.CallMethod({ sMethod: "Display" }); }, iDur*1000);
+												return false;
+											}
+										}
+									}
+								}
+							}
+						}
+						var sVarId;
+						for(var i=1; i<=oCurObj.data.jxVars.length; i++)
+						{
+							sVarId = $(oCurObj.data.jxVars[i-1]).children("q_var_idle").text();
+							if(sVarId==null || sVarId=="") continue;
+							if(CLO[sVarId]==null) continue;
+							if($(CLO[sVarId].div).is(":visible")) continue;
+							CLO[sVarId].Show();
+							if(CLO[sVarId].tranin!=null)
+							{
+								var iDur = +CLO[sVarId].tranin.duration;
+								if(iDur>0)
+								{
+									oCurObj.data.iDisplayTimer = setTimeout(function () { oCurObj.CallMethod({ sMethod: "Display" }); }, iDur*1000);
+									return false;
+								}
+							}
+						}
+						oCurObj.CallMethod({ sMethod: "Manage", oMethodArgs: { aActions: [ "activate" ] } } );
+						if(oCurObj.data.sType=="select" || oCurObj.data.sSubmitType=="button")
+						{
+							oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sAction: "disable" } });
+						}
+						break;
+					}
+					case "continue":
+					case "browse":
+					{
+						if(oCurObj.data.bDisplayQText)
+						{
+							if(oCurObj.data.sQTextId!=null && oCurObj.data.sQTextId!="")
+							{
+								if(CLO[oCurObj.data.sQTextId]!=null)
+								{
+									if(!$(CLO[oCurObj.data.sQTextId].div).is(":visible"))
+									{
+										CLO[oCurObj.data.sQTextId].Show({ bActionCall: true, bUseTransition: false });
+									}
+								}
+							}
+						}
+						if(oCurObj.data.bDisplayInstruction)
+						{
+							if(oCurObj.data.sInstrId!=null && oCurObj.data.sInstrId!="")
+							{
+								if(CLO[oCurObj.data.sInstrId]!=null)
+								{
+									if(!$(CLO[oCurObj.data.sInstrId].div).is(":visible"))
+									{
+										CLO[oCurObj.data.sInstrId].Show({ bActionCall: true, bUseTransition: false });
+									}
+								}
+							}
+						}
+						var sIdleId;
+						for(var i=1; i<=oCurObj.data.jxVars.length; i++)
+						{
+							sIdleId = $(oCurObj.data.jxVars[i-1]).children("q_var_idle").text();
+							if(sIdleId==null || sIdleId=="") continue;
+							if(CLO[sIdleId]==null) continue;
+							if($(CLO[sIdleId].div).is(":visible")) continue;
+							CLO[sIdleId].Show({ bActionCall: true, bUseTransition: false });
+						}
+						if(CLZ.oStore[sQuestionId].R.length!=0)
+						{
+							var jxVar;
+							var sSelId;
+							for(var i=1; i<=oCurObj.data.jxVars.length; i++)
+							{
+								jxVar = $(oCurObj.data.jxVars[i-1]);
+								sIdleId = jxVar.children("q_var_idle").text();
+								if(sIdleId=="") continue;
+								if(CLO[sIdleId]==null) continue;
+								if(jxVar.children("var_object_based").text()=="yes")
+								{
+									sSelId = jxVar.children("q_var_selected").text();
+									if(sSelId=="") continue;
+									if(CLO[sSelId]==null) continue;
+									if($.inArray(i,CLZ.oStore[sQuestionId].R)!=-1)
+									{
+										CLO[sIdleId].Hide({ bActionCall: true, bUseTransition: false });
+										if(!$(CLO[sSelId].div).is(":visible"))
+										{
+											CLO[sSelId].Show({ bActionCall: true, bUseTransition: false });
+										}
+									}
+								}
+								else
+								{
+									if(!$(CLO[sIdleId].div).is(":visible"))
+									{
+										CLO[sIdleId].Show({ bActionCall: true, bUseTransition: false });
+									}
+									if($.inArray(i,CLZ.oStore[sQuestionId].R)!=-1)
+									{
+										CLO[sIdleId].SetState({ sState: "selected" });
+									}
+									else
+									{
+										CLO[sIdleId].SetState({ sState: "default" });
+									}
+									if(oCurObj.data.sMode=="browse")
+									{
+										for(var sState in CLO[sIdleId].oStates)
+										{
+											CLO[sIdleId].DisableState({ sState: sState });
+										}
+									}
+								}
+							}
+						}
+						if(oCurObj.data.sMode=="browse")
+						{
+							if(oCurObj.jxParams.children("q_submit_type").text()=="button")
+							{
+								oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sAction: "hide" } });
+							}
+							if(oCurObj.data.bShowCorrect && oCurObj.data.bRestoreCorrects)
+							{
+								oCurObj.CallMethod({ sMethod: "Manage", oMethodArgs: { aActions: [ "correct" ] } } );
+							}
+							if(oCurObj.data.bRestoreFeedback && oCurObj.data.bFeedback)
+							{
+								var bCorrect = false;
+								if(oCurObj.data.sType=="select")
+								{
+									if(CLZ.oStore[sQuestionId].R.length==CLZ.oStore[sQuestionId].P.length)
+									{
+										bCorrect = true;
+										for(var i=0; i<CLZ.oStore[sQuestionId].R.length; i++)
+										{
+											if($.inArray(+CLZ.oStore[sQuestionId].R[i], CLZ.oStore[sQuestionId].P)==-1)
+											{
+												bCorrect = false;
+												break;
+											}
+										}
+									}
+								}
+								else if(oCurObj.data.sType=="choice")
+								{
+									if(CLZ.oStore[sQuestionId].R.length!=0)
+									{
+										bCorrect = (+CLZ.oStore[sQuestionId].R[0]==+CLZ.oStore[sQuestionId].P[0]);
+									}
+								}
+								if(bCorrect)
+								{
+									if(oCurObj.data.bFeedbackCorrect)
+									{
+										oCurObj.CallMethod({ sMethod: "Feedback", oMethodArgs: { sReason: "correct", bNoTimer: true } });
+									}
+								}
+								else
+								{
+									if(oCurObj.data.bFeedbackIncorrect)
+									{
+										oCurObj.CallMethod({ sMethod: "Feedback", oMethodArgs: { sReason: "incorrect", bNoTimer: true } });
+									}
+								}
+							}
+						}
+						else
+						{
+							oCurObj.CallMethod({ sMethod: "Manage", oMethodArgs: { aActions: [ "activate" ] } } );
+							if(oCurObj.data.sType=="select" || oCurObj.data.sSubmitType=="button")
+							{
+								oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sAction: "show" } });
+							}
+						}
+						oCurObj.FireEvent({ sName: "onRestored" });
+						break;
+					}
+				}
+				return true;	
+			}]]>
+			</body>
+		</method>
+		<method name="HandleClick" label="_HandleClick" access="private">
+            <params>
+            </params>
+            <body>
+			<![CDATA[function HandleClick(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jElem = $(argobj.elem);
+				var sQuestionId = argobj.pid;
+				var iIdx = jElem.attr("data-vq-vid");
+				iIdx = parseInt(iIdx, 10);
+				switch(oCurObj.data.sType)
+				{
+					case "choice":
+					{
+						var jxVar;
+						var sIdleId;
+						var sSelId; 
+						for(var i=1; i<=oCurObj.data.jxVars.length; i++)
+						{
+							jxVar = $(oCurObj.data.jxVars[i-1]);
+							sIdleId = jxVar.children("q_var_idle").text();
+							if(sIdleId=="") continue;
+							if(CLO[sIdleId]==null) continue;
+							if(jxVar.children("var_object_based").text()=="yes")
+							{
+								sSelId = jxVar.children("q_var_selected").text();
+								if(sSelId=="") continue;
+								if(CLO[sSelId]==null) continue;
+								if(i==iIdx)
+								{
+									CLO[sIdleId].Hide({ bActionCall: true, bUseTransition: false });
+									if(!$(CLO[sSelId].div).is(":visible"))
+									{
+										$(CLO[sSelId].div).attr({ "data-selected": "1" });
+										CLO[sSelId].Show();
+									}
+									CLZ.oStore[sQuestionId].R[0] = iIdx;
+								}
+								else
+								{
+									$(CLO[sSelId].div).removeAttr("data-selected");
+									CLO[sSelId].Hide({ bActionCall: true, bUseTransition: false });
+									if(!$(CLO[sIdleId].div).is(":visible"))
+									{
+										CLO[sIdleId].Show({ bActionCall: true, bUseTransition: false });
+									}
+								}
+							}
+							else
+							{
+								if(i==iIdx)
+								{
+									$(CLO[sIdleId].div).attr({ "data-selected": "1" });
+									CLZ.oStore[sQuestionId].R[0] = iIdx;
+									if(CLO[sIdleId].sType!="basic_shape")
+									{
+										CLO[sIdleId].DisableState({ sState: "selected" });
+									}
+								}
+								else
+								{
+									$(CLO[sIdleId].div).removeAttr("data-selected");
+									if(CLO[sIdleId].sType!="basic_shape")
+									{
+										if(CLO[sIdleId].sCurrentStableState=="SELECTED")
+										{
+											CLO[sIdleId].EnableState({ sState: "selected" });
+											CLO[sIdleId].SetState({ sState: "default" });
+										}
+									}
+								}
+							}
+						}
+						break;
+					}
+					case "select":
+					{
+						var jxVar;
+						var sIdleId;
+						var sSelId;
+						var aResponse = [];
+						for(var i=1; i<=oCurObj.data.jxVars.length; i++)
+						{
+							jxVar = $(oCurObj.data.jxVars[i-1]);
+							sIdleId = jxVar.children("q_var_idle").text();
+							if(sIdleId=="") continue;
+							if(CLO[sIdleId]==null) continue;
+							if(jxVar.children("var_object_based").text()=="yes")
+							{
+								sSelId = jxVar.children("q_var_selected").text();
+								if(sSelId=="") continue;
+								if(CLO[sSelId]==null) continue;
+								if(i==iIdx)
+								{
+									if($.inArray(iIdx, CLZ.oStore[sQuestionId].R)==-1)
+									{
+										CLO[sIdleId].Hide({ bActionCall: true, bUseTransition: false });
+										$(CLO[sSelId].div).attr({ "data-selected": "1" });
+										CLO[sSelId].Show();
+										aResponse.push(i);
+									}
+									else
+									{
+										$(CLO[sSelId].div).removeAttr("data-selected");
+										CLO[sSelId].Hide({ bActionCall: true, bUseTransition: false });
+										CLO[sIdleId].Show({ bActionCall: true, bUseTransition: false });
+									}
+								}
+								else
+								{
+									if($.inArray(i, CLZ.oStore[sQuestionId].R)!=-1)
+									{
+										aResponse.push(i);
+									}
+								}
+							}
+							else
+							{
+								if(i==iIdx)
+								{
+									if($.inArray(iIdx, CLZ.oStore[sQuestionId].R)==-1)
+									{
+										$(CLO[sIdleId].div).attr({ "data-selected": "1" });
+										aResponse.push(i);
+									}
+									else
+									{
+										$(CLO[sIdleId].div).removeAttr("data-selected");
+									}
+								}
+								else
+								{
+									if($.inArray(i, CLZ.oStore[sQuestionId].R)!=-1)
+									{
+										aResponse.push(i);
+									}
+								}
+							}
+						}
+						CLZ.oStore[sQuestionId].R = aResponse.slice(0);
+						break;
+					}
+				}
+				oCurObj.FireEvent({ sName: "onChange" });
+				oCurObj.data.sMode = "continue";
+				if(oCurObj.data.sType=="choice" && oCurObj.jxParams.children("q_submit_type").text()=="var")
+				{
+					oCurObj.CallMethod({ sMethod: "Submit" });
+				}
+				else
+				{
+					oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sAction: "show" } });
+				}
+				return true;
+			}]]>
+			</body>
+		</method>
+		<method name="UIEvent" label="_UIEvent" access="private">
+			<params>
+			</params>
+			<body>
+			<![CDATA[function UIEvent(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var sQuestionId = argobj.pid;
+				var jElem = $(argobj.elem);
+				if(jElem.attr("data-vq-type")=="btn")
+				{
+					if(oCurObj.jxParams.children("accept_object_based").text()=="yes")
+					{
+						var sBtnIdle = oCurObj.jxParams.children("q_submit_idle").text();
+						var sBtnOver = oCurObj.jxParams.children("q_submit_over").text();
+						var sBtnDisabled = oCurObj.jxParams.children("q_submit_disabled").text();
+						switch(argobj.evt.type)
+						{
+							case "mouseover":
+							{
+								if((sBtnIdle!=sBtnOver) && CLO[sBtnOver]!=null && CLO[sBtnIdle]!=null)
+								{
+									CLO[sBtnIdle].Hide({ bActionCall: true, bUseTransition: false });
+									CLO[sBtnOver].Show({ bActionCall: true, bUseTransition: false });
+								}
+								break;
+							}
+							case "mouseout":
+							{ 
+								if((sBtnIdle!=sBtnOver) && CLO[sBtnOver]!=null && CLO[sBtnIdle]!=null)
+								{
+									if(CLZ.bSoundOn && oCurObj.data.sSoundOver!="none")
+									{
+										CL.Sound.CLStop({ jPlayer: oCurObj.data.jAudioOver });
+									}
+									if($(CLO[sBtnOver].div).is(":visible"))
+									{
+										CLO[sBtnOver].Hide({ bActionCall: true, bUseTransition: false });
+										CLO[sBtnIdle].Show({ bActionCall: true, bUseTransition: false });
+									}
+								}
+								break;
+							}
+							case "click":
+							{
+								if(CLZ.bSoundOn && oCurObj.data.sSoundClick!="none")
+								{
+									CL.Sound.CLPlay({ jPlayer: oCurObj.data.jAudioClick });
+								}
+								oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sAction: "hide" } });
+								oCurObj.CallMethod({ sMethod: "Submit" });
+								break;
+							}
+						}
+					}
+					else
+					{
+						if(CLZ.bSoundOn && oCurObj.data.sSoundClick!="none")
+						{
+							CL.Sound.CLPlay({ jPlayer: oCurObj.data.jAudioClick });
+						}
+						oCurObj.CallMethod({ sMethod: "Button", oMethodArgs: { sAction: "hide" } });
+						oCurObj.CallMethod({ sMethod: "Submit" });
+					}
+					return true;	
+				}
+				var iIdx = +jElem.attr("data-vq-vid");
+				var bSelected = (jElem.attr("data-selected")=="1");
+				var jxVar = $(oCurObj.data.jxVars[iIdx-1]);
+				if(jxVar.children("var_object_based").text()=="yes")
+				{
+					var sIdleId = jElem.attr("data-vq-idle-id");
+					var sOverId = jElem.attr("data-vq-over-id");
+					switch(argobj.evt.type)
+					{
+						case "mouseover":
+						{
+							if(!bSelected)
+							{
+								if((sOverId!=sIdleId) && CLO[sOverId]!=null && CLO[sIdleId]!=null)
+								{
+									if($(CLO[sIdleId].div).is(":visible"))
+									{
+										if(CLZ.bSoundOn && oCurObj.data.sSoundOver!="none")
+										{
+											CL.Sound.CLPlay({ jPlayer: oCurObj.data.jAudioOver });
+										}
+										CLO[sIdleId].Hide({ bActionCall: true, bUseTransition: false });
+										CLO[sOverId].Show({ bActionCall: true, bUseTransition: false });
+									}
+								}
+							}
+							break;
+						}
+						case "mouseout":
+						{ 
+							if(!bSelected)
+							{
+								if((sOverId!=sIdleId) && CLO[sOverId]!=null && CLO[sIdleId]!=null)
+								{
+									if($(CLO[sOverId].div).is(":visible"))
+									{
+										if(CLZ.bSoundOn && oCurObj.data.sSoundOver!="none")
+										{
+											CL.Sound.CLStop({ jPlayer: oCurObj.data.jAudioOver });
+										}
+										CLO[sOverId].Hide({ bActionCall: true, bUseTransition: false });
+										CLO[sIdleId].Show({ bActionCall: true, bUseTransition: false });
+									}
+								}
+							}
+							break;
+						}
+						case "click":
+						{
+							if(sOverId!=null && sOverId!="" && sIdleId!=null && sIdleId!="")
+							{
+								if(CLZ.bSoundOn && oCurObj.data.sSoundClick!="none")
+								{
+									CL.Sound.CLPlay({ jPlayer: oCurObj.data.jAudioClick });
+								}
+								CLO[sIdleId].Hide({ bActionCall: true, bUseTransition: false });
+								CLO[sOverId].Hide({ bActionCall: true, bUseTransition: false });
+							}
+							argobj.evt.preventDefault();
+							argobj.evt.stopImmediatePropagation();
+							oCurObj.CallMethod({ sMethod: "HandleClick", oMethodArgs: { elem: argobj.elem } });
+							break;
+						}
+					}
+				}
+				else
+				{
+					if(CLZ.bSoundOn && oCurObj.data.sSoundClick!="none")
+					{
+						CL.Sound.CLPlay({ jPlayer: oCurObj.data.jAudioClick });
+					}
+				}
+				return true;
+			}]]>
+			</body>
+		</method>
+		<method name="Feedback" label="_Feedback" access="private">
+			<params>
+			</params>
+			<body>
+			<![CDATA[function Feedback(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj==null) return false;
+				if(!oCurObj.data.bFeedback) return false;
+				clearTimeout(oCurObj.data.iFBTimer);
+				
+				var sCorId = oCurObj.jxParams.children("q_fb_correct").text();
+				var sIncId = oCurObj.jxParams.children("q_fb_incorrect_common").text();
+				if(oCurObj.data.bFeedbackCorrect)
+				{
+					if(sCorId!=null && sCorId!="")
+					{
+						var jxGroup = CL.jxGroups.find("group[id='" + sCorId + "']");
+						var aTargets = [];
+						if(jxGroup.length!=0)
+						{
+							jxGroup.children("ref").each(function () { aTargets.push($(this).attr("id")) });
+						}
+						else
+						{
+							aTargets.push(sCorId);
+						}
+						for(var i=0; i<aTargets.length; i++)
+						{
+							if(CLO[aTargets[i]]!=null)
+							{
+								if($(CLO[aTargets[i]].div).is(":visible"))
+								{
+									CLO[aTargets[i]].Hide({ bActionCall: true, bUseTransition: false });
+								}
+							}
+						}
+					}
+				}
+				if(oCurObj.data.bFeedbackIncorrect)
+				{
+					switch(oCurObj.data.sFeedbackIncorrect)
+					{
+						case "byatt":
+						{
+							oCurObj.jxParams.find("q_fb_incorrect_by_attempt > item").each(function ()
+							{
+								var sId = $(this).children("q_fb_incorrect_by_att").text();
+								if(sId!=null && sId!="")
+								{
+									var jxGroup = CL.jxGroups.find("group[id='" + sId + "']");
+									var aTargets = [];
+									if(jxGroup.length!=0)
+									{
+										jxGroup.children("ref").each(function () { aTargets.push($(this).attr("id")) });
+									}
+									else
+									{
+										aTargets.push(sId);
+									}
+									for(var i=0; i<aTargets.length; i++)
+									{
+										if(CLO[aTargets[i]]!=null)
+										{
+											if($(CLO[aTargets[i]].div).is(":visible"))
+											{
+												CLO[aTargets[i]].Hide({ bActionCall: true, bUseTransition: false });
+											}
+										}
+									}
+								}
+							});
+							break;
+						}
+						case "common":
+						{
+							if(sIncId!=null && sIncId!="")
+							{
+								var jxGroup = CL.jxGroups.find("group[id='" + sIncId + "']");
+								var aTargets = [];
+								if(jxGroup.length!=0)
+								{
+									jxGroup.children("ref").each(function () { aTargets.push($(this).attr("id")) });
+								}
+								else
+								{
+									aTargets.push(sIncId);
+								}
+								for(var i=0; i<aTargets.length; i++)
+								{
+									if(CLO[aTargets[i]]!=null)
+									{
+										if($(CLO[aTargets[i]].div).is(":visible"))
+										{
+											CLO[aTargets[i]].Hide({ bActionCall: true, bUseTransition: false });
+										}
+									}
+								}
+							}
+							break;
+						}
+					}
+				}
+				if(argobj.sReason==null)
+				{
+					return true;
+				}
+				switch(argobj.sReason)
+				{
+					case "correct":
+					{
+						if(oCurObj.data.bFeedbackCorrect)
+						{
+							if(sCorId!=null && sCorId!="")
+							{
+								var jxGroup = CL.jxGroups.find("group[id='" + sCorId + "']");
+								var aTargets = [];
+								if(jxGroup.length!=0)
+								{
+									jxGroup.children("ref").each(function () { aTargets.push($(this).attr("id")) });
+								}
+								else
+								{
+									aTargets.push(sCorId);
+								}
+								for(var i=0; i<aTargets.length; i++)
+								{
+									if(CLO[aTargets[i]]!=null)
+									{
+										if(!$(CLO[aTargets[i]].div).is(":visible"))
+										{
+											CLO[aTargets[i]].Show();
+										}
+									}
+								}
+							}
+							if(oCurObj.data.bFeedbackTimer && argobj.bNoTimer!=true)
+							{
+								oCurObj.data.iFBTimer = setTimeout(function () { oCurObj.CallMethod({ sMethod: "Feedback" }); }, oCurObj.data.iHideFBIn);
+							}
+						}
+						break;
+					}
+					case "incorrect":
+					{
+						if(oCurObj.data.bFeedbackIncorrect)
+						{
+							switch(oCurObj.data.sFeedbackIncorrect)
+							{
+								case "common":
+								{
+									if(sIncId!=null && sIncId!="")
+									{
+										var jxGroup = CL.jxGroups.find("group[id='" + sIncId + "']");
+										var aTargets = [];
+										if(jxGroup.length!=0)
+										{
+											jxGroup.children("ref").each(function () { aTargets.push($(this).attr("id")) });
+										}
+										else
+										{
+											aTargets.push(sIncId);
+										}
+										for(var i=0; i<aTargets.length; i++)
+										{
+											if(CLO[aTargets[i]]!=null)
+											{
+												if(!$(CLO[aTargets[i]].div).is(":visible"))
+												{
+													CLO[aTargets[i]].Show();
+												}
+											}
+										}
+									}
+									break;
+								}
+								case "byatt":
+								{
+									var iAtt = -1;
+									for(var j=0; j<CLZ.oStore[argobj.pid].A.length; j++)
+									{
+										if(CLZ.oStore[argobj.pid].A[j].u!="c")
+										{
+											iAtt = j - 1;
+											break;
+										}
+									}
+									if(iAtt==-1) iAtt = CLZ.oStore[argobj.pid].A.length - 1;
+									if(iAtt==-1) return false;
+									var jxFB = oCurObj.jxParams.find("q_fb_incorrect_by_attempt > item");
+									if(jxFB.length<iAtt+1) return false;
+									sIncId = $(jxFB[iAtt]).children("q_fb_incorrect_by_att").text();
+									if(sIncId!=null && sIncId!="")
+									{
+										var jxGroup = CL.jxGroups.find("group[id='" + sIncId + "']");
+										var aTargets = [];
+										if(jxGroup.length!=0)
+										{
+											jxGroup.children("ref").each(function () { aTargets.push($(this).attr("id")) });
+										}
+										else
+										{
+											aTargets.push(sIncId);
+										}
+										for(var i=0; i<aTargets.length; i++)
+										{
+											if(CLO[aTargets[i]]!=null)
+											{
+												if(!$(CLO[aTargets[i]].div).is(":visible"))
+												{
+													CLO[aTargets[i]].Show();
+												}
+											}
+										}
+									}
+									break;
+								}
+							}
+							if(oCurObj.data.bFeedbackTimer && argobj.bNoTimer!=true)
+							{
+								oCurObj.data.iFBTimer = setTimeout(function () { oCurObj.CallMethod({ sMethod: "Feedback" }); }, oCurObj.data.iHideFBIn);
+							}
+						}
+						break;
+					}
+				}
+				return true;
+			}]]>
+			</body>
+		</method>
+ 		<method name="Submit" label="_Submit" access="private">
+			<params>
+			</params>
+			<body>
+			<![CDATA[function Submit(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var sQuestionId = argobj.pid; 
+				oCurObj.FireEvent({ sName: "onAttempt" });
+				var bCorrect = false;
+				var iCurrentTime = (new Date()).valueOf();
+				var iAttemptIdx = -1;
+				for(var i=0; i<CLZ.oStore[sQuestionId].A.length; i++)
+				{
+					if(CLZ.oStore[sQuestionId].A[i].u=="c") continue;
+					iAttemptIdx = i;
+					break;
+				}
+				if(iAttemptIdx==-1) return false; // extra fuse
+				if(CLZ.oStore[sQuestionId].R.length==0)
+				{ 
+					oCurObj.CallMethod({ sMethod: "CloseAttempt" });
+					oCurObj.CallMethod({ sMethod: "CloseQuestion" });
+				}
+				else
+				{
+					var nScore = 0;
+					switch(oCurObj.data.sType)
+					{
+						case "choice":
+						{
+							switch(oCurObj.data.sScoringType)
+							{
+								case "plain":
+								case "regressive":
+								case "byobj":
+								{
+									if(CLZ.oStore[sQuestionId].R.length!=0)
+									{
+										bCorrect = (+CLZ.oStore[sQuestionId].R[0]==+CLZ.oStore[sQuestionId].P[0]);
+									}
+									oCurObj.CallMethod({ sMethod: "CloseAttempt", oMethodArgs: { bInitNext: !bCorrect } });
+									if(oCurObj.data.bFeedback)
+									{
+										oCurObj.CallMethod({ sMethod: "Feedback", oMethodArgs: { correct: bCorrect } });
+									}
+									if(bCorrect)
+									{
+										if(CLZ.bSoundOn && oCurObj.data.sSoundSuccess!="none")
+										{
+											CL.Sound.CLPlay({ jPlayer: oCurObj.data.jAudioSuccess });
+										}
+										oCurObj.FireEvent({ sName: "onSuccess" });
+										if(oCurObj.data.bCredit)
+										{
+											switch(oCurObj.data.sScoringType)
+											{
+												case "plain":
+												{
+													nScore = oCurObj.data.nBaseScore;
+													for(var i=0; i<oCurObj.data.jxObjectives.length; i++)
+													{
+														CL.SCO.SetObjectiveScore({ sId: $(oCurObj.data.jxObjectives[i]).children("q_board").text(), sSrcId: sQuestionId, bReplace: true, nScore: nScore });
+													}
+													break;
+												}
+												case "regressive":
+												{
+													nScore = oCurObj.data.nBaseScore*(CLZ.oStore[sQuestionId].A.length - iAttemptIdx);
+													for(var i=0; i<oCurObj.data.jxObjectives.length; i++)
+													{
+														CL.SCO.SetObjectiveScore({ sId: $(oCurObj.data.jxObjectives[i]).children("q_board").text(), sSrcId: sQuestionId, bReplace: true, nScore: nScore });
+													}
+													break;
+												}
+												case "byobj":
+												{
+													for(var i=0; i<oCurObj.data.jxObjectives.length; i++)
+													{
+														nScore = +$(oCurObj.data.jxObjectives[i]).children("q_weight_byobj").text();
+														CL.SCO.SetObjectiveScore({ sId: $(oCurObj.data.jxObjectives[i]).children("q_board").text(), sSrcId: sQuestionId, bReplace: true, nScore: nScore });
+													}
+													break;
+												}
+											}
+										}
+										oCurObj.CallMethod({ sMethod: "CloseQuestion" });
+										if(oCurObj.data.bFeedback && oCurObj.data.bFeedbackCorrect)
+										{
+											oCurObj.CallMethod({ sMethod: "Feedback", oMethodArgs: { sReason: "correct" } });
+										}
+									}
+									else
+									{
+										if(CLZ.bSoundOn && oCurObj.data.sSoundFailure!="none")
+										{
+											CL.Sound.CLPlay({ jPlayer: oCurObj.data.jAudioFailure });
+										}
+										oCurObj.FireEvent({ sName: "onFailure" });
+										if(oCurObj.data.bNoMoreAttempts)
+										{
+											if(oCurObj.data.bShowCorrect)
+											{
+												oCurObj.CallMethod({ sMethod: "Manage", oMethodArgs: { aActions: [ "correct" ] } } );
+											}
+											if(oCurObj.data.bCredit)
+											{
+												nScore = 0;
+												for(var i=0; i<oCurObj.data.jxObjectives.length; i++)
+												{
+													CL.SCO.SetObjectiveScore({ sId: $(oCurObj.data.jxObjectives[i]).children("q_board").text(), sSrcId: sQuestionId, bReplace: true, nScore: nScore });
+												}
+											}
+											oCurObj.CallMethod({ sMethod: "CloseQuestion" });
+										}
+										if(oCurObj.data.bFeedback && oCurObj.data.bFeedbackIncorrect)
+										{
+											oCurObj.CallMethod({ sMethod: "Feedback", oMethodArgs: { sReason: "incorrect" } });
+										}
+									}
+									break;
+								}
+								case "sum":
+								{
+									oCurObj.CallMethod({ sMethod: "CloseAttempt", oMethodArgs: { bInitNext: false } });
+									if(oCurObj.data.bCredit)
+									{
+										nScore = +$(oCurObj.data.jxVars[+CLZ.oStore[sQuestionId].R[0]-1]).children("q_weight_by_connection").text();
+										for(var i=0; i<oCurObj.data.jxObjectives.length; i++)
+										{
+											CL.SCO.SetObjectiveScore({ sId: $(oCurObj.data.jxObjectives[i]).children("q_board").text(), sSrcId: sQuestionId, bReplace: true, nScore: nScore });
+										}
+									}
+									oCurObj.CallMethod({ sMethod: "CloseQuestion" });
+									break;
+								}
+							}
+							break;
+						}
+						case "select":
+						{
+							switch(oCurObj.data.sScoringType)
+							{
+								case "plain":
+								case "regressive":
+								case "byobj":
+								{
+									if(CLZ.oStore[sQuestionId].R.length==CLZ.oStore[sQuestionId].P.length)
+									{
+										bCorrect = true;
+										for(var i=0; i<CLZ.oStore[sQuestionId].R.length; i++)
+										{
+											if($.inArray(+CLZ.oStore[sQuestionId].R[i], CLZ.oStore[sQuestionId].P)==-1)
+											{
+												bCorrect = false;
+												break;
+											}
+										}
+									}
+									oCurObj.CallMethod({ sMethod: "CloseAttempt", oMethodArgs: { bInitNext: !bCorrect } });
+									if(oCurObj.data.bFeedback)
+									{
+										oCurObj.CallMethod({ sMethod: "Feedback", oMethodArgs: { sReason: (bCorrect ? "correct" : "incorrect") } });
+									}
+									if(bCorrect)
+									{
+										if(CLZ.bSoundOn && oCurObj.data.sSoundSuccess!="none")
+										{
+											CL.Sound.CLPlay({ jPlayer: oCurObj.data.jAudioSuccess });
+										}
+										oCurObj.FireEvent({ sName: "onSuccess" });
+										if(oCurObj.data.bCredit)
+										{
+											switch(oCurObj.data.sScoringType)
+											{
+												case "plain":
+												{
+													nScore = oCurObj.data.nBaseScore;
+													for(var i=0; i<oCurObj.data.jxObjectives.length; i++)
+													{
+														CL.SCO.SetObjectiveScore({ sId: $(oCurObj.data.jxObjectives[i]).children("q_board").text(), sSrcId: sQuestionId, bReplace: true, nScore: nScore });
+													}
+													break;
+												}
+												case "regressive":
+												{
+													nScore = oCurObj.data.nBaseScore*(CLZ.oStore[sQuestionId].A.length - iAttemptIdx);
+													for(var i=0; i<oCurObj.data.jxObjectives.length; i++)
+													{
+														CL.SCO.SetObjectiveScore({ sId: $(oCurObj.data.jxObjectives[i]).children("q_board").text(), sSrcId: sQuestionId, bReplace: true, nScore: nScore });
+													}
+													break;
+												}
+												case "byobj":
+												{
+													for(var i=0; i<oCurObj.data.jxObjectives.length; i++)
+													{
+														nScore = +$(oCurObj.data.jxObjectives[i]).children("q_weight_byobj").text();
+														CL.SCO.SetObjectiveScore({ sId: $(oCurObj.data.jxObjectives[i]).children("q_board").text(), sSrcId: sQuestionId, bReplace: true, nScore: nScore });
+													}
+													break;
+												}
+											}
+										}
+										oCurObj.CallMethod({ sMethod: "CloseQuestion" });
+									}
+									else
+									{
+										if(CLZ.bSoundOn && oCurObj.data.sSoundFailure!="none")
+										{
+											CL.Sound.CLPlay({ jPlayer: oCurObj.data.jAudioFailure });
+										}
+										oCurObj.FireEvent({ sName: "onFailure" });
+										if(oCurObj.data.bNoMoreAttempts)
+										{
+											if(oCurObj.data.bShowCorrect) 
+											{
+												oCurObj.CallMethod({ sMethod: "Manage", oMethodArgs: { aActions: [ "correct" ] } } );
+											}
+											if(oCurObj.data.bCredit)
+											{
+												nScore = 0;
+												for(var i=0; i<oCurObj.data.jxObjectives.length; i++)
+												{
+													CL.SCO.SetObjectiveScore({ sId: $(oCurObj.data.jxObjectives[i]).children("q_board").text(), sSrcId: sQuestionId, bReplace: true, nScore: nScore });
+												}
+											}
+											oCurObj.CallMethod({ sMethod: "CloseQuestion" });
+										}
+									}
+									break;
+								}
+								case "sum":
+								case "avg":
+								case "max":
+								case "min":
+								{
+									oCurObj.CallMethod({ sMethod: "CloseAttempt", oMethodArgs: { bInitNext: false } });
+									if(oCurObj.data.bCredit)
+									{
+										var nSum = 0;
+										var nMax = -99999;
+										var nMin = 99999;
+										for(var i=0; i<CLZ.oStore[sQuestionId].R.length; i++)
+										{
+											nScore = +$(oCurObj.data.jxVars[+CLZ.oStore[sQuestionId].R[i]-1]).children("q_weight_by_connection").text();
+											nSum += nScore;
+											if(nMax<nScore) nMax = nScore;
+											if(nMin>nScore) nMin = nScore;
+										}
+										switch(oCurObj.data.sScoringType)
+										{
+											case "sum":
+											{
+												nScore = nSum;
+												break;
+											}
+											case "avg":
+											{
+												nScore = nSum/CLZ.oStore[sQuestionId].R.length;
+												break;
+											}
+											case "max":
+											{
+												nScore = nMax;
+												break;
+											}
+											case "min":
+											{
+												nScore = nMin;
+												break;
+											}
+										}
+										for(var i=0; i<oCurObj.data.jxObjectives.length; i++)
+										{
+											CL.SCO.SetObjectiveScore({ sId: $(oCurObj.data.jxObjectives[i]).children("q_board").text(), sSrcId: sQuestionId, bReplace: true, nScore: nScore });
+										}
+									}
+									oCurObj.CallMethod({ sMethod: "CloseQuestion" });
+									break;
+								}
+							}
+							break;
+						}
+					}
+				}
+				return true;
+			}]]>
+			</body>
+		</method>
+		<method name="Button" label="_Button" access="private">
+			<params>
+			</params>
+			<body>
+			<![CDATA[function Button(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var sBtnIdle = oCurObj.jxParams.children("q_submit_idle").text();
+				var sBtnOver = oCurObj.jxParams.children("q_submit_over").text();
+				var sBtnDisabled = oCurObj.jxParams.children("q_submit_disabled").text();
+				if(!oCurObj.data.bBtnReady)
+				{
+					if(oCurObj.data.bUseBtnState)
+					{
+						if(sBtnIdle!=null && sBtnIdle!="")
+						{
+							if(CLO[sBtnIdle]!=null)
+							{
+								for(var sState in CLO[sBtnIdle].oStates)
+								{
+									if(sState=="default" || sState=="highlighted" || sState=="active")
+									{
+										$(CLO[sBtnIdle].oStates[sState].div).attr({ "data-vq-id": argobj.pid, "data-vq-type": "btn", "data-vq-role": "idle", "data-vq-idle-id": sBtnIdle }).addClass("cl-clickable unselectable").on("click", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { elem: this, evt: e }} ) });
+									}
+								}
+							}
+						}
+					}
+					else
+					{
+						if(sBtnIdle!=null && sBtnIdle!="")
+						{
+							if(CLO[sBtnIdle]!=null)
+							{
+								$(CLO[sBtnIdle].div).attr({ "data-vq-id": argobj.pid, "data-vq-type": "btn", "data-vq-role": "idle", "data-vq-idle-id": sBtnIdle }).addClass("cl-clickable unselectable").on("click", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { elem: this, evt: e }} ) });
+							}
+						}
+						if(!CL.bTouch && sBtnOver!="")
+						{
+							if(sBtnOver!=null && sBtnOver!="")
+							{
+								if(CLO[sBtnOver]!=null)
+								{
+									$(CLO[sBtnIdle].div).attr({ "data-vq-over-id": sBtnOver }).on("mouseover", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { elem: this, evt: e }} ) }).on("mouseout", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { elem: this, evt: e }} ) });				
+									$(CLO[sBtnOver].div).attr({ "data-vq-id": argobj.pid, "data-vq-type": "btn", "data-vq-role": "over", "data-vq-idle-id": sBtnIdle, "data-vq-over-id": sBtnOver }).addClass("cl-clickable unselectable").on("mouseover", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { elem: this, evt: e }} ) }).on("mouseout", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { elem: this, evt: e }} ) }).on("click", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { elem: this, evt: e }} ) });
+								}
+							}
+						}
+					}
+					oCurObj.data.bBtnReady = true;
+				}
+				switch(argobj.sAction)
+				{
+					case "show":
+					{
+						if(oCurObj.data.bUseBtnState)
+						{
+							if(sBtnIdle!=null && sBtnIdle!="")
+							{
+								if(CLO[sBtnIdle]!=null)
+								{
+									if(!$(CLO[sBtnIdle].div).is(":visible"))
+									{
+										CLO[sBtnIdle].Show();
+									}
+									CLO[sBtnIdle].SetState({ sState: "default" });
+								}
+							}
+						}
+						else
+						{
+							if(sBtnIdle!=null && sBtnIdle!="")
+							{
+								if(CLO[sBtnIdle]!=null)
+								{
+									if(!$(CLO[sBtnIdle].div).is(":visible"))
+									{
+										CLO[sBtnIdle].Show();
+									}
+								}
+							}
+							if(sBtnOver!=null && sBtnOver!="")
+							{
+								if(CLO[sBtnOver]!=null)
+								{
+									if($(CLO[sBtnOver].div).is(":visible"))
+									{
+										CLO[sBtnOver].Hide();
+									}
+								}
+							}
+							if(sBtnDisabled!=null && sBtnDisabled!="")
+							{
+								if(CLO[sBtnDisabled]!=null)
+								{
+									if($(CLO[sBtnDisabled].div).is(":visible"))
+									{
+										CLO[sBtnDisabled].Hide();
+									}
+								}
+							}
+						}
+						break;
+					}
+					case "hide":
+					{
+						if(oCurObj.data.bUseBtnState)
+						{
+							if(sBtnIdle!=null && sBtnIdle!="")
+							{
+								if(CLO[sBtnIdle]!=null)
+								{
+									if($(CLO[sBtnIdle].div).is(":visible"))
+									{
+										CLO[sBtnIdle].Hide();
+									}
+								}
+							}
+						}
+						else
+						{
+							if(sBtnIdle!=null && sBtnIdle!="")
+							{
+								if(CLO[sBtnIdle]!=null)
+								{
+									if($(CLO[sBtnIdle].div).is(":visible"))
+									{
+										CLO[sBtnIdle].Hide();
+									}
+								}
+							}
+							if(sBtnOver!=null && sBtnOver!="")
+							{
+								if(CLO[sBtnOver]!=null)
+								{
+									if($(CLO[sBtnOver].div).is(":visible"))
+									{
+										CLO[sBtnOver].Hide();
+									}
+								}
+							}
+							if(sBtnDisabled!=null && sBtnDisabled!="")
+							{
+								if(CLO[sBtnDisabled]!=null)
+								{
+									if(!$(CLO[sBtnDisabled].div).is(":visible"))
+									{
+										CLO[sBtnDisabled].Show();
+									}
+								}
+							}
+						}
+						break;
+					}
+					case "disable":
+					{
+						if(oCurObj.data.bUseBtnState)
+						{
+							if(sBtnIdle!=null && sBtnIdle!="")
+							{
+								if(CLO[sBtnIdle]!=null)
+								{
+									if(CLO[sBtnIdle].oStates["disabled"]!=null)
+									{
+										CLO[sBtnIdle].SetState({ sState: "disabled" });
+									}
+									else
+									{
+										CLO[sBtnIdle].Hide();
+									}
+								}
+							}
+						}
+						else
+						{
+							if(sBtnIdle!=null && sBtnIdle!="")
+							{
+								if(CLO[sBtnIdle]!=null)
+								{
+									if($(CLO[sBtnIdle].div).is(":visible"))
+									{
+										CLO[sBtnIdle].Hide();
+									}
+								}
+							}
+							if(sBtnOver!=null && sBtnOver!="")
+							{
+								if(CLO[sBtnOver]!=null)
+								{
+									if($(CLO[sBtnOver].div).is(":visible"))
+									{
+										CLO[sBtnOver].Hide();
+									}
+								}
+							}
+							if(sBtnDisabled!=null && sBtnDisabled!="")
+							{
+								if(CLO[sBtnDisabled]!=null)
+								{
+									if(!$(CLO[sBtnDisabled].div).is(":visible"))
+									{
+										CLO[sBtnDisabled].Show();
+									}
+								}
+							}
+						}
+						break;
+					}
+				}
+				return true;	
+			}]]>
+			</body>
+		</method>
+		<method name="Manage" label="_Manage" access="private">
+			<params>
+			</params>
+			<body>
+			<![CDATA[function Manage(argobj)
+			{
+				if(argobj.aActions==null) return false;
+				var oCurObj = CLO[argobj.pid];
+				var sQuestionId = argobj.pid;
+				var jxVar;
+				var sIdleId;
+				var sOverId;
+				var sSelOverId;
+				var sSelId;
+				var sCorId;
+				var sIncId;
+				var sDisId;
+				for(var i=0; i<argobj.aActions.length; i++)
+				{
+					for(var j=1; j<=oCurObj.data.jxVars.length; j++)
+					{
+						jxVar = $(oCurObj.data.jxVars[j-1]);
+						sIdleId = jxVar.children("q_var_idle").text();
+						if(jxVar.children("var_object_based").text()=="yes")
+						{
+							sOverId = jxVar.children("q_var_idle_over").text();
+							sSelId = jxVar.children("q_var_selected").text();
+							sSelOverId = jxVar.children("q_var_selected_over").text();
+							sCorId = jxVar.children("q_var_correct").text();
+							sIncId = jxVar.children("q_var_error").text();
+							sDisId = jxVar.children("q_var_disabled").text();
+							switch(argobj.aActions[i])
+							{
+								case "activate":
+								{
+									if(sIdleId!=null && sIdleId!="")
+									{
+										if(CLO[sIdleId]!=null)
+										{
+											$(CLO[sIdleId].div).attr({ "data-vq-id": argobj.pid, "data-vq-vid": j, "data-vq-role": "idle", "data-vq-idle-id": sIdleId }).addClass("cl-clickable unselectable").on("click", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { elem: this, evt: e }} ); });
+										}
+									}
+									if(!CL.bTouch && sOverId!="")
+									{
+										if(sOverId!=null && sOverId!="")
+										{
+											if(CLO[sOverId]!=null)
+											{
+												$(CLO[sIdleId].div).attr({ "data-vq-over-id": sOverId }).on("mouseover", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { elem: this, evt: e }} ) }).on("mouseout", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { elem: this, evt: e }} ) });				
+												$(CLO[sOverId].div).attr({ "data-vq-id": argobj.pid, "data-vq-vid": j, "data-vq-role": "over", "data-vq-idle-id": sIdleId, "data-vq-over-id": sOverId }).addClass("cl-clickable unselectable").on("mouseover", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { elem: this, evt: e }} ) }).on("mouseout", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { elem: this, evt: e }} ) }).on("click", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { elem: this, evt: e }} ); });
+											}
+										}
+									}
+									if(oCurObj.data.sType=="select")
+									{
+										if(sSelId!=null && sSelId!="")
+										{
+											if(CLO[sSelId]!=null)
+											{
+												$(CLO[sSelId].div).attr({ "data-vq-id": argobj.pid, "data-vq-vid": j, "data-vq-role": "selected", "data-vq-selected-id": sSelId }).addClass("cl-clickable unselectable").on("click", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { elem: this, evt: e }} ); });
+											}
+										}
+										if(!CL.bTouch && sSelOverId!="")
+										{
+											if(sSelOverId!=null && sSelOverId!="")
+											{
+												if(CLO[sSelOverId]!=null)
+												{
+													if(sSelId!=sOverId)
+													{
+														$(CLO[sSelId].div).attr({ "data-vq-over-id": sSelOverId, "data-vq-idle-id": sSelId }).on("mouseover", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { elem: this, evt: e }} ) }).on("mouseout", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { elem: this, evt: e }} ) });				
+														$(CLO[sSelOverId].div).attr({ "data-vq-id": argobj.pid, "data-vq-vid": j, "data-vq-role": "selover", "data-vq-idle-id": sSelId, "data-vq-over-id": sSelOverId }).addClass("cl-clickable unselectable").on("mouseover", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { elem: this, evt: e }} ) }).on("mouseout", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { elem: this, evt: e }} ) }).on("click", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { elem: this, evt: e }} ); });
+													}
+												}
+											}
+										}
+									}
+									break;
+								}
+								case "deactivate":
+								{
+									if(sIdleId!=null && sIdleId!="")
+									{
+										if(CLO[sIdleId]!=null)
+										{
+											$(CLO[sIdleId].div).removeClass("cl-clickable").off("mouseover mouseout click");
+										}
+									}
+									if(sOverId!=null && sOverId!="")
+									{
+										if(CLO[sOverId]!=null)
+										{
+											$(CLO[sOverId].div).removeClass("cl-clickable").off("mouseover mouseout click");
+											if($(CLO[sOverId].div).is(":visible"))
+											{
+												if(sOverId!=sSelId)
+												{
+													CLO[sOverId].Hide({ bActionCall: true, bUseTransition: false });
+												}
+											}
+										}
+									}
+									if(oCurObj.data.sType=="select")
+									{
+										if(sSelId!=null && sSelId!="")
+										{
+											if(CLO[sSelId]!=null)
+											{
+												$(CLO[sSelId].div).removeClass("cl-clickable").off("mouseover mouseout click");
+											}
+										}
+										if(!CL.bTouch && sSelOverId!="")
+										{
+											if(sSelOverId!=null && sSelOverId!="")
+											{
+												if(CLO[sSelOverId]!=null)
+												{
+													$(CLO[sSelOverId].div).removeClass("cl-clickable").off("mouseover mouseout click");
+													if($(CLO[sSelOverId].div).is(":visible"))
+													{
+														CLO[sSelOverId].Hide({ bActionCall: true, bUseTransition: false });
+													}
+												}
+											}
+										}
+									}
+									break;
+								}
+								case "disable":
+								{
+									if(oCurObj.data.sOnFinish=="disabled")
+									{
+										if(sDisId!=null && sDisId!="")
+										{
+											if(CLO[sDisId]!=null)
+											{
+												CLO[sDisId].Show();
+												if(sIdleId!=null && sIdleId!="")
+												{
+													if(CLO[sIdleId]!=null)
+													{
+														if($(CLO[sIdleId].div).is(":visible"))
+														{
+															CLO[sIdleId].Hide({ bActionCall: true, bUseTransition: false });
+														}
+													}
+												}
+												if(sSelId!=null && sSelId!="")
+												{
+													if(CLO[sSelId]!=null)
+													{
+														if($(CLO[sSelId].div).is(":visible"))
+														{
+															CLO[sSelId].Hide({ bActionCall: true, bUseTransition: false });
+														}
+													}
+												}
+												if(sCorId!=null && sCorId!="")
+												{
+													if(CLO[sCorId]!=null)
+													{
+														if($(CLO[sCorId].div).is(":visible"))
+														{
+															CLO[sCorId].Hide({ bActionCall: true, bUseTransition: false });
+														}
+													}
+												}
+												if(sIncId!=null && sIncId!="")
+												{
+													if(CLO[sIncId]!=null)
+													{
+														if($(CLO[sIncId].div).is(":visible"))
+														{
+															CLO[sIncId].Hide({ bActionCall: true, bUseTransition: false });
+														}
+													}
+												}
+											}
+										}
+									}
+									else if(oCurObj.data.sOnFinish=="asis_opacity")
+									{
+										if(sIdleId!=null && sIdleId!="")
+										{
+											if(CLO[sIdleId]!=null)
+											{
+												if($(CLO[sIdleId].div).is(":visible"))
+												{
+													$(CLO[sIdleId].div).css({ "opacity": 0.75 });
+													CLO[sIdleId].current.nOpacity = 0.75;
+												}
+											}
+										}
+										if(sSelId!=null && sSelId!="")
+										{
+											if(CLO[sSelId]!=null)
+											{
+												if($(CLO[sSelId].div).is(":visible"))
+												{
+													$(CLO[sSelId].div).css({ "opacity": 0.75 });
+													CLO[sSelId].current.nOpacity = 0.75;
+												}
+											}
+										}
+										if(sCorId!=null && sCorId!="")
+										{
+											if(CLO[sCorId]!=null)
+											{
+												if($(CLO[sCorId].div).is(":visible"))
+												{
+													$(CLO[sCorId].div).css({ "opacity": 0.75 });
+													CLO[sCorId].current.nOpacity = 0.75;
+												}
+											}
+										}
+										if(sIncId!=null && sIncId!="")
+										{
+											if(CLO[sIncId]!=null)
+											{
+												if($(CLO[sIncId].div).is(":visible"))
+												{
+													$(CLO[sIncId].div).css({ "opacity": 0.75 });
+													CLO[sIncId].current.nOpacity = 0.75;
+												}
+											}
+										}
+									}
+									break;
+								}
+								case "correct":
+								{
+									if(sIdleId!=null && sIdleId!="")
+									{
+										if(CLO[sIdleId]!=null)
+										{
+											if($(CLO[sIdleId].div).is(":visible"))
+											{
+												CLO[sIdleId].Hide({ bActionCall: true, bUseTransition: false });
+											}
+										}
+									}
+									if(sOverId!=null && sOverId!="")
+									{
+										if(CLO[sOverId]!=null)
+										{
+											if($(CLO[sOverId].div).is(":visible"))
+											{
+												CLO[sOverId].Hide({ bActionCall: true, bUseTransition: false });
+											}
+										}
+									}
+									if(sSelId!=null && sSelId!="")
+									{
+										if(CLO[sSelId]!=null)
+										{
+											if($(CLO[sSelId].div).is(":visible"))
+											{
+												CLO[sSelId].Hide({ bActionCall: true, bUseTransition: false });
+											}
+										}
+									}
+									switch(oCurObj.data.sShowCorrectType)
+									{
+										case "correct_selected":
+										{
+											if($.inArray(j, CLZ.oStore[sQuestionId].P)!=-1 && $.inArray(j, CLZ.oStore[sQuestionId].R)!=-1)
+											{
+												if(sCorId!=null && sCorId!="")
+												{
+													if(CLO[sCorId]!=null)
+													{
+														CLO[sCorId].Show();
+													}
+												}
+											}
+											else
+											{
+												if(sIdleId!=null && sIdleId!="")
+												{
+													if(CLO[sIdleId]!=null)
+													{
+														CLO[sIdleId].Show();
+													}
+												}
+											}
+											break;
+										}
+										case "incorrect_selected":
+										{
+											if($.inArray(j, CLZ.oStore[sQuestionId].P)==-1 && $.inArray(j, CLZ.oStore[sQuestionId].R)!=-1)
+											{
+												if(sIncId!=null && sIncId!="")
+												{
+													if(CLO[sIncId]!=null)
+													{
+														CLO[sIncId].Show();
+													}
+												}
+											}
+											else
+											{
+												if(sIdleId!=null && sIdleId!="")
+												{
+													if(CLO[sIdleId]!=null)
+													{
+														CLO[sIdleId].Show();
+													}
+												}
+											}
+											break;
+										}
+										case "correct_incorrect_selected":
+										{
+											if($.inArray(j, CLZ.oStore[sQuestionId].P)!=-1)
+											{
+												if(sCorId!=null && sCorId!="")
+												{
+													if(CLO[sCorId]!=null)
+													{
+														CLO[sCorId].Show();
+													}
+												}
+											}
+											else if($.inArray(j, CLZ.oStore[sQuestionId].P)==-1 && $.inArray(j, CLZ.oStore[sQuestionId].R)!=-1)
+											{
+												if(sIncId!=null && sIncId!="")
+												{
+													if(CLO[sIncId]!=null)
+													{
+														CLO[sIncId].Show();
+													}
+												}
+											}
+											else
+											{
+												if(sIdleId!=null && sIdleId!="")
+												{
+													if(CLO[sIdleId]!=null)
+													{
+														CLO[sIdleId].Show();
+													}
+												}
+											}
+											break;
+										}
+										case "both_selected":
+										{
+											if($.inArray(j, CLZ.oStore[sQuestionId].R)!=-1)
+											{
+												if($.inArray(j, CLZ.oStore[sQuestionId].P)!=-1)
+												{
+													if(sCorId!=null && sCorId!="")
+													{
+														if(CLO[sCorId]!=null)
+														{
+															CLO[sCorId].Show();
+														}
+													}
+												}
+												else
+												{
+													if(sIncId!=null && sIncId!="")
+													{
+														if(CLO[sIncId]!=null)
+														{
+															CLO[sIncId].Show();
+														}
+													}
+												}
+											}
+											else
+											{
+												if(sIdleId!=null && sIdleId!="")
+												{
+													if(CLO[sIdleId]!=null)
+													{
+														CLO[sIdleId].Show();
+													}
+												}
+											}
+											break;
+										}									
+										case "full":
+										default:
+										{
+											if($.inArray(j, CLZ.oStore[sQuestionId].P)!=-1)
+											{
+												if(sCorId!=null && sCorId!="")
+												{
+													if(CLO[sCorId]!=null)
+													{
+														CLO[sCorId].Show();
+													}
+												}
+											}
+											else
+											{
+												if(sIncId!=null && sIncId!="")
+												{
+													if(CLO[sIncId]!=null)
+													{
+														CLO[sIncId].Show();
+													}
+												}
+											}
+											break;
+										}
+									}
+									break;
+								}
+							}
+						}
+						else
+						{
+							switch(argobj.aActions[i])
+							{
+								case "activate":
+								{
+									$(CLO[sIdleId].div).attr({ "data-vq-id": argobj.pid, "data-vq-vid": j });
+									CL.Event.Listen({ aList: [ { sSourceId: sIdleId, sEvtName: "onChangeStableState", sListenerId: argobj.pid } ] });
+									break;
+								}
+								case "deactivate":
+								{
+									CL.Event.Unlisten({ aList: [ { sSourceId: sIdleId, sEvtName: "onChangeStableState", sListenerId: argobj.pid } ] });
+									break;
+								}
+								case "disable":
+								{
+									if(oCurObj.data.sOnFinish=="disabled")
+									{
+										if(sIdleId!=null && sIdleId!="")
+										{
+											if(CLO[sIdleId]!=null)
+											{
+												CLO[sIdleId].SetState({ sState: "disabled" });
+											}
+										}
+									}
+									else if(oCurObj.data.sOnFinish=="asis_opacity")
+									{
+										if(sIdleId!=null && sIdleId!="")
+										{
+											if(CLO[sIdleId]!=null)
+											{
+												for(var sState in CLO[sIdleId].oStates)
+												{
+													CLO[sIdleId].DisableState({ sState: sState });
+													$(CLO[sIdleId].oStates[sState].div).css({ "opacity": 0.75 });
+													CLO[sIdleId].oStates[sState].current.nOpacity = 0.75;
+												}
+											}
+										}
+									}
+									else
+									{
+										if(sIdleId!=null && sIdleId!="")
+										{
+											if(CLO[sIdleId]!=null)
+											{
+												for(var sState in CLO[sIdleId].oStates)
+												{
+													CLO[sIdleId].DisableState({ sState: sState });
+												}
+											}
+										}
+									}
+									break;
+								}
+								case "correct":
+								{
+									if(sIdleId!=null && sIdleId!="")
+									{
+										if(CLO[sIdleId]!=null)
+										{
+											switch(oCurObj.data.sShowCorrectType)
+											{
+												case "correct_selected":
+												{
+													if($.inArray(j, CLZ.oStore[sQuestionId].P)!=-1 && $.inArray(j, CLZ.oStore[sQuestionId].R)!=-1)
+													{
+														CLO[sIdleId].SetState({ sState: "correct" });
+													}
+													else
+													{
+														CLO[sIdleId].SetState({ sState: "default" });
+													}
+													break;
+												}
+												case "incorrect_selected":
+												{
+													if($.inArray(j, CLZ.oStore[sQuestionId].P)==-1 && $.inArray(j, CLZ.oStore[sQuestionId].R)!=-1)
+													{
+														CLO[sIdleId].SetState({ sState: "incorrect" });
+													}
+													else
+													{
+														CLO[sIdleId].SetState({ sState: "default" });
+													}
+													break;
+												}
+												case "correct_incorrect_selected":
+												{
+													if($.inArray(j, CLZ.oStore[sQuestionId].P)!=-1)
+													{
+														CLO[sIdleId].SetState({ sState: "correct" });
+													}
+													else if($.inArray(j, CLZ.oStore[sQuestionId].P)==-1 && $.inArray(j, CLZ.oStore[sQuestionId].R)!=-1)
+													{
+														CLO[sIdleId].SetState({ sState: "incorrect" });
+													}
+													else
+													{
+														CLO[sIdleId].SetState({ sState: "default" });
+													}
+													break;
+												}
+												case "both_selected":
+												{
+													if($.inArray(j, CLZ.oStore[sQuestionId].R)!=-1)
+													{
+														if($.inArray(j, CLZ.oStore[sQuestionId].P)!=-1)
+														{
+															CLO[sIdleId].SetState({ sState: "correct" });
+														}
+														else
+														{
+															CLO[sIdleId].SetState({ sState: "incorrect" });
+														}
+													}
+													else
+													{
+														if(sIdleId!=null && sIdleId!="")
+														{
+															CLO[sIdleId].SetState({ sState: "default" });
+														}
+													}
+													break;
+												}									
+												case "full":
+												default:
+												{
+													if($.inArray(j, CLZ.oStore[sQuestionId].P)!=-1)
+													{
+														CLO[sIdleId].SetState({ sState: "correct" });
+													}
+													else
+													{
+														CLO[sIdleId].SetState({ sState: "incorrect" });
+													}
+													break;
+												}
+											}
+										}
+									}
+									break;
+								}
+							}
+						}
+					}
+				}
+				return true;
+			}]]>
+			</body>
+		</method>
+		<method name="CloseAttempt" label="_CloseAttempt" access="private">
+			<params>
+			</params>
+			<body>
+			<![CDATA[function CloseAttempt(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var sQuestionId = argobj.pid;
+				var iAttemptIdx = -1;
+				for(var i=0; i<CLZ.oStore[sQuestionId].A.length; i++)
+				{
+					if(CLZ.oStore[sQuestionId].A[i].u=="c") continue;
+					iAttemptIdx = i;
+					break;
+				}
+				var iNow = (new Date()).valueOf();
+				var iStart = CLZ.oStore[sQuestionId].A[iAttemptIdx].s;
+				CLZ.oStore[sQuestionId].A[iAttemptIdx] =
+				{
+					R: CLZ.oStore[sQuestionId].R.slice(0),
+					s: iStart,
+					d: iNow - iStart - CLZ.oStore[sQuestionId].s,
+					u: "c"
+				}; // current attempt closed
+				iAttemptIdx++;
+				var iAttemptsLeft = CLZ.oStore[sQuestionId].A.length - iAttemptIdx;
+				if(iAttemptsLeft<0) iAttemptsLeft = 0;
+				if(iAttemptsLeft==0 || CLZ.oStore[sQuestionId].A[iAttemptIdx]==null)
+				{
+					oCurObj.data.bNoMoreAttempts = true;
+					CLO[argobj.pid].FireEvent({ sName: "onAttemptsLimit" });
+				}
+				else
+				{
+					if(argobj.bInitNext)
+					{
+						CLZ.oStore[sQuestionId].A[iAttemptIdx] =
+						{
+							s: iNow - CLZ.oStore[sQuestionId].s,
+							d: 0,
+							u: "i"
+						}
+						if((CLZ.oStore[sQuestionId].A.length>1) && (iAttemptIdx==CLZ.oStore[sQuestionId].A.length-1))
+						{
+							oCurObj.data.bLastAttempt = true;
+							oCurObj.FireEvent({ sName: "onLastAttemptStart" });
+						}
+					}
+				}
+				return true;
+			}]]>
+			</body>
+		</method>
+		<method name="CloseQuestion" label="_CloseQuestion" access="private">
+			<params>
+			</params>
+			<body>
+			<![CDATA[function CloseQuestion(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var sQuestionId = argobj.pid;
+				oCurObj.CallMethod({ sMethod: "Manage", oMethodArgs: { aActions: [ "deactivate", "disable" ] } } );
+				CLZ.oStore[sQuestionId].d = (new Date()).valueOf() - CLZ.oStore[sQuestionId].s;
+				CLZ.oStore[sQuestionId].u = "c";
+				oCurObj.FireEvent({ sName: "onQuestionEnd" });
+				return true;
+			}]]>
+			</body>
+		</method>
+		<method name="GetProperty" label="_GetProperty" access="private">
+			<params>
+			</params>
+			<body>
+			<![CDATA[function GetProperty(argobj)
+			{
+				if(argobj.pid==null || argobj.property==null) return "";
+				if(CLO[argobj.pid]==null) return "";
+				switch(argobj.property.toLowerCase())
+				{
+					case "questionmode":
+					{
+						return ((CLO[argobj.pid].data.sMode=="browse") ? "review" : "normal");
+					}
+					case "questiontype":
+					{
+						return CLO[argobj.pid].data.sType;
+					}
+					case "itemquantity":
+					{
+						return CLO[argobj.pid].data.jxVars.length;
+					}
+					case "questionvalue":
+					{
+						return CLZ.oStore[argobj.pid].R.join(",");
+					}
+					case "attemptslast":
+					{
+						var iAttemptsLeft = 0;
+						for(var i=0; i<CLZ.oStore[argobj.pid].A.length; i++)
+						{
+							if(CLZ.oStore[sQuestionId].A[i].u=="c") continue;
+							iAttemptsLeft = CLZ.oStore[argobj.pid].A.length - i;
+							break;
+						}
+						return iAttemptsLeft;
+					}
+					case "attemptstotal":
+					{
+						return CLZ.oStore[argobj.pid].A.length;
+					}
+				}
+				return "";
+			}]]>
+			</body>
+		</method>
+    </methods>
+</params>

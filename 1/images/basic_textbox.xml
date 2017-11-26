@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?><!--
+'*	basic_textbox
+'* 	CourseLab 3.0
+'*	Copyright (c) Websoft Ltd., Russia.  All rights reserved.
+--><params>
+	<object>
+		<format>3.0</format>
+		<label>Текстовый блок</label>
+		<description>Универсальный текстовый блок</description>
+		<width>320</width>
+		<height>240</height>
+		<default_text>text_main</default_text>
+		<default_color_bg>bg_color</default_color_bg>
+		<default_color_border>border_color</default_color_border>
+		<theme>theme</theme>
+		<states>
+			<state type="highlighted" name="При наведении">
+				<param id="shadow_strength" def="none"/>
+			</state>
+		</states>
+		<state_extension>true</state_extension>
+	</object>
+	<page name="Основные" w="320" h="164">
+		<param type="edit" id="hidden.text_area_warning" def="Область текста слишком мала" x="-10" y="-10" w="1" h="1"/>
+		
+		<param type="label" id="lab_text" text="Главный текст" def="" x="10" y="10" w="120" h="13"/>
+		<param type="textedit" id="text_main" text="" def="Текст по умолчанию" x="130" y="8" w="163" h="13"/>
+		<param type="label" id="lab_theme" text="Тема" def="" x="10" y="26" w="120" h="13"/>
+		<param type="select" id="theme" text="" def="light" x="130" y="24" w="180" h="13">
+			<items>
+				<item id="simple" label="Простая">
+					<events>
+						<event name="selendok" target="border_color" action="enable"/>
+						<event name="selendok" target="bg_color" action="enable"/>
+						<event name="selendok" target="fs_profile_text" action="hide"/>
+						<event name="selendok" target="fs_profile_custom" action="hide"/>
+					</events>
+				</item>
+				<item id="light" label="Легкая">
+					<events>
+						<event name="selendok" target="border_color" action="enable"/>
+						<event name="selendok" target="bg_color" action="enable"/>
+						<event name="selendok" target="fs_profile_text" action="hide"/>
+						<event name="selendok" target="fs_profile_custom" action="hide"/>
+					</events>
+				</item>
+				<item id="standard" label="Стандартная">
+					<events>
+						<event name="selendok" target="border_color" action="enable"/>
+						<event name="selendok" target="bg_color" action="enable"/>
+						<event name="selendok" target="fs_profile_text" action="hide"/>
+						<event name="selendok" target="fs_profile_custom" action="hide"/>
+					</events>
+				</item>
+				<item id="curve" label="Выпуклая">
+					<events>
+						<event name="selendok" target="border_color" action="disable"/>
+						<event name="selendok" target="bg_color" action="enable"/>
+						<event name="selendok" target="fs_profile_text" action="hide"/>
+						<event name="selendok" target="fs_profile_custom" action="hide"/>
+					</events>
+				</item>
+				<item id="gradient" label="Градиент">
+					<events>
+						<event name="selendok" target="border_color" action="disable"/>
+						<event name="selendok" target="bg_color" action="enable"/>
+						<event name="selendok" target="fs_profile_text" action="hide"/>
+						<event name="selendok" target="fs_profile_custom" action="hide"/>
+					</events>
+				</item>
+				<item id="relief" label="Рельеф">
+					<events>
+						<event name="selendok" target="border_color" action="enable"/>
+						<event name="selendok" target="bg_color" action="enable"/>
+						<event name="selendok" target="fs_profile_text" action="hide"/>
+						<event name="selendok" target="fs_profile_custom" action="hide"/>
+					</events>
+				</item>
+				<item id="text" label="Вариативная">
+					<events>
+						<event name="selendok" target="border_color" action="disable"/>
+						<event name="selendok" target="bg_color" action="enable"/>
+						<event name="selendok" target="fs_profile_text" action="show"/>
+						<event name="selendok" target="fs_profile_custom" action="hide"/>
+					</events>
+				</item>
+				<item id="custom" label="По выбору">
+					<events>
+						<event name="selendok" target="border_color" action="enable"/>
+						<event name="selendok" target="bg_color" action="enable"/>
+						<event name="selendok" target="fs_profile_text" action="show"/>
+						<event name="selendok" target="fs_profile_custom" action="show"/>
+					</events>
+				</item>
+			</items>
+		</param>
+		<param type="color" id="bg_color" text="" def="#B9DCFF" x="130" y="40" w="40" h="13"/>
+		<param type="color" id="border_color" text="" def="#336699" x="190" y="40" w="40" h="13"/>
+		<param type="fieldset" id="fs_profile_text">
+			<param type="label" id="lab_stroke_weight" text="Граница: толщина, радиус" x="10" y="58" w="120" h="13"/>
+			<param type="spinner" id="stroke_weight" text="" def="1" x="130" y="56" w="32" h="13" min="0" max="49"/>
+			<param type="label" id="lab_stroke_weight2" text="пкс" x="165" y="58" w="30" h="13"/>
+			<param type="spinner" id="border_radius" text="" def="10" x="190" y="56" w="32" h="13" min="0" max="49"/>
+			<param type="label" id="lab_border_radius2" text="пкс" x="225" y="58" w="50" h="13"/>
+			<param type="label" id="lab_gradient_angle" text="Угол градиента" x="10" y="74" w="120" h="13"/>
+			<param type="spinner" id="gradient_angle" text="" def="0" x="130" y="72" w="32" h="13" min="0" max="359"/>
+			<param type="label" id="lab_gradient_angle2" text="°" x="165" y="74" w="50" h="13"/>
+			<param type="label" text="Стиль границы" x="10" y="90" w="120" h="13"/>
+			<param type="select" id="border_style" text="" def="solid" x="130" y="88" w="120" h="13">
+				<items>
+					<item id="none" label="Без границы"/>
+					<item id="solid" label="Сплошная"/>
+					<item id="dotted" label="Точечная"/>
+					<item id="dashed" label="Пунктирная"/>
+					<item id="double" label="Двойная"/>
+					<item id="ridge" label="Гребень"/>
+					<item id="groove" label="Канавка"/>
+					<item id="inset" label="Поднимающаяся"/>
+					<item id="outset" label="Опускающаяся"/>
+				</items>
+			</param>
+		</param>
+		<param type="fieldset" id="fs_profile_custom">
+			<param type="color" id="gradient_color" text="" def="#CEE0FF" x="190" y="72" w="40" h="13"/>
+		</param>
+	</page>
+	<page name="Дополнительные" w="320" h="164">
+		<param type="check" id="hide_on_click" text="Закрывать по левой клавише мыши" def="no" x="10" y="8" w="240" h="13">
+			<events>
+				<event name="check" target="lab_close_title" action="enable"/>
+				<event name="check" target="close_title" action="enable"/>
+				<event name="uncheck" target="lab_close_title" action="disable"/>
+				<event name="uncheck" target="close_title" action="disable"/>
+			</events>
+		</param>
+		<param type="label" id="lab_close_title" text="Подсказка" def="" x="10" y="26" w="120" h="13"/>
+		<param type="edit" id="close_title" text="" def="Нажмите для закрытия" x="130" y="24" w="180" h="13"/>
+		<param type="label" id="lab_size_to" text="Размер" def="" x="10" y="42" w="120" h="13"/>
+		<param type="select" id="size_to" text="" def="container" x="130" y="40" w="120" h="13">
+			<items>
+				<item id="text" label="По тексту">
+					<events>
+						<event name="selendok" target="lab_valign" action="disable"/>
+						<event name="selendok" target="valign" action="disable"/>
+						<event name="selendok" target="lab_overflow" action="disable"/>
+						<event name="selendok" target="overflow" action="disable"/>
+					</events>
+				</item>
+				<item id="container" label="По контейнеру">
+					<events>
+						<event name="selendok" target="lab_valign" action="enable"/>
+						<event name="selendok" target="valign" action="enable"/>
+						<event name="selendok" target="lab_overflow" action="enable"/>
+						<event name="selendok" target="overflow" action="enable"/>
+					</events>
+				</item>
+			</items>
+		</param>
+		<param type="label" id="lab_valign" text="Верт. выравнивание" def="" x="10" y="58" w="120" h="11"/>
+		<param type="select" id="valign" text="" def="top" x="130" y="56" w="120" h="13">
+			<items>
+				<item id="top" label="Сверху"/>
+				<item id="middle" label="По полувысоте"/>
+				<item id="bottom" label="Снизу"/>
+			</items>
+		</param>
+		<param type="label" id="lab_overflow" text="Тип прокрутки" x="10" y="74" w="120" h="13"/>
+		<param type="select" id="overflow" text="" def="auto" x="130" y="72" w="120" h="13">
+			<items>
+				<item id="hidden" label="Скрытая"/>
+				<item id="auto" label="Автоматически"/>
+				<item id="scroll-y" label="Только вертикальная"/>
+				<item id="scroll-x" label="Только горизонтальная"/>
+				<item id="scroll" label="Полная"/>
+			</items>
+		</param>
+		<param type="label" id="lab_shadow_strength" text="Тень" def="" x="10" y="90" w="120" h="13"/>
+		<param type="select" id="shadow_strength" text="" def="normal" x="130" y="88" w="120" h="13">
+			<items>
+				<item id="none" label="Без тени"/>
+				<item id="extralight" label="Очень слабая"/>
+				<item id="light" label="Слабая"/>
+				<item id="normal" label="Нормальная"/>
+				<item id="dark" label="Интенсивная"/>
+				<item id="extradark" label="Очень интенсивная"/>
+			</items>
+		</param>
+		<param type="label" text="Отбивка текста" x="10" y="106" w="120" h="13"/>
+		<param type="spinner" id="text_padding" text="" def="10" x="130" y="104" w="32" h="13" min="0" max="99"/>
+		<param type="label" text="пкс" x="165" y="106" w="30" h="13"/>
+		<param type="check" id="typewriter" text="Развертка текста" def="no" x="10" y="120" w="120" h="13">
+			<events>
+				<event name="check" target="typewriter_speed" action="show"/>
+				<event name="check" target="lab_typewriter_speed" action="show"/>
+				<event name="uncheck" target="typewriter_speed" action="hide"/>
+				<event name="uncheck" target="lab_typewriter_speed" action="hide"/>
+			</events>
+		</param>
+		<param type="spinner" id="typewriter_speed" text="" def="5" x="130" y="120" w="32" h="13" min="1" max="20"/>
+		<param type="label" id="lab_typewriter_speed" text="симв./сек" x="165" y="122" w="70" h="13"/>
+		<param type="line" id="line_warning_1" x="5" y="138" w="310" h="1"/>
+		<param type="label" id="lab_warning_1" def="⚠ Некоторые параметры можно изменять только для основного состояния" text="⚠ Некоторые параметры можно изменять только для основного состояния" x="10" y="144" w="300" h="13">
+			<div2_events>
+                <event name="onload">
+					<sequence>
+						<step id="1">
+							<switch>
+								<case> 
+									<condition source_type="string" type="!=">
+										<left><![CDATA[default]]></left>
+										<right><![CDATA[*currentState*]]></right>
+									</condition>
+									<do>
+										<visible_action by="id" target="hide_on_click" action="disable"/>
+										<visible_action by="id" target="lab_close_title" action="disable"/>
+										<visible_action by="id" target="close_title" action="disable"/>
+										<visible_action by="id" target="lab_typewriter_speed" action="disable"/>
+										<visible_action by="id" target="typewriter" action="disable"/>
+										<visible_action by="id" target="typewriter_speed" action="disable"/>
+										<visible_action by="id" target="lab_warning_1" action="show"/>
+										<visible_action by="id" target="line_warning_1" action="show"/>
+									</do>
+								</case>
+								<otherwise>
+									<do>
+										<visible_action by="id" target="lab_warning_1" action="hide"/>
+										<visible_action by="id" target="line_warning_1" action="hide"/>
+									</do>
+								</otherwise>
+							</switch>
+						</step>
+					</sequence>
+				</event>
+			</div2_events>			
+		</param>
+	</page>
+	<methods>
+		<method name="Constructor" label="_Constructor" access="private">
+			<params>
+			</params>
+			<body>
+			<![CDATA[function Constructor(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var bDefer = false; 
+				switch(oCurObj.display)
+				{
+					case "none":
+					{
+						bDefer = true;
+						CL.Event.Subscribe({ aList: [ { sId: argobj.pid, sEvtName: "EVENT_OBJECT_SHOW" } ] });
+						break;
+					}
+					case "time":
+					case "frame":
+					case "slide":
+					{
+						if(oCurObj.iBegin!=null && +oCurObj.iBegin!=0)
+						{
+							bDefer = true;
+							CL.Event.Subscribe({ aList: [ { sId: argobj.pid, sEvtName: "EVENT_OBJECT_SHOW" } ] });
+						}
+						break;
+					}
+				}
+				if(oCurObj.jxParams.children("hide_on_click").text()=="yes")
+				{
+					jCurObjDiv.find(".cl-btn-close-object").on("click", function (e) { CLO[argobj.pid].CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); });
+				}
+				oCurObj.data =
+				{
+					bCreated: true,
+					bTypeWriter: (oCurObj.jxParams.children("typewriter").text()=="yes")
+				};
+				if(oCurObj.data.bTypeWriter)
+				{
+					var sSpeed = oCurObj.jxParams.children("typewriter_speed").text();
+					var iSpeed = (sSpeed=="") ? 10 : parseInt(sSpeed, 10);
+					if(isNaN(iSpeed)) iSpeed = 10;
+					oCurObj.data.iDelay = Math.round(1000/iSpeed);
+				}
+				var sHTML;
+				for(var sState in oCurObj.oStates)
+				{
+					oCurObj.oStates[sState].sText = (sState=="default") ? oCurObj.jxParams.children("text_main").text() : oCurObj.oStates[sState].jxParams.children("text_main").text();
+					sHTML = CL.Substitute.All({ sString: oCurObj.oStates[sState].sText });
+					jCurObjDiv.find("div[data-state='" + sState + "'] .cl-txt-box-cell").html( sHTML );
+				}
+				if(CL.bTouch)
+				{
+					oCurObj.data.jTextBox.on("touchmove", function(e) { e.stopPropagation() }).addClass("cl-touch-scroll");
+				}
+				if(!bDefer)
+				{
+					oCurObj.CallMethod({ sMethod: "Display" });
+				}
+				else
+				{
+					jCurObjDiv.find(".cl-container:first").hide();
+				}
+				return true;
+			}]]>
+			</body>
+		</method>
+		<method name="HandleEvt" label="_HandleEvt" access="private">
+            <params>
+            </params>
+            <body>
+			<![CDATA[function HandleEvt(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				if(oCurObj==null || jCurObjDiv==null) return false; 
+				switch(argobj.evt)
+				{
+					case "EVENT_OBJECT_SHOW":
+					{
+						if(!oCurObj.data.bCreated) return false;
+						oCurObj.CallMethod({ sMethod: "Display" });
+						break;
+					}
+				}
+				return true;
+			}]]>
+			</body>
+		</method>
+		<method name="Display" label="_Display" access="private">
+			<params>
+			</params>
+			<body>
+			<![CDATA[function Display(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				jCurObjDiv.find(".cl-container:first").show();
+				if(oCurObj.data.bTypeWriter)
+				{
+					oCurObj.CallMethod({ sMethod: "TypeWriter", oMethodArgs: { oElem: jCurObjDiv.find("div[data-state='default'] .cl-txt-box-cell"), iDelay: oCurObj.data.iDelay, iItem: 0 } });
+				}
+				return true;
+			}]]>
+			</body>
+		</method>
+		<method name="TypeWriter" label="_TypeWriter" access="private">
+			<params>
+			</params>
+			<body>
+			<![CDATA[function TypeWriter(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var jElem = $(argobj.oElem); 
+				if(jElem.attr("data-wrapped")=="yes")
+				{
+					jElem.find(".cl-char").each(function () { $(this).contents().unwrap() });
+				}
+				jElem.attr({ "data-wrapped": "yes" }).html( CL.Common.WrapCharacters({ sHTML: jElem.html() }) );
+				oCurObj.CallMethod({ sMethod: "NextChar", oMethodArgs: { oElem: jElem, iDelay: oCurObj.data.iDelay, iItem: 0 } });
+				return true;
+			}]]>
+			</body>
+		</method>
+		<method name="NextChar" label="_NextChar" access="private">
+			<params>
+			</params>
+			<body>
+			<![CDATA[function NextChar(argobj)
+			{
+				if(argobj==null) return false;
+				if(argobj.pid==null || argobj.oElem==null || argobj.iDelay==null || argobj.iItem==null)
+				{
+					return false;
+				}
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj==null)
+				{
+					return false;
+				}
+				var jElem = $(argobj.oElem);
+				var jItem = jElem.find(".cl-char[data-i='" + argobj.iItem + "']");
+				if(jItem.length==0)
+				{
+					oCurObj.FireEvent({ sName: "onTypeWriterEnd" });
+					return false;
+				}
+				jItem.contents().unwrap();
+				oCurObj.iTimer = setTimeout(function () { oCurObj.CallMethod({ sMethod: "NextChar", oMethodArgs: { oElem: argobj.oElem, iDelay: argobj.iDelay, iItem: (argobj.iItem+1) } }); }, argobj.iDelay);
+				return true;
+			}]]>
+			</body>
+		</method>
+		<method name="UIEvent" label="_UIEvent" access="private">
+			<params>
+			</params>
+			<body>
+			<![CDATA[function UIEvent(argobj)
+			{
+				if(argobj.evt==null) return false;
+				var jElem = $(argobj.elem);
+				switch(argobj.evt.type)
+				{
+					case "click":
+					{
+						CLO[argobj.pid].CallMethod({ sMethod: "Close" });
+						break;
+					}
+				}
+				return true;
+			}]]>
+			</body>
+		</method>
+		<method name="Close" label="ЗАКРЫТЬ" access="public">
+			<params>
+			</params>
+			<body>
+			<![CDATA[function Close(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj==null) return false; 
+				oCurObj.Hide();
+				oCurObj.FireEvent({ sName: "onCloseObject" });
+				return true;
+			}]]>
+			</body>
+		</method>
+		<method name="RefreshText" label="ОБНОВИТЬ" access="public">
+            <params>
+            </params>
+            <body>
+			<![CDATA[function RefreshText(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj==null) return false; 
+				var jCurObjDiv = $(oCurObj.div);
+				var jState;
+				for(var sState in oCurObj.oStates)
+				{
+					jState = jCurObjDiv.find("div[data-state='" + sState + "']");
+					jState.find(".cl-txt-box-cell").html(  CL.Substitute.All({ sString: oCurObj.oStates[sState].sText }) );
+				}
+				oCurObj.FireEvent({ sName: "onRefresh" });
+				return true;
+			}]]>
+			</body>
+		</method>
+		<method name="ResetText" label="СБРОСИТЬ" access="public">
+            <params>
+            </params>
+            <body>
+			<![CDATA[function ResetText(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj==null) return false; 
+				var jCurObjDiv = $(oCurObj.div);
+				var jState;
+				for(var sState in oCurObj.oStates)
+				{
+					oCurObj.oStates[sState].sText = (sState=="default") ? oCurObj.jxParams.children("text_main").text() : oCurObj.oStates[sState].jxParams.children("text_main").text();
+					jState = jCurObjDiv.find("div[data-state='" + sState + "']");
+					jState.find(".cl-txt-box-cell").html(  CL.Substitute.All({ sString: oCurObj.oStates[sState].sText }) );
+				}
+				oCurObj.FireEvent({ sName: "onReset" });
+				return true;
+			}]]>
+			</body>
+		</method>
+		<method name="AddText" label="ДОБАВИТЬ ТЕКСТ" access="public">
+            <params>
+				<param name="where" label="Позиция" default="end">
+					<items>
+						<item id="end" label="Конец текста"/>
+						<item id="start" label="Начало текста"/>
+					</items>
+				</param>
+				<param name="how" label="Разделитель" default="space">
+					<items>
+						<item id="break" label="Перевод строки"/>
+						<item id="space" label="Пробел"/>
+						<item id="p" label="Абзац"/>
+					</items>
+				</param>
+ 				<param name="value" label="Текст"/>
+			</params>
+            <body>
+			<![CDATA[function AddText(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var jState;
+				var sText;
+				for(var sState in oCurObj.oStates)
+				{
+					sText = CL.Common.AddText({ sHTML: oCurObj.oStates[sState].sText, sText: argobj.value, sWhere: argobj.where, sHow: argobj.how });
+					oCurObj.oStates[sState].sText = sText;
+					jCurObjDiv.find("div[data-state='" + sState + "'] .cl-txt-box-cell").html(  CL.Substitute.All({ sString: oCurObj.oStates[sState].sText }) );
+				}
+				oCurObj.FireEvent({ sName: "onAddText" });
+				return true;
+			}]]>
+			</body>
+		</method>
+		<method name="GetProperty" label="_GetProperty" access="private">
+			<params>
+			</params>
+			<body>
+			<![CDATA[function GetProperty(argobj)
+			{
+				if(argobj.pid==null || argobj.property==null) return "";
+				if(CLO[argobj.pid]==null) return "";
+				switch(argobj.property.toLowerCase())
+				{
+					case "state":
+					{
+						return oCurObj.sCurrentState;
+					}
+				}
+				return "";
+			}]]>
+			</body>
+		</method>
+	</methods>
+</params>

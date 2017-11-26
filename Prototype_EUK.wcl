@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Course file, saved 11/26/2017 1:43:46 PM by artem using CourseLab 171024 -->
+<course3>
+<aicc_code>Genetik_Inzh</aicc_code>
+<aicc_name>Прототип ЭУК</aicc_name>
+<aicc_description>null</aicc_description>
+<modules>
+<module>
+<name>1</name>
+<folder_id>1</folder_id>
+<file>1\1.xml</file>
+<aicc_code>Basic principles of the application of genetic</aicc_code>
+<aicc_name>Раздел 1. Введение в генную инженерию.</aicc_name>
+<aicc_description>null</aicc_description>
+<aicc_maxmark></aicc_maxmark>
+<aicc_reqmark></aicc_reqmark>
+</module>
+<module>
+<name>2</name>
+<folder_id>1</folder_id>
+<file>2\2.xml</file>
+<aicc_code>The use of enzymes</aicc_code>
+<aicc_name>Раздел 4. Применение ферментов в пищевой промышленности.</aicc_name>
+<aicc_description>null</aicc_description>
+<aicc_maxmark></aicc_maxmark>
+<aicc_reqmark></aicc_reqmark>
+</module>
+</modules>
+<folders>
+<folder>
+<name>Основные принципы применения генной инженерии в пищевой биотехнологии</name>
+<id>1</id>
+<folder_id>0</folder_id>
+</folder>
+</folders>
+<windows>
+<window>
+<module>2</module>
+<zoom>111</zoom>
+<active>true</active>
+<slide>SLIDE_31</slide>
+</window>
+</windows>
+</course3>
