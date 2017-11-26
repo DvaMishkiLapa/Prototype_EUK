@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Module file, saved 11/26/2017 3:19:02 PM by artem using CourseLab 171024 -->
+<!-- Module file, saved 11/26/2017 3:33:50 PM by artem using CourseLab 171024 -->
 <module format="3.1 171024" rev="2" slideWidth="1018" slideHeight="682" template="Standard\0004" file="C:\github\Prototype_EUK\1\1.xml">
 <font face="Calibri" style="1" size="18" color="#000000"/>
 <default_text></default_text>
@@ -1546,7 +1546,7 @@
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Строение и свойства нуклеиновых кислот &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="f9acdb8b_f761_41ef_8dc5_0ea43202f49b" id="TXT_6" left="60" top="112" width="898" height="131" display="frame" begin="0">
+<object type="iebox" guid="f9acdb8b_f761_41ef_8dc5_0ea43202f49b" id="TXT_6" left="60" top="112" width="898" height="73" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Нуклеиновая кислота &amp;mdash; высокомолекулярное органическое соединение, образованное остатками нуклеотидов. Нуклеиновые кислоты ДНК и РНК присутствуют в клетках всех живых организмов и выполняют важнейшие функции по хранению, передаче и реализации наследственной информации. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
@@ -1558,7 +1558,7 @@
 &lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Молекула ДНК, как правило, двухцепочечная, а РНК &amp;ndash; одноцепочечная.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="2e234aaf_ba36_4096_85dd_15d7be16a224" id="TXT_8" left="451" top="366" width="502" height="179" display="frame" begin="0">
+<object type="iebox" guid="2e234aaf_ba36_4096_85dd_15d7be16a224" id="TXT_8" left="451" top="366" width="502" height="125" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Пурины комплементарны пиримидинам (способны к образованию водородных связей): аденин образует связи только с тимином, а цитозин &amp;mdash; с гуанином. В двойной спирали цепочки также связаны с помощью гидрофобных взаимодействий и стэкинга&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
@@ -1662,11 +1662,11 @@
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;1. Эндонуклеазы рестрикции (рестриктазы) &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="d8fac772_792f_4a80_be55_0d04b61ae16a" id="TXT_17" left="79" top="134" width="859" height="117" display="frame" begin="0">
+<object type="iebox" guid="d8fac772_792f_4a80_be55_0d04b61ae16a" id="TXT_17" left="79" top="134" width="859" height="86" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Эндонуклеазы рестрикции, рестриктазы&amp;nbsp; &amp;mdash; группа ферментов, относящихся к классу гидролаз, катализирующих реакцию гидролиза нуклеиновых кислот. В отличие от экзонуклеаз, рестриктазы расщепляют нуклеиновые кислоты не с конца молекулы, а в середине.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:22px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Calibri;&quot;&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="53b10e2a_2ef6_4152_ba8b_da7e2030267a" id="TXT_18" left="79" top="246" width="859" height="323" display="frame" begin="0">
+<object type="iebox" guid="53b10e2a_2ef6_4152_ba8b_da7e2030267a" id="TXT_18" left="79" top="246" width="859" height="247" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;По механизму действия и молекулярной структуре различают три типа рестриктаз:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&amp;nbsp;&lt;/p&gt;
@@ -1696,7 +1696,7 @@
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Как складывается название рестриктаз &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="28d6807a_bc3b_4693_b091_8f3449e77565" id="TXT_21" left="172" top="133" width="672" height="306" display="frame" begin="0">
+<object type="iebox" guid="28d6807a_bc3b_4693_b091_8f3449e77565" id="TXT_21" left="172" top="133" width="672" height="288" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;line-height: 80%; margin-top: 7.2pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;Eco&lt;/span&gt;RI &amp;ndash; &lt;span style=&quot;font-style: italic;&quot;&gt;Escherichia coli&lt;/span&gt; strain R, 1&lt;span style=&quot;vertical-align: super;&quot;&gt;st&lt;/span&gt; enzyme&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p style=&quot;line-height: 80%; margin-top: 7.2pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;Bam&lt;/span&gt;HI &amp;ndash; &lt;span style=&quot;font-style: italic;&quot;&gt;Bacillus &lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;amyloliquefaciens&lt;/span&gt; strain H, 1&lt;span style=&quot;vertical-align: super;&quot;&gt;st&lt;/span&gt; enzyme&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
@@ -1712,7 +1712,7 @@
 &lt;p style=&quot;line-height: 80%; margin-top: 7.2pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;Sau&lt;/span&gt;3AI &amp;ndash; &lt;span style=&quot;font-style: italic;&quot;&gt;Staphylococcus &lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;aureus&lt;/span&gt; strain 3A, 1&lt;span style=&quot;vertical-align: super;&quot;&gt;st&lt;/span&gt; enzyme&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="a78d8fb2_4615_4255_9676_538bda7a4907" id="TXT_22" left="170" top="442" width="429" height="156" display="frame" begin="0">
+<object type="iebox" guid="a78d8fb2_4615_4255_9676_538bda7a4907" id="TXT_22" left="170" top="442" width="429" height="124" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;line-height: 80%; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Разрезание происходит&amp;nbsp; чаще всего в палиндромных&amp;nbsp; последовательностях&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p style=&quot;line-height: 80%; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;&quot;&gt;&amp;nbsp;&lt;/p&gt;
@@ -1726,7 +1726,7 @@
 &lt;p style=&quot;line-height: 80%; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&amp;nbsp; &amp;nbsp;&amp;nbsp; 3&amp;acute; GGG&amp;nbsp; CCC 5&amp;acute;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="0e08921f_1b6f_4083_8ad8_de8f33b55f7b" id="TXT_23" left="545" top="495" width="429" height="125" display="frame" begin="0">
+<object type="iebox" guid="0e08921f_1b6f_4083_8ad8_de8f33b55f7b" id="TXT_23" left="545" top="495" width="429" height="95" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;line-height: 80%; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;Eco&lt;/span&gt;RI: образует липкие концы&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p style=&quot;line-height: 80%; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;&quot;&gt;&amp;nbsp;&lt;/p&gt;
@@ -1774,7 +1774,7 @@
 <modal type="check">yes</modal>
 </params>
 </object>
-<object type="iebox" guid="de2da711_2eba_4840_99e8_a876537c0989" id="TXT_25" left="56" top="179" width="487" height="320" display="frame" begin="0">
+<object type="iebox" guid="de2da711_2eba_4840_99e8_a876537c0989" id="TXT_25" left="56" top="179" width="487" height="251" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Реакция разрезания осуществляется в две ступени. Сначала разрезается одна цепь ДНК, а затем рядом разрезается другая. В областях, прилегающих с каждой стороны к сайту разрезания, может иметь место экзонуклеотическая деградация. &lt;/span&gt;&lt;br /&gt;
 &lt;br /&gt;
 Полностью метилированный сайт не подвержен ни рестрикции, ни модификации. Полуметилированный сайт не узнается ферментом рестрикции, но может быть превращен с помощью метилазы в полностью метилированный.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
@@ -1826,7 +1826,7 @@
 <modal type="check">yes</modal>
 </params>
 </object>
-<object type="iebox" guid="560dc175_a7f6_4290_9ece_e117e34ae832" id="TXT_35" left="74" top="96" width="868" height="285" display="frame" begin="0">
+<object type="iebox" guid="560dc175_a7f6_4290_9ece_e117e34ae832" id="TXT_35" left="74" top="96" width="868" height="198" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;font-family: &#39;Times New Roman&#39;; font-size: medium; font-variant: normal; line-height: 19.200000762939453px; font-style: normal; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Сравнение размеров фрагментов ДНК, полученных после обработки определенного участка генома набором рестрицирующих нуклеаз, позволяет построить рестрикционную карту&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; font-family: &#39;Times New Roman&#39;; font-size: medium; font-variant: normal; line-height: 19.200000762939453px; font-style: normal; direction: ltr; word-break: normal; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;При построении&amp;nbsp;рестрикционных&amp;nbsp;карт обычно используют несколько&amp;nbsp;рестриктаз, поэтому приходится анализировать сложные соотношения между фрагментами, полученными при действии разных ферментов.&lt;br /&gt;
@@ -1850,7 +1850,7 @@
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-variant: normal; line-height: 28.799999237060547px; font-weight: bolder; font-style: normal; text-align: center;&quot;&gt;ДНК-лигазы&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:24px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Calibri;&quot;&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="5b8ccc63_0c76_4d09_b3ec_9d346843f305" id="TXT_37" left="75" top="95" width="868" height="355" display="frame" begin="0">
+<object type="iebox" guid="5b8ccc63_0c76_4d09_b3ec_9d346843f305" id="TXT_37" left="75" top="95" width="868" height="89" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;font-family: &#39;Times New Roman&#39;; font-size: medium; font-variant: normal; line-height: 19.200000762939453px; font-style: normal; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;ДНК-лигаза &amp;mdash; фермент, соединяющий одноцепочечный разрыв в цепи ДНК с помощью образования фосфодиэфирной связи между свободным 5&amp;#39;-фосфатным концом олиго- или полидезоксирибонуклеотида и 3&amp;#39;-ОН-группой соседнего олиго- или полидезоксирибонуклеотида.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
@@ -1880,7 +1880,7 @@
 <modal type="check">yes</modal>
 </params>
 </object>
-<object type="iebox" guid="841333bc_57ec_46fc_9694_63c087167120" id="TXT_85" left="73" top="213" width="430" height="353" display="frame" begin="0">
+<object type="iebox" guid="841333bc_57ec_46fc_9694_63c087167120" id="TXT_85" left="73" top="213" width="430" height="224" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;ДНК-лигазы разделяют на два семейства в зависимости от используемого ими кофактора в качестве донора AMP. - ATP-зависимые лигазы обнаруживают у бактериальных и эукариотических вирусов, архей, дрожжей, млекопитающих и эубактерий. - NAD+-зависимые ДНК-лигазы имеются почти исключительно у эубактерий. Один из самых распространённых коммерчески доступных ферментов &amp;mdash; ДНК-лигаза бактериофага Т4.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</text><hyperlinks/></ietext>]]></content>
 </object>
 </objects>
@@ -1982,7 +1982,7 @@
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Нуклеазы&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:24px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Calibri;&quot;&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="00dac2a5_e4d7_4e7d_948a_0bfcfe4e339a" id="TXT_47" left="74" top="97" width="868" height="529" display="frame" begin="0">
+<object type="iebox" guid="00dac2a5_e4d7_4e7d_948a_0bfcfe4e339a" id="TXT_47" left="74" top="97" width="868" height="357" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;u&gt;Нуклеаза S1 из Aspergillus orizae&lt;/u&gt;. Фермент специфически распознает и расщепляет одноцепочечные участки в одноцепочечных разрывах, брешах и петлях двухцепочечных ДНК, но не в одиночных ошибочно спаренных нуклеотидах.&lt;br /&gt;
 &lt;br /&gt;
 &lt;u&gt;Панкреатическая &lt;/u&gt;&lt;u&gt;рибонуклеаза&lt;/u&gt;&lt;u&gt; A (&lt;/u&gt;&lt;u&gt;РНКаза&lt;/u&gt;&lt;u&gt; A)&lt;/u&gt;. Является небольшим белком (124 а.о.), который обладает активностью эндорибонуклеазы, специфически расщепляющей фосфодиэфирные связи, образованные пиримидиновыми нуклеотидами.&lt;br /&gt;
@@ -2010,7 +2010,7 @@
 &lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;В определенных условиях линейную двухцепочечную молекулу ДНК можно контролируемо гидролизовать с помощью этой нуклеазы, что используется при конструировании гибридных молекул ДНК, когда необходимо сблизить их функциональные элементы&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="6d54beea_be49_4d5c_b137_5a90b27e4165" id="TXT_48" left="75" top="358" width="868" height="201" display="frame" begin="0">
+<object type="iebox" guid="6d54beea_be49_4d5c_b137_5a90b27e4165" id="TXT_48" left="75" top="358" width="868" height="116" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Это фермент, катализирующий присоединение дезоксирибонуклеотидов к 3&amp;#39;-ОН-концу молекул ДНК. Субстратом при использовании в качестве кофактора ионов Mg2+ является одноцепочечная ДНК с З&amp;#39;-ОН концом или двухцепочечная ДНК с выступающим одноцепочечным З&amp;#39;-ОН концом&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Фермент используют для формирования гибридных молекул. С ее помощью в 1972 г. был выполнен первый эксперимент по рекомбинации молекул ДНК in vitro.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
@@ -2182,7 +2182,7 @@
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Введение молекул ДНК в клетки&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:24px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Calibri;&quot;&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="733e87e9_2a2c_4926_90a2_fb6177658446" id="TXT_64" left="73" top="134" width="868" height="479" display="frame" begin="0">
+<object type="iebox" guid="733e87e9_2a2c_4926_90a2_fb6177658446" id="TXT_64" left="73" top="134" width="868" height="280" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Ввести рекомбинантный ген в клетку можно двумя способами: используя вектор или путем прямого введения.&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
 &lt;br /&gt;
 &amp;nbsp;&lt;/p&gt;
@@ -2210,7 +2210,7 @@
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Типы векторов&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:24px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Calibri;&quot;&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="4d038ae6_8dfb_4baf_9940_ce09b1293876" id="TXT_67" left="74" top="96" width="868" height="543" display="frame" begin="0">
+<object type="iebox" guid="4d038ae6_8dfb_4baf_9940_ce09b1293876" id="TXT_67" left="74" top="96" width="868" height="323" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;div style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;1.&amp;nbsp;&lt;span style=&quot;font-style: italic;&quot;&gt;Бактериальные &lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;плазмиды&lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt; (&lt;/span&gt;небольшие кольцевидные двухцепочечные молекулы ДНК, способные удваиваться независимо от хромосомы хозяина&lt;span style=&quot;font-style: italic;&quot;&gt;).&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
 
 &lt;div style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; direction: ltr; word-break: normal;&quot;&gt;&lt;br /&gt;
@@ -2241,7 +2241,7 @@
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Способы прямого введения гена в клетку&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:24px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Calibri;&quot;&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="ee7052a8_8c4c_420d_9e78_27b86f0eba65" id="TXT_69" left="74" top="95" width="868" height="543" display="frame" begin="0">
+<object type="iebox" guid="ee7052a8_8c4c_420d_9e78_27b86f0eba65" id="TXT_69" left="74" top="95" width="868" height="344" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;div&gt;
 &lt;div&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;1.&amp;nbsp;&lt;em&gt;Трансфекция&lt;/em&gt;. Процесс введения&amp;nbsp;нуклеиновой кислоты&amp;nbsp;в клетки&amp;nbsp;эукариот&amp;nbsp;невирусным методом &lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
 
@@ -2345,7 +2345,7 @@
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Расшифровка нуклеотидной последовательности ДНК&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:24px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Calibri;&quot;&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="2aeaf7e0_04a1_4014_954c_5638a3284219" id="TXT_74" left="74" top="137" width="868" height="426" display="frame" begin="0">
+<object type="iebox" guid="2aeaf7e0_04a1_4014_954c_5638a3284219" id="TXT_74" left="74" top="137" width="868" height="312" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Первый метод секвенирования ДНК, предложенный Ф. Сэнгером и А. Коулсоном в 1975 г, основан на ферментативных реакциях и носит название плюс-минус метод. Данный подход предполагает выделение одноцепочечного фрагмента ДНК, соответствующего исследуемому участку генома. Этот фрагмент используют затем в реакции полимеразного копирования в качестве матрицы, а в качестве праймера &amp;mdash; синтетические олигонуклеотиды или природные субфрагменты, получаемые после гидролиза определенными рестриктазами.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Метод включает два этапа. Сначала в ограниченных условиях проводят полимеразную реакцию в присутствии всех четырех типов dNTP (один из них мечен по альфа-положению фосфата), получая на выходе набор продуктов неполного копирования матричного фрагмента. Смесь очищают от несвязавшихся дезоксинуклеозидтрифосфатов и делят на восемь частей. После чего в &amp;quot;плюс&amp;quot; системе проводят четыре реакции в присутствии каждого из четырех типов нуклеотидов, а в &amp;quot;минус&amp;quot; системе - в отсутствие каждого из них. В результате, в &amp;quot;минус&amp;quot; системе терминация происходит перед dNTP данного типа, а в &amp;quot;плюс&amp;quot; системе - после него. Полученные таким образом восемь образцов разделяют с помощью электрофореза, &amp;quot;считывают&amp;quot; сигнал и определяли последовательность исходной ДНК.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
@@ -2367,7 +2367,7 @@
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Метод Сэнгера&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:24px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Calibri;&quot;&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="d07bb62b_1165_4643_905f_7990a672ab5b" id="TXT_76" left="45" top="102" width="464" height="543" display="frame" begin="0">
+<object type="iebox" guid="d07bb62b_1165_4643_905f_7990a672ab5b" id="TXT_76" left="45" top="102" width="465" height="285" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Реакционная смесь по Сэнгеру состоит из цепи ДНК, нуклеотидную последовательность которой надо определить, короткого фрагмента &amp;laquo;меченой&amp;raquo; ДНК, комплементарной концевому отрезку этой цепи (затравка), одного из четырех ddNTP и соответствующего dNTP в строго определенном соотношении (чтобы они конкурировали), а также остальных трех dNTP. Готовят четыре смеси, каждая из которых содержит один из четырех ddNTP. Каждой из пробирок образуется набор меченых фрагментов разной длины. Длина их зависит от того, в каком месте в цепь включен дефектный нуклеотид. Полученные меченые фрагменты ДНК разделяют в полиакриламидном геле.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
@@ -2413,7 +2413,7 @@
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;display: none;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Метод Максама-Гилберта&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;display: none;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size:24px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Calibri;&quot;&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="a9114e88_0e41_4531_8788_a7e95551ce57" id="TXT_79" left="45" top="122" width="464" height="543" display="frame" begin="0">
+<object type="iebox" guid="a9114e88_0e41_4531_8788_a7e95551ce57" id="TXT_79" left="45" top="122" width="464" height="317" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Метод основан на химической деградации ДНК. Он был предложен в 1976 году Максамом и Гилбертом и назван их именем. Суть метода сводится к следующему: один из концов фрагмента ДНК метят с&amp;nbsp; помощью изотопа фосфора 32Р. В последнее время вместо радиоактивной вводят флюоресцирующую метку. Ее можно &amp;laquo;цеплять&amp;raquo; и к нуклеотидам, причем для каждого типа нуклеотидов подбирать различную окраску. Препарат меченой ДНК делят на четыре порции и каждую из них обрабатывают реагентом, специфически разрушающим одно или два из четырех оснований, причем условия реакции подбирают таким образом, чтобы на каждую молекулу ДНК приходилось лишь несколько повреждений.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
@@ -2504,7 +2504,6 @@
 <subslide guid="be5499ed_199b_4e73_9afe_ffaf21732b03" id="FRAME_29" dur="0">
 <objects>
 <object type="div" guid="2c2f53e8_b29d_4692_8b5f_ec6a5acf7a2a" id="OBJ_13" state_extension="false" left="43" top="85" width="932" height="489" display="frame" begin="0">
-<selectedDialogButton>apply</selectedDialogButton>
 <default_text>text_main</default_text>
 <default_color_bg>bg_color</default_color_bg>
 <default_color_border>border_color</default_color_border>
@@ -3901,7 +3900,6 @@ TAAAAT&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
 </params>
 </object>
 <object type="div" guid="f800bc43_83f3_4a84_9eec_7f94c2666cf4" id="OBJ_29" left="31" top="73" width="956" height="514" display="frame" begin="0">
-<selectedDialogButton>cancel</selectedDialogButton>
 <default_text>text_main</default_text>
 <default_color_bg>bg_color</default_color_bg>
 <default_color_border>border_color</default_color_border>

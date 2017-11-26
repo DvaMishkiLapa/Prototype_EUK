@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Presentation file, saved 11/26/2017 3:17:48 PM using CourseLab 171024 -->
+<!-- Presentation file, saved 11/26/2017 3:31:21 PM using CourseLab 171024 -->
 <module>
 <runtime preview_fullscreen="yes" preview_fitwindow="no" fit_small_window="yes" showsplash="yes" seqslides="no" preloadimages="yes" normalize="no"/>
 <groups>
@@ -919,40 +919,27 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 </frame>
 </frames>
 </slide>
-<slide id="SLIDE_24" sid="z" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Амилолитические и целлюлолитические ферменты " indent="0">
+<slide id="SLIDE_24" sid="z" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Амилолитические, целлюлолитические и пектолитические ферменты" indent="0">
 <frames>
 <frame id="FRAME_25" dur="0" infinite="0">
-<object id="TXT_58" x="153" y="63" w="715" h="45" z="100" display="frame" begin="0">
+<object id="TXT_58" x="34" y="56" w="961" h="45" z="100" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 715px; height: 45px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Амилолитические</span><span style="font-weight: bold;"> и </span><span style="font-weight: bold;">целлюлолитические</span><span style="font-weight: bold;"> </span><span style="font-weight: bold;">ферменты&nbsp;</span></span></span><span style="font-size: 28pt; font-family: 'Times New Roman'; font-weight: bold;"> </span><span style="font-size:28px;"><strong><span style="font-family:times new roman,times,serif;"><span style="color: rgb(0, 0, 0);"> </span></span></strong></span></p></div>]]>
+<![CDATA[<div style="width: 961px; height: 45px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Амилолитические,</span><span style="font-weight: bold;">&nbsp;</span><span style="font-weight: bold;">целлюлолитические и п</span></span></span><span style="font-family: 'times new roman', times, serif; font-size: 28px; font-style: normal; font-variant: normal; font-weight: bold; line-height: 33.599998474121094px; text-align: center;">ектолитические</span><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">&nbsp;</span><span style="font-weight: bold;">ферменты&nbsp;</span></span></span><span style="font-size: 28pt; font-family: 'Times New Roman'; font-weight: bold;"> </span><span style="font-size:28px;"><strong><span style="font-family:times new roman,times,serif;"><span style="color: rgb(0, 0, 0);"> </span></span></strong></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_59" x="55" y="144" w="378" h="315" z="101" display="frame" begin="0">
+<object id="TXT_59" x="41" y="111" w="935" h="129" z="101" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 378px; height: 315px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal; text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Амилолитические</span><span style="font-weight: bold;"> ферменты </span>продуцируют грибы рода <span style="font-style: italic;">Aspergillus</span>, <span style="font-style: italic;">Penicillium</span><span style="font-style: italic;">, </span><span style="font-style: italic;">Mucor</span><span style="font-style: italic;"> </span>и бактерии рода <span style="font-style: italic;">Bacillus</span>. Самыми большими потребителями являются спиртовая и пивоваренная промышленности. Амилазы микробного происхождения добавляют при подготовке пивного сусла, при спиртовом брожении, чтобы перевести крахмал в форму, усваиваемую дрожжами. Тем самым можно ускорить или полностью заменить солодование зерна в пивоварении. Кроме того, амилолитические ферменты применяют в хлебобулочном производстве, способствуя улучшению структуры мякиша хлеба.</span></span></p></div>]]>
+<![CDATA[<div style="width: 935px; height: 129px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal; text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Амилолитические</span><span style="font-weight: bold;"> ферменты </span>продуцируют грибы рода <span style="font-style: italic;">Aspergillus</span>, <span style="font-style: italic;">Penicillium</span><span style="font-style: italic;">, </span><span style="font-style: italic;">Mucor</span><span style="font-style: italic;"> </span>и бактерии рода <span style="font-style: italic;">Bacillus</span>. Самыми большими потребителями являются спиртовая и пивоваренная промышленности. Амилазы микробного происхождения добавляют при подготовке пивного сусла, при спиртовом брожении, чтобы перевести крахмал в форму, усваиваемую дрожжами. Тем самым можно ускорить или полностью заменить солодование зерна в пивоварении. Кроме того, амилолитические ферменты применяют в хлебобулочном производстве, способствуя улучшению структуры мякиша хлеба.</span></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_60" x="573" y="143" w="378" h="315" z="102" display="frame" begin="0">
+<object id="TXT_60" x="39" y="257" w="940" h="139" z="102" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 378px; height: 315px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal; text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Целлюлолитические</span><span style="font-weight: bold;"> ферменты</span>, участвующие в гидролизе целлюлозы, представляют собой комплекс, состоящий из нескольких ферментов с различной специфичностью действия: эндоглюканазы, экзоглюкозидазы, &beta;-глюкозидазы и др. Целлюлазы и гемицеллюлазы могут быть получены только с помощью микроорганизмов. Целлюлазы, продуцируемые грибами родов <span style="font-style: italic;">Fusarium</span>, <span style="font-style: italic;">Trichoderma</span><span style="font-style: italic;">, </span><span style="font-style: italic;">Penicillium</span>, применяют в спирто-вой, пищеконцентратной промышленностях, где сырьем являются растительные материалы или отходы переработки растений, например, в производстве растворимого кофе.&nbsp;</span></span></p></div>]]>
+<![CDATA[<div style="width: 940px; height: 139px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal; text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Целлюлолитические</span><span style="font-weight: bold;"> ферменты</span>, участвующие в гидролизе целлюлозы, представляют собой комплекс, состоящий из нескольких ферментов с различной специфичностью действия: эндоглюканазы, экзоглюкозидазы, &beta;-глюкозидазы и др. Целлюлазы и гемицеллюлазы могут быть получены только с помощью микроорганизмов. Целлюлазы, продуцируемые грибами родов <span style="font-style: italic;">Fusarium</span>, <span style="font-style: italic;">Trichoderma</span><span style="font-style: italic;">, </span><span style="font-style: italic;">Penicillium</span>, применяют в спирто-вой, пищеконцентратной промышленностях, где сырьем являются растительные материалы или отходы переработки растений, например, в производстве растворимого кофе.&nbsp;</span></span></p></div>]]>
 </data>
 </object>
-<timeline>
-</timeline>
-</frame>
-</frames>
-</slide>
-<slide id="SLIDE_25" sid="B" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Пектолитические ферменты " indent="0">
-<frames>
-<frame id="FRAME_26" dur="0" infinite="0">
-<object id="TXT_61" x="34" y="64" w="951" h="36" z="100" display="frame" begin="0">
+<object id="TXT_87" x="37" y="410" w="943" h="156" z="103" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 951px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Пектолитические</span><span style="font-weight: bold;"> ферменты&nbsp;</span></span></span><span style="font-size:28px;"><strong><span style="font-family:times new roman,times,serif;"><span style="color: rgb(0, 0, 0);"> </span></span></strong></span></p></div>]]>
-</data>
-</object>
-<object id="TXT_62" x="31" y="111" w="958" h="196" z="101" display="frame" begin="0">
-<data>
-<![CDATA[<div style="width: 958px; height: 196px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Пектолитические</span><span style="font-weight: bold;"> ферменты </span>продуцируют грибы родов <span style="font-style: italic;">Aspergillus</span><span style="font-style: italic;"> </span><span style="font-style: italic;">(</span><span style="font-style: italic;">Aspergillus</span><span style="font-style: italic;"> </span><span style="font-style: italic;">niger</span><span style="font-style: italic;">)</span>, <span style="font-style: italic;">Penicillium</span>, бактерии <span style="font-style: italic;">Erwinia</span><span style="font-style: italic;"> </span><span style="font-style: italic;">caratovora</span><span style="font-style: italic;">, </span><span style="font-style: italic;">Clostridium</span> sp. Пектиназы представляют комплекс ферментов, состоящий из полигалактуроназы, пектинметилэстеразы и др. Эти ферменты использу-ют при производстве осветленных соков из плодов и ягод, для осветления вин. Применение пектиназ в производстве соков обусловлено тем, что они катализируют гидролиз пектиновых веществ растительных клеток, тем самым освобождая сок из клеточных структур. Применение пектиназ в виноделии увеличивает скорость фильтрации сусла, способствует его осветлению и стабилизации. При этом возрастает содержание экстрактивных веществ, витамина С, флавоноидов, обладающих Р-витаминной активностью.</span></span></p>
+<![CDATA[<div style="width: 943px; height: 156px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Пектолитические</span><span style="font-weight: bold;"> ферменты </span>продуцируют грибы родов <span style="font-style: italic;">Aspergillus</span><span style="font-style: italic;"> </span><span style="font-style: italic;">(</span><span style="font-style: italic;">Aspergillus</span><span style="font-style: italic;"> </span><span style="font-style: italic;">niger</span><span style="font-style: italic;">)</span>, <span style="font-style: italic;">Penicillium</span>, бактерии <span style="font-style: italic;">Erwinia</span><span style="font-style: italic;"> </span><span style="font-style: italic;">caratovora</span><span style="font-style: italic;">, </span><span style="font-style: italic;">Clostridium</span> sp. Пектиназы представляют комплекс ферментов, состоящий из полигалактуроназы, пектинметилэстеразы и др. Эти ферменты использу-ют при производстве осветленных соков из плодов и ягод, для осветления вин. Применение пектиназ в производстве соков обусловлено тем, что они катализируют гидролиз пектиновых веществ растительных клеток, тем самым освобождая сок из клеточных структур. Применение пектиназ в виноделии увеличивает скорость фильтрации сусла, способствует его осветлению и стабилизации. При этом возрастает содержание экстрактивных веществ, витамина С, флавоноидов, обладающих Р-витаминной активностью.</span></span></p>
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;">&nbsp;</p></div>]]>
 </data>
@@ -1032,17 +1019,17 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 </frame>
 </frames>
 </slide>
-<slide id="SLIDE_28" sid="E" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Пепсин и реннин (сычужный фермент)" indent="0">
+<slide id="SLIDE_28" sid="E" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Пепсин, реннин (сычужный фермент) и панкреатин" indent="0">
 <frames>
 <frame id="FRAME_29" dur="0" infinite="0">
-<object id="TXT_68" x="34" y="64" w="951" h="36" z="100" display="frame" begin="0">
+<object id="TXT_68" x="34" y="49" w="951" h="36" z="100" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 951px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Пепсин</span></span></span><span style="font-size:28px;"><strong><span style="font-family:times new roman,times,serif;"><span style="color: rgb(0, 0, 0);"> </span></span></strong></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_71" x="31" y="111" w="958" h="157" z="101" display="frame" begin="0">
+<object id="TXT_71" x="31" y="91" w="958" h="145" z="101" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 958px; height: 157px; box-sizing: border-box;"><ul>
+<![CDATA[<div style="width: 958px; height: 145px; box-sizing: border-box;"><ul>
 	<li><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Разрушает пептидную связь между аминокислотами с гидрофобными радикалами, например между валином (Val) и лейцином (Leu)</span></span><br />
 	&nbsp;</li>
 	<li><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Для пищевой промышленности&nbsp;используют желудочный фермент жвачных животных, вырабатываемый железами сычуга, отсюда его тривиальное название - сычужный фермент. Также известен как &laquo;реннин&quot;, &laquo;химозин&quot;.</span></span><br />
@@ -1051,9 +1038,9 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 </ul></div>]]>
 </data>
 </object>
-<object id="TXT_72" x="31" y="360" w="958" h="206" z="102" display="frame" begin="0">
+<object id="TXT_72" x="31" y="284" w="958" h="147" z="102" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 958px; height: 206px; box-sizing: border-box;"><ul>
+<![CDATA[<div style="width: 958px; height: 147px; box-sizing: border-box;"><ul>
 	<li><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Гидролизует связь между остатками&nbsp;лейцина&nbsp;в положениях 10 и 11 в ангиотензиногене</span></span><br />
 	&nbsp;</li>
 	<li><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Вырабатывается из слизистой желудка телят</span></span><br />
@@ -1064,25 +1051,17 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 </ul></div>]]>
 </data>
 </object>
-<object id="TXT_73" x="34" y="310" w="951" h="36" z="103" display="frame" begin="0">
+<object id="TXT_73" x="34" y="245" w="951" h="36" z="103" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 951px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Реннин</span><span style="font-weight: bold;"> (сычужный фермент)</span></span></span><span style="font-size:28px;"><strong><span style="font-family:times new roman,times,serif;"><span style="color: rgb(0, 0, 0);"> </span></span></strong></span></p></div>]]>
 </data>
 </object>
-<timeline>
-</timeline>
-</frame>
-</frames>
-</slide>
-<slide id="SLIDE_29" sid="I" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Панкреатин" indent="0">
-<frames>
-<frame id="FRAME_30" dur="0" infinite="0">
-<object id="TXT_74" x="34" y="64" w="951" h="36" z="100" display="frame" begin="0">
+<object id="TXT_86" x="35" y="443" w="951" h="36" z="104" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 951px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Панкреатин</span></span></span><span style="font-size:28px;"><strong><span style="font-family:times new roman,times,serif;"><span style="color: rgb(0, 0, 0);"> </span></span></strong></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_75" x="31" y="125" w="958" h="107" z="101" display="frame" begin="0">
+<object id="TXT_88" x="32" y="490" w="958" h="107" z="105" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 958px; height: 107px; box-sizing: border-box;"><ul dir="ltr">
 	<li style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Смесь трипсина, химотрипсина, липаз и амилаз</span></span><br />
@@ -1147,9 +1126,9 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 <![CDATA[<div style="width: 951px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Ферменты </span><span style="font-weight: bold;">карбогидразы</span></span></span><span style="font-size:28px;"><strong><span style="font-family:times new roman,times,serif;"><span style="color: rgb(0, 0, 0);"> </span></span></strong></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_80" x="31" y="125" w="958" h="526" z="101" display="frame" begin="0">
+<object id="TXT_80" x="31" y="125" w="958" h="257" z="101" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 958px; height: 526px; box-sizing: border-box;"><ul dir="ltr">
+<![CDATA[<div style="width: 958px; height: 257px; box-sizing: border-box;"><ul dir="ltr">
 	<li style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Амилаза &ndash; расщепляет крахмал, участвует в процессе&nbsp;пищеварения.&nbsp;Используются&nbsp;в&nbsp;спиртовой&nbsp;промышленности&nbsp;и&nbsp;в хлебопечении, а также&nbsp;при&nbsp;производстве&nbsp;глюкозы</span></span><br />
 	&nbsp;</li>
 	<li style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Целлюлаза &ndash; получение спирта и глюкозы</span></span><br />

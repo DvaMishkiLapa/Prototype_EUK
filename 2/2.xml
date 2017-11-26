@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Module file, saved 11/26/2017 3:17:48 PM by artem using CourseLab 171024 -->
+<!-- Module file, saved 11/26/2017 3:31:21 PM by artem using CourseLab 171024 -->
 <module format="3.1 171024" rev="2" slideWidth="1018" slideHeight="682" template="Standard\0004" file="C:\github\Prototype_EUK\2\2.xml">
 <font face="robotoregular, Arial, Helvetica, sans-serif" style="1" size="14" color="#333333"/>
 <default_text></default_text>
 <newids slide="SLIDE_" subslide="FRAME_" iebox="TXT_" image="IMG_" object="OBJ_" group="GROUP_"/>
 <import masterid="" left="0" top="0" width="0" height="0" commentsLeft="0" commentsTop="0" commentsWidth="0" commentsHeight="0" importComments="no" commentscolor="#000000" fiximages="yes"/>
 <runtime preview_fullscreen="yes" preview_fitwindow="no" fit_small_window="yes" showsplash="yes" seqslides="no" preloadimages="yes" normalize="no"/>
-<nextidentity slide="47" subslide="0" object="0" group="0" mousepointer="0" actionbox="0"/>
+<nextidentity slide="48" subslide="0" object="0" group="0" mousepointer="0" actionbox="0"/>
 <moduleColors>
 <color>996600</color>
 <color>cc9900</color>
@@ -585,7 +585,6 @@
 </params>
 </object>
 <object type="div" guid="a9ba45f8_5778_4a71_8e09_5e74aeadb353" id="OBJ_9" state_extension="false" left="54" top="202" width="720" height="400" display="frame" begin="0" hide_design="1">
-<selectedDialogButton>cancel</selectedDialogButton>
 <template>nav_0002_navi_win</template>
 <design_content><![CDATA[<style  >
 		.cl-container { width: 720px; height: 400px; min-width: 720px; min-height: 400px; max-width: 720px; max-height: 400px; }
@@ -920,7 +919,6 @@
 </params>
 </object>
 <object type="div" guid="f7a08719_7993_498f_bc31_b1a7fd31c626" id="OBJ_10" state_extension="false" left="121" top="202" width="720" height="400" display="frame" begin="0" hide_design="1">
-<selectedDialogButton>apply</selectedDialogButton>
 <template>nav_0002_navi_win</template>
 <design_content><![CDATA[<style  >
 		.cl-container { width: 720px; height: 400px; min-width: 720px; min-height: 400px; max-width: 720px; max-height: 400px; }
@@ -1386,7 +1384,6 @@
 </params>
 </object>
 <object type="div" guid="13da6e03_206c_418b_b284_baa8b478e282" id="OBJ_11" state_extension="false" left="988" top="10" width="16" height="15" display="frame" begin="0">
-<selectedDialogButton>cancel</selectedDialogButton>
 <default_color_bg>bg_color</default_color_bg>
 <default_color_border>border_color</default_color_border>
 <template>nav_0000_btn_navi</template>
@@ -2799,35 +2796,23 @@ VI класс &amp;ndash; &lt;strong&gt;Лигазы &lt;/strong&gt;&lt;/span&gt
 </subslide>
 </subslides>
 </slide>
-<slide guid="6c898c20_afd1_48d2_b7bf_dc22ce2feb82" id="SLIDE_24" sid="35" masterid="SLIDE_MASTER" name="Амилолитические и целлюлолитические ферменты " indent="0" infinite="1" advance="wait" transition="-1" durout="0">
+<slide guid="6c898c20_afd1_48d2_b7bf_dc22ce2feb82" id="SLIDE_24" sid="35" masterid="SLIDE_MASTER" name="Амилолитические, целлюлолитические и пектолитические ферменты" indent="0" infinite="1" advance="wait" transition="-1" durout="0">
 <subslides>
 <subslide guid="ca27db30_5f58_45b5_a4f5_a2ed3e88a70e" id="FRAME_25" dur="0">
 <objects>
-<object type="iebox" guid="376cec6b_9a2b_4239_b0d9_91685129e5e8" id="TXT_58" left="153" top="63" width="715" height="45" display="frame" begin="0">
-<content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Амилолитические&lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt; и &lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;целлюлолитические&lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;ферменты&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 28pt; font-family: &#39;Times New Roman&#39;; font-weight: bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+<object type="iebox" guid="376cec6b_9a2b_4239_b0d9_91685129e5e8" id="TXT_58" left="34" top="56" width="961" height="45" display="frame" begin="0">
+<content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Амилолитические,&lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;целлюлолитические и п&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &#39;times new roman&#39;, times, serif; font-size: 28px; font-style: normal; font-variant: normal; font-weight: bold; line-height: 33.599998474121094px; text-align: center;&quot;&gt;ектолитические&lt;/span&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;ферменты&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 28pt; font-family: &#39;Times New Roman&#39;; font-weight: bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="26b468d3_cd96_430f_8239_188f7723b005" id="TXT_59" left="55" top="144" width="378" height="315" display="frame" begin="0">
+<object type="iebox" guid="26b468d3_cd96_430f_8239_188f7723b005" id="TXT_59" left="41" top="111" width="935" height="129" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Амилолитические&lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt; ферменты &lt;/span&gt;продуцируют грибы рода &lt;span style=&quot;font-style: italic;&quot;&gt;Aspergillus&lt;/span&gt;, &lt;span style=&quot;font-style: italic;&quot;&gt;Penicillium&lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;Mucor&lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt; &lt;/span&gt;и бактерии рода &lt;span style=&quot;font-style: italic;&quot;&gt;Bacillus&lt;/span&gt;. Самыми большими потребителями являются спиртовая и пивоваренная промышленности. Амилазы микробного происхождения добавляют при подготовке пивного сусла, при спиртовом брожении, чтобы перевести крахмал в форму, усваиваемую дрожжами. Тем самым можно ускорить или полностью заменить солодование зерна в пивоварении. Кроме того, амилолитические ферменты применяют в хлебобулочном производстве, способствуя улучшению структуры мякиша хлеба.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="161b346c_c35d_4a8c_b921_1bc945c4dd5c" id="TXT_60" left="573" top="143" width="378" height="315" display="frame" begin="0">
+<object type="iebox" guid="161b346c_c35d_4a8c_b921_1bc945c4dd5c" id="TXT_60" left="39" top="257" width="940" height="139" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Целлюлолитические&lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt; ферменты&lt;/span&gt;, участвующие в гидролизе целлюлозы, представляют собой комплекс, состоящий из нескольких ферментов с различной специфичностью действия: эндоглюканазы, экзоглюкозидазы, &amp;beta;-глюкозидазы и др. Целлюлазы и гемицеллюлазы могут быть получены только с помощью микроорганизмов. Целлюлазы, продуцируемые грибами родов &lt;span style=&quot;font-style: italic;&quot;&gt;Fusarium&lt;/span&gt;, &lt;span style=&quot;font-style: italic;&quot;&gt;Trichoderma&lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;Penicillium&lt;/span&gt;, применяют в спирто-вой, пищеконцентратной промышленностях, где сырьем являются растительные материалы или отходы переработки растений, например, в производстве растворимого кофе.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-</objects>
-</subslide>
-</subslides>
-</slide>
-<slide guid="18bf4104_60f9_4bb0_92ad_9333db033186" id="SLIDE_25" sid="37" masterid="SLIDE_MASTER" name="Пектолитические ферменты " indent="0" infinite="1" advance="wait" transition="-1" durout="0">
-<subslides>
-<subslide guid="363e8b2a_d833_4735_84ad_bb411bc4b01e" id="FRAME_26" dur="0">
-<objects>
-<object type="iebox" guid="083945f0_4a2b_4440_8aac_3196bb02e3cd" id="TXT_61" left="34" top="64" width="951" height="36" display="frame" begin="0">
-<content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Пектолитические&lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt; ферменты&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
-</text><hyperlinks/></ietext>]]></content>
-</object>
-<object type="iebox" guid="a329eb99_92bc_4ce3_bf70_ab8d77f78931" id="TXT_62" left="31" top="111" width="958" height="196" display="frame" begin="0">
+<object type="iebox" guid="268289ad_6ffb_4c31_81a7_080d6ec0ff71" id="TXT_87" left="37" top="410" width="943" height="156" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Пектолитические&lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt; ферменты &lt;/span&gt;продуцируют грибы родов &lt;span style=&quot;font-style: italic;&quot;&gt;Aspergillus&lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;Aspergillus&lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;niger&lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;)&lt;/span&gt;, &lt;span style=&quot;font-style: italic;&quot;&gt;Penicillium&lt;/span&gt;, бактерии &lt;span style=&quot;font-style: italic;&quot;&gt;Erwinia&lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;caratovora&lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;Clostridium&lt;/span&gt; sp. Пектиназы представляют комплекс ферментов, состоящий из полигалактуроназы, пектинметилэстеразы и др. Эти ферменты использу-ют при производстве осветленных соков из плодов и ягод, для осветления вин. Применение пектиназ в производстве соков обусловлено тем, что они катализируют гидролиз пектиновых веществ растительных клеток, тем самым освобождая сок из клеточных структур. Применение пектиназ в виноделии увеличивает скорость фильтрации сусла, способствует его осветлению и стабилизации. При этом возрастает содержание экстрактивных веществ, витамина С, флавоноидов, обладающих Р-витаминной активностью.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;&quot;&gt;&amp;nbsp;&lt;/p&gt;
@@ -2901,15 +2886,15 @@ VI класс &amp;ndash; &lt;strong&gt;Лигазы &lt;/strong&gt;&lt;/span&gt
 </subslide>
 </subslides>
 </slide>
-<slide guid="fd87401e_8f1d_4f72_bc9a_d3de34827fbe" id="SLIDE_28" sid="40" masterid="SLIDE_MASTER" name="Пепсин и реннин (сычужный фермент)" indent="0" infinite="1" advance="wait" transition="-1" durout="0">
+<slide guid="fd87401e_8f1d_4f72_bc9a_d3de34827fbe" id="SLIDE_28" sid="40" masterid="SLIDE_MASTER" name="Пепсин, реннин (сычужный фермент) и панкреатин" indent="0" infinite="1" advance="wait" transition="-1" durout="0">
 <subslides>
 <subslide guid="c1fedf29_5a6b_421a_b2f9_bc3e0661e376" id="FRAME_29" dur="0">
 <objects>
-<object type="iebox" guid="b15ad4d0_5dca_410b_96a1_5c878b6f50be" id="TXT_68" left="34" top="64" width="951" height="36" display="frame" begin="0">
+<object type="iebox" guid="b15ad4d0_5dca_410b_96a1_5c878b6f50be" id="TXT_68" left="34" top="49" width="951" height="36" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Пепсин&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="44b1894e_a372_432e_9627_2a4aaced9186" id="TXT_71" left="31" top="111" width="958" height="157" display="frame" begin="0">
+<object type="iebox" guid="44b1894e_a372_432e_9627_2a4aaced9186" id="TXT_71" left="31" top="91" width="958" height="145" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;ul&gt;
 	&lt;li&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Разрушает пептидную связь между аминокислотами с гидрофобными радикалами, например между валином (Val) и лейцином (Leu)&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
 	&amp;nbsp;&lt;/li&gt;
@@ -2919,7 +2904,7 @@ VI класс &amp;ndash; &lt;strong&gt;Лигазы &lt;/strong&gt;&lt;/span&gt
 &lt;/ul&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="938ab5a5_61a1_4f5e_9f90_976bdae00fa3" id="TXT_72" left="31" top="360" width="958" height="206" display="frame" begin="0">
+<object type="iebox" guid="938ab5a5_61a1_4f5e_9f90_976bdae00fa3" id="TXT_72" left="31" top="284" width="958" height="147" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;ul&gt;
 	&lt;li&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Гидролизует связь между остатками&amp;nbsp;лейцина&amp;nbsp;в положениях 10 и 11 в ангиотензиногене&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
 	&amp;nbsp;&lt;/li&gt;
@@ -2931,23 +2916,15 @@ VI класс &amp;ndash; &lt;strong&gt;Лигазы &lt;/strong&gt;&lt;/span&gt
 &lt;/ul&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="2102a037_361d_44e0_9b37_ae9277ea7190" id="TXT_73" left="34" top="310" width="951" height="36" display="frame" begin="0">
+<object type="iebox" guid="2102a037_361d_44e0_9b37_ae9277ea7190" id="TXT_73" left="34" top="245" width="951" height="36" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Реннин&lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt; (сычужный фермент)&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-</objects>
-</subslide>
-</subslides>
-</slide>
-<slide guid="07aef122_fac0_407e_b5f7_dcde7f17d619" id="SLIDE_29" sid="44" masterid="SLIDE_MASTER" name="Панкреатин" indent="0" infinite="1" advance="wait" transition="-1" durout="0">
-<subslides>
-<subslide guid="3b11d75e_1770_4721_a3c4_8b5f9ec83b4b" id="FRAME_30" dur="0">
-<objects>
-<object type="iebox" guid="9c0b1db4_e820_4865_a69d_1d00cc2df4ad" id="TXT_74" left="34" top="64" width="951" height="36" display="frame" begin="0">
+<object type="iebox" guid="c1ec13d2_cb6f_4378_acd0_6681c278b360" id="TXT_86" left="35" top="443" width="951" height="36" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Панкреатин&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="5dfbc104_3f86_42ba_8ddc_8b07a008357a" id="TXT_75" left="31" top="125" width="958" height="107" display="frame" begin="0">
+<object type="iebox" guid="851b6d09_dcb5_4f72_bb44_0988183b6fdd" id="TXT_88" left="32" top="490" width="958" height="107" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;ul dir=&quot;ltr&quot;&gt;
 	&lt;li style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Смесь трипсина, химотрипсина, липаз и амилаз&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
 	&amp;nbsp;&lt;/li&gt;
@@ -3004,7 +2981,7 @@ VI класс &amp;ndash; &lt;strong&gt;Лигазы &lt;/strong&gt;&lt;/span&gt
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Ферменты &lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;карбогидразы&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="a77691a1_69d4_4245_8100_732659021a68" id="TXT_80" left="31" top="125" width="958" height="526" display="frame" begin="0">
+<object type="iebox" guid="a77691a1_69d4_4245_8100_732659021a68" id="TXT_80" left="31" top="125" width="958" height="257" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;ul dir=&quot;ltr&quot;&gt;
 	&lt;li style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Амилаза &amp;ndash; расщепляет крахмал, участвует в процессе&amp;nbsp;пищеварения.&amp;nbsp;Используются&amp;nbsp;в&amp;nbsp;спиртовой&amp;nbsp;промышленности&amp;nbsp;и&amp;nbsp;в хлебопечении, а также&amp;nbsp;при&amp;nbsp;производстве&amp;nbsp;глюкозы&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
 	&amp;nbsp;&lt;/li&gt;
@@ -3029,7 +3006,6 @@ VI класс &amp;ndash; &lt;strong&gt;Лигазы &lt;/strong&gt;&lt;/span&gt
 <subslide guid="df735fa6_2b03_4636_a4ce_d0f239c339ab" id="FRAME_33" dur="0">
 <objects>
 <object type="div" guid="7b2cc5b8_b203_4749_8ccc_1884a4bd7579" id="OBJ_45" state_extension="false" left="44" top="49" width="932" height="509" display="frame" begin="0">
-<selectedDialogButton>apply</selectedDialogButton>
 <default_text>text_main</default_text>
 <default_color_bg>bg_color</default_color_bg>
 <default_color_border>border_color</default_color_border>
@@ -4285,7 +4261,6 @@ function Adjust()
 </params>
 </object>
 <object type="div" guid="a85b5bb9_c348_48ef_bd25_857191df0998" id="OBJ_47" state_extension="false" left="33" top="48" width="953" height="555" display="none" begin="0" hide_design="1">
-<selectedDialogButton>apply</selectedDialogButton>
 <default_color_bg>bg_color</default_color_bg>
 <default_color_border>border_color</default_color_border>
 <theme>theme</theme>
@@ -4443,7 +4418,6 @@ function Adjust()
 </params>
 </object>
 <object type="div" guid="8c26c53e_a11f_4053_9df0_5d117669b0bd" id="OBJ_48" left="32" top="44" width="956" height="559" display="frame" begin="0">
-<selectedDialogButton>apply</selectedDialogButton>
 <default_text>text_main</default_text>
 <default_color_bg>bg_color</default_color_bg>
 <default_color_border>border_color</default_color_border>
