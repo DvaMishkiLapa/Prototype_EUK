@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Module file, saved 11/26/2017 3:33:50 PM by artem using CourseLab 171024 -->
+<!-- Module file, saved 11/30/2017 7:32:33 PM by artem using CourseLab 171024 -->
 <module format="3.1 171024" rev="2" slideWidth="1018" slideHeight="682" template="Standard\0004" file="C:\github\Prototype_EUK\1\1.xml">
 <font face="Calibri" style="1" size="18" color="#000000"/>
 <default_text></default_text>
@@ -2504,6 +2504,7 @@
 <subslide guid="be5499ed_199b_4e73_9afe_ffaf21732b03" id="FRAME_29" dur="0">
 <objects>
 <object type="div" guid="2c2f53e8_b29d_4692_8b5f_ec6a5acf7a2a" id="OBJ_13" state_extension="false" left="43" top="85" width="932" height="489" display="frame" begin="0">
+<selectedDialogButton>apply</selectedDialogButton>
 <default_text>text_main</default_text>
 <default_color_bg>bg_color</default_color_bg>
 <default_color_border>border_color</default_color_border>
@@ -3514,14 +3515,14 @@ TAAAAT&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
 <q_rangespot_up_1 type="file"></q_rangespot_up_1>
 <q_rangespot_down_0 type="file"></q_rangespot_down_0>
 <q_rangespot_down_1 type="file"></q_rangespot_down_1>
-<strings_header type="select">6</strings_header>
+<strings_header type="select">2</strings_header>
 <q_scored_msg type="edit"></q_scored_msg>
 <q_notscored_msg type="edit">Неоцениваемый тест</q_notscored_msg>
 <string_answered type="edit"></string_answered>
 <string_question_count type="edit">Вопрос {{1}} из {{2}}</string_question_count>
 <string_test_time type="edit">Время теста {{1}} мин {{2}} сек</string_test_time>
 <string_test_time_unlimited type="edit"></string_test_time_unlimited>
-<strings_instr type="select">2</strings_instr>
+<strings_instr type="select">10</strings_instr>
 <q_goal_true-false type="edit">Выберите правильный вариант</q_goal_true-false>
 <q_goal_choice type="edit">Выберите правильный вариант</q_goal_choice>
 <q_goal_select type="edit">Выберите все правильные варианты</q_goal_select>
@@ -3536,7 +3537,7 @@ TAAAAT&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
 <string_question_attempts type="edit"></string_question_attempts>
 <string_attempt_for_list type="edit">Ответ принимается сразу на все вопросы теста</string_attempt_for_list>
 <t_stop_msg type="edit">Тест остановлен по истечению времени</t_stop_msg>
-<t_allanswered_msg type="edit">Все вопросы отвечены. Тест закончен.</t_allanswered_msg>
+<t_allanswered_msg type="edit">Вы ответили на все вопросы. Тест закончен.</t_allanswered_msg>
 <string_question_time type="edit">Время вопроса {{1}} мин {{2}} сек</string_question_time>
 <string_question_time_unlimited type="edit"></string_question_time_unlimited>
 <strings_btns type="select">1</strings_btns>
@@ -3546,11 +3547,11 @@ TAAAAT&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
 <title_btn_submit type="edit">ОТВЕТИТЬ</title_btn_submit>
 <title_btn_next type="edit">ДАЛЕЕ</title_btn_next>
 <title_close_fb type="edit">Закрыть сообщение</title_close_fb>
-<strings_alerts type="select">5</strings_alerts>
-<t_continue_alert type="edit">Вы уже начинали проходить этот тест. Прохождение будет продолжено с последнего не законченного вопроса.</t_continue_alert>
-<t_browse_alert type="edit">Вы уже прошли этот тест. Повторный прохождение запрещено.</t_browse_alert>
-<t_secondrun_confirm type="edit">Вы уже отвечали на этот тест. Нажатие кнопки OK позволит Вам пройти его снова. Нажатие Cancel сохранит результаты предыдущего прохода.</t_secondrun_confirm>
-<t_proceed_confirm type="edit">В тесте остались не отвеченные вопросы. Вернуться к их прохождению?</t_proceed_confirm>
+<strings_alerts type="select">4</strings_alerts>
+<t_continue_alert type="edit">Вы уже начинали проходить данный тест. Прохождение будет продолжено с последнего не законченного вопроса.</t_continue_alert>
+<t_browse_alert type="edit">Вы уже прошли данный тест. Повторный прохождение запрещено.</t_browse_alert>
+<t_secondrun_confirm type="edit">Вы прошли данный тест. Нажатие кнопки OK позволит Вам пройти его снова. Нажатие Cancel сохранит результаты предыдущего прохода.</t_secondrun_confirm>
+<t_proceed_confirm type="edit">Вы не ответили на некоторые вопросы теста. Вернуться к их прохождению?</t_proceed_confirm>
 <q_input_alert type="edit">Пожалуйста, вводите только цифры и знаки</q_input_alert>
 <sound_click type="select">none</sound_click>
 <sound_click_file_custom type="file"></sound_click_file_custom>
@@ -3900,6 +3901,7 @@ TAAAAT&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
 </params>
 </object>
 <object type="div" guid="f800bc43_83f3_4a84_9eec_7f94c2666cf4" id="OBJ_29" left="31" top="73" width="956" height="514" display="frame" begin="0">
+<selectedDialogButton>cancel</selectedDialogButton>
 <default_text>text_main</default_text>
 <default_color_bg>bg_color</default_color_bg>
 <default_color_border>border_color</default_color_border>

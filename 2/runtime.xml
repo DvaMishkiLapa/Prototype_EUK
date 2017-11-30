@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Presentation file, saved 11/26/2017 3:31:21 PM using CourseLab 171024 -->
+<!-- Presentation file, saved 11/30/2017 7:32:32 PM using CourseLab 171024 -->
 <module>
 <runtime preview_fullscreen="yes" preview_fitwindow="no" fit_small_window="yes" showsplash="yes" seqslides="no" preloadimages="yes" normalize="no"/>
 <groups>
@@ -10477,10 +10477,10 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 <title_close_fb>Закрыть сообщение</title_close_fb>
 <strings_alerts>5</strings_alerts>
 <t_continue_alert>Вы уже начинали проходить этот тест. Прохождение будет продолжено с последнего не законченного вопроса.</t_continue_alert>
-<t_browse_alert>Вы уже прошли этот тест. Повторный прохождение запрещено.</t_browse_alert>
-<t_secondrun_confirm>Вы уже отвечали на этот тест. Нажатие кнопки OK позволит Вам пройти его снова. Нажатие Cancel сохранит результаты предыдущего прохода.</t_secondrun_confirm>
-<t_proceed_confirm>В тесте остались не отвеченные вопросы. Вернуться к их прохождению?</t_proceed_confirm>
-<q_input_alert>Пожалуйста, вводите только цифры и знаки</q_input_alert>
+<t_browse_alert>Вы уже прошли данный тест. Повторный прохождение запрещено.</t_browse_alert>
+<t_secondrun_confirm>Вы прошли данный тест. Нажатие кнопки OK позволит Вам пройти его снова. Нажатие Cancel сохранит результаты предыдущего прохода.</t_secondrun_confirm>
+<t_proceed_confirm>Вы не ответили на некоторые вопросы теста. Вернуться к их прохождению?</t_proceed_confirm>
+<q_input_alert>Пожалуйста, вводите только цифры и знаки.</q_input_alert>
 <sound_click>none</sound_click>
 <sound_click_file_custom></sound_click_file_custom>
 <sound_over>none</sound_over>
