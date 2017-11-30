@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Presentation file, saved 11/30/2017 7:32:33 PM using CourseLab 171024 -->
+<!-- Presentation file, saved 11/30/2017 7:43:13 PM using CourseLab 171024 -->
 <module>
 <runtime preview_fullscreen="yes" preview_fitwindow="no" fit_small_window="yes" showsplash="yes" seqslides="no" preloadimages="yes" normalize="no"/>
 <groups>
@@ -10004,7 +10004,7 @@ TAAAAT</span></span></p>]]></q_variant>
 <title_btn_submit>ОТВЕТИТЬ</title_btn_submit>
 <title_btn_next>ДАЛЕЕ</title_btn_next>
 <title_close_fb>Закрыть сообщение</title_close_fb>
-<strings_alerts>4</strings_alerts>
+<strings_alerts>3</strings_alerts>
 <t_continue_alert>Вы уже начинали проходить данный тест. Прохождение будет продолжено с последнего не законченного вопроса.</t_continue_alert>
 <t_browse_alert>Вы уже прошли данный тест. Повторный прохождение запрещено.</t_browse_alert>
 <t_secondrun_confirm>Вы прошли данный тест. Нажатие кнопки OK позволит Вам пройти его снова. Нажатие Cancel сохранит результаты предыдущего прохода.</t_secondrun_confirm>
