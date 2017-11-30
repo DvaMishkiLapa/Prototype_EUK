@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Module file, saved 11/30/2017 7:32:33 PM by artem using CourseLab 171024 -->
+<!-- Module file, saved 11/30/2017 7:43:13 PM by artem using CourseLab 171024 -->
 <module format="3.1 171024" rev="2" slideWidth="1018" slideHeight="682" template="Standard\0004" file="C:\github\Prototype_EUK\1\1.xml">
 <font face="Calibri" style="1" size="18" color="#000000"/>
 <default_text></default_text>
@@ -3547,7 +3547,7 @@ TAAAAT&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
 <title_btn_submit type="edit">ОТВЕТИТЬ</title_btn_submit>
 <title_btn_next type="edit">ДАЛЕЕ</title_btn_next>
 <title_close_fb type="edit">Закрыть сообщение</title_close_fb>
-<strings_alerts type="select">4</strings_alerts>
+<strings_alerts type="select">3</strings_alerts>
 <t_continue_alert type="edit">Вы уже начинали проходить данный тест. Прохождение будет продолжено с последнего не законченного вопроса.</t_continue_alert>
 <t_browse_alert type="edit">Вы уже прошли данный тест. Повторный прохождение запрещено.</t_browse_alert>
 <t_secondrun_confirm type="edit">Вы прошли данный тест. Нажатие кнопки OK позволит Вам пройти его снова. Нажатие Cancel сохранит результаты предыдущего прохода.</t_secondrun_confirm>
@@ -3901,7 +3901,7 @@ TAAAAT&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
 </params>
 </object>
 <object type="div" guid="f800bc43_83f3_4a84_9eec_7f94c2666cf4" id="OBJ_29" left="31" top="73" width="956" height="514" display="frame" begin="0">
-<selectedDialogButton>cancel</selectedDialogButton>
+<selectedDialogButton>apply</selectedDialogButton>
 <default_text>text_main</default_text>
 <default_color_bg>bg_color</default_color_bg>
 <default_color_border>border_color</default_color_border>
