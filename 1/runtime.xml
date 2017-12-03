@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Presentation file, saved 11/30/2017 7:43:13 PM using CourseLab 171024 -->
+<!-- Presentation file, saved 12/3/2017 3:36:24 PM using CourseLab 171024 -->
 <module>
 <runtime preview_fullscreen="yes" preview_fitwindow="no" fit_small_window="yes" showsplash="yes" seqslides="no" preloadimages="yes" normalize="no"/>
 <groups>
@@ -153,9 +153,9 @@
 <p style="line-height: 80%; margin-top: 7.2pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-style: italic;">Sau</span>3AI &ndash; <span style="font-style: italic;">Staphylococcus </span><span style="font-style: italic;">aureus</span> strain 3A, 1<span style="vertical-align: super;">st</span> enzyme</span></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_22" x="170" y="442" w="429" h="124" z="103" display="frame" begin="0">
+<object id="TXT_22" x="170" y="442" w="433" h="148" z="103" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 429px; height: 124px; box-sizing: border-box;"><p style="line-height: 80%; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Разрезание происходит&nbsp; чаще всего в палиндромных&nbsp; последовательностях</span></span></p>
+<![CDATA[<div style="width: 433px; height: 148px; box-sizing: border-box;"><p style="line-height: 80%; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Разрезание происходит&nbsp; чаще всего в палиндромных&nbsp; последовательностях</span></span></p>
 
 <p style="line-height: 80%; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;">&nbsp;</p>
 
@@ -168,9 +168,9 @@
 <p style="line-height: 80%; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&nbsp; &nbsp;&nbsp; 3&acute; GGG&nbsp; CCC 5&acute;&nbsp;</span></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_23" x="545" y="495" w="429" h="95" z="104" display="frame" begin="0">
+<object id="TXT_23" x="545" y="495" w="429" h="105" z="104" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 429px; height: 95px; box-sizing: border-box;"><p style="line-height: 80%; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-style: italic;">Eco</span>RI: образует липкие концы</span></span></p>
+<![CDATA[<div style="width: 429px; height: 105px; box-sizing: border-box;"><p style="line-height: 80%; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-style: italic;">Eco</span>RI: образует липкие концы</span></span></p>
 
 <p style="line-height: 80%; margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;">&nbsp;</p>
 
@@ -921,17 +921,17 @@
 </object>
 <object id="OBJ_29" x="31" y="73" w="956" h="514" z="103" display="frame" begin="0" type="basic_popup">
 <data>
-<![CDATA[<div class="cl-wrapper" style=""><div class="cl-audio-files-list" style="display: none"  /><div class="cl-container cl-theme-light unselectable" data-adjuster="43" ><div class="style-custom" data-ie9="1" style="display: none"><div class="rule" data-name="#OBJ_29 .cl-header-box"><span class="rule-dynamic" data-ie9="1" data-type="linear-gradient" data-angle="0" data-colors="#B9DCFF|0;#E8F4FF|100" /></div></div><div class="cl-outer-box  unselectable" style="height: 512px; background-color: #FFFFFF; border-color: #336699; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; -moz-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); -webkit-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); box-shadow: 2px 2px 6px rgba(102,102,102,0.66);"><div class="cl-inner-box"><div class="cl-header-box" style="background-color: #B9DCFF; -moz-border-radius: 4px 4px 0 0; -webkit-border-radius: 4px 4px 0 0; border-radius: 4px 4px 0 0; background-image: -o-linear-gradient(90deg,#B9DCFF 0%,#E8F4FF 100%); background-image: -ms-linear-gradient(90deg,#B9DCFF 0%,#E8F4FF 100%); background-image: -moz-linear-gradient(90deg,#B9DCFF 0%,#E8F4FF 100%); background-image: -webkit-linear-gradient(90deg,#B9DCFF 0%,#E8F4FF 100%); background-image: linear-gradient(0deg,#B9DCFF 0%,#E8F4FF 100%);"><table cellpadding="0" cellspacing="0" border="0" class="cl-header-table"><tr><td class="cl-header-td cl-header-txt-box" style="color: #336699; padding: 10px;"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;"><span style="line-height: 21.600000381469727px;">Правила проведения теста</span></span></span></td></tr></table></div><div class="cl-txt-container" style="border-color: #336699; border-style: solid none none none; border-width: 1px 0 0 0; background-color: #FFFFFF; padding: 20px; -moz-border-radius: 0 0 4px 4px; -webkit-border-radius: 0 0 4px 4px; border-radius: 0 0 4px 4px;"><div class="cl-txt-box" style="overflow-y: auto;"><p align="center"><span style="font-size:20px;">Прохождение следующего теста имеет ряд правил и ограничений:</span></p>
+<![CDATA[<div class="cl-wrapper" style=""><div class="cl-audio-files-list" style="display: none"  /><div class="cl-container cl-theme-light unselectable" data-adjuster="43" ><div class="style-custom" data-ie9="1" style="display: none"><div class="rule" data-name="#OBJ_29 .cl-header-box"><span class="rule-dynamic" data-ie9="1" data-type="linear-gradient" data-angle="0" data-colors="#B9DCFF|0;#E8F4FF|100" /></div></div><div class="cl-outer-box  unselectable" style="height: 512px; background-color: #FFFFFF; border-color: #336699; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; -moz-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); -webkit-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); box-shadow: 2px 2px 6px rgba(102,102,102,0.66);"><div class="cl-inner-box"><div class="cl-header-box" style="background-color: #B9DCFF; -moz-border-radius: 4px 4px 0 0; -webkit-border-radius: 4px 4px 0 0; border-radius: 4px 4px 0 0; background-image: -o-linear-gradient(90deg,#B9DCFF 0%,#E8F4FF 100%); background-image: -ms-linear-gradient(90deg,#B9DCFF 0%,#E8F4FF 100%); background-image: -moz-linear-gradient(90deg,#B9DCFF 0%,#E8F4FF 100%); background-image: -webkit-linear-gradient(90deg,#B9DCFF 0%,#E8F4FF 100%); background-image: linear-gradient(0deg,#B9DCFF 0%,#E8F4FF 100%);"><table cellpadding="0" cellspacing="0" border="0" class="cl-header-table"><tr><td class="cl-header-td cl-header-txt-box" style="color: #336699; padding: 10px;"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;"><span style="line-height: 21.600000381469727px;">Правила проведения теста</span></span></span></td></tr></table></div><div class="cl-txt-container" style="border-color: #336699; border-style: solid none none none; border-width: 1px 0 0 0; background-color: #FFFFFF; padding: 20px; -moz-border-radius: 0 0 4px 4px; -webkit-border-radius: 0 0 4px 4px; border-radius: 0 0 4px 4px;"><div class="cl-txt-box" style="overflow-y: auto;"><p align="center"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Прохождение следующего теста имеет ряд правил и ограничений:</span></span></p>
 
-<p align="center"><span style="font-size:20px;">Время прохождения теста <strong>не ограничено</strong>.</span></p>
+<p align="center"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Время прохождения теста <strong>не ограничено</strong>.</span></span></p>
 
-<p align="center"><span style="font-size:20px;">На прохождение теста дается лишь&nbsp;<strong>одна попытка</strong>.</span></p>
+<p align="center"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">На прохождение теста дается лишь&nbsp;<strong>одна попытка</strong>.</span></span></p>
 
-<p align="center"><span style="font-size:20px;">В тесте содержится&nbsp;<strong>10 вопросов</strong>. За каждый правильный ответ будет начислятся один балл.</span></p>
+<p align="center"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">В тесте содержится&nbsp;<strong>10 вопросов</strong>. За каждый правильный ответ будет начислятся один балл.</span></span></p>
 
-<p align="center"><span style="font-size:20px;">Некоторые вопросы предполагают&nbsp;как множественный выбор вариантов ответов, так и единственный. Это будет указанно в каждом вопросе в процессе прохождения теста.</span></p>
+<p align="center"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Некоторые из вопросов предполагают множественный выбор вариантов ответов. Внимательно следите за описанием вопросов в тесте.</span></span></p>
 
-<p align="center"><span style="font-size:20px;">Тест будет считаться успешно пройдённым, если будет набрано&nbsp;<strong>7&nbsp;или более баллов</strong>.</span></p>
+<p align="center"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Тест будет считаться успешно пройдённым, если будет набрано&nbsp;<strong>7&nbsp;или более баллов</strong>.</span></span></p>
 
 <p>&nbsp;</p></div></div></div></div></div></div>]]>
 </data>
@@ -9979,10 +9979,10 @@ TAAAAT</span></span></p>]]></q_variant>
 <string_question_count>Вопрос {{1}} из {{2}}</string_question_count>
 <string_test_time>Время теста {{1}} мин {{2}} сек</string_test_time>
 <string_test_time_unlimited></string_test_time_unlimited>
-<strings_instr>10</strings_instr>
+<strings_instr>3</strings_instr>
 <q_goal_true-false>Выберите правильный вариант</q_goal_true-false>
 <q_goal_choice>Выберите правильный вариант</q_goal_choice>
-<q_goal_select>Выберите все правильные варианты</q_goal_select>
+<q_goal_select>Выберите &lt;b&gt;все&lt;/b&gt; правильные варианты</q_goal_select>
 <q_goal_order>Расположите варианты в правильном порядке</q_goal_order>
 <q_goal_numeric>Введите числовое значение</q_goal_numeric>
 <q_goal_fib>Введите строковое значение</q_goal_fib>
@@ -10220,17 +10220,17 @@ TAAAAT</span></span></p>]]></q_variant>
 <param objectid="OBJ_29">
 <display_header>yes</display_header>
 <text_header><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;"><span style="line-height: 21.600000381469727px;">Правила проведения теста</span></span></span>]]></text_header>
-<text_main><![CDATA[<p align="center"><span style="font-size:20px;">Прохождение следующего теста имеет ряд правил и ограничений:</span></p>
+<text_main><![CDATA[<p align="center"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Прохождение следующего теста имеет ряд правил и ограничений:</span></span></p>
 
-<p align="center"><span style="font-size:20px;">Время прохождения теста <strong>не ограничено</strong>.</span></p>
+<p align="center"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Время прохождения теста <strong>не ограничено</strong>.</span></span></p>
 
-<p align="center"><span style="font-size:20px;">На прохождение теста дается лишь&nbsp;<strong>одна попытка</strong>.</span></p>
+<p align="center"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">На прохождение теста дается лишь&nbsp;<strong>одна попытка</strong>.</span></span></p>
 
-<p align="center"><span style="font-size:20px;">В тесте содержится&nbsp;<strong>10 вопросов</strong>. За каждый правильный ответ будет начислятся один балл.</span></p>
+<p align="center"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">В тесте содержится&nbsp;<strong>10 вопросов</strong>. За каждый правильный ответ будет начислятся один балл.</span></span></p>
 
-<p align="center"><span style="font-size:20px;">Некоторые вопросы предполагают&nbsp;как множественный выбор вариантов ответов, так и единственный. Это будет указанно в каждом вопросе в процессе прохождения теста.</span></p>
+<p align="center"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Некоторые из вопросов предполагают множественный выбор вариантов ответов. Внимательно следите за описанием вопросов в тесте.</span></span></p>
 
-<p align="center"><span style="font-size:20px;">Тест будет считаться успешно пройдённым, если будет набрано&nbsp;<strong>7&nbsp;или более баллов</strong>.</span></p>
+<p align="center"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Тест будет считаться успешно пройдённым, если будет набрано&nbsp;<strong>7&nbsp;или более баллов</strong>.</span></span></p>
 
 <p>&nbsp;</p>]]></text_main>
 <theme>light</theme>
