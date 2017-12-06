@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Module file, saved 12/3/2017 3:58:48 PM by artem using CourseLab 171024 -->
+<!-- Module file, saved 12/6/2017 4:52:17 PM by artem using CourseLab 171024 -->
 <module format="3.1 171024" rev="2" slideWidth="1018" slideHeight="682" template="Standard\0004" file="C:\github\Prototype_EUK\1\1.xml">
 <font face="Calibri" style="1" size="18" color="#000000"/>
 <default_text></default_text>
@@ -3900,6 +3900,7 @@ TAAAAT&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
 </params>
 </object>
 <object type="div" guid="f800bc43_83f3_4a84_9eec_7f94c2666cf4" id="OBJ_29" left="31" top="73" width="956" height="514" display="frame" begin="0">
+<selectedDialogButton>apply</selectedDialogButton>
 <default_text>text_main</default_text>
 <default_color_bg>bg_color</default_color_bg>
 <default_color_border>border_color</default_color_border>
