@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Presentation file, saved 12/6/2017 6:37:10 PM using CourseLab 171024 -->
+<!-- Presentation file, saved 12/10/2017 10:49:51 PM using CourseLab 171024 -->
 <module>
 <runtime preview_fullscreen="yes" preview_fitwindow="no" fit_small_window="yes" showsplash="yes" seqslides="no" preloadimages="yes" normalize="no"/>
 <groups>
@@ -684,7 +684,7 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 <![CDATA[<div style="width: 951px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Ферментные препараты, выпускающиеся в РФ</span></span></span><span style="font-size:28px;"><strong><span style="font-family:times new roman,times,serif;"><span style="color: rgb(0, 0, 0);"> </span></span></strong></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_49" x="33" y="165" w="280" h="158" z="101" display="frame" begin="0">
+<object id="TXT_49" x="35" y="164" w="280" h="158" z="101" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 280px; height: 158px; box-sizing: border-box;"><p><em><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><strong>Амилосубтилин</strong></span></span></em><br />
 <em><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><strong>(Bacillus subtilis)</strong></span></span></em></p>
@@ -10443,17 +10443,17 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 <q_rangespot_up_1></q_rangespot_up_1>
 <q_rangespot_down_0></q_rangespot_down_0>
 <q_rangespot_down_1></q_rangespot_down_1>
-<strings_header>6</strings_header>
+<strings_header>4</strings_header>
 <q_scored_msg></q_scored_msg>
 <q_notscored_msg>Неоцениваемый тест</q_notscored_msg>
 <string_answered></string_answered>
 <string_question_count>Вопрос {{1}} из {{2}}</string_question_count>
 <string_test_time>Время теста {{1}} мин {{2}} сек</string_test_time>
 <string_test_time_unlimited></string_test_time_unlimited>
-<strings_instr>7</strings_instr>
+<strings_instr>3</strings_instr>
 <q_goal_true-false>Выберите правильный вариант</q_goal_true-false>
 <q_goal_choice>Выберите правильный вариант</q_goal_choice>
-<q_goal_select>Выберите все правильные варианты</q_goal_select>
+<q_goal_select>Выберите &lt;b&gt;все&lt;/b&gt; правильные варианты</q_goal_select>
 <q_goal_order>Расположите варианты в правильном порядке</q_goal_order>
 <q_goal_numeric>Введите числовое значение</q_goal_numeric>
 <q_goal_fib>Введите строковое значение</q_goal_fib>
