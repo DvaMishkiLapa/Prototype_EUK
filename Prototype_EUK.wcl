@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Course file, saved 12/10/2017 10:49:49 PM by artem using CourseLab 171024 -->
+<!-- Course file, saved 12/11/2017 11:38:10 AM by artem using CourseLab 171024 -->
 <course3>
 <aicc_code>Genetik_Inzh</aicc_code>
 <aicc_name>Прототип ЭУК</aicc_name>
@@ -25,6 +25,16 @@
 <aicc_maxmark></aicc_maxmark>
 <aicc_reqmark></aicc_reqmark>
 </module>
+<module>
+<name>3</name>
+<folder_id>1</folder_id>
+<file>3\3.xml</file>
+<aicc_code></aicc_code>
+<aicc_name>Раздел 2. Современные подходы в генной инженерии</aicc_name>
+<aicc_description></aicc_description>
+<aicc_maxmark></aicc_maxmark>
+<aicc_reqmark></aicc_reqmark>
+</module>
 </modules>
 <folders>
 <folder>
@@ -35,14 +45,10 @@
 </folders>
 <windows>
 <window>
-<module>2</module>
+<module>3</module>
 <zoom>100</zoom>
 <active>true</active>
-<slide>SLIDE_32</slide>
-</window>
-<window>
-<module>1</module>
-<zoom>100</zoom>
+<slide>SLIDE_4</slide>
 </window>
 </windows>
 </course3>

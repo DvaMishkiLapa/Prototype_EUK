@@ -1,0 +1,3668 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Presentation file, saved 12/11/2017 11:37:53 AM using CourseLab 171024 -->
+<module>
+<runtime preview_fullscreen="yes" preview_fitwindow="no" fit_small_window="yes" showsplash="yes" seqslides="no" preloadimages="yes" normalize="no"/>
+<groups>
+</groups>
+<slides>
+<slide id="SLIDE_4" sid="d" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="История возникновения генной инженерии" indent="0">
+<frames>
+<frame id="FRAME_6" dur="600" infinite="0">
+<object id="TXT_3" x="178" y="59" w="663" h="36" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 663px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">История возникновения генной </span><span style="font-weight: bold;">инженерии</span></span></span><span style="font-size:28px;"><strong><span style="font-family:times new roman,times,serif;"><span style="color: rgb(0, 0, 0);"> </span></span></strong></span></p></div>]]>
+</data>
+</object>
+<object id="TXT_4" x="31" y="111" w="440" h="94" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 440px; height: 94px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Термин &laquo;генная инженерия&raquo; (&quot;genetic engineering&rdquo;) впервые был придуман писателем фантастом Джеком Уильямсоном и упоминается в книге &laquo;Остров драконов в 1951 г.</span></span></p></div>]]>
+</data>
+</object>
+<object id="TXT_5" x="550" y="109" w="438" h="94" z="102" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 438px; height: 94px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Первый генетически-модифицированный организм был получен в 1972 г. П. Бергом. В ДНК вируса обезьяны SV40 был встроен фрагмент ДНК вируса &gamma;-фага и галактозного оперона E. Coli</span></span></p></div>]]>
+</data>
+</object>
+<object id="OBJ_13" x="27" y="203" w="280" h="377" z="103" display="frame" begin="0" type="v_block_005">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_13 .cl-container"><span class="rule-static">width: 280px; height: 377px;</span></div><div class="rule" data-name="#OBJ_13 .cl-box"><span class="rule-static">width: 280px; height: 377px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_13 .cl-box img"><span class="rule-static">width: 280px; height: 377px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_13 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_13_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_13_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_13_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_13_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_13_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/1.1.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_13_ZOOM" class="cl-zoom" ><div id="OBJ_13_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_13_ZOOM_IMG" src="images/1.1.png" onload="CLO['OBJ_13'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_13_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
+</data>
+</object>
+<object id="OBJ_14" x="379" y="228" w="261" h="351" z="104" display="frame" begin="0" type="v_block_005">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_14 .cl-container"><span class="rule-static">width: 261px; height: 351px;</span></div><div class="rule" data-name="#OBJ_14 .cl-box"><span class="rule-static">width: 261px; height: 351px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_14 .cl-box img"><span class="rule-static">width: 261px; height: 351px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_14 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_14_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_14_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_14_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_14_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_14_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/1.2.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_14_ZOOM" class="cl-zoom" ><div id="OBJ_14_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_14_ZOOM_IMG" src="images/1.2.png" onload="CLO['OBJ_14'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_14_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+</slides>
+<masters>
+<slide id="SLIDE_MASTER" sid="1">
+<frames>
+<frame id="FRAME_4" dur="0" infinite="0">
+<object id="OBJ_1" x="0" y="614" w="1019" h="78" z="0" display="frame" begin="0" type="v_block_003">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" data-ie9="1" style="display: none" ><div class="rule" data-name="#OBJ_1 .cl-box"><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#0080C0|0;#C1EBFF|100" /></div></div><div class="cl-container unselectable" style="width: 1019px; height: 78px;" ><div class="cl-box" style="width: 1019px; height: 78px; background-color: #0080C0; background-image: -o-linear-gradient(90deg,#0080C0 0%,#C1EBFF 100%); background-image: -ms-linear-gradient(90deg,#0080C0 0%,#C1EBFF 100%); background-image: -moz-linear-gradient(90deg,#0080C0 0%,#C1EBFF 100%); background-image: -webkit-linear-gradient(90deg,#0080C0 0%,#C1EBFF 100%); background-image: linear-gradient(0deg,#0080C0 0%,#C1EBFF 100%); border-color: #FFFFFF; border-width: 0px  0px 0px 0px; -moz-border-radius: 50px 50px 10px 10px; -webkit-border-radius: 50px 50px 10px 10px; border-radius: 50px 50px 10px 10px; ">
+			 
+		</div></div></div>]]>
+</data>
+</object>
+<object id="OBJ_2" x="0" y="-13" w="1018" h="50" z="1" display="frame" begin="0" type="nav_010_slidename">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_2 .cl-slidename-bg-var"><span class="rule-static">width: 1018px; height: 50px; border-width: 0px; border-color: #FFC281; background-color: #0080FF;</span><span class="rule-dynamic" data-type="border-radius" data-value="5px" /><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#0080FF|0;#A6D2FF|100" /><span class="rule-dynamic" data-type="box-shadow" data-value="2px 2px 6px rgba(102,102,102,0.66)" /></div><div class="rule" data-name="#OBJ_2 .cl-slidename-table-var"><span class="rule-static">width: 1018px; height: 50px;</span></div><div class="rule" data-name="#OBJ_2 .cl-slidename-txt-box-var"><span class="rule-static">text-shadow: 1px 1px 2px rgba(255,255,255,0.66); font-size: 0px; padding: 10px 10px; text-align: center; color: #336699; font-family: TimesNewRoman,'Times New Roman',Times,Baskerville,Georgia,serif;</span></div></div><div class="cl-container unselectable" ><div class="cl-slidename-bg cl-slidename-bg-var"><table cellpadding="0" cellspacing="0" border="0" class="cl-slidename-table cl-slidename-table-var"><tr><td class="cl-slidename-txt-box cl-slidename-txt-box-var"><span class="cl-slide-name">Название слайда</span></td></tr></table></div></div></div>]]>
+</data>
+</object>
+<object id="OBJ_3" x="287" y="18" w="444" h="19" z="2" display="frame" begin="0" type="nav_015_progress">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none"  ><div class="rule" data-name="#OBJ_3 .cl-progress-bg-var"><span class="rule-static">width: 444px;</span></div><div class="rule" data-name="#OBJ_3 .cl-progress-slidename-var"><span class="rule-static">font-family: robotoblack, 'Arial Black', Gadget, sans-serif; font-size: 14px;  color: #004080;</span></div><div class="rule" data-name="#OBJ_3 .cl-progress-slidename-top-var"><span class="rule-static">padding: 0 0 5px 0;</span></div><div class="rule" data-name="#OBJ_3 .cl-progress-slidename-bottom-var"><span class="rule-static">padding: 5px 0 0 0;</span></div><div class="rule" data-name="#OBJ_3 .cl-table-var"><span class="rule-static">width: inherit;</span></div><div class="rule" data-name="#OBJ_3 .cl-bar-info-var"><span class="rule-static">font-family: robotoblack, 'Arial Black', Gadget, sans-serif; font-size: 14px;  color: #004080;</span></div><div class="rule" data-name="#OBJ_3 .cl-bar-info-left-var"><span class="rule-static">padding: 0 5px 0 0;</span></div><div class="rule" data-name="#OBJ_3 .cl-bar-info-right-var"><span class="rule-static">padding: 0 0 0 5px;</span></div><div class="rule" data-name="#OBJ_3 .cl-bar-box-var"><span class="rule-static">width: 100%;</span></div><div class="rule" data-name="#OBJ_3 .cl-scale-var"><span class="rule-static">width: inherit; height: 12px; border: solid 0px #666666; background-color: #666666; overflow: hidden;</span><span class="rule-dynamic" data-type="border-radius" data-value="6px" /><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#666666|0;#545454|100" /></div><div class="rule" data-name="#OBJ_3 .cl-bar-var"><span class="rule-static">position: absolute; width: 50%; height: 12px; background-color: #0077CC;</span><span class="rule-dynamic" data-type="border-radius" data-value="6px" /><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#0077CC|0;#9FD1F5|100" /></div></div><div class="cl-container unselectable"  ><div class="cl-progress-bg cl-progress-bg-var"><div class="cl-progress-box"><table cellpadding="0" cellspacing="0" border="0" class="cl-table cl-table-var"><tr><td class="cl-table-td cl-bar-box cl-bar-box-var"><div class="cl-scale cl-scale-var"><div class="cl-bar cl-bar-var">
+											 
+										</div></div></td></tr></table></div></div></div></div>]]>
+</data>
+</object>
+<object id="OBJ_4" x="925" y="624" w="47" h="50" z="3" display="frame" begin="0" type="nav_0000_btn_navi">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_4 .cl-btn"><span class="rule-static">width: 47px; height: 50px;</span></div></div><div class="cl-container unselectable" ><div class="cl-btn cl-btn-img cl-idle" title="Следующий слайд" data-title-enabled="Следующий слайд" data-title-disabled="Переход запрещен"><img class="cl-img-idle" src="images/nextSlide.png" /><img class="cl-img-over" src="images/nextSlide_hover.png" /><img class="cl-img-disabled" src="images/nextSlide_pressed.png" /></div></div></div>]]>
+</data>
+</object>
+<object id="OBJ_5" x="853" y="624" w="56" h="50" z="4" display="frame" begin="0" type="nav_0000_btn_navi">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_5 .cl-btn"><span class="rule-static">width: 56px; height: 50px;</span></div></div><div class="cl-container unselectable" ><div class="cl-btn cl-btn-img cl-idle" title="Предыдущий слайд" data-title-enabled="Предыдущий слайд" data-title-disabled="Переход запрещен"><img class="cl-img-idle" src="images/pastSlide.png" /><img class="cl-img-over" src="images/pastSlide_hover.png" /><img class="cl-img-disabled" src="images/pastSlide_pressed.png" /></div></div></div>]]>
+</data>
+</object>
+<object id="OBJ_6" x="117" y="624" w="50" h="50" z="5" display="frame" begin="0" type="nav_0000_btn_toggle">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_6 .cl-btn"><span class="rule-static">width: 50px; height: 50px;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-html"><span class="rule-static"></span></div><div class="rule" data-name="#OBJ_6 .cl-btn-on .cl-idle" /><div class="rule" data-name="#OBJ_6 .cl-btn-on .cl-over"><span class="rule-static">background-color: ;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-off .cl-idle" /><div class="rule" data-name="#OBJ_6 .cl-btn-off .cl-over"><span class="rule-static">background-color: ;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-bg"><span class="rule-static">width: 48px; height: 48px;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-on .cl-idle .cl-btn-bg"><span class="rule-static">background-image: url(images/thesaurus.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-on .cl-over .cl-btn-bg"><span class="rule-static">background-image: url(images/thesaurus_hover.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-off .cl-idle .cl-btn-bg"><span class="rule-static">background-image: url(images/thesaurus_pressed.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-off .cl-over .cl-btn-bg"><span class="rule-static">background-image: url(images/thesaurus_hover.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-table"><span class="rule-static">width: 48px; height: 48px;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-table .cl-btn-table-content"><span class="rule-static">width: 48px; height: 48px; text-align: center; padding: 0 0px 0 0px; 
+		font-family: robotoblack, 'Arial Black', Gadget, sans-serif; font-size: 14px; color: #004080; text-shadow: 1px 1px 2px rgba(255,255,255,0.66);</span></div><div class="rule" data-name="#OBJ_6 .cl-over .cl-btn-table-content"><span class="rule-static">color: #4080C0 !important;</span></div></div><div id="OBJ_6_CONTAINER" class="cl-container unselectable" ><div id="OBJ_6_BTN" class="cl-btn cl-btn-html cl-btn-on" title="Показать тезаурус" data-title-on="Показать тезаурус" data-title-off="Скрыть тезаурус"><div class="cl-idle"><div class="cl-btn-bg"><table class="cl-btn-table"><tr><td class="cl-btn-table-content"> </td></tr></table></div></div></div></div></div>]]>
+</data>
+</object>
+<object id="OBJ_7" x="732" y="637" w="100" h="23" z="6" display="frame" begin="0" type="nav_0001_position">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_7 .cl-position-table"><span class="rule-static">width: 100px; height: 23px;</span></div><div class="rule" data-name="#OBJ_7 .cl-position-table td"><span class="rule-static">width: 100px; height: 23px;</span></div><div class="rule" data-name="#OBJ_7 .cl-position"><span class="rule-static">color: #004080; font-size: 16px; font-family: robotoblack, 'Arial Black', Gadget, sans-serif; </span></div></div><div class="cl-container unselectable" ><table class="cl-position-table"><tr><td><div class="cl-position"><span class="cl-label">Слайд</span><span class="cl-value" cl-role="slide-number">N</span><span class="cl-divider">/</span><span class="cl-total" cl-role="slide-total">M</span></div></td></tr></table></div></div>]]>
+</data>
+</object>
+<object id="OBJ_8" x="54" y="202" w="720" h="400" z="7" display="frame" begin="0" type="nav_0002_navi_win">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none"  ><div class="rule" data-name="#OBJ_8 .cl-container"><span class="rule-static">width: 720px; height: 400px; min-width: 720px; min-height: 400px; max-width: 720px; max-height: 400px;</span></div><div class="rule" data-name="#OBJ_8 .cl-body"><span class="rule-static">left: 0; top: 0;width: 720px; height: 400px; min-width: 720px; min-height: 400px; max-width: 720px; max-height: 400px;padding: 15px; border: 1px solid #0080C0; background-color: #FFFFFF;
+			</span><span class="rule-dynamic" data-type="border-radius" data-value="5px" /><span class="rule-dynamic" data-type="box-shadow" data-value="2px 2px 6px rgba(102,102,102,0.66)" /></div><div class="rule" data-name="#OBJ_8 .cl-body-header"><span class="rule-static">padding: 0 0 15px 0;</span></div><div class="rule" data-name="#OBJ_8 .slide-list li"><span class="rule-static">padding: 5px 5px 5px 0; font-family: clear_sansregular, Arial, sans-serif;
+		font-size: 16px;
+	</span></div><div class="rule" data-name="#OBJ_8 .open .indent"><span class="rule-static"></span></div><div class="rule" data-name="#OBJ_8 .closed .indent"><span class="rule-static"></span></div><div class="rule" data-name="#OBJ_8 .allowed"><span class="rule-static">background-color: #FFFFFF; color: #004080;</span></div><div class="rule" data-name="#OBJ_8 .current"><span class="rule-static">background-color: #EEEEEE; color: #000000;</span></div><div class="rule" data-name="#OBJ_8 .forbidden"><span class="rule-static">background-color: #FFFFFF; color: #999999;</span></div><div class="rule" data-name="#OBJ_8 .visited .item-inner"><span class="rule-static">background-image: url(images/nav_0002_navi_win/navi_tab_contents_sprite.png); background-position: 0px 0px; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_8 .current .item-inner"><span class="rule-static">background-image: url(images/nav_0002_navi_win/navi_tab_contents_sprite.png); background-position: 0px -400px; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_8 .unvisited .item-inner"><span class="rule-static">background-image: url(images/nav_0002_navi_win/navi_tab_contents_sprite.png); background-position: 0px -800px; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_8 .cl-close-btn"><span class="rule-static"> top: 15px; right: 15px; color: #0080C0;</span></div></div><div id="OBJ_8_CONTAINER" class="cl-container unselectable"  ><div class="cl-body"><div class="cl-body-header"><span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Список слайдов</span></div><div class="cl-btn cl-close-btn" title="Закрыть окно">
+				×
+			</div><div class="cl-body-contents cl-body-contents-contents"><ul class="slide-list" /><ul style="display: none;"><li class="slide-item-template"><div class="indent"><div class="item-inner">
+										.
+									</div></div></li></ul></div></div></div></div>]]>
+</data>
+</object>
+<object id="OBJ_9" x="121" y="202" w="720" h="400" z="8" display="frame" begin="0" type="nav_0002_navi_win">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none"  ><div class="rule" data-name="#OBJ_9 .cl-container"><span class="rule-static">width: 720px; height: 400px; min-width: 720px; min-height: 400px; max-width: 720px; max-height: 400px;</span></div><div class="rule" data-name="#OBJ_9 .cl-body"><span class="rule-static">left: 0; top: 0;width: 720px; height: 400px; min-width: 720px; min-height: 400px; max-width: 720px; max-height: 400px;padding: 15px; border: 1px solid #0080C0; background-color: #FFFFFF;
+			</span><span class="rule-dynamic" data-type="border-radius" data-value="5px" /><span class="rule-dynamic" data-type="box-shadow" data-value="2px 2px 6px rgba(102,102,102,0.66)" /></div><div class="rule" data-name="#OBJ_9 .cl-body-header"><span class="rule-static">padding: 0 0 15px 0;</span></div><div class="rule" data-name="#OBJ_9 .cl-letters-box"><span class="rule-static">border-bottom: solid 2px #0080C0;</span></div><div class="rule" data-name="#OBJ_9 .cl-letter-item"><span class="rule-static">font-family: clear_sansregular, Arial, sans-serif; font-size: 13px;</span></div><div class="rule" data-name="#OBJ_9 .cl-letter-idle"><span class="rule-static">background-color: #0080C0; border-color: #0080C0; color: #FFFFFF;</span></div><div class="rule" data-name="#OBJ_9 .cl-letter-selected"><span class="rule-static">background-color: #CEEFFF; border-color: #0080C0; color: #0080C0;</span></div><div class="rule" data-name="#OBJ_9 .cl-terms-list-cell"><span class="rule-static">width: 30%;</span></div><div class="rule" data-name="#OBJ_9 .cl-terms-desc"><span class="rule-static">width: 70%;</span></div><div class="rule" data-name="#OBJ_9 .cl-terms-desc-container"><span class="rule-static">padding: 15px;</span></div><div class="rule" data-name="#OBJ_9 .cl-terms-list"><span class="rule-static">font-family: clear_sansregular, Arial, sans-serif;
+		font-size: 16px;
+	</span></div><div class="rule" data-name="#OBJ_9 .cl-term-item"><span class="rule-static">padding: 10px; font-family: clear_sansregular, Arial, sans-serif;
+		font-size: 16px;
+	</span><span class="rule-dynamic" data-type="border-radius" data-value="5px 0 0 5px" /></div><div class="rule" data-name="#OBJ_9 .cl-term-idle"><span class="rule-static">color: #FFFFFF; background-color: #0080C0;</span><span class="rule-dynamic" data-type="linear-gradient" data-angle="90" data-colors="#0080C0|0;#8AD9FF|100" /></div><div class="rule" data-name="#OBJ_9 .cl-term-selected"><span class="rule-static">color: #0080C0; background-color: #CEEFFF;</span><span class="rule-dynamic" data-type="linear-gradient" data-angle="90" data-colors="#CEEFFF|0;#FFFFFF|100" /></div><div class="rule" data-name="#OBJ_9 .cl-close-btn"><span class="rule-static"> top: 15px; right: 15px; color: #0080C0;</span></div></div><div id="OBJ_9_CONTAINER" class="cl-container unselectable"  ><div class="cl-body"><div class="cl-body-header"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="line-height: 13.4399995803833px;">Тезаурус</span></span></span></div><div class="cl-btn cl-close-btn" title="Закрыть окно">
+				×
+			</div><div class="cl-body-contents cl-body-contents-glossary"><div class="cl-letters-box"><table align="center" class="cl-letters-table"><tr><td class="cl-letter-cell"><div class="cl-letter-item cl-letter-selected" data-letter="*">
+												*
+											</div></td><td class="cl-letter-cell"><div class="cl-letter-item cl-letter-idle" data-letter="Б">Б</div></td><td class="cl-letter-cell"><div class="cl-letter-item cl-letter-idle" data-letter="В">В</div></td><td class="cl-letter-cell"><div class="cl-letter-item cl-letter-idle" data-letter="К">К</div></td><td class="cl-letter-cell"><div class="cl-letter-item cl-letter-idle" data-letter="Л">Л</div></td><td class="cl-letter-cell"><div class="cl-letter-item cl-letter-idle" data-letter="Н">Н</div></td><td class="cl-letter-cell"><div class="cl-letter-item cl-letter-idle" data-letter="П">П</div></td><td class="cl-letter-cell"><div class="cl-letter-item cl-letter-idle" data-letter="Р">Р</div></td><td class="cl-letter-cell"><div class="cl-letter-item cl-letter-idle" data-letter="С">С</div></td><td class="cl-letter-cell"><div class="cl-letter-item cl-letter-idle" data-letter="Т">Т</div></td><td class="cl-letter-cell"><div class="cl-letter-item cl-letter-idle" data-letter="Ф">Ф</div></td></tr></table></div><div class="cl-terms-box"><table cellpadding="0" cellspacing="0" border="0" class="cl-terms-table"><tr><td class="cl-terms-td cl-terms-list-cell"><div class="cl-terms-list-container"><ul class="cl-terms-list"><li class="cl-term-item cl-term-idle" id="OBJ_9_TERM_1" data-code="22" data-number="1">Биологическое окисление</li><li class="cl-term-item cl-term-idle" id="OBJ_9_TERM_2" data-code="12" data-number="2">Вектор</li><li class="cl-term-item cl-term-idle" id="OBJ_9_TERM_3" data-code="19" data-number="3">Катализатор</li><li class="cl-term-item cl-term-idle" id="OBJ_9_TERM_4" data-code="2" data-number="4">Комплементарность</li><li class="cl-term-item cl-term-idle" id="OBJ_9_TERM_5" data-code="16" data-number="5">Кофактор</li><li class="cl-term-item cl-term-idle" id="OBJ_9_TERM_6" data-code="21" data-number="6">Кофермент</li><li class="cl-term-item cl-term-idle" id="OBJ_9_TERM_7" data-code="8" data-number="7">Лигаза</li><li class="cl-term-item cl-term-idle" id="OBJ_9_TERM_8" data-code="10" data-number="8">Липкие концы</li><li class="cl-term-item cl-term-idle" id="OBJ_9_TERM_9" data-code="9" data-number="9">Нуклеазы</li><li class="cl-term-item cl-term-idle" id="OBJ_9_TERM_10" data-code="1" data-number="10">Нуклеиновые кислоты</li><li class="cl-term-item cl-term-idle" id="OBJ_9_TERM_11" data-code="15" data-number="11">Нуклеотид</li><li class="cl-term-item cl-term-idle" id="OBJ_9_TERM_12" data-code="18" data-number="12">Плазмида</li><li class="cl-term-item cl-term-idle" id="OBJ_9_TERM_13" data-code="17" data-number="13">Праймер</li><li class="cl-term-item cl-term-idle" id="OBJ_9_TERM_14" data-code="6" data-number="14">Процессинг РНК</li><li class="cl-term-item cl-term-idle" id="OBJ_9_TERM_15" data-code="13" data-number="15">ПЦР</li><li class="cl-term-item cl-term-idle" id="OBJ_9_TERM_16" data-code="5" data-number="16">Репликация</li><li class="cl-term-item cl-term-idle" id="OBJ_9_TERM_17" data-code="7" data-number="17">Рестрикционная карта</li><li class="cl-term-item cl-term-idle" id="OBJ_9_TERM_18" data-code="14" data-number="18">Секвенирование</li><li class="cl-term-item cl-term-idle" id="OBJ_9_TERM_19" data-code="3" data-number="19">Транскрипция</li><li class="cl-term-item cl-term-idle" id="OBJ_9_TERM_20" data-code="4" data-number="20">Трансляция</li><li class="cl-term-item cl-term-idle" id="OBJ_9_TERM_21" data-code="11" data-number="21">Тупой конец</li><li class="cl-term-item cl-term-idle" id="OBJ_9_TERM_22" data-code="23" data-number="22">Ферментер</li><li class="cl-term-item cl-term-idle" id="OBJ_9_TERM_23" data-code="20" data-number="23">Ферменты (энзимы)</li></ul></div></td><td class="cl-terms-td cl-terms-desc"><div class="cl-terms-desc-container"><div class="cl-term-desc-item cl-term-desc-default" id="OBJ_9_DESC_0" data-code="___DEFAULT" data-number="0"><table class="cl-terms-desc-default-table"><tr><td class="cl-terms-desc-default-cell"><span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Выберите элемент, чтобы увидеть описание</span></td></tr></table></div><div class="cl-term-desc-item" id="OBJ_9_DESC_1" data-code="22" data-number="1"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Окислительно-восстановительные реакции, протекающие в клетках организма, в результате которых сложные органические вещества окисляются&nbsp;при участии ферментов.</span></span></p></div><div class="cl-term-desc-item" id="OBJ_9_DESC_2" data-code="12" data-number="2"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Молекула нуклеиновой кислоты, используемая в генетической инженерии для передачи генетического материала другой клетке.</span></span></div><div class="cl-term-desc-item" id="OBJ_9_DESC_3" data-code="19" data-number="3"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Вещество, помогающее протеканию химической реакции, но не изменяющееся в ходе нее.</span></span></div><div class="cl-term-desc-item" id="OBJ_9_DESC_4" data-code="2" data-number="4"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Взаимное соответствие молекул или их фрагментов, обеспечивающее связь дополняющих друг друга структур и определяемое их химическими свойствами.</span></span></div><div class="cl-term-desc-item" id="OBJ_9_DESC_5" data-code="16" data-number="5"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Небелковое соединение, которое нужно белку для его биологической деятельности. Эти белки обычно являются ферментами, поэтому кофакторы называют &laquo;молекулами-помощниками&raquo;, которые участвуют в биохимических превращениях.</span></span></div><div class="cl-term-desc-item" id="OBJ_9_DESC_6" data-code="21" data-number="6"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Органические соединения небелковой природы, необходимые для осуществления каталитического действия многих ферментов.</span></span></div><div class="cl-term-desc-item" id="OBJ_9_DESC_7" data-code="8" data-number="7"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Фермент, катализирующий соединение двух молекул с образованием новой химической связи. При этом обычно происходит отщепление (гидролиз) небольшой химической группы от одной из молекул.</span></span></div><div class="cl-term-desc-item" id="OBJ_9_DESC_8" data-code="10" data-number="8"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Комплементарные друг другу, выступающие однонитевые участки одного или разных двухцепочечных фрагментов ДНК. С помощью липких концов фрагменты могут соединяться друг с другом с образованием гибридных молекул.</span></span></p></div><div class="cl-term-desc-item" id="OBJ_9_DESC_9" data-code="9" data-number="9"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Гидролитические ферменты, расщепляющие нуклеиновые кислоты. По механизму расщепления субстратов нуклеазы разделяют на экзонуклеазы и эндонуклеазы. <em>Экзонуклеазы</em> осуществляют последовательное отщепление олигонуклеотидов с концов молекулы, тогда как эндонуклеазы вносят в молекулы нуклеиновых кислот внутренние разрывы.</span></span></div><div class="cl-term-desc-item" id="OBJ_9_DESC_10" data-code="1" data-number="10"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Биологические полимерные молекулы, хранящие информацию об отдельном живом организме, определяющие его рост и развитие, а также наследственные признаки, передаваемые следующему поколению.</span></span></p></div><div class="cl-term-desc-item" id="OBJ_9_DESC_11" data-code="15" data-number="11"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Мономерное звено в полимерной молекуле нуклеиновой кислоты. В зависимости от вида содержащегося углевода различают рибонуклеотид (включает рибозу) и дезоксирибонуклеотид (включает дезоксирибозу).</span></span></div><div class="cl-term-desc-item" id="OBJ_9_DESC_12" data-code="18" data-number="12"><p><span style="font-family:times new roman,times,serif;"><span style="font-size:20px;">Внехромосомная кольцевая ДНК, которая обладает способностью стабильно существовать в автономном (не связанном с хромосомами) состоянии в цитоплазме.</span></span></p>
+
+<p><span style="font-family:times new roman,times,serif;"><span style="font-size:20px;">В природе плазмиды обычно содержат гены, повышающие устойчивость бактерии к неблагоприятным внешним факторам (в т.ч. устойчивость к антибиотикам), нередко они могут передаваться от одной бактерии к другой и служат средством горизонтального переноса генов.</span></span></p></div><div class="cl-term-desc-item" id="OBJ_9_DESC_13" data-code="17" data-number="13"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Олигонуклеотид, комплементарный ДНК- или РНК-мишени, служит затравкой для синтеза комплементарной цепи с помощью ДНК-полимеразы. Затравка необходима для инициации синтеза новой цепи (ДНК-полимераза последовательно добавляет к 3&#39;-концу праймера нуклеотиды, комплементарные матричной цепи).</span></span></div><div class="cl-term-desc-item" id="OBJ_9_DESC_14" data-code="6" data-number="14"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Совокупность процессов в клетках&nbsp;эукариот, которые приводят к превращению первичного&nbsp; транскрипта в зрелую&nbsp;РНК.</span></span></div><div class="cl-term-desc-item" id="OBJ_9_DESC_15" data-code="13" data-number="15"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">(полимеразная цепная реакция) &ndash; метод молекулярной биологии, позволяющий добиться значительного увеличения малых концентраций определенных фрагментов нуклеиновой кислоты (ДНК) в биологическом материале (пробе).</span></span></p></div><div class="cl-term-desc-item" id="OBJ_9_DESC_16" data-code="5" data-number="16"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">(от&nbsp;лат.&nbsp;replicatio&nbsp;&mdash; возобновление)&nbsp;&mdash; процесс синтеза дочерней молекулы дезоксирибонуклеиновой кислоты на матрице родительской молекулы ДНК.&nbsp;</span></span></p></div><div class="cl-term-desc-item" id="OBJ_9_DESC_17" data-code="7" data-number="17"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">(restriction map) - линейное изображение последовательности ДНК, которое показывает расположение сайтов узнавания специфических рестрикционных ферментов.</span></span></div><div class="cl-term-desc-item" id="OBJ_9_DESC_18" data-code="14" data-number="18"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Определение последовательности нуклеотидов в гене.</span></span></div><div class="cl-term-desc-item" id="OBJ_9_DESC_19" data-code="3" data-number="19"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Это переписывание генетической информации с молекулы ДНК на молекулу и-РНК (информационную, или матричную, РНК).</span></span></div><div class="cl-term-desc-item" id="OBJ_9_DESC_20" data-code="4" data-number="20"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Процесс&nbsp;синтеза&nbsp;белка&nbsp;из&nbsp;аминокислот&nbsp;на матрице&nbsp;информационной (матричной) РНК&nbsp;(иРНК, мРНК), осуществляемый&nbsp;рибосомой.</span></span></div><div class="cl-term-desc-item" id="OBJ_9_DESC_21" data-code="11" data-number="21"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Концы цепей двухцепочечной молекулы ДНК, заканчивающиеся парой соединенных комплементарных оснований (т.е. один конец не &quot;выступает&quot; за другой - в отличие от &quot;липких концов&quot;).</span></span></div><div class="cl-term-desc-item" id="OBJ_9_DESC_22" data-code="23" data-number="22"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Аппарат для глубинного выращивания (культивирования) микроорганизмов в питательной среде в условиях стерильности, интенсивного перемешивания, непрерывного продувания стерильным воздухом и постоянной температуры.</span></span></p></div><div class="cl-term-desc-item" id="OBJ_9_DESC_23" data-code="20" data-number="23"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;"><span class="w"><span style="line-height: 115%;">Органические</span></span><span style="line-height: 115%;"> <span class="w">вещества обычно</span> <span class="w">белковой</span> <span class="w">природы</span>, <span class="w">которые</span> <span class="w">синтезируются</span> <span class="w">в</span> <span class="w">клетках</span> <span class="w">и</span> <span class="w">во</span> <span class="w">много</span> <span class="w">раз</span> <span class="w">ускоряют протекающие</span> <span class="w">в</span> <span class="w">них</span> <span class="w">реакции</span>, <span class="w">не</span> <span class="w">подвергаясь</span> <span class="w">при</span> <span class="w">этом</span> <span class="w">химическим</span> <span class="w">превращениям</span>.</span></span></span></div></div></td></tr></table></div></div></div></div></div>]]>
+</data>
+</object>
+<object id="OBJ_10" x="988" y="10" w="16" h="15" z="9" display="frame" begin="0" type="nav_0000_btn_navi">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_10 .cl-btn"><span class="rule-static">width: 16px; height: 15px;</span></div></div><div class="cl-container unselectable" ><div class="cl-btn cl-btn-img cl-idle" title="Закрыть модуль" data-title-enabled="Закрыть модуль" data-title-disabled=""><img class="cl-img-idle" src="images/close.png" /><img class="cl-img-over" src="images/close.png" /><img class="cl-img-disabled" src="images/close.png" /></div></div></div>]]>
+</data>
+</object>
+<object id="OBJ_11" x="49" y="624" w="50" h="50" z="10" display="frame" begin="0" type="nav_0000_btn_toggle">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_11 .cl-btn"><span class="rule-static">width: 50px; height: 50px;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-html"><span class="rule-static"></span></div><div class="rule" data-name="#OBJ_11 .cl-btn-on .cl-idle" /><div class="rule" data-name="#OBJ_11 .cl-btn-on .cl-over"><span class="rule-static">background-color: ;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-off .cl-idle" /><div class="rule" data-name="#OBJ_11 .cl-btn-off .cl-over"><span class="rule-static">background-color: ;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-bg"><span class="rule-static">width: 48px; height: 48px;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-on .cl-idle .cl-btn-bg"><span class="rule-static">background-image: url(images/listSlider.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-on .cl-over .cl-btn-bg"><span class="rule-static">background-image: url(images/listSlider_hover.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-off .cl-idle .cl-btn-bg"><span class="rule-static">background-image: url(images/Bezymyanny-1.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-off .cl-over .cl-btn-bg"><span class="rule-static">background-image: url(images/listSlider_hover.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-table"><span class="rule-static">width: 48px; height: 48px;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-table .cl-btn-table-content"><span class="rule-static">width: 48px; height: 48px; text-align: center; padding: 0 0px 0 0px; 
+		font-family: robotoblack, 'Arial Black', Gadget, sans-serif; font-size: 14px; color: #004080; text-shadow: 1px 1px 2px rgba(255,255,255,0.66);</span></div><div class="rule" data-name="#OBJ_11 .cl-over .cl-btn-table-content"><span class="rule-static">color: #4080C0 !important;</span></div></div><div id="OBJ_11_CONTAINER" class="cl-container unselectable" ><div id="OBJ_11_BTN" class="cl-btn cl-btn-html cl-btn-on" title="Показать список слайдов" data-title-on="Показать список слайдов" data-title-off="Скрыть список слайдов"><div class="cl-idle"><div class="cl-btn-bg"><table class="cl-btn-table"><tr><td class="cl-btn-table-content"> </td></tr></table></div></div></div></div></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+</masters>
+<methods>
+<method type="nav_010_slidename" name="Constructor">
+<![CDATA[function Constructor(argobj)
+				{
+					CL.Event.Subscribe({ aList: [ { sId: argobj.pid, sEvtName: "EVENT_SLIDE_OPENED" } ] });
+					return true;
+				}]]>
+</method>
+<method type="nav_010_slidename" name="HandleEvt">
+<![CDATA[function HandleEvt(oEvtHandler)
+				{
+					if(CLO[argobj.pid]==null || CLO[argobj.pid].div==null) return false; 
+					switch(argobj.evt)
+					{
+						case "EVENT_SLIDE_OPENED":
+						{
+							$(CLO[argobj.pid].div).find(".cl-slide-name").html(CLS[CLZ.sCurrentSlideId].sName);
+							if($(CLO[argobj.pid].div).find(".cl-slide-number").length>0)
+							{
+								$(CLO[argobj.pid].div).find(".cl-slide-number").html(CLS[CLZ.sCurrentSlideId].GetNumber());
+							}
+							break;
+						}
+					}
+					return true;
+				}]]>
+</method>
+<method type="nav_010_slidename" name="GetProperty">
+<![CDATA[function GetProperty(argobj)
+				{
+					if(argobj.pid==null || argobj.property==null) return false;
+					if(CLO[argobj.pid]==null) return false;
+					switch(argobj.property.toLowerCase())
+					{
+						case "slidename":
+						{
+							return CLS[CLZ.sCurrentSlideId].sName;
+						}
+						case "slidenumber":
+						{
+							return CLS[CLZ.sCurrentSlideId].GetNumber();
+						}
+					}
+					return "";
+				}]]>
+</method>
+<method type="nav_015_progress" name="Constructor">
+<![CDATA[function Constructor(argobj)
+                {
+					var oCurObj = CLO[argobj.pid];
+					var jCurObjDiv = $(oCurObj.div);
+					oCurObj.data =
+					{
+						aPath: [],
+						sDisplayType: oCurObj.jxParams.find("display_type").text(),
+						sSlideId: "",
+						sChapterId: "",
+						sScope: oCurObj.jxParams.children("display_scope").text(),
+						sState: "enabled",
+						bNaviStrict: (oCurObj.jxParams.find("allow_link").text()=="strict"),
+						bNaviLockedByAction: false,
+						bMouseOver: (oCurObj.jxParams.find("allow_mouseover").text()!="never"),
+						bLink: (oCurObj.jxParams.find("allow_link").text()!="never"),
+						sSoundClick: oCurObj.jxParams.children("sound_click").text(),
+						sSoundOver: oCurObj.jxParams.children("sound_over").text(),
+						jRail: jCurObjDiv.find("[cl-role='progress-rail']"),
+						jTemplateV: jCurObjDiv.find("#" + argobj.pid + "_TEMPLATE_V"),
+						jTemplateC: jCurObjDiv.find("#" + argobj.pid + "_TEMPLATE_C"),
+						jTemplateU: jCurObjDiv.find("#" + argobj.pid + "_TEMPLATE_U")
+					};
+					if(oCurObj.data.sSoundClick=="custom")
+					{
+						oCurObj.data.sSoundClickFile = oCurObj.jxParams.children("sound_click_file_custom").text();
+					}
+					if(oCurObj.data.sSoundOver=="custom")
+					{
+						oCurObj.data.sSoundOverFile = oCurObj.jxParams.children("sound_over_file_custom").text();
+					}
+					if(!CL.oPath.bAlternative || oCurObj.data.sScope!="chapter")
+					{
+						oCurObj.data.aPath = CL.oPath._GetSlideList();
+						if(oCurObj.data.sDisplayType=="icons")
+						{
+							var jElem;
+							for(var i=0; i<oCurObj.data.aPath.length; i++)
+							{
+								jElem = oCurObj.data.jTemplateU.clone(true).appendTo(oCurObj.data.jRail).show().removeClass("cl-progress-elem-template").css({ "display": "inline-block" }).attr({ "cl-id": oCurObj.data.aPath[i] });
+								if(oCurObj.data.bMouseOver && !CL.bTouch)
+								{
+									jElem.on("mouseover", function (e) { CLO[argobj.pid].CallMethod({ sMethod: "Over", oMethodArgs: { evt: e, elem: this } }) }).on("mouseout", function (e) { CLO[argobj.pid].CallMethod({ sMethod: "Out", oMethodArgs: { evt: e, elem: this } }) });
+								}
+								if(oCurObj.data.bLink)
+								{
+									jElem.addClass("cl-linked").on("click", function (e) { CLO[argobj.pid].CallMethod({ sMethod: "Navigate", oMethodArgs: { evt: e, elem: this } }) });
+								}
+							}
+						}
+						else
+						{
+							$(oCurObj.div).find(".cl-bar").width(0);
+						}
+					}
+					var jCounter = $(oCurObj.div).find(".cl-progress-counter");
+					if(jCounter.length!=0)
+					{
+						jCounter.html(jCounter.html().split("{N}").join('<span class="cl-slide-number" cl-role="slide-number">0</span>').split("{Z}").join('<span class="cl-slide-total" cl-role="slide-total">' + oCurObj.data.aPath.length + '</span>'));
+						oCurObj.data.jSlideNumber = jCounter.find("[cl-role='slide-number']");
+						oCurObj.data.jSlideTotal = jCounter.find("[cl-role='slide-total']");
+					}
+					if($(oCurObj.div).find(".cl-progress-slidename-name").length!=0)
+					{
+						oCurObj.data.jSlideName = $(oCurObj.div).find(".cl-progress-slidename-name");
+					}
+					CL.Event.Subscribe({ aList: [ { sId: argobj.pid, sEvtName: "EVENT_SLIDE_OPENED" }, { sId: argobj.pid, sEvtName: "EVENT_SLIDE_COMPLETE" }, { sId: argobj.pid, sEvtName: "EVENT_NAVIGATION" } ] });
+                    return true;
+                }]]>
+</method>
+<method type="nav_015_progress" name="HandleEvt">
+<![CDATA[function HandleEvt(argobj)
+                {
+					var oCurObj = CLO[argobj.pid];
+					if(oCurObj==null) return false;
+					if(oCurObj.div==null) return false;
+					switch(argobj.evt)
+					{
+						case "EVENT_SLIDE_OPENED":
+						{
+							if(oCurObj.data.sSlideId!=CLZ.sCurrentSlideId)
+							{
+								oCurObj.data.sSlideId = CLZ.sCurrentSlideId;
+								oCurObj.data.bNaviLockedByAction = false;
+								oCurObj.CallMethod({ sMethod: "Update" });
+							}
+							oCurObj.CallMethod({ sMethod: ((oCurObj.data.bNaviStrict || oCurObj.data.bNaviLockedByAction) ? "DisableAccess" : "EnableAccess") });
+							break;
+						}
+						case "EVENT_SLIDE_COMPLETE":
+						{
+							oCurObj.CallMethod({ sMethod: ((oCurObj.data.bNaviLockedByAction) ? "DisableAccess" : "EnableAccess") });
+							break;
+						}
+						case "EVENT_NAVIGATION":
+						{
+							if(argobj.sTargets!=null)
+							{
+								if(argobj.sTargets=="progress" || argobj.sTargets=="all")
+								{
+									switch(argobj.sAction)
+									{
+										case "off":
+										{
+											oCurObj.data.bNaviLockedByAction = true;
+											oCurObj.CallMethod({ sMethod: "DisableAccess" });
+											break;
+										}
+										case "on":
+										default:
+										{
+											oCurObj.data.bNaviLockedByAction = false;
+											oCurObj.CallMethod({ sMethod: "EnableAccess" });
+											break;
+										}
+									}
+								}
+							}
+							break;
+						}
+					}
+					return true;
+                }]]>
+</method>
+<method type="nav_015_progress" name="DisableAccess">
+<![CDATA[function DisableAccess(argobj)
+			{
+				$(CLO[argobj.pid].div).find(".cl-container").addClass("cl-disabled");
+				CLO[argobj.pid].data.sState = "disabled";
+				return true;
+			}]]>
+</method>
+<method type="nav_015_progress" name="EnableAccess">
+<![CDATA[function EnableAccess(argobj)
+			{
+				$(CLO[argobj.pid].div).find(".cl-container").removeClass("cl-disabled");
+				CLO[argobj.pid].data.sState = "enabled";
+				return true;
+			}]]>
+</method>
+<method type="nav_015_progress" name="Update">
+<![CDATA[function UpdateProgress(argobj)
+                {
+					var oCurObj = CLO[argobj.pid];
+					var jCurObjDiv = $(oCurObj.div);
+					var iCurrent = -1;
+					var iNumber = -1;
+					if(!CL.oPath.bAlternative || oCurObj.data.sScope!="chapter")
+					{
+						iNumber = CL.oPath._GetSlideNumber();
+						if(oCurObj.data.sDisplayType=="icons")
+						{
+							var jCell;
+							for(var i=0; i<oCurObj.data.aPath.length; i++)
+							{
+								jCell = $(oCurObj.div).find("[cl-id='" + oCurObj.data.aPath[i] + "']");
+								if(oCurObj.data.aPath[i]==CLZ.sCurrentSlideId)
+								{
+									if(jCell.hasClass("cl-progress-img"))
+									{
+										jCell.removeClass("cl-progress-v cl-progress-u").addClass("cl-progress-c").attr({ "src": oCurObj.data.jTemplateC.attr("src") });
+									}
+									else
+									{
+										jCell.removeClass("cl-progress-v cl-progress-v-var cl-progress-u cl-progress-u-var").addClass("cl-progress-c cl-progress-c-var");
+									}
+									if(CLO[argobj.pid].data.bLink)
+									{
+										jCell.removeClass("cl-linked").unbind("click");
+									}
+									iCurrent = i;
+								}
+								else if(CL.SCO.IsVisited({ sBy: "slideid", sSlideId: oCurObj.data.aPath[i] }))
+								{
+									if(jCell.hasClass("cl-progress-img"))
+									{
+										jCell.removeClass("cl-progress-c cl-progress-u").addClass("cl-progress-v").attr({ "src": oCurObj.data.jTemplateV.attr("src") });
+									}
+									else
+									{
+										jCell.removeClass("cl-progress-c cl-progress-c-var cl-progress-u cl-progress-u-var").addClass("cl-progress-v cl-progress-v-var");
+									}
+									if(CLO[argobj.pid].data.bLink && !jCell.hasClass("cl-linked"))
+									{
+										jCell.addClass("cl-linked").click(function (e) { CLO[argobj.pid].CallMethod({ sMethod: "Navigate", oMethodArgs: { evt: e, elem: this } }) });
+									}
+								}
+								else
+								{
+									if(jCell.hasClass("cl-progress-img"))
+									{
+										jCell.removeClass("cl-progress-c cl-progress-v").addClass("cl-progress-u").attr({ "src": oCurObj.data.jTemplateU.attr("src") });
+									}
+									else
+									{
+										jCell.removeClass("cl-progress-c cl-progress-c-var cl-progress-v cl-progress-v-var").addClass("cl-progress-u cl-progress-u-var");
+									}
+									if(CLO[argobj.pid].data.bLink)
+									{
+										if(((CLZ.bStrictOrder && i<=iCurrent+1) || !CLZ.bStrictOrder) && !jCell.hasClass("cl-linked"))
+										{
+											jCell.addClass("cl-linked").click(function (e) { CLO[argobj.pid].CallMethod({ sMethod: "Navigate", oMethodArgs: { evt: e, elem: this } }) });
+										}
+									}
+								}
+							}
+						}
+						else
+						{
+							$(oCurObj.div).find(".cl-bar").width(Math.round(iNumber/oCurObj.data.aPath.length*100) + "%");
+						}
+					}
+					else if(CL.oPath.bAlternative && oCurObj.data.sScope=="chapter")
+					{
+						var sCurrentChapterId = CL.oPath._GetChapterId();
+						if(sCurrentChapterId!=oCurObj.data.sChapterId)
+						{
+							oCurObj.data.aPath = CL.oPath._GetSlideList({ bChapter: true });
+							oCurObj.data.sChapterId = sCurrentChapterId;
+							if(oCurObj.data.sDisplayType=="icons")
+							{
+								var jElem;
+								oCurObj.data.jRail.children("[cl-id]").remove();
+								for(var i=0; i<oCurObj.data.aPath.length; i++)
+								{
+									jElem = oCurObj.data.jTemplateU.clone(true).appendTo(oCurObj.data.jRail).show().removeClass("cl-progress-elem-template").css({ "display": "inline-block" }).attr({ "cl-id": oCurObj.data.aPath[i] });
+									if(oCurObj.data.bMouseOver && !CL.bTouch)
+									{
+										jElem.on("mouseover", function (e) { CLO[argobj.pid].CallMethod({ sMethod: "Over", oMethodArgs: { evt: e, elem: this } }) }).on("mouseout", function (e) { CLO[argobj.pid].CallMethod({ sMethod: "Out", oMethodArgs: { evt: e, elem: this } }) });
+									}
+									if(oCurObj.data.bLink)
+									{
+										jElem.addClass("cl-linked").on("click", function (e) { CLO[argobj.pid].CallMethod({ sMethod: "Navigate", oMethodArgs: { evt: e, elem: this } }) });
+									}
+								}
+							}
+							else
+							{
+								jCurObjDiv.find(".cl-bar").width(Math.round(iNumber/oCurObj.data.aPath.length*100) + "%");
+							}
+							if(oCurObj.data.jSlideTotal!=null)
+							{
+								oCurObj.data.jSlideTotal.html(CL.oPath._GetLength({ bChapter: true }));
+							}
+						}
+						iNumber = CL.oPath._GetSlideNumber({ bChapter: true });
+						if(oCurObj.data.sDisplayType=="icons")
+						{
+							for(var i=0; i<oCurObj.data.aPath.length; i++)
+							{
+								jCell = $(oCurObj.div).find("[cl-id='" + oCurObj.data.aPath[i] + "']");
+								if(oCurObj.data.aPath[i]==CLZ.sCurrentSlideId)
+								{
+									if(jCell.hasClass("cl-progress-img"))
+									{
+										jCell.removeClass("cl-progress-v cl-progress-u").addClass("cl-progress-c").attr({ "src": oCurObj.data.jTemplateC.attr("src") });
+									}
+									else
+									{
+										jCell.removeClass("cl-progress-v cl-progress-v-var cl-progress-u cl-progress-u-var").addClass("cl-progress-c cl-progress-c-var");
+									}
+									if(CLO[argobj.pid].data.bLink)
+									{
+										jCell.removeClass("cl-linked").unbind("click");
+									}
+									iCurrent = i;
+								}
+								else if(CL.SCO.IsVisited({ sBy: "slideid", sSlideId: oCurObj.data.aPath[i] }))
+								{
+									if(jCell.hasClass("cl-progress-img"))
+									{
+										jCell.removeClass("cl-progress-c cl-progress-u").addClass("cl-progress-v").attr({ "src": oCurObj.data.jTemplateV.attr("src") });
+									}
+									else
+									{
+										jCell.removeClass("cl-progress-c cl-progress-c-var cl-progress-u cl-progress-u-var").addClass("cl-progress-v cl-progress-v-var");
+									}
+									if(CLO[argobj.pid].data.bLink && !jCell.hasClass("cl-linked"))
+									{
+										jCell.addClass("cl-linked").click(function (e) { CLO[argobj.pid].CallMethod({ sMethod: "Navigate", oMethodArgs: { evt: e, elem: this } }) });
+									}
+								}
+								else
+								{
+									if(jCell.hasClass("cl-progress-img"))
+									{
+										jCell.removeClass("cl-progress-c cl-progress-v").addClass("cl-progress-u").attr({ "src": oCurObj.data.jTemplateU.attr("src") });
+									}
+									else
+									{
+										jCell.removeClass("cl-progress-c cl-progress-c-var cl-progress-v cl-progress-v-var").addClass("cl-progress-u cl-progress-u-var");
+									}
+									if(CLO[argobj.pid].data.bLink)
+									{
+										if(((CLZ.bStrictOrder && i<=iCurrent+1) || !CLZ.bStrictOrder) && !jCell.hasClass("cl-linked"))
+										{
+											jCell.addClass("cl-linked").click(function (e) { CLO[argobj.pid].CallMethod({ sMethod: "Navigate", oMethodArgs: { evt: e, elem: this } }) });
+										}
+									}
+								}
+							}
+						}
+						else
+						{
+							jCurObjDiv.find(".cl-bar").width(Math.round(iNumber/oCurObj.data.aPath.length*100) + "%");
+						}
+					}
+					if(oCurObj.data.jSlideNumber!=null)
+					{
+						oCurObj.data.jSlideNumber.html(iNumber);
+					}
+					if(oCurObj.data.jSlideName!=null)
+					{
+						oCurObj.data.jSlideName.html(CLS[CLZ.sCurrentSlideId].sName);
+					}
+					return true;
+                }]]>
+</method>
+<method type="nav_015_progress" name="Navigate">
+<![CDATA[function Navigate(argobj)
+                {
+					if($(CLO[argobj.pid].div).find("div.cl-container").hasClass("cl-disabled")) return false;
+					var sTargetId = $(argobj.elem).attr("cl-id");
+					if(argobj.override==true || CL.Navigation.Allowed({ sTarget: "slide", sTargetId: sTargetId }))
+					{
+						CLO[argobj.pid].CallMethod({ sMethod: "DisableAccess" });
+						CL.Navigation.GoTo({ sTargetType: "slide", sTargetId: sTargetId });
+					}
+					CL.Sound.Stop({ sId: argobj.pid, sEvent: "click" });
+					if(oCurObj.data.sSoundClick!="none")
+					{
+						CL.Sound.Play({ sId: argobj.pid, sEvent: "click", sType: oCurObj.data.sSoundClick, sFile: oCurObj.data.sSoundClickFile })
+					}
+                    return true;
+                }]]>
+</method>
+<method type="nav_015_progress" name="Over">
+<![CDATA[function Over(argobj)
+				{
+					var sTargetId = $(argobj.elem).attr("cl-id");
+					var oCurObj = CLO[argobj.pid];
+					$(CLO[argobj.pid].div).find("div.cl-over").html($(CL.jxModule).find("slide[id='" + sTargetId + "']").attr("name"));
+					CL.Sound.Stop({ sId: argobj.pid, sEvent: "over" });
+					if(oCurObj.data.sSoundOver!="none")
+					{
+						CL.Sound.Play({ sId: argobj.pid, sEvent: "over", sType: oCurObj.data.sSoundOver, sFile: oCurObj.data.sSoundOverFile })
+					}
+					return true;
+				}]]>
+</method>
+<method type="nav_015_progress" name="Out">
+<![CDATA[function Out(argobj)
+				{
+					$(CLO[argobj.pid].div).find("div.cl-over").html("&nbsp;");
+					return true;
+				}]]>
+</method>
+<method type="nav_0000_btn_navi" name="Constructor">
+<![CDATA[function Constructor(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv= $(oCurObj.div);
+				var sRole = oCurObj.jxParams.children("role").text();
+				var sTarget = (sRole.indexOf("slide")==-1) ? "frame" : "slide";
+				var sDir = "";
+				var sId;
+				if(sRole=="closemodule")
+				{
+					oCurObj.data =
+					{
+						sRole: "close",
+						sState: "enabled",
+						sSoundClick: oCurObj.jxParams.children("sound_click").text(),
+						sSoundOver: oCurObj.jxParams.children("sound_over").text()
+					};
+					if(oCurObj.data.sSoundClick=="custom")
+					{
+						oCurObj.data.sSoundClickFile = oCurObj.jxParams.children("sound_click_file_custom").text();
+					}
+					if(oCurObj.data.sSoundOver=="custom")
+					{
+						oCurObj.data.sSoundOverFile = oCurObj.jxParams.children("sound_over_file_custom").text();
+					}
+				}
+				else
+				{
+					var bSwipe = false;
+					if(sRole.indexOf("next")!=-1)
+					{
+						sDir = "next";
+						bSwipe = (oCurObj.jxParams.children("swipe").text()=="yes");
+					}
+					else if(sRole.indexOf("prev")!=-1)
+					{
+						sDir = "prev";
+						bSwipe = (oCurObj.jxParams.children("swipe").text()=="yes");
+					}
+					else if(sRole.indexOf("first")!=-1)
+					{
+						sDir = "first";
+					}
+					else if(sRole.indexOf("last")!=-1)
+					{
+						sDir = "last";
+					}
+					else if(sRole=="thisslide")
+					{
+						sDir = "this";
+					}
+					else
+					{
+						sId = oCurObj.jxParams.children((sRole=="selectedslide") ? "selectedslide" : "selectedframe").text();
+					}
+					oCurObj.data =
+					{
+						sRole: sRole,
+						sTarget: sTarget,
+						sDir: sDir,
+						sId: sId,
+						sFrameId: "",
+						sSlideId: "",
+						sState: "enabled",
+						bNaviStrict: (oCurObj.jxParams.children("nav_lock").text()=="yes"),
+						bNaviLockedByAction: false,
+						sSoundClick: oCurObj.jxParams.children("sound_click").text(),
+						sSoundOver: oCurObj.jxParams.children("sound_over").text()
+					};
+					if(oCurObj.data.sSoundClick=="custom")
+					{
+						oCurObj.data.sSoundClickFile = oCurObj.jxParams.children("sound_click_file_custom").text();
+					}
+					if(oCurObj.data.sSoundOver=="custom")
+					{
+						oCurObj.data.sSoundOverFile = oCurObj.jxParams.children("sound_over_file_custom").text();
+					}
+					if(oCurObj.data.sRole=="close")
+					{
+						oCurObj.data.bDisplayConfirm = (oCurObj.jxParams.children("display_closemodule_msg").text()=="yes");
+					}
+					CL.Event.Subscribe({ aList: [ { sId: argobj.pid, sEvtName: "EVENT_FRAME_OPENED" }, { sId: argobj.pid, sEvtName: "EVENT_SLIDE_OPENED" }, { sId: argobj.pid, sEvtName: "EVENT_FRAME_COMPLETE" }, { sId: argobj.pid, sEvtName: "EVENT_SLIDE_COMPLETE" }, { sId: argobj.pid, sEvtName: "EVENT_NAVIGATION" } ] });
+				}
+				if(CL.bTouch)
+				{
+					if(bSwipe)
+					{
+						if(sDir=="next")
+						{
+							$(CL.oBoard).on("swipeleft", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); e.originalEvent.stopPropagation(); return false; });
+						}
+						else if(sDir=="prev")
+						{
+							$(CL.oBoard).on("swiperight", function (e) { oCurObj.CallMethod({ sMethod: "UIEvent", oMethodArgs: { evt: e, elem: this } }); e.originalEvent.stopPropagation(); return false; });
+						}
+						
+					}
+					jCurObjDiv.find(".cl-btn").addClass("cl-idle").on("click", function () { oCurObj.CallMethod({ sMethod: "Click", oMethodArgs: { pid: argobj.pid } }) });
+				}
+				else
+				{
+					jCurObjDiv.find(".cl-btn").addClass("cl-idle").on("mouseover", function () { oCurObj.CallMethod({ sMethod: "SetState", oMethodArgs: { pid: argobj.pid, sState: "over" } }) }).on("mouseout", function () { oCurObj.CallMethod({ sMethod: "SetState", oMethodArgs: { pid: argobj.pid, sState: "out" } }) }).on("click", function () { CLO[argobj.pid].CallMethod({ sMethod: "Click", oMethodArgs: { pid: argobj.pid } }) });
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0000_btn_navi" name="HandleEvt">
+<![CDATA[function HandleEvt(argobj)
+			{
+				if(CLO[argobj.pid]==null || CLO[argobj.pid].div==null) return false;
+				var oCurObj = CLO[argobj.pid];
+				if(CLO[argobj.pid].data.sTarget=="slide")
+				{
+					switch(argobj.evt)
+					{
+						case "EVENT_SLIDE_OPENED":
+						{
+							if(oCurObj.data.sSlideId!=CLZ.sCurrentSlideId)
+							{
+								oCurObj.data.sSlideId = CLZ.sCurrentSlideId;
+								oCurObj.data.bNaviLockedByAction = false;
+							}
+							oCurObj.CallMethod({ sMethod: ((oCurObj.data.bNaviStrict || oCurObj.data.bNaviLockedByAction) ? "DisableAccess" : "EnableAccess") });
+							break;
+						}
+						case "EVENT_SLIDE_COMPLETE":
+						{
+							oCurObj.CallMethod({ sMethod: ((oCurObj.data.bNaviLockedByAction) ? "DisableAccess" : "EnableAccess") });
+							break;
+						}
+						case "EVENT_NAVIGATION":
+						{
+							if(argobj.sTargets!=null)
+							{
+								if(argobj.sTargets==oCurObj.data.sDir || (argobj.sTargets=="restart" && oCurObj.data.sDir=="this") || argobj.sTargets=="all" || (argobj.sTargets=="buttons" && (oCurObj.data.sDir=="next" || oCurObj.data.sDir=="prev")) || argobj.sTargets=="allbuttons")
+								{
+									switch(argobj.sAction)
+									{
+										case "off":
+										{
+											oCurObj.data.bNaviLockedByAction = true;
+											oCurObj.CallMethod({ sMethod: "DisableAccess" });
+											break;
+										}
+										case "on":
+										default:
+										{
+											oCurObj.data.bNaviLockedByAction = false;
+											oCurObj.CallMethod({ sMethod: "EnableAccess" });
+											break;
+										}
+									}
+								}
+							}
+							break;
+						}					
+					}
+				}
+				else
+				{
+					switch(argobj.evt)
+					{
+						case "EVENT_FRAME_OPENED":
+						{
+							if(oCurObj.data.sFrameId!=CLZ.sCurrentFrameId)
+							{
+								oCurObj.data.sFrameId = CLZ.sCurrentFrameId;
+								oCurObj.data.bNaviLockedByAction = false;
+							}
+							oCurObj.CallMethod({ sMethod: ((oCurObj.data.bNaviStrict || oCurObj.data.bNaviLockedByAction) ? "DisableAccess" : "EnableAccess") });
+							break;
+						}
+						case "EVENT_FRAME_COMPLETE":
+						{
+							oCurObj.CallMethod({ sMethod: ((oCurObj.data.bNaviLockedByAction) ? "DisableAccess" : "EnableAccess") });
+							break;
+						}
+						case "EVENT_NAVIGATION":
+						{
+							if(argobj.sTargets!=null)
+							{
+								if(argobj.sTargets=="all" || argobj.sTargets=="buttons" || argobj.sTargets=="allbuttons")
+								{
+									switch(argobj.sAction)
+									{
+										case "off":
+										{
+											oCurObj.data.bNaviLockedByAction = true;
+											oCurObj.CallMethod({ sMethod: "DisableAccess" });
+											break;
+										}
+										case "on":
+										default:
+										{
+											oCurObj.data.bNaviLockedByAction = false;
+											oCurObj.CallMethod({ sMethod: "EnableAccess" });
+											break;
+										}
+									}
+								}
+							}
+							break;
+						}					
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0000_btn_navi" name="UIEvent">
+<![CDATA[function UIEvent(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv= $(oCurObj.div);
+				if(argobj.evt==null) return false;
+				if(oCurObj.data.sState=="disabled" || $(".cl-modal-mask").is(":visible")) return false;
+				switch(argobj.evt.type)
+				{
+					case "swiperight":
+					case "swipeleft":
+					{
+						oCurObj.CallMethod({ sMethod: "Navigate" });
+						break;
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0000_btn_navi" name="SetState">
+<![CDATA[function SetState(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jBtn = $(CLO[argobj.pid].div).find(".cl-btn");
+				if(jBtn.hasClass("cl-disabled") && argobj.sState!="enabled") return false;
+				switch(argobj.sState)
+				{
+					case "over":
+					{
+						jBtn.removeClass("cl-idle").addClass("cl-over");
+						CL.Sound.Stop({ sId: argobj.pid, sEvent: "over" });
+						if(oCurObj.data.sSoundOver!="none")
+						{
+							CL.Sound.Play({ sId: argobj.pid, sEvent: "over", sType: oCurObj.data.sSoundOver, sFile: oCurObj.data.sSoundOverFile })
+						}
+						break;
+					}
+					case "out":
+					{
+						jBtn.removeClass("cl-over").addClass("cl-idle");
+						break;
+					}
+					case "disabled":
+					{
+						jBtn.removeClass("cl-idle cl-over").addClass("cl-disabled");
+						CLO[argobj.pid].data.sState = "disabled";
+						break;
+					}
+					case "enabled":
+					{
+						jBtn.removeClass("cl-disabled").addClass("cl-idle");
+						CLO[argobj.pid].data.sState = "enabled";
+						break;
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0000_btn_navi" name="DisableAccess">
+<![CDATA[function DisableAccess(argobj)
+			{
+				CLO[argobj.pid].CallMethod({ sMethod: "SetState", oMethodArgs: { sState: "disabled" } });
+				return true;
+			}]]>
+</method>
+<method type="nav_0000_btn_navi" name="EnableAccess">
+<![CDATA[function EnableAccess(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				if(CLO[argobj.pid].data.sRole=="close")
+				{
+					CLO[argobj.pid].CallMethod({ sMethod: "SetState", oMethodArgs: { sState: "enabled" } });
+				}
+				else
+				{
+					var oParams = { sTarget: CLO[argobj.pid].data.sTarget };
+					if(CLO[argobj.pid].data.sDir=="")
+					{
+						oParams.sTargetId = CLO[argobj.pid].data.sId;
+					}
+					else
+					{
+						oParams.sDir = CLO[argobj.pid].data.sDir;
+					}
+					CLO[argobj.pid].CallMethod({ sMethod: "SetState", oMethodArgs: { sState: ((argobj.override==true || CL.Navigation.Allowed(oParams)) ? "enabled" : "disabled") } });
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0000_btn_navi" name="Navigate">
+<![CDATA[function Navigate(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var oParams = { sTargetType: oCurObj.data.sTarget };
+				if(oCurObj.data.sDir=="")
+				{
+					oParams.sTargetId = oCurObj.data.sId;
+				}
+				else
+				{
+					oParams.sTargetDir = oCurObj.data.sDir;
+				}
+				if(argobj.override==true || CL.Navigation.Allowed(oParams))
+				{
+					oCurObj.CallMethod({ sMethod: "SetState", oMethodArgs: { sState: "disabled" } });
+					CL.Navigation.GoTo(oParams);
+				}
+				CL.Sound.Stop({ sId: argobj.pid, sEvent: "click" });
+				if(oCurObj.data.sSoundClick!="none")
+				{
+					CL.Sound.Play({ sId: argobj.pid, sEvent: "click", sType: oCurObj.data.sSoundClick, sFile: oCurObj.data.sSoundClickFile })
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0000_btn_navi" name="GetProperty">
+<![CDATA[function GetProperty(argobj)
+			{
+				return CLO[argobj.pid].GetProperty(argobj);
+			}]]>
+</method>
+<method type="nav_0000_btn_navi" name="Click">
+<![CDATA[function Click(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj.data.sState=="disabled") return false;
+				if(oCurObj.data.sRole=="close")
+				{
+					if(oCurObj.data.bDisplayConfirm)
+					{
+						if(confirm(CLO[argobj.pid].jxParams.children("closemodule_msg").text()))
+						{
+							window.close();
+						}
+					}
+					else
+					{
+						window.close();
+					}
+				}
+				else
+				{
+					CLO[argobj.pid].CallMethod({ sMethod: "Navigate" });
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0000_btn_toggle" name="Constructor">
+<![CDATA[function Constructor(argobj)
+				{
+					var oCurObj = CLO[argobj.pid];
+					var jCurObjDiv = $(CLO[argobj.pid].div);
+					oCurObj.data =
+					{
+						sRole: oCurObj.jxParams.children("role").text(),
+						sState: "on",
+						sSoundClick: oCurObj.jxParams.children("sound_click").text(),
+						sSoundOver: oCurObj.jxParams.children("sound_over").text()
+					};
+					if(oCurObj.data.sSoundClick=="custom")
+					{
+						oCurObj.data.sSoundClickFile = oCurObj.jxParams.children("sound_click_file_custom").text();
+					}
+					if(oCurObj.data.sSoundOver=="custom")
+					{
+						oCurObj.data.sSoundOverFile = oCurObj.jxParams.children("sound_over_file_custom").text();
+					}
+					jCurObjDiv.find(".cl-btn").children("div:first").addClass("cl-idle");
+					if(CL.bTouch)
+					{
+						jCurObjDiv.find(".cl-btn").on("click", function () { oCurObj.CallMethod({ sMethod: "Click", oMethodArgs: { pid: argobj.pid } }) });
+					}
+					else
+					{
+						jCurObjDiv.find(".cl-btn").on("mouseover", function () { oCurObj.CallMethod({ sMethod: "SetState", oMethodArgs: { pid: argobj.pid, sState: "over" } }) }).on("mouseout", function () { oCurObj.CallMethod({ sMethod: "SetState", oMethodArgs: { pid: argobj.pid, sState: "out" } }) }).on("click", function () { oCurObj.CallMethod({ sMethod: "Click", oMethodArgs: { pid: argobj.pid } }) });
+					}
+					oCurObj.data.sTitleOn = oCurObj.jxParams.children("alt_on_" + oCurObj.data.sRole).text();
+					oCurObj.data.sTitleOff = oCurObj.jxParams.children("alt_off_" + oCurObj.data.sRole).text();
+					switch(oCurObj.data.sRole)
+					{
+						case "sound":
+						{
+							if(!CLZ.bSoundOn)
+							{
+								oCurObj.CallMethod({ sMethod: "SetState", oMethodArgs: { pid: argobj.pid, sState: "off" } });
+								CL.Sound.Disable();
+							}
+							else
+							{
+								oCurObj.CallMethod({ sMethod: "SetState", oMethodArgs: { pid: argobj.pid, sState: "on" } });
+								CL.Sound.Enable();
+							}
+							break;
+						}
+						case "fitscreen":
+						{
+							if(CLZ.nZoom==1)
+							{
+								oCurObj.CallMethod({ sMethod: "SetState", oMethodArgs: { pid: argobj.pid, sState: "on" } });
+							}
+							else
+							{
+								oCurObj.CallMethod({ sMethod: "SetState", oMethodArgs: { pid: argobj.pid, sState: "off" } });
+							}
+							break;
+						}
+						case "method":
+						{
+							oCurObj.data.sTargetId = oCurObj.jxParams.children("target_object").text();
+							if(CLO[oCurObj.data.sTargetId]==null)
+							{
+								oCurObj.CallMethod({ sMethod: "SetState", oMethodArgs: { pid: argobj.pid, sState: "on" } });
+							}
+							else
+							{
+								if(CLO[oCurObj.data.sTargetId].oMethods["Open"]!=null && CLO[oCurObj.data.sTargetId].oMethods["Close"]!=null)
+								{
+									if(CLO[oCurObj.data.sTargetId].aButtonIds==null)
+									{
+										CLO[oCurObj.data.sTargetId].aButtonIds = [];
+									}
+									CLO[oCurObj.data.sTargetId].aButtonIds.push(argobj.pid);
+									if($(CLO[oCurObj.data.sTargetId].div).is(":visible"))
+									{
+										oCurObj.CallMethod({ sMethod: "SetState", oMethodArgs: { pid: argobj.pid, sState: "off" } });
+									}
+									else
+									{
+										oCurObj.CallMethod({ sMethod: "SetState", oMethodArgs: { pid: argobj.pid, sState: "on" } });
+									}
+								}
+							}
+							break;
+						}
+					}
+					return true;
+				}]]>
+</method>
+<method type="nav_0000_btn_toggle" name="SetState">
+<![CDATA[function SetState(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(CLO[argobj.pid].div);
+				var jBtn = $(CLO[argobj.pid].div).find(".cl-btn");
+				switch(argobj.sState)
+				{
+					case "over":
+					{
+						jBtn.children("div:first").removeClass("cl-idle").addClass("cl-over");
+						CL.Sound.Stop({ sId: argobj.pid, sEvent: "over" });
+						if(oCurObj.data.sSoundOver!="none")
+						{
+							CL.Sound.Play({ sId: argobj.pid, sEvent: "over", sType: oCurObj.data.sSoundOver, sFile: oCurObj.data.sSoundOverFile })
+						}
+						break;
+					}
+					case "out":
+					{
+						jBtn.children("div:first").removeClass("cl-over").addClass("cl-idle");
+						break;
+					}
+					case "on":
+					{
+						jBtn.removeClass("cl-btn-off").addClass("cl-btn-on");
+						CLO[argobj.pid].data.sState = "on";
+						break;
+					}
+					case "off":
+					{
+						jBtn.removeClass("cl-btn-on").addClass("cl-btn-off");
+						CLO[argobj.pid].data.sState = "off";
+						break;
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0000_btn_toggle" name="On">
+<![CDATA[function On(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj.data.sState=="on") return false;
+				$(oCurObj.div).find(".cl-btn").removeClass("cl-btn-off").addClass("cl-btn-on");
+				oCurObj.data.sState = "on";
+				return true;
+			}]]>
+</method>
+<method type="nav_0000_btn_toggle" name="Off">
+<![CDATA[function Off(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj.data.sState=="off") return false;
+				var jBtn = $(oCurObj.div).find(".cl-btn").removeClass("cl-btn-on").addClass("cl-btn-off");
+				oCurObj.data.sState = "off";
+				return true;
+			}]]>
+</method>
+<method type="nav_0000_btn_toggle" name="Click">
+<![CDATA[function Click(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jBtn = $(oCurObj.div).find(".cl-btn");
+				CL.Sound.Stop({ sId: argobj.pid, sEvent: "click" });
+				if(oCurObj.data.sSoundClick!="none")
+				{
+					CL.Sound.Play({ sId: argobj.pid, sEvent: "click", sType: oCurObj.data.sSoundClick, sFile: oCurObj.data.sSoundClickFile })
+				}
+				switch(oCurObj.data.sRole)
+				{
+					case "sound":
+					{
+						if(oCurObj.data.sState=="on")
+						{
+							CL.Sound.Enable();
+							oCurObj.CallMethod({ sMethod: "SetState", oMethodArgs: { pid: argobj.pid, sState: "off" } });
+							jBtn.attr({ "title": oCurObj.data.sTitleOff });
+						}
+						else
+						{
+							CL.Sound.Disable();
+							oCurObj.CallMethod({ sMethod: "SetState", oMethodArgs: { pid: argobj.pid, sState: "on" } });
+							jBtn.attr({ "title": oCurObj.data.sTitleOn });
+						}
+						break;
+					}
+					case "fitscreen":
+					{
+						if(oCurObj.data.sState=="on")
+						{
+							CL.Zoom({ bFit: true, bResize: true, bNaviBtn: true });
+							oCurObj.CallMethod({ sMethod: "SetState", oMethodArgs: { pid: argobj.pid, sState: "off" } });
+							jBtn.attr({ "title": oCurObj.data.sTitleOff });
+						}
+						else
+						{
+							CL.Zoom({ bFit: false });
+							oCurObj.CallMethod({ sMethod: "SetState", oMethodArgs: { pid: argobj.pid, sState: "on" } });
+							jBtn.attr({ "title": oCurObj.data.sTitleOn });
+						}
+						break;
+					}
+					case "contents":
+					case "method":
+					{
+						if(CLO[oCurObj.data.sTargetId]!=null)
+						{
+							if($(CLO[oCurObj.data.sTargetId].div).is(":visible"))
+							{
+								CLO[oCurObj.data.sTargetId].CallMethod({ sMethod: "Close" });
+								oCurObj.CallMethod({ sMethod: "SetState", oMethodArgs: { pid: argobj.pid, sState: "on" } });
+								jBtn.attr({ "title": oCurObj.data.sTitleOff });
+							}
+							else
+							{
+								CLO[oCurObj.data.sTargetId].CallMethod({ sMethod: "Open" });
+								oCurObj.CallMethod({ sMethod: "SetState", oMethodArgs: { pid: argobj.pid, sState: "off" } });
+								jBtn.attr({ "title": oCurObj.data.sTitleOn });
+							}
+						}
+						break;
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0001_position" name="Constructor">
+<![CDATA[function Constructor(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				oCurObj.data =
+				{
+					iSlideNum: 0,
+					jChapterNumber: [],
+					jChapterTotal: [],
+					jNumber: [],
+					jTotal: [],
+					sDisplayType: oCurObj.jxParams.children("display_type").text(),
+					sSlideId: ""
+				};
+				switch(oCurObj.data.sDisplayType)
+				{
+					case "plain": 
+					{
+						oCurObj.data.jNumber = jCurObjDiv.find("[cl-role='slide-number']");
+						oCurObj.data.jTotal = jCurObjDiv.find("[cl-role='slide-total']");
+						oCurObj.data.jTotal.html(CL.oPath._GetLength());
+						break;
+					}
+					case "sub_module": 
+					{
+						var jText = jCurObjDiv.find("[cl-role='position-text']");
+						jText.html( jText.html().split("{{N}}").join('<span class="cl-value" cl-role="slide-number"></span>').split("{{M}}").join('<span class="cl-total" cl-role="slide-total"></span>') );
+						oCurObj.data.jNumber = jText.find("[cl-role='slide-number']");
+						oCurObj.data.jTotal = jText.find("[cl-role='slide-total']");
+						break;
+					}
+					case "sub_chapter": 
+					{
+						var jText = jCurObjDiv.find("[cl-role='position-text']");
+						jText.html( jText.html().split("{{X}}").join('<span class="cl-value" cl-role="slide-chapter-number"></span>').split("{{Y}}").join('<span class="cl-total" cl-role="slide-chapter-total"></span>') );
+						oCurObj.data.jChapterNumber = jText.find("[cl-role='slide-chapter-number']");
+						oCurObj.data.jChapterTotal = jText.find("[cl-role='slide-chapter-total']");
+						break;
+					}
+					case "sub_all": 
+					{
+						var jText = jCurObjDiv.find("[cl-role='position-text']");
+						jText.html( jText.html().split("{{N}}").join('<span class="cl-value" cl-role="slide-number"></span>').split("{{M}}").join('<span class="cl-total" cl-role="slide-total"></span>').split("{{X}}").join('<span class="cl-value" cl-role="slide-chapter-number"></span>').split("{{Y}}").join('<span class="cl-total" cl-role="slide-chapter-total"></span>') );
+						oCurObj.data.jChapterNumber = jText.find("[cl-role='slide-chapter-number']");
+						oCurObj.data.jChapterTotal = jText.find("[cl-role='slide-chapter-total']");
+						oCurObj.data.jNumber = jText.find("[cl-role='slide-number']");
+						oCurObj.data.jTotal = jText.find("[cl-role='slide-total']");
+						break;
+					}
+				}
+				if(oCurObj.data.jTotal.length!=0)
+				{
+					oCurObj.data.jTotal.html(CL.oPath._GetLength());
+				}
+				CL.Event.Subscribe({ aList: [ { sId: argobj.pid, sEvtName: "EVENT_SLIDE_OPENED" } ] });
+				return true;
+			}]]>
+</method>
+<method type="nav_0001_position" name="HandleEvt">
+<![CDATA[function HandleEvt(oEvtHandler)
+			{
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj==null) return false;
+				if(oCurObj.div==null) return false; 
+				switch(argobj.evt)
+				{
+					case "EVENT_SLIDE_OPENED":
+					{
+						if(oCurObj.data.sSlideId!=CLZ.sCurrentSlideId)
+						{
+							CLO[argobj.pid].CallMethod({ sMethod: "Update" });
+						}
+						break;
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0001_position" name="Update">
+<![CDATA[function Update(argobj)
+			{
+				if(argobj.pid==null) return false;
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj==null) return false;
+				if(oCurObj.data.jNumber.length!=0)
+				{
+					oCurObj.data.jNumber.html(CL.oPath._GetSlideNumber());
+				}
+				if(oCurObj.data.jChapterNumber.length!=0)
+				{
+					oCurObj.data.jChapterNumber.html(CL.oPath._GetSlideNumber({ bChapter: true }));
+				}
+				if(oCurObj.data.jChapterTotal.length!=0)
+				{
+					oCurObj.data.jChapterTotal.html(CL.oPath._GetLength({ bChapter: true }));
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0001_position" name="GetProperty">
+<![CDATA[function GetProperty(argobj)
+			{
+				if(argobj.pid==null || argobj.property==null) return false;
+				if(CLO[argobj.pid]==null) return false;
+				switch(argobj.property.toLowerCase())
+				{
+					case "currentposition": 
+					{
+						return CLO[argobj.pid].data.iSlideNum;
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Constructor">
+<![CDATA[function Constructor(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurDiv = $(oCurObj.div);
+				oCurObj.bShowInternal = true;
+				var jContainer = jCurDiv.find(".cl-container");
+				jContainer.find(".cl-btn").on("click", function () { oCurObj.CallMethod({ sMethod: "Close" }) });
+				oCurObj.initial.nZ = 5000;
+				oCurObj.data =
+				{
+					aTogglers: [],
+					bNaviStrict: (oCurObj.jxParams.children("nav_lock").text()=="yes"),
+					bNaviLockedByAction: false,
+					bModal: (oCurObj.jxParams.children("modal").text()=="yes"),
+					bSearchTip: (oCurObj.jxParams.children("search_tip").text()=="yes"),
+					sSlideId: "",
+					sRole: oCurObj.jxParams.children("contenttype").text(),
+					sState: "enabled",
+					sPosition: "closed",
+					sSoundClick: oCurObj.jxParams.children("sound_click").text(),
+					sSoundOver: oCurObj.jxParams.children("sound_over").text()
+				};
+				if(oCurObj.data.sSoundClick=="custom")
+				{
+					oCurObj.data.sSoundClickFile = oCurObj.jxParams.children("sound_click_file_custom").text();
+				}
+				if(oCurObj.data.sSoundOver=="custom")
+				{
+					oCurObj.data.sSoundOverFile = oCurObj.jxParams.children("sound_over_file_custom").text();
+				}
+				var jxToggle = CL.jxModule.find("param > target_object");
+				var sTogglerId;
+				for(var i=0; i<jxToggle.length; i++)
+				{
+					if($(jxToggle[i]).text()==argobj.pid)
+					{
+						sTogglerId = $(jxToggle[i]).parent().attr("objectid");
+						oCurObj.data.aTogglers.push(sTogglerId);
+						if(oCurObj.data.sRole=="contents")
+						{
+							if(CLO[sTogglerId]!=null)
+							{
+								if(CLO[sTogglerId].data!=null)
+								{
+									CLO[sTogglerId].data.sRole = "contents";
+								}
+							}
+						}
+					}
+				}
+				var iTranIn = parseInt(oCurObj.jxParams.children("tranin").text(),10);
+				if(iTranIn==-2 && oCurObj.tranin!=null)
+				{
+					oCurObj.data.bTranIn = true;
+					oCurObj.data.iTranIn = oCurObj.tranin.transition;
+					oCurObj.data.iDurIn = oCurObj.tranin.duration;
+				}
+				else if(iTranIn>=0)
+				{
+					oCurObj.data.bTranIn = true;
+					oCurObj.data.iTranIn = iTranIn;
+					oCurObj.data.iDurIn = parseInt(oCurObj.jxParams.children("durin").text(),10);
+				}
+				else
+				{
+					oCurObj.data.bTranIn = false;
+				}
+				var iTranOut = parseInt(oCurObj.jxParams.children("tranout").text(),10);
+				if(iTranOut==-2 && oCurObj.tranout!=null)
+				{
+					oCurObj.data.bTranOut = true;
+					oCurObj.data.iTranOut = oCurObj.tranout.transition;
+					oCurObj.data.iDurOut = oCurObj.tranout.duration;
+				}
+				else if(iTranOut>=0)
+				{
+					oCurObj.data.bTranOut = true;
+					oCurObj.data.iTranOut = iTranOut;
+					oCurObj.data.iDurOut = parseInt(oCurObj.jxParams.children("durout").text(),10);
+				}
+				else
+				{
+					oCurObj.data.bTranOut = false;
+				}
+				oCurObj.CallMethod({ sMethod: "InitRole" });
+				jCurDiv.hide();
+				CL.Event.Subscribe({ aList: [ { sId: argobj.pid, sEvtName: "EVENT_OBJECT_SHOW" }, { sId: argobj.pid, sEvtName: "EVENT_SLIDE_OPENED" }, { sId: argobj.pid, sEvtName: "EVENT_SLIDE_COMPLETE" }, { sId: argobj.pid, sEvtName: "EVENT_NAVIGATION" } ] });
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="HandleEvt">
+<![CDATA[function HandleEvt(oEvtHandler, oArg)
+			{
+				if(CLO[argobj.pid]==null || CLO[argobj.pid].div==null) return false; 
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				switch(argobj.evt)
+				{
+					case "EVENT_OBJECT_SHOW":
+					{
+						oCurObj.data.sPosition = "open";
+						break;
+					}
+					case "EVENT_SLIDE_OPENED":
+					{
+						oCurObj.CallMethod({ sMethod: "Close" });
+						if(oCurObj.data.sRole=="contents" || oCurObj.data.sRole=="settings" || oCurObj.data.sRole=="comment")
+						{
+							oCurObj.CallMethod({ sMethod: "Update" });
+						}
+						if(oCurObj.data.sSlideId!=CLZ.sCurrentSlideId)
+						{
+							oCurObj.data.sSlideId = CLZ.sCurrentSlideId;
+							oCurObj.data.bNaviLockedByAction = false;
+						}
+						oCurObj.CallMethod({ sMethod: ((oCurObj.data.bNaviStrict || oCurObj.data.bNaviLockedByAction) ? "Disable" : "Enable") });
+						break;
+					}
+					case "EVENT_SLIDE_COMPLETE":
+					{
+						oCurObj.CallMethod({ sMethod: ((oCurObj.data.bNaviLockedByAction) ? "Disable" : "Enable") });
+						break;
+					}
+					case "EVENT_NAVIGATION":
+					{
+						if(argobj.sTargets!=null)
+						{
+							if(argobj.sTargets=="tabs" || argobj.sTargets=="all" || (argobj.sTargets=="contents" && oCurObj.data.sRole=="contents"))
+							{
+								switch(argobj.sAction)
+								{
+									case "off":
+									{
+										oCurObj.data.bNaviLockedByAction = true;
+										oCurObj.CallMethod({ sMethod: "Disable" });
+										break;
+									}
+									case "on":
+									default:
+									{
+										oCurObj.data.bNaviLockedByAction = false;
+										oCurObj.CallMethod({ sMethod: "Enable" });
+										break;
+									}
+								}
+							}
+						}
+						break;
+					}					
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="InitRole">
+<![CDATA[function InitRole(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var iPadding = +oCurObj.jxParams.find("panel_padding").text();
+				var iBorder = +oCurObj.jxParams.find("panel_borderwidth").text();
+				var iFullH = oCurObj.initial.h;
+				var iRadius = +oCurObj.jxParams.find("panel_radius").text();
+				var iCloseH = (iRadius > iPadding) ? iRadius + 20 : iPadding + 20;
+				var iHH = 0;
+				var jHeader = jContainer.find(".cl-body-header");
+				if(jHeader.length>0)
+				{
+					iHH = jHeader.outerHeight();
+					if(iHH<iCloseH) iHH = iCloseH;
+				}
+				else
+				{
+					iHH = iCloseH;
+				}
+				iH = iFullH - iHH - 2*iPadding - 2*iBorder;
+				jContainer.find(".cl-body-contents").height(iH);
+				switch(oCurObj.data.sRole)
+				{
+					case "contents":
+					{
+						var jTemplate = jContainer.find("li.slide-item-template");
+						var jUL = jContainer.find("ul.slide-list");
+						var jxSlide;
+						var jLI;
+						var sSlideId;
+						var bPrevVisited = true;
+						var iIndent;
+						var iPrevIndent = 0;
+						var aPath = CL.oPath._GetSlideList();
+						for(var i=0; i<aPath.length; i++)
+						{
+							sSlideId = aPath[i];
+							jxSlide = CL.jxModule.find("slide[id='" + sSlideId + "']");
+							jLI = jTemplate.clone(true).removeClass("slide-item-template").addClass("slide-item").attr({ "data-slide-id": sSlideId }).appendTo(jUL);
+							jLI.on("click", function () { CLO[argobj.pid].CallMethod({ sMethod: "Navigate", oMethodArgs: { elem: this } }) });
+							jLI.find(".item-inner").html(jxSlide.attr("name"));
+							if(jxSlide.attr("indent")!=null)
+							{
+								iIndent = +jxSlide.attr("indent");
+								if(iIndent!=0)
+								{
+									jLI.addClass("indent-" + iIndent);
+									if(iIndent>iPrevIndent && CL.axSlides[i-1]!=0)
+									{
+										jLI.prev().addClass("open");
+										iPrevIndent = iIndent;
+									}
+								}
+								else
+								{
+									iPrevIndent = 0;
+								}
+							}
+							else
+							{
+								iPrevIndent = 0;
+							}
+							if(sSlideId==CLZ.sCurrentSlideId)
+							{
+								jLI.addClass("current");
+								bPrevVisited = true;
+							}
+							else if(CL.SCO.IsVisited({ sBy: "slideid", sSlideId: sSlideId }))
+							{
+								jLI.addClass("allowed visited");
+								bPrevVisited = true;
+							}
+							else
+							{
+								if(bPrevVisited==true)
+								{
+									jLI.addClass("allowed unvisited");
+									bPrevVisited = false;
+								}
+								else if(!CLZ.bStrictOrder)
+								{
+									jLI.addClass("allowed unvisited");
+								}
+								else
+								{
+									jLI.addClass("forbidden unvisited");
+								}
+							}
+						}
+						break;
+					}
+					case "search":
+					{
+						jContainer.find(".cl-search-results-list, .cl-search-found, .cl-search-no-results").hide();
+						jContainer.find(".cl-search-btn").on("click", function () { CLO[argobj.pid].CallMethod({ sMethod: "Search" }) });
+						jContainer.find(".cl-search-field").on("keydown", function () { CLO[argobj.pid].CallMethod({ sMethod: "SearchTip" }) });
+						break;
+					}
+					case "glossary":
+					{
+						var jLetterBox = jContainer.find(".cl-letters-box");
+						if(jLetterBox.length!=0)
+						{
+							var iMaxW = -1;
+							var jLetters = jLetterBox.find(".cl-letter-item");
+							jLetters.each(function ()
+							{
+								var iW = $(this).width();
+								if(iW>iMaxW) iMaxW = iW;
+							});
+							jLetters.each(function ()
+							{
+								$(this).width(iMaxW);
+							});
+							iHH = jLetterBox.outerHeight();
+							iH = iH - iHH;
+						}
+						jContainer.find(".cl-terms-list-container").height(iH);
+						jContainer.find(".cl-terms-desc").height(iH);
+						iH -= 2*iPadding;
+						jContainer.find(".cl-terms-desc-container").height(iH);
+						jContainer.find(".cl-terms-desc-default-table").height(iH);
+						jContainer.find(".cl-terms-desc-default-cell").height(iH);
+						if(jContainer.find(".cl-letter-item").length>0)
+						{
+							jContainer.find(".cl-letter-item").on("click", function () { oCurObj.CallMethod({ sMethod: "Filter", oMethodArgs: { elem: this } }) });
+						}
+						jContainer.find(".cl-term-item").on("click", function () { oCurObj.CallMethod({ sMethod: "Display", oMethodArgs: { elem: this } }) });
+						break;
+					}
+					case "calculator":
+					{
+						jContainer.find(".calc-btn").on("click", function () { oCurObj.CallMethod({ sMethod: "HandleCalc", oMethodArgs: { elem: this } }) });
+						oCurObj.data.sOperandA = "na";
+						oCurObj.data.sOperatorA = "na";
+						oCurObj.data.sOperandB = "na";
+						oCurObj.data.sLastBtn = "na";
+						oCurObj.data.sMemory = "na";
+						oCurObj.data.bClean = false;
+						oCurObj.data.bEqual = false;
+						oCurObj.data.bPercent = false;
+						break;
+					}
+					case "settings":
+					{
+						oCurObj.data.sObjToDisplay = oCurObj.jxParams.children("settings_display").text();
+						oCurObj.data.bCustomIcons = (oCurObj.jxParams.children("settings_icons").text()=="custom");
+						oCurObj.data.sScoreDisplayType = oCurObj.jxParams.children("score_style").text();
+						var jTemplate = jContainer.find(".cl-sett-row-template");
+						var jTable = jTemplate.parents("table:first");
+						var jTR;
+						var jTD;
+						for(var sObjId in CLJ)
+						{
+							if(oCurObj.data.sObjToDisplay=="main" && CLJ[sObjId].bModule.toString()!="1") continue;
+							if(oCurObj.data.sObjToDisplay=="other" && CLJ[sObjId].bModule.toString()=="1") continue;
+							jTR = jTemplate.clone(true).attr({ "data-obj-id": sObjId }).removeClass("cl-sett-row-template");
+							jTR.children("td.cl-sett-name").html(CLJ[sObjId].sName);
+							if(oCurObj.data.sScoreDisplayType=="raw")
+							{
+								jTR.children("td.cl-sett-score").html(CLJ[sObjId].nRawScore);
+							}
+							else if(oCurObj.data.sScoreDisplayType=="rawmax")
+							{
+								jTR.children("td.cl-sett-score").html(CLJ[sObjId].nRawScore + "(" + CLJ[sObjId].nMax + ")");
+							}
+							else if(oCurObj.data.sScoreDisplayType=="scaled")
+							{
+								if(CLJ[sObjId].nMax!=0)
+								{
+									jTR.children("td.cl-sett-score").html( Math.round(100*CLJ[sObjId].nRawScore/CLJ[sObjId].nMax)/100 + "%");
+								}
+								else
+								{
+									jTR.children("td.cl-sett-score").html(CLJ[sObjId].nRawScore);
+								}
+							}
+							if(oCurObj.data.bCustomIcons)
+							{
+								jTD = jTR.children("td.sett-cs");
+								jTD.attr({ "title": jTD.attr("data-title-cs-" + CLJ[sObjId].sCS),"data-obj-id": sObjId });
+								jTD.find("img").hide();
+								jTD.find("img.sett-cs-" + CLJ[sObjId].sCS).show();
+								jTD = jTR.children("td.sett-ss");
+								jTD.attr({ "title": jTD.attr("data-title-ss-" + CLJ[sObjId].sSS),"data-obj-id": sObjId });
+								jTD.find("img").hide();
+								jTD.find("img.sett-ss-" + CLJ[sObjId].sSS).show();
+							}
+							else
+							{
+								jTD = jTR.children("td.sett-cs");
+								jTD.attr({ "title": jTD.attr("data-title-cs-" + CLJ[sObjId].sCS),"data-obj-id": sObjId });
+								jTD.find("div.cl-sett-status").addClass("cl-sett-status-" + CLJ[sObjId].sCS);
+								jTD = jTR.children("td.sett-ss");
+								jTD.attr({ "title": jTD.attr("data-title-ss-" + CLJ[sObjId].sSS),"data-obj-id": sObjId });
+								jTD.find("div.cl-sett-status").addClass("cl-sett-status-" + CLJ[sObjId].sSS);
+							}
+							if(CLJ[sObjId].bModule.toString()=="1")
+							{
+								jTR.insertAfter(jTable.find("tr.sett-main-obj-header"));
+							}
+							else
+							{
+								jTR.appendTo(jTable);
+							}
+						}
+						break;
+					}
+					case "comment":
+					{
+						oCurObj.data.sIfNoComment = oCurObj.jxParams.children("comment_display").text();
+						break;
+					}
+				}
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="HandleCalc">
+<![CDATA[function HandleCalc(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				if(oCurObj.data.sRole!="calculator") return false;
+				if(argobj.elem==null) return false;
+				var sKey = $(argobj.elem).attr("data-btn");
+				if(sKey==null || sKey=="") return false;
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var jDisplay = jContainer.find(".calc-display");
+				var jMemInd = jContainer.find(".calc-memind");
+				var sCurString = $.trim(jDisplay.html() + "");
+				if($(argobj.elem).hasClass("calc-num")) // numeric btn or .
+				{
+					sKey = sKey + "";
+					if(oCurObj.data.bEqual==true)
+					{
+						oCurObj.data.sOperandA = "na";
+						oCurObj.data.sOperatorA = "na";
+						oCurObj.data.sOperandB = "na";
+						oCurObj.data.bEqual = false;
+					}
+					if(oCurObj.data.bClean==true)
+					{
+						sCurString = "0";
+						jDisplay.html("0");
+						oCurObj.data.sOperandB = "na";
+						oCurObj.data.bClean = false;
+					}
+					if(sCurString=="0" && sKey=="0") return false;
+					if(sKey=="." && sCurString.indexOf(".")!=-1) return false;
+					if(sCurString.length>=17)
+					{
+						if(sCurString.indexOf("!")==-1) jDisplay.html("!"+sCurString);
+						return false;
+					}
+					if(sCurString.length==1 && sCurString=="0" && sKey!=".")
+					{
+						jDisplay.html(sKey);
+						return true;
+					}
+					jDisplay.html(sCurString + sKey);
+				}
+				else
+				{
+					if(sCurString.indexOf("ERROR")!=-1 && sKey!="C") return false;
+					switch(sKey)
+					{
+						case "M+":
+						{
+							if(sCurString.indexOf("!")!=-1) sCurString = sCurString.substr(1);
+							jMemInd.html("M");
+							if(oCurObj.data.sMemory=="na")
+							{
+								oCurObj.data.sMemory = sCurString;
+							}
+							else
+							{
+								var nM1 = parseFloat(oCurObj.data.sMemory);
+								var nM2 = parseFloat(sCurString);
+								nM1 = nM1 + nM2;
+								oCurObj.data.sMemory = nM1.toString();
+							}
+							break;
+						}
+						case "MS":
+						{
+							if(sCurString.indexOf("!")!=-1) sCurString = sCurString.substr(1);
+							jMemInd.html("M");
+							if(oCurObj.data.sMemory=="na")
+							{
+								oCurObj.data.sMemory = "-" + sCurString;
+							}
+							else
+							{
+								var nM1 = parseFloat(oCurObj.data.sMemory);
+								var nM2 = parseFloat(sCurString);
+								nM1 = nM1 - nM2;
+								oCurObj.data.sMemory = nM1.toString();
+							}
+							break;
+						}
+						case "MR":
+						{
+							if(oCurObj.data.sMemory!="na")
+							{
+								jDisplay.html(oCurObj.data.sMemory);
+							}
+							break;
+						}
+						case "MC":
+						{
+							oCurObj.data.sMemory = "na";
+							jMemInd.html("&nbsp;");
+							break;
+						}
+						case "C":
+						{
+							oCurObj.data.sOperandA = "na";
+							oCurObj.data.sOperatorA = "na";
+							oCurObj.data.sOperandB = "na";
+							oCurObj.data.sLastBtn = "na";
+							oCurObj.data.bClean = false;
+							jDisplay.html("0");
+							break;
+						}
+						case "CE":
+						{
+							oCurObj.data.sOperandB = "na";
+							oCurObj.data.sLastBtn = "na";
+							oCurObj.data.bClean = false;
+							jDisplay.html("0");
+							break;
+						}
+						case "Backspace":
+						{
+							if(sCurString.length>1)
+							{
+								sCurString = sCurString.substr(0,sCurString.length-1);
+							}
+							jDisplay.html(sCurString);
+							break;
+						}
+						case "equal":
+						{
+							if(oCurObj.data.bPercent==true)
+							{
+								return false;
+							}
+							oCurObj.data.bEqual = true;
+							if(oCurObj.data.sOperandA!="na")
+							{
+								oCurObj.CallMethod({ sMethod: "Calculate", oMethodArgs: { sKey: sKey } });
+							}
+							break;
+						}
+						case "power":
+						case "plus":
+						case "minus":
+						case "mult":
+						case "divide":
+						{
+							if(oCurObj.data.bEqual==true)
+							{
+								oCurObj.data.bEqual = false;
+							}
+							if(oCurObj.data.bPercent==true)
+							{
+								oCurObj.data.bPercent = false;
+							}
+							if(sCurString.indexOf("!")!=-1)
+							{
+								sCurString = sCurString.substr(1);
+								jDisplay.html(sCurString);
+							}
+							if(oCurObj.data.sOperandA=="na" || oCurObj.data.bClean==true)
+							{
+								oCurObj.data.sOperandA = sCurString;
+								oCurObj.data.sOperatorA = sKey;
+								oCurObj.data.bClean = true;
+							}
+							else
+							{
+								oCurObj.CallMethod({ sMethod: "Calculate", oMethodArgs: { sKey: sKey } });
+							}
+							break;
+						}
+						case "negate":
+						{
+							if(sCurString=="0") return false;
+							if(oCurObj.data.bEqual==true)
+							{
+								oCurObj.data.bEqual = false;
+							}
+							if(oCurObj.data.bPercent==true)
+							{
+								oCurObj.data.bPercent = false;
+							}
+							if(sCurString.indexOf("-")!=-1)
+							{
+								sCurString = sCurString.substr(1);
+							}
+							else
+							{
+								sCurString = "-"+sCurString;
+							}
+							jDisplay.html(sCurString);
+							break;
+						}
+						case "recip":
+						{
+							if(sCurString=="0")
+							{
+								oCurObj.data.sOperandA = "na";
+								oCurObj.data.sOperatorA = "na";
+								oCurObj.data.sOperandB = "na";
+								oCurObj.data.sLastBtn = "na";
+								oCurObj.data.bClean = false;
+								jDisplay.html("ERROR: DIV 0");
+								return false;
+							}
+							if(oCurObj.data.bEqual==true)
+							{
+								oCurObj.data.bEqual = false;
+							}
+							if(oCurObj.data.bPercent==true)
+							{
+								oCurObj.data.bPercent = false;
+							}
+							if(sCurString.indexOf("!")!=-1) sCurString = sCurString.substr(1);
+							var nValue = 1/parseFloat(sCurString);
+							sCurString = nValue.toString();
+							if(sCurString.length>=20)
+							{
+								sCurString = sCurString.substring(0,19);
+							}
+							jDisplay.html(sCurString);
+							break;
+						}
+						case "percent":
+						{
+							if(oCurObj.data.sOperandA=="na") return false;
+							if(oCurObj.data.bPercent==true) return false;
+							oCurObj.data.bPercent = true;
+							if(oCurObj.data.bEqual==true)
+							{
+								oCurObj.data.bEqual = false;
+							}
+							oCurObj.CallMethod({ sMethod: "Calculate", oMethodArgs: { sKey: sKey } });
+							oCurObj.data.sOperandB = "na";
+							break;
+						}
+					}
+						
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Calculate">
+<![CDATA[function Calculate(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				if(oCurObj.data.sRole!="calculator") return false;
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var jDisplay = jContainer.find(".calc-display");
+				var jMemInd = jContainer.find(".calc-memind");
+				var sCurString = $.trim(jDisplay.html() + "");
+				if(sCurString.indexOf("!")!=-1) sCurString = sCurString.substr(1);
+				var nValue1 = parseFloat(oCurObj.data.sOperandA);
+				if(oCurObj.data.sOperandB=="na")
+				{
+					oCurObj.data.sOperandB = sCurString
+				}
+				var nValue2 = parseFloat(oCurObj.data.sOperandB);
+				var nResult = 0;
+				switch(oCurObj.data.sOperatorA)
+				{
+					case "plus":
+					{
+						nResult = (nValue1*1000 + nValue2*1000)/1000;
+						break;
+					}
+					case "minus":
+					{
+						nResult = (nValue1*1000 - nValue2*1000)/1000;
+						break;
+					}
+					case "mult":
+					{
+						nResult = nValue1 * nValue2;
+						if(oCurObj.data.bPercent==true)
+						{
+							nResult = nResult/100;
+						}
+						break;
+					}
+					case "divide":
+					{
+						if(nValue2==0)
+						{
+							oCurObj.data.sOperandA = "na";
+							oCurObj.data.sOperatorA = "na";
+							oCurObj.data.sOperandB = "na";
+							oCurObj.data.sLastBtn = "na";
+							oCurObj.data.bClean = true;
+							jDisplay.html("ERROR: DIV 0");
+							return false;
+						}
+						nResult = nValue1 / nValue2;
+						if(oCurObj.data.bPercent==true)
+						{
+							nResult = nResult*100;
+						}
+						break;
+					}
+					case "power":
+					{
+						nResult = Math.pow(nValue1,nValue2);
+						break;
+					}
+				}
+
+				if(nResult>-1 && nResult<1)
+				{
+					nResult = nResult.toString();
+					if(nResult.length>=20)
+					{
+						if(nResult.indexOf("e")!=-1)
+						{
+							var aParts = vResult.split("e");
+							if(parseInt(aParts[1])<-20)
+							{
+								nResult = "0";
+							}
+							else
+							{
+								if(aParts[0].length>14)
+								{
+									aParts[0] = aParts[0].substr(0,13);
+									if(parseFloat(aParts[0])==0)
+									{
+										nResult = "0";
+									}
+									else
+									{
+										nResult = aParts.join("e");
+									}
+								}
+								else
+								{
+									nResult = aParts.join("e");
+								}
+							}
+						}
+						else
+						{
+							nResult = nResult.substr(0,19);
+						}
+					}
+				}
+				else
+				{
+					nResult = nResult.toString();
+					if(nResult.length>=18)
+					{
+						if(nResult.indexOf(".")==-1)
+						{
+							oCurObj.data.sOperandA = "na";
+							oCurObj.data.sOperatorA = "na";
+							oCurObj.data.sOperandB = "na";
+							oCurObj.data.sLastBtn = "na";
+							oCurObj.data.bClean = true;
+							jDisplay.html("ERROR: OVERFLOW");
+							return false;
+						}
+						else
+						{
+							if(nResult.indexOf("e")!=-1)
+							{
+								var aParts = nResult.split("e");
+								if(aParts[0].length>14)
+								{
+									aParts[0] = aParts[0].substr(0,13);
+									nResult = aParts.join("e")
+								}
+							}
+							else
+							{
+								nResult = nResult.substr(0,17);
+							}
+						}
+					}
+				}
+				jDisplay.html(nResult);
+				oCurObj.data.sOperandA = nResult;
+				if(oCurObj.data.bEqual==false && oCurObj.data.bPercent==false)
+				{
+					oCurObj.data.sOperatorA = argobj.sKey;
+				}
+				oCurObj.data.bClean = true;
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Filter">
+<![CDATA[function Filter(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				if(oCurObj.data.sRole!="glossary") return false;
+				if(argobj.elem==null) return false;
+				if($(argobj.elem).hasClass("cl-letter-selected")) return false;
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var jTerms = jContainer.find(".cl-term-item");
+				var sLetter = $.trim($(argobj.elem).text()); 
+				if(sLetter=="*")
+				{
+					jTerms.show();
+				}
+				else
+				{
+					jTerms.hide().each(function ()
+					{
+						var sText = $.trim($(this).html());
+						if(sText.toUpperCase().charAt(0)==sLetter)
+						{
+							$(this).show();
+						}
+					});
+				}
+				jTerms.filter(":visible").filter(":first").click();
+				jContainer.find(".cl-letter-item").addClass("cl-letter-idle").removeClass("cl-letter-selected");
+				$(argobj.elem).removeClass("cl-letter-idle").addClass("cl-letter-selected");
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Display">
+<![CDATA[function Display(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				if(oCurObj.data.sRole!="glossary") return false;
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var jTerms = jContainer.find(".cl-term-item");
+				if(argobj.ecode!=null || argobj.eitem!=null)
+				{
+					var sCode = $.trim(argobj.ecode);
+					var sText = $.trim(argobj.eitem);
+					if(sCode=="" && sText=="") return false;
+					var jItem;
+					if(sCode!="")
+					{
+						jItem = jTerms.filter("[data-code='" + sCode + "']");
+						if(jItem.length!=0)
+						{
+							if(CLO[argobj.pid].data.sPosition=="closed" && CLO[argobj.pid].data.sState=="enabled")
+							{
+								CLO[argobj.pid].CallMethod({ sMethod: "Toggle" });
+							}
+							if(!jItem.hasClass("cl-term-selected"))
+							{
+								jItem.click();
+							}
+						}
+					}
+					else if(sText!="")
+					{
+						var sItemText;
+						for(var i=0; i<jTerms.length; i++)
+						{
+							sItemText = $.trim($(jTerms[i]).text());
+							if(sText==sItemText)
+							{
+								jItem = $(jTerms[i]);
+								break;
+							}
+						}
+						if(jItem.length!=0)
+						{
+							if(CLO[argobj.pid].data.sPosition=="closed" && CLO[argobj.pid].data.sState=="enabled")
+							{
+								CLO[argobj.pid].CallMethod({ sMethod: "Toggle" });
+							}
+							if(!jItem.hasClass("cl-term-selected"))
+							{
+								jItem.click();
+							}
+						}
+					}
+				}
+				else
+				{
+					if(argobj.elem==null) return false;
+					if($(argobj.elem).hasClass("cl-letter-selected")) return false;
+					var sTermId = $(argobj.elem).attr("data-number");
+					jTerms.removeClass("cl-term-selected").addClass("cl-term-idle");
+					jContainer.find(".cl-term-desc-item").hide();
+					jContainer.find(".cl-term-desc-item[data-number='" + sTermId + "']").show("fade");
+					jContainer.find(".cl-term-item[data-number='" + sTermId + "']").removeClass("cl-term-idle").addClass("cl-term-selected");
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Update">
+<![CDATA[function Update(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				switch(oCurObj.data.sRole)
+				{
+					case "contents":
+					{
+						var jLIs = jContainer.find("ul.slide-list > li.slide-item");
+						var sSlideId;
+						var jLI;
+						var bPrevVisited = true;
+						for(var i=0; i<jLIs.length; i++)
+						{
+							jLI = $(jLIs[i]);
+							sSlideId = jLI.attr("data-slide-id");
+							if(sSlideId==CLZ.sCurrentSlideId)
+							{
+								jLI.removeClass("allowed forbidden visited unvisited").addClass("current");
+								bPrevVisited = true;
+							}
+							else if(CL.SCO.IsVisited({ sBy: "slideid", sSlideId: sSlideId }))
+							{
+								jLI.removeClass("current unvisited forbidden").addClass("allowed visited");
+								bPrevVisited = true;
+							}
+							else
+							{
+								if(bPrevVisited)
+								{
+									if(CL.oPath._TargetAllowed({ sSlideId: sSlideId }))
+									{
+										jLI.removeClass("current unvisited forbidden").addClass("allowed unvisited");
+									}
+									else
+									{
+										jLI.removeClass("allowed current").addClass("forbidden unvisited");
+									}
+									bPrevVisited = false;
+								}
+								else
+								{
+									if(!CLZ.bStrictOrder)
+									{
+										if(CL.oPath._TargetAllowed({ sSlideId: sSlideId }))
+										{
+											jLI.removeClass("current unvisited forbidden").addClass("allowed unvisited");
+										}
+										else
+										{
+											jLI.removeClass("allowed current").addClass("forbidden unvisited");
+										}
+									}
+									else
+									{
+										jLI.removeClass("allowed current").addClass("forbidden unvisited");
+									}
+								}
+							}
+						}
+						break;
+					}
+					case "settings":
+					{
+						var jTR;
+						for(var sObjId in CLJ)
+						{
+							if(oCurObj.data.sObjToDisplay=="main" && CLJ[sObjId].bModule.toString()!="1") continue;
+							if(oCurObj.data.sObjToDisplay=="other" && CLJ[sObjId].bModule.toString()=="1") continue;
+							jTR = jContainer.find("tr[data-obj-id='" + sObjId + "']");
+							if(oCurObj.data.sScoreDisplayType=="raw")
+							{
+								jTR.children("td.cl-sett-score").html(CLJ[sObjId].nRawScore);
+							}
+							else if(oCurObj.data.sScoreDisplayType=="rawmax")
+							{
+								jTR.children("td.cl-sett-score").html(CLJ[sObjId].nRawScore + "(" + CLJ[sObjId].nMax + ")");
+							}
+							else if(oCurObj.data.sScoreDisplayType=="scaled")
+							{
+								if(CLJ[sObjId].nMax!=0)
+								{
+									jTR.children("td.cl-sett-score").html( Math.round(100*CLJ[sObjId].nRawScore/CLJ[sObjId].nMax)/100 + "%");
+								}
+								else
+								{
+									jTR.children("td.cl-sett-score").html(CLJ[sObjId].nRawScore);
+								}
+							}
+							if(oCurObj.data.bCustomIcons)
+							{
+								jTD = jTR.children("td.sett-cs");
+								jTD.attr({ "title": jTD.attr("data-title-cs-" + CLJ[sObjId].sCS) });
+								jTD.find("img").hide();
+								jTD.find("img.sett-cs-" + CLJ[sObjId].sCS).show();
+								jTD = jTR.children("td.sett-ss");
+								jTD.attr({ "title": jTD.attr("data-title-ss-" + CLJ[sObjId].sSS) });
+								jTD.find("img").hide();
+								jTD.find("img.sett-ss-" + CLJ[sObjId].sSS).show();
+							}
+							else
+							{
+								jTD = jTR.children("td.sett-cs");
+								jTD.attr({ "title": jTD.attr("data-title-cs-" + CLJ[sObjId].sCS) });
+								jTD.find("div.cl-sett-status").removeClass("cl-sett-status-n cl-sett-status-i cl-sett-status-c").addClass("cl-sett-status-" + CLJ[sObjId].sCS);
+								jTD = jTR.children("td.sett-ss");
+								jTD.attr({ "title": jTD.attr("data-title-ss-" + CLJ[sObjId].sSS) });
+								jTD.find("div.cl-sett-status").removeClass("cl-sett-status-u cl-sett-status-p cl-sett-status-f").addClass("cl-sett-status-" + CLJ[sObjId].sSS);
+							}
+						}
+						break;
+					}
+					case "comment":
+					{
+						var jxComments = CLS[CLZ.sCurrentSlideId].jxNode.children("comments");
+						if(jxComments.length!=0)
+						{
+							if(jxComments.text()!="")
+							{
+								var sText = $("<div/>").html(jxComments.text()).text();
+								if(oCurObj.data.sIfNoComment=="disable")
+								{
+									oCurObj.data.bNaviLockedByAction = false;
+									oCurObj.CallMethod({ sMethod: "Enable" });
+								}
+								else if(oCurObj.data.sIfNoComment=="hide")
+								{
+									oCurObj.Show();
+								}
+								jContainer.find(".cl-comm-none").hide();
+								jContainer.find(".cl-comm-body").html(sText).show();
+							}
+							else
+							{
+								if(oCurObj.data.sIfNoComment=="text")
+								{
+									jContainer.find(".cl-comm-none").show();
+									jContainer.find(".cl-comm-body").hide();
+								}
+								else if(oCurObj.data.sIfNoComment=="disable")
+								{
+									oCurObj.data.bNaviLockedByAction = true;
+									oCurObj.CallMethod({ sMethod: "Disable" });
+								}
+								else
+								{
+									oCurObj.Hide();
+								}
+							}
+						}
+						else
+						{
+							if(oCurObj.data.sIfNoComment=="text")
+							{
+								jContainer.find(".cl-comm-none").show();
+								jContainer.find(".cl-comm-body").hide();
+							}
+							else if(oCurObj.data.sIfNoComment=="disable")
+							{
+								oCurObj.data.bNaviLockedByAction = true;
+								oCurObj.CallMethod({ sMethod: "Disable" });
+							}
+							else
+							{
+								oCurObj.Hide();
+							}
+						}
+						break;
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="SearchTip">
+<![CDATA[function SearchTip(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				if(!oCurObj.data.bSearchTip)
+				{
+					return false;
+				}
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var jTips = jContainer.find(".cl-search-tips");
+				if(!jTips.is(":visible"))
+				{
+					jContainer.find(".cl-search-results-list, .cl-search-found, .cl-search-no-results").hide();
+					jTips.fadeIn("fast");
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Search">
+<![CDATA[function Search(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurObjDiv = $(oCurObj.div);
+				var jContainer = $(oCurObj.div).find(".cl-container");
+				var sStr = jContainer.find("input.cl-search-field").val();
+				sStr = $.trim(sStr); 
+				if(sStr=="") return false;
+				var sCase = oCurObj.jxParams.children("search_case").text();
+				var bCase = false;
+				if(sCase=="no_user" || sCase=="yes_user")
+				{
+					bCase = (jContainer.find("select.cl-search-case").val()=="yes");
+				}
+				else
+				{
+					bCase = (sCase=="yes");
+				}
+				var sLogic = oCurObj.jxParams.children("search_logic").text();
+				if(sLogic=="OR_user" || sLogic=="AND_user")
+				{
+					sLogic = (jContainer.find("select.cl-search-logic").val()=="yes") ? "AND" : "OR";
+				}
+				var sScope = oCurObj.jxParams.children("search_scope").text();
+				var aResults = CL.Search({ sString: sStr, bCase: bCase, sLogic: sLogic, sScope: sScope });
+				if(oCurObj.data.bSearchTip)
+				{
+					jContainer.find(".cl-search-tips").hide();
+				}
+				if(aResults.length==0)
+				{
+					jContainer.find(".cl-search-results-list, .cl-search-found").hide();
+					jContainer.find(".cl-search-no-results").show();
+				}
+				else
+				{
+					var jUL = jContainer.find(".cl-search-results-list");
+					jUL.html("").show();
+					jContainer.find(".cl-search-found").show();
+					jContainer.find(".cl-search-found").find(".cl-search-found-qty").html(aResults.length);
+					jContainer.find(".cl-search-no-results").hide();
+					var jLI;
+					var jTemplate = jContainer.find("li.cl-search-item-template");
+					var sReturnFormat = oCurObj.jxParams.children("search_return_format").text();
+					var sSlideId;
+					for(var i=0; i<aResults.length; i++)
+					{
+						sSlideId = $(aResults[i].slide).attr("id");
+						jLI = jTemplate.clone(true).removeClass("cl-search-item-template").addClass("cl-search-results-item").attr({ "data-slide-id": sSlideId }).appendTo(jUL);
+						jLI.find(".item-name").html($(aResults[i].slide).attr("name"));
+						if(CL.SCO.IsVisited({ sBy: "slideid", sSlideId: sSlideId }) || sSlideId==CLZ.sCurrentSlideId)
+						{
+							jLI.addClass("allowed visited").on("click", function () { CLO[argobj.pid].CallMethod({ sMethod: "Navigate", oMethodArgs: { elem: this } }) });
+						}
+						if(sReturnFormat=="extended")
+						{
+							var aStrings = aResults[i].strings;
+							var sString = "";
+							for(var j=0; j<aStrings.length; j++)
+							{
+								if(j==0)
+								{
+									sString += aStrings[j];
+								}
+								else
+								{
+									sString += "<br>" + aStrings[j];
+								}
+							}
+							jLI.find(".item-text").html(sString);
+						}
+						else
+						{
+							jLI.find(".item-text").hide();
+						}
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Navigate">
+<![CDATA[function Navigate(argobj)
+			{
+				if(argobj.elem==null) return false;
+				if($(argobj.elem).hasClass("allowed"))
+				{
+					var oCurObj = CLO[argobj.pid];
+					var sTargetId = $(argobj.elem).attr("data-slide-id");
+					CL.Navigation.GoTo({ sTargetType: "slide", sTargetId: sTargetId });
+					CL.Sound.Stop({ sId: argobj.pid, sEvent: "click" });
+					if(oCurObj.data.sSoundClick!="none")
+					{
+						CL.Sound.Play({ sId: argobj.pid, sEvent: "click", sType: oCurObj.data.sSoundClick, sFile: oCurObj.data.sSoundClickFile })
+					}
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Open">
+<![CDATA[function Open(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj.data.sPosition=="closed" && oCurObj.data.sState=="enabled")
+				{
+					oCurObj.CallMethod({ sMethod: "Toggle" });
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Close">
+<![CDATA[function Close(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				if(oCurObj.data.sPosition=="open" && oCurObj.data.sState=="enabled")
+				{
+					oCurObj.CallMethod({ sMethod: "Toggle" });
+				}
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Disable">
+<![CDATA[function Disable(argobj)
+			{
+				if(CLO[argobj.pid].data.sPosition=="open")
+				{
+					CLO[argobj.pid].CallMethod({ sMethod: "Toggle" });
+				}
+				CLO[argobj.pid].data.sState=="disabled";
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Enable">
+<![CDATA[function Enable(argobj)
+			{
+				CLO[argobj.pid].data.sState=="enabled";
+				return true;
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="GetProperty">
+<![CDATA[function GetProperty(argobj)
+			{
+				if(argobj.pid==null || argobj.property==null) return false;
+				switch(argobj.property.toLowerCase())
+				{
+					case "disabled":
+					{
+						return (CLO[argobj.pid].data.sState=="disabled") ? "1" : "0";
+					}
+					case "open":
+					{
+						return (CLO[argobj.pid].data.sPosition=="open") ? "1" : "0";
+					}
+				}
+				return "";
+			}]]>
+</method>
+<method type="nav_0002_navi_win" name="Toggle">
+<![CDATA[function Toggle(argobj)
+			{
+				var oCurObj = CLO[argobj.pid];
+				var jCurDiv = $(oCurObj.div);
+				if(oCurObj.data.sPosition=="closed")
+				{
+					if(oCurObj.data.bModal)
+					{
+						CL.Modal({ bOn: true, sSrcId: argobj.pid });
+					}
+					oCurObj.data.sPosition = "transition_open";
+					jCurDiv.css({ "z-index": 5001 });
+					if(oCurObj.data.bTranIn)
+					{
+						oCurObj.Show({ bActionCall: true, bUseTransition: true, iTransition: oCurObj.data.iTranIn, iDuration: oCurObj.data.iDurIn, fnCallback: function () { CLO[argobj.pid].data.sPosition = "open"; } });
+					}
+					else
+					{
+						oCurObj.Show({ bActionCall: true, bUseTransition: false });
+						oCurObj.data.sPosition = "open";
+					}
+					if(oCurObj.data.aTogglers.length>0)
+					{
+						for(var i=0; i<oCurObj.data.aTogglers.length; i++)
+						{
+							if(CLO[oCurObj.data.aTogglers[i]].oMethods["Off"]!=null)
+							{
+								CLO[oCurObj.data.aTogglers[i]].CallMethod({ sMethod: "Off" });
+							}
+						}
+					}
+				}
+				else
+				{
+					if(oCurObj.data.bModal)
+					{
+						CL.Modal({ bOn: false, sSrcId: argobj.pid });
+					}
+					oCurObj.data.sPosition = "transition_close";
+					if(oCurObj.data.bTranOut)
+					{
+						oCurObj.Hide({ bActionCall: true, bUseTransition: true, iTransition: oCurObj.data.iTranOut, iDuration: oCurObj.data.iDurOut, fnCallback: function () { CLO[argobj.pid].data.sPosition = "closed"; } });
+					}
+					else
+					{
+						oCurObj.Hide({ bActionCall: true, bUseTransition: false });
+						oCurObj.data.sPosition = "closed";
+					}
+					if(oCurObj.data.aTogglers.length>0)
+					{
+						for(var i=0; i<oCurObj.data.aTogglers.length; i++)
+						{
+							if(CLO[oCurObj.data.aTogglers[i]].oMethods["On"]!=null)
+							{
+								CLO[oCurObj.data.aTogglers[i]].CallMethod({ sMethod: "On" });
+							}
+						}
+					}
+				}
+				CL.Sound.Stop({ sId: argobj.pid, sEvent: "click" });
+				if(oCurObj.data.sSoundClick!="none")
+				{
+					CL.Sound.Play({ sId: argobj.pid, sEvent: "click", sType: oCurObj.data.sSoundClick, sFile: oCurObj.data.sSoundClickFile })
+				}
+				return true;
+			}]]>
+</method>
+<method type="v_block_005" name="Constructor">
+<![CDATA[function Constructor(argobj)
+		{
+			var oCurObj = CLO[argobj.pid]; 
+			oCurObj.data = { bModal: (oCurObj.jxParams.find("modal").text()=="yes") };
+			$(oCurObj.div).find(".cl-btn, .cl-close-on-img").on("click", function () { oCurObj.CallMethod({ sMethod: "HandleClick", oMethodArgs: { elem: this } }); });
+			return true;
+		}]]>
+</method>
+<method type="v_block_005" name="Adjust">
+<![CDATA[function Adjust(argobj)
+		{
+			var oCurObj = CLO[argobj.pid];
+			var jBox = $("#" + argobj.pid + "_ZOOM"); 
+			var jImg = jBox.find("img");
+			var iIW = jImg.width();
+			var iIH = jImg.height();
+			var nIRatio = iIW/iIH;
+			var iBW = $(CL.oBoard).innerWidth();
+			var iBH = $(CL.oBoard).innerHeight();
+			var nBRatio = iBW/iBH;
+			if(nIRatio==nBRatio)
+			{
+				jImg.css({ "width": (iBW-30) + "px", "height": (iBH-30) + "px" });
+				jBox.css({ "width": (iBW-10) + "px", "height": (iBH-10) + "px", "left": "5px", "top": "5px" }).hide();
+			}
+			else if(nIRatio>nBRatio) // hor img
+			{
+				var nRatio = iIW/iBW;
+				var iW = (iBW-30);
+				var iH = (Math.floor(iIH/nRatio)-30);
+				var iMargin = 0.5*(iBH-iH-30);
+				jImg.css({ "width": iW + "px", "height": iH + "px", "margin-top": iMargin + "px" });
+				jBox.css({ "width": (iBW-10) + "px", "height": (iBH-10) + "px", "left": "5px", "top": "5px" }).hide();
+			}
+			else
+			{
+				var nRatio = iIH/iBH;
+				var iW = (Math.floor(iIW/nRatio)-30);
+				var iH = (iBH-30);
+				var iMargin = 0.5*(iBW-iW-30);
+				jImg.css({ "width": iW + "px", "height": iH + "px", "margin-left": iMargin + "px" });
+				jBox.css({ "width": (iBW-10) + "px", "height": (iBH-10) + "px", "left": "5px", "top": "5px" }).hide();
+			}
+			oCurObj.data.bAdjusted = true;
+			return true;
+		}]]>
+</method>
+<method type="v_block_005" name="HandleClick">
+<![CDATA[function HandleClick(argobj)
+		{
+			var oCurObj = CLO[argobj.pid];
+			if(!oCurObj.data.bAdjusted) return false;
+			var jElem = $(argobj.elem);
+			if(jElem.hasClass("cl-btn-magnify"))
+			{
+				oCurObj.CallMethod({ sMethod: "Open" });
+			}
+			else
+			{
+				oCurObj.CallMethod({ sMethod: "Close" });
+			}
+			return true;
+		}]]>
+</method>
+<method type="v_block_005" name="Open">
+<![CDATA[function Open(argobj)
+		{
+			var oCurObj = CLO[argobj.pid];
+			var jBox = $("#" + argobj.pid + "_ZOOM");
+			if(oCurObj.data.bModal)
+			{
+				CL.Modal({ bOn: true, sSrcId: argobj.pid });
+			}
+			jBox.css({ "z-index": 5001 }).appendTo(CL.oBoard).fadeIn();
+			return true;
+		}]]>
+</method>
+<method type="v_block_005" name="Close">
+<![CDATA[function Close(argobj)
+		{
+			var oCurObj = CLO[argobj.pid];
+			var jBox = $("#" + argobj.pid + "_ZOOM");
+			if(oCurObj.data.bModal)
+			{
+				CL.Modal({ bOn: false, sSrcId: argobj.pid });
+			}
+			jBox.css({ "z-index": 5001 }).fadeOut("fast", function () { $(this).appendTo($(oCurObj.div).find(".cl-container")); });
+			return true;
+		}]]>
+</method>
+</methods>
+<params>
+<param objectid="OBJ_12">
+<btn_text>НАЧАТЬ</btn_text>
+<btn_type>html</btn_type>
+<fs_image></fs_image>
+<n1_img></n1_img>
+<n2_img></n2_img>
+<fs_html></fs_html>
+<content>text</content>
+<fs_bg_img></fs_bg_img>
+<bg_img_1></bg_img_1>
+<bg_img_2></bg_img_2>
+<bg_position>center</bg_position>
+<bg_type>auto</bg_type>
+<bg_color>#0080C0</bg_color>
+<gradient_color>#A6E1FF</gradient_color>
+<border_style>solid</border_style>
+<border_color>#004080</border_color>
+<border_width>1</border_width>
+<border_radius>5</border_radius>
+<fs_text></fs_text>
+<font>robotomedium</font>
+<font_custom></font_custom>
+<font_style>normal</font_style>
+<font_color>#004080</font_color>
+<font_size>18</font_size>
+<text_shadow_color>#FFFFFF</text_shadow_color>
+<text_shadow_strength>normal</text_shadow_strength>
+<shadow_strength>normal</shadow_strength>
+<action>go</action>
+<objectid></objectid>
+</param>
+<param objectid="OBJ_1">
+<color_profile>custom</color_profile>
+<color1>#0080C0</color1>
+<color2>#C1EBFF</color2>
+<stroke_color>#FFFFFF</stroke_color>
+<angle>0</angle>
+<border_width_t>0</border_width_t>
+<border_width_l>0</border_width_l>
+<border_width_r>0</border_width_r>
+<border_width_b>0</border_width_b>
+<radius_tl>50</radius_tl>
+<radius_tr>50</radius_tr>
+<radius_bl>10</radius_bl>
+<radius_br>10</radius_br>
+<shadow_strength>none</shadow_strength>
+</param>
+<param objectid="OBJ_2">
+<hidden.label>Название слайда</hidden.label>
+<hidden.slide>Слайд</hidden.slide>
+<display_type>name</display_type>
+<divider>.</divider>
+<text_padding_h>10</text_padding_h>
+<text_padding_v>10</text_padding_v>
+<text_align>center</text_align>
+<font>Times</font>
+<font_custom></font_custom>
+<font_style>normal</font_style>
+<font_size>0</font_size>
+<text_shadow_strength>normal</text_shadow_strength>
+<text_shadow_color>#FFFFFF</text_shadow_color>
+<font_color>#336699</font_color>
+<display_bg>yes</display_bg>
+<fs_bg></fs_bg>
+<fill_type>auto</fill_type>
+<bg_color>#0080FF</bg_color>
+<fs_custom></fs_custom>
+<gradient_color>#FFFFFF</gradient_color>
+<gradient_angle>0</gradient_angle>
+<fs_bg_img></fs_bg_img>
+<bg_img></bg_img>
+<border_style>solid</border_style>
+<border_color>#FFC281</border_color>
+<border_width>0</border_width>
+<radius>5</radius>
+<shadow_strength>normal</shadow_strength>
+</param>
+<param objectid="OBJ_3">
+<hidden.label.over>Название слайда при наведении</hidden.label.over>
+<hidden.label.current>Название текущего слайда</hidden.label.current>
+<display_type>scale</display_type>
+<elem_autogradient>yes</elem_autogradient>
+<fs_scale></fs_scale>
+<scale_color>#666666</scale_color>
+<bar_color>#0077CC</bar_color>
+<scale_height>12</scale_height>
+<scale_border_width>0</scale_border_width>
+<scale_radius>50</scale_radius>
+<fs_icons></fs_icons>
+<icon_type>standard</icon_type>
+<fs_standard></fs_standard>
+<visited_fill_color>#66BBEE</visited_fill_color>
+<visited_border_color>#336699</visited_border_color>
+<current_fill_color>#FF9933</current_fill_color>
+<current_border_color>#336699</current_border_color>
+<unvisited_fill_color>#999999</unvisited_fill_color>
+<unvisited_border_color>#336699</unvisited_border_color>
+<elem_width>10</elem_width>
+<elem_height>10</elem_height>
+<elem_border_width>1</elem_border_width>
+<elem_radius>50</elem_radius>
+<fs_custom_images></fs_custom_images>
+<img_unvisited></img_unvisited>
+<img_current></img_current>
+<img_visited></img_visited>
+<inter_elem>1</inter_elem>
+<display_counter>no</display_counter>
+<counter_mask>Слайд {N} из {Z}</counter_mask>
+<display_slidename>no</display_slidename>
+<allow_link>never</allow_link>
+<strict_nav_msg>Вы не можете перейти на этот слайд, не посетив предыдущие слайды</strict_nav_msg>
+<allow_mouseover>never</allow_mouseover>
+<inter_scale>5</inter_scale>
+<font>robotoblack</font>
+<font_custom></font_custom>
+<font_style>normal</font_style>
+<font_size>14</font_size>
+<text_shadow_strength>normal</text_shadow_strength>
+<text_shadow_color>#FFFFFF</text_shadow_color>
+<font_color>#004080</font_color>
+<display_scope>module</display_scope>
+<display_bg>no</display_bg>
+<fs_bg></fs_bg>
+<bg_color>#CCDDEE</bg_color>
+<border_color>#336699</border_color>
+<border_width>1</border_width>
+<radius>5</radius>
+<box_padding>15</box_padding>
+<shadow_strength>normal</shadow_strength>
+<bg_autogradient>yes</bg_autogradient>
+<sound_click>none</sound_click>
+<sound_click_file_custom></sound_click_file_custom>
+<sound_over>none</sound_over>
+<sound_over_file_custom></sound_over_file_custom>
+</param>
+<param objectid="OBJ_4">
+<role>nextslide</role>
+<selectedslide></selectedslide>
+<selectedframe></selectedframe>
+<fs_thisslide></fs_thisslide>
+<text_thisslide>ПОВТОР</text_thisslide>
+<alt_enabled_thisslide>Повторить слайд</alt_enabled_thisslide>
+<alt_disabled_thisslide>Повтор запрещен</alt_disabled_thisslide>
+<fs_nextslide></fs_nextslide>
+<text_nextslide>ДАЛЕЕ</text_nextslide>
+<alt_enabled_nextslide>Следующий слайд</alt_enabled_nextslide>
+<alt_disabled_nextslide>Переход запрещен</alt_disabled_nextslide>
+<fs_prevslide></fs_prevslide>
+<text_prevslide>НАЗАД</text_prevslide>
+<alt_enabled_prevslide>Предыдущий слайд</alt_enabled_prevslide>
+<alt_disabled_prevslide>Переход запрещен</alt_disabled_prevslide>
+<fs_firstslide></fs_firstslide>
+<text_firstslide>НАЧАЛО</text_firstslide>
+<alt_enabled_firstslide>Первый слайд</alt_enabled_firstslide>
+<alt_disabled_firstslide>Переход запрещен</alt_disabled_firstslide>
+<fs_lastslide></fs_lastslide>
+<text_lastslide>КОНЕЦ</text_lastslide>
+<alt_enabled_lastslide>Последний слайд</alt_enabled_lastslide>
+<alt_disabled_lastslide>Переход запрещен</alt_disabled_lastslide>
+<fs_nextframe></fs_nextframe>
+<text_nextframe>Далее</text_nextframe>
+<alt_enabled_nextframe>Следующий кадр</alt_enabled_nextframe>
+<alt_disabled_nextframe>Переход запрещен</alt_disabled_nextframe>
+<fs_prevframe></fs_prevframe>
+<text_prevframe>Назад</text_prevframe>
+<alt_enabled_prevframe>Предыдущий кадр</alt_enabled_prevframe>
+<alt_disabled_prevframe>Переход запрещен</alt_disabled_prevframe>
+<fs_firstframe></fs_firstframe>
+<text_firstframe>Начало</text_firstframe>
+<alt_enabled_firstframe>Первый кадр</alt_enabled_firstframe>
+<alt_disabled_firstframe>Переход запрещен</alt_disabled_firstframe>
+<fs_lastframe></fs_lastframe>
+<text_lastframe>Конец</text_lastframe>
+<alt_enabled_lastframe>Последний кадр</alt_enabled_lastframe>
+<alt_disabled_lastframe>Переход запрещен</alt_disabled_lastframe>
+<fs_selectedslide></fs_selectedslide>
+<text_selectedslide></text_selectedslide>
+<alt_enabled_selectedslide>Перейти на слайд</alt_enabled_selectedslide>
+<alt_disabled_selectedslide>Переход запрещен</alt_disabled_selectedslide>
+<fs_selectedframe></fs_selectedframe>
+<text_selectedframe></text_selectedframe>
+<alt_enabled_selectedframe>Перейти на кадр</alt_enabled_selectedframe>
+<alt_disabled_selectedframe>Переход запрещен</alt_disabled_selectedframe>
+<fs_closemodule></fs_closemodule>
+<text_closemodule>ВЫЙТИ</text_closemodule>
+<alt_enabled_closemodule>Закрыть модуль</alt_enabled_closemodule>
+<alt_disabled_closemodule></alt_disabled_closemodule>
+<display_closemodule_msg>no</display_closemodule_msg>
+<closemodule_msg>Подтверждаете закрытие модуля?</closemodule_msg>
+<nav_lock>yes</nav_lock>
+<swipe>yes</swipe>
+<btn_type>image</btn_type>
+<fs_image></fs_image>
+<n1_img>images/nextSlide.png</n1_img>
+<n2_img>images/nextSlide_hover.png</n2_img>
+<n3_img>images/nextSlide_pressed.png</n3_img>
+<fs_html></fs_html>
+<bg_type>auto</bg_type>
+<border_style>solid</border_style>
+<border_width>1</border_width>
+<border_radius>5</border_radius>
+<bg_color>#0080C0</bg_color>
+<gradient_color>#A6E1FF</gradient_color>
+<border_color>#004080</border_color>
+<shadow_strength>normal</shadow_strength>
+<content>text</content>
+<fs_bg_img></fs_bg_img>
+<bg_img_1></bg_img_1>
+<bg_img_2></bg_img_2>
+<bg_img_3></bg_img_3>
+<bg_position>center</bg_position>
+<fs_text></fs_text>
+<text_position>center</text_position>
+<text_margin_left>0</text_margin_left>
+<text_margin_right>0</text_margin_right>
+<font>robotoblack</font>
+<font_custom></font_custom>
+<font_style>normal</font_style>
+<font_size>14</font_size>
+<text_shadow_strength>normal</text_shadow_strength>
+<text_shadow_color>#FFFFFF</text_shadow_color>
+<font_color>#004080</font_color>
+<font_color_over>#4080C0</font_color_over>
+<sound_click>none</sound_click>
+<sound_click_file_custom></sound_click_file_custom>
+<sound_over>none</sound_over>
+<sound_over_file_custom></sound_over_file_custom>
+</param>
+<param objectid="OBJ_5">
+<role>prevslide</role>
+<selectedslide></selectedslide>
+<selectedframe></selectedframe>
+<fs_thisslide></fs_thisslide>
+<text_thisslide>ПОВТОР</text_thisslide>
+<alt_enabled_thisslide>Повторить слайд</alt_enabled_thisslide>
+<alt_disabled_thisslide>Повтор запрещен</alt_disabled_thisslide>
+<fs_nextslide></fs_nextslide>
+<text_nextslide>ДАЛЕЕ</text_nextslide>
+<alt_enabled_nextslide>Следующий слайд</alt_enabled_nextslide>
+<alt_disabled_nextslide>Переход запрещен</alt_disabled_nextslide>
+<fs_prevslide></fs_prevslide>
+<text_prevslide>НАЗАД</text_prevslide>
+<alt_enabled_prevslide>Предыдущий слайд</alt_enabled_prevslide>
+<alt_disabled_prevslide>Переход запрещен</alt_disabled_prevslide>
+<fs_firstslide></fs_firstslide>
+<text_firstslide>НАЧАЛО</text_firstslide>
+<alt_enabled_firstslide>Первый слайд</alt_enabled_firstslide>
+<alt_disabled_firstslide>Переход запрещен</alt_disabled_firstslide>
+<fs_lastslide></fs_lastslide>
+<text_lastslide>КОНЕЦ</text_lastslide>
+<alt_enabled_lastslide>Последний слайд</alt_enabled_lastslide>
+<alt_disabled_lastslide>Переход запрещен</alt_disabled_lastslide>
+<fs_nextframe></fs_nextframe>
+<text_nextframe>Далее</text_nextframe>
+<alt_enabled_nextframe>Следующий кадр</alt_enabled_nextframe>
+<alt_disabled_nextframe>Переход запрещен</alt_disabled_nextframe>
+<fs_prevframe></fs_prevframe>
+<text_prevframe>НАЗАД</text_prevframe>
+<alt_enabled_prevframe>Предыдущий кадр</alt_enabled_prevframe>
+<alt_disabled_prevframe>Переход запрещен</alt_disabled_prevframe>
+<fs_firstframe></fs_firstframe>
+<text_firstframe>Начало</text_firstframe>
+<alt_enabled_firstframe>Первый кадр</alt_enabled_firstframe>
+<alt_disabled_firstframe>Переход запрещен</alt_disabled_firstframe>
+<fs_lastframe></fs_lastframe>
+<text_lastframe>Конец</text_lastframe>
+<alt_enabled_lastframe>Последний кадр</alt_enabled_lastframe>
+<alt_disabled_lastframe>Переход запрещен</alt_disabled_lastframe>
+<fs_selectedslide></fs_selectedslide>
+<text_selectedslide></text_selectedslide>
+<alt_enabled_selectedslide>Перейти на слайд</alt_enabled_selectedslide>
+<alt_disabled_selectedslide>Переход запрещен</alt_disabled_selectedslide>
+<fs_selectedframe></fs_selectedframe>
+<text_selectedframe></text_selectedframe>
+<alt_enabled_selectedframe>Перейти на кадр</alt_enabled_selectedframe>
+<alt_disabled_selectedframe>Переход запрещен</alt_disabled_selectedframe>
+<fs_closemodule></fs_closemodule>
+<text_closemodule>ВЫЙТИ</text_closemodule>
+<alt_enabled_closemodule>Закрыть модуль</alt_enabled_closemodule>
+<alt_disabled_closemodule></alt_disabled_closemodule>
+<display_closemodule_msg>no</display_closemodule_msg>
+<closemodule_msg>Подтверждаете закрытие модуля?</closemodule_msg>
+<nav_lock>yes</nav_lock>
+<swipe>yes</swipe>
+<btn_type>image</btn_type>
+<fs_image></fs_image>
+<n1_img>images/pastSlide.png</n1_img>
+<n2_img>images/pastSlide_hover.png</n2_img>
+<n3_img>images/pastSlide_pressed.png</n3_img>
+<fs_html></fs_html>
+<bg_type>auto</bg_type>
+<border_style>solid</border_style>
+<border_width>1</border_width>
+<border_radius>5</border_radius>
+<bg_color>#0080C0</bg_color>
+<gradient_color>#A6E1FF</gradient_color>
+<border_color>#004080</border_color>
+<shadow_strength>normal</shadow_strength>
+<content>image</content>
+<fs_bg_img></fs_bg_img>
+<bg_img_1></bg_img_1>
+<bg_img_2></bg_img_2>
+<bg_img_3></bg_img_3>
+<bg_position>center</bg_position>
+<fs_text></fs_text>
+<text_position>center</text_position>
+<text_margin_left>0</text_margin_left>
+<text_margin_right>0</text_margin_right>
+<font>robotoblack</font>
+<font_custom></font_custom>
+<font_style>normal</font_style>
+<font_size>14</font_size>
+<text_shadow_strength>normal</text_shadow_strength>
+<text_shadow_color>#FFFFFF</text_shadow_color>
+<font_color>#004080</font_color>
+<font_color_over>#4080C0</font_color_over>
+<sound_click>none</sound_click>
+<sound_click_file_custom></sound_click_file_custom>
+<sound_over>none</sound_over>
+<sound_over_file_custom></sound_over_file_custom>
+</param>
+<param objectid="OBJ_6">
+<role>method</role>
+<fs_sound></fs_sound>
+<text_on_sound>ЗВУК ВКЛ.</text_on_sound>
+<text_off_sound>ЗВУК ВЫКЛ.</text_off_sound>
+<alt_on_sound>Разрешить звук</alt_on_sound>
+<alt_off_sound>Запретить звук</alt_off_sound>
+<alt_disabled_sound>Доступ запрещен</alt_disabled_sound>
+<fs_fitscreen></fs_fitscreen>
+<text_on_fitscreen>МАСШТАБ УВЕЛ.</text_on_fitscreen>
+<text_off_fitscreen>МАСШТАБ 1:1</text_off_fitscreen>
+<alt_on_fitscreen>Масштабировать по размерам окна</alt_on_fitscreen>
+<alt_off_fitscreen>Исходный масштаб</alt_off_fitscreen>
+<alt_disabled_fitscreen>Доступ запрещен</alt_disabled_fitscreen>
+<fs_method></fs_method>
+<text_on_method>ОТКРЫТЬ</text_on_method>
+<text_off_method>ЗАКРЫТЬ</text_off_method>
+<alt_on_method>Показать тезаурус</alt_on_method>
+<alt_off_method>Скрыть тезаурус</alt_off_method>
+<alt_disabled_method>Доступ запрещен</alt_disabled_method>
+<target_object>OBJ_9</target_object>
+<navibutton>yes</navibutton>
+<nav_lock>yes</nav_lock>
+<btn_type>html</btn_type>
+<fs_image></fs_image>
+<n1_img></n1_img>
+<n2_img></n2_img>
+<n1_dis_img></n1_dis_img>
+<n3_img></n3_img>
+<n4_img></n4_img>
+<n3_dis_img></n3_dis_img>
+<fs_html></fs_html>
+<bg_type>transparent</bg_type>
+<border_style>none</border_style>
+<border_width>1</border_width>
+<border_radius>0</border_radius>
+<bg_color>#0080C0</bg_color>
+<gradient_color>#A6E1FF</gradient_color>
+<border_color>#004080</border_color>
+<bg_color_off>#0080C0</bg_color_off>
+<gradient_color_off>#A6E1FF</gradient_color_off>
+<shadow_strength>none</shadow_strength>
+<content>image</content>
+<fs_bg_img></fs_bg_img>
+<bg_img_1>images/thesaurus.png</bg_img_1>
+<bg_img_2>images/thesaurus_hover.png</bg_img_2>
+<bg_img_3>images/thesaurus_pressed.png</bg_img_3>
+<bg_img_4>images/thesaurus_hover.png</bg_img_4>
+<bg_position>center</bg_position>
+<fs_text></fs_text>
+<text_position>center</text_position>
+<text_margin_left>0</text_margin_left>
+<text_margin_right>0</text_margin_right>
+<font>robotoblack</font>
+<font_custom></font_custom>
+<font_style>normal</font_style>
+<font_size>14</font_size>
+<text_shadow_strength>normal</text_shadow_strength>
+<text_shadow_color>#FFFFFF</text_shadow_color>
+<font_color>#004080</font_color>
+<font_color_over>#4080C0</font_color_over>
+<sound_click>none</sound_click>
+<sound_click_file_custom></sound_click_file_custom>
+<sound_over>none</sound_over>
+<sound_over_file_custom></sound_over_file_custom>
+</param>
+<param objectid="OBJ_7">
+<position_text>Слайд</position_text>
+<position_divider>/</position_divider>
+<font>robotoblack</font>
+<font_custom></font_custom>
+<font_style>normal</font_style>
+<font_size>16</font_size>
+<text_shadow_strength>none</text_shadow_strength>
+<text_shadow_color>#FFFFFF</text_shadow_color>
+<font_color>#004080</font_color>
+<display_type>plain</display_type>
+<text_sub_module>Слайд {{N}} из {{M}}</text_sub_module>
+<text_sub_chapter>Слайд {{X}} из {{Y}}</text_sub_chapter>
+<text_sub_all>Слайд {{X}} из {{Y}} ({{N}} из {{M}})</text_sub_all>
+</param>
+<param objectid="OBJ_8">
+<hidden_slide_visited>Посещенный слайд</hidden_slide_visited>
+<hidden_slide_current>Текущий слайд</hidden_slide_current>
+<hidden_slide_unvisited>Непосещенный слайд</hidden_slide_unvisited>
+<hidden_slide_closed>Слайд - узел иерархии закрытый</hidden_slide_closed>
+<hidden_slide_open>Слайд - узел иерархии открытый</hidden_slide_open>
+<hidden_obj_title>Название цели</hidden_obj_title>
+<contenttype>contents</contenttype>
+<fs_richtext></fs_richtext>
+<display_header_richtext>yes</display_header_richtext>
+<header_richtext><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Помощь</span>]]></header_richtext>
+<panel_text_richtext><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;"></span>]]></panel_text_richtext>
+<fs_contents></fs_contents>
+<display_header_contents>yes</display_header_contents>
+<header_contents><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Список слайдов</span>]]></header_contents>
+<fs_search></fs_search>
+<display_header_search>yes</display_header_search>
+<header_search><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Поиск</span>]]></header_search>
+<search_tip>yes</search_tip>
+<search_tip_text><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Вы можете использовать при поиске символы *, заменяющие любые неизвестные буквы в слове. Для поиска фразы в режиме точного соответствия заключите фразу в кавычки (однако символы * в этом случае использовать нельзя). Помните, что поиск осуществляется по всем текстам модуля - некоторые из них могут быть невидимы до выполнения условий, заложенных автором курса.</span>]]></search_tip_text>
+<search_case>no_user</search_case>
+<search_logic>OR_user</search_logic>
+<search_scope>slide</search_scope>
+<search_return_format>simple</search_return_format>
+<fs_glossary></fs_glossary>
+<display_header_glossary>yes</display_header_glossary>
+<header_glossary><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Словарь</span>]]></header_glossary>
+<glossary_item_list></glossary_item_list>
+<fs_documents></fs_documents>
+<display_header_documents>yes</display_header_documents>
+<header_documents><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Документы</span>]]></header_documents>
+<doc_list></doc_list>
+<fs_settings></fs_settings>
+<display_header_settings>yes</display_header_settings>
+<header_settings><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Параметры</span>]]></header_settings>
+<settings_tip>yes</settings_tip>
+<settings_tip_text><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;"></span>]]></settings_tip_text>
+<settings_display>main</settings_display>
+<mainobj_text><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Главная цель модуля</span>]]></mainobj_text>
+<allobj_text><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Цели модуля</span>]]></allobj_text>
+<score_style>scaled</score_style>
+<fs_calculator></fs_calculator>
+<display_header_calculator>yes</display_header_calculator>
+<header_calculator><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Калькулятор</span>]]></header_calculator>
+<display_calculator_desc>no</display_calculator_desc>
+<calculator_desc><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;"></span>]]></calculator_desc>
+<fs_comment></fs_comment>
+<display_header_comment>yes</display_header_comment>
+<header_comment><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Комментарий</span>]]></header_comment>
+<comment_display>text</comment_display>
+<no_comments><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Нет комментариев</span>]]></no_comments>
+<tranin>6</tranin>
+<durin>600</durin>
+<tranout>6</tranout>
+<durout>600</durout>
+<nav_lock>yes</nav_lock>
+<modal>no</modal>
+<fs_contents_2></fs_contents_2>
+<slide_icons>standard</slide_icons>
+<fs_slide_icons></fs_slide_icons>
+<i1_img></i1_img>
+<i2_img></i2_img>
+<i3_img></i3_img>
+<hier_type>none</hier_type>
+<fs_contents_hier_icons></fs_contents_hier_icons>
+<h1_img></h1_img>
+<h2_img></h2_img>
+<fs_glossary_2></fs_glossary_2>
+<display_letters>yes</display_letters>
+<glossary_default_text><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Выберите элемент, чтобы увидеть описание</span>]]></glossary_default_text>
+<glossary_not_found><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Запрошенный элемент не найден</span>]]></glossary_not_found>
+<glossary_items_col_width>30</glossary_items_col_width>
+<fs_settings_2></fs_settings_2>
+<settings_icons>standard</settings_icons>
+<fs_icons_statuses></fs_icons_statuses>
+<on_img></on_img>
+<oi_img></oi_img>
+<oc_img></oc_img>
+<ou_img></ou_img>
+<op_img></op_img>
+<of_img></of_img>
+<panel_padding>15</panel_padding>
+<panel_bordercolor>#0080C0</panel_bordercolor>
+<panel_borderwidth>1</panel_borderwidth>
+<panel_radius>5</panel_radius>
+<shadow_strength>normal</shadow_strength>
+<panel_bgtype>solid</panel_bgtype>
+<panel_bgcolor>#FFFFFF</panel_bgcolor>
+<fs_panel_gradient></fs_panel_gradient>
+<panel_gradientcolor>#DDEEFF</panel_gradientcolor>
+<fs_panel_bg_img></fs_panel_bg_img>
+<panel_bgimg></panel_bgimg>
+<panel_bgimg_repeat>repeat</panel_bgimg_repeat>
+<panel_bgimg_position>cm</panel_bgimg_position>
+<panel_bgimg_position_custom></panel_bgimg_position_custom>
+<contenttype_style>contents</contenttype_style>
+<fs_style_none></fs_style_none>
+<fs_basic_font></fs_basic_font>
+<basic_font>clear_sansregular</basic_font>
+<basic_font_custom></basic_font_custom>
+<basic_font_style>normal</basic_font_style>
+<basic_font_size>16</basic_font_size>
+<fs_style_contents></fs_style_contents>
+<allowed_fill_color>#FFFFFF</allowed_fill_color>
+<allowed_font_color>#004080</allowed_font_color>
+<current_fill_color>#EEEEEE</current_fill_color>
+<current_font_color>#000000</current_font_color>
+<forbidden_fill_color>#FFFFFF</forbidden_fill_color>
+<forbidden_font_color>#999999</forbidden_font_color>
+<item_padding>5</item_padding>
+<fs_style_glossary></fs_style_glossary>
+<gloss_border_style>none</gloss_border_style>
+<gloss_border_width>1</gloss_border_width>
+<gloss_border_radius>5</gloss_border_radius>
+<gloss_padding>10</gloss_padding>
+<gloss_fill_type>grad_h</gloss_fill_type>
+<gloss_font_color_idle>#FFFFFF</gloss_font_color_idle>
+<gloss_font_color_selected>#0080C0</gloss_font_color_selected>
+<gloss_border_color_idle>#0080C0</gloss_border_color_idle>
+<gloss_border_color_selected>#0080C0</gloss_border_color_selected>
+<gloss_bg_color_idle>#0080C0</gloss_bg_color_idle>
+<gloss_bg_color_selected>#CEEFFF</gloss_bg_color_selected>
+<fs_gloss_gradient></fs_gloss_gradient>
+<gloss_gradient_color_idle>#8AD9FF</gloss_gradient_color_idle>
+<gloss_gradient_color_selected>#FFFFFF</gloss_gradient_color_selected>
+<fs_gloss_img></fs_gloss_img>
+<gloss_img_idle></gloss_img_idle>
+<gloss_img_selected></gloss_img_selected>
+<gloss_img_repeat>repeat</gloss_img_repeat>
+<gloss_img_position>cm</gloss_img_position>
+<gloss_img_position_custom></gloss_img_position_custom>
+<fs_style_search></fs_style_search>
+<search_input_border_style>solid</search_input_border_style>
+<search_input_border_color>#0080C0</search_input_border_color>
+<search_input_border_width>1</search_input_border_width>
+<search_input_border_radius>5</search_input_border_radius>
+<search_input_bg_color>#FFFFFF</search_input_bg_color>
+<search_input_font_color>#004080</search_input_font_color>
+<highlight_bg_color>#FFEE99</highlight_bg_color>
+<highlight_font_color>#CC0000</highlight_font_color>
+<search_button_bg_color>#0080C0</search_button_bg_color>
+<search_button_font_color>#FFFFFF</search_button_font_color>
+<search_button_border_style>solid</search_button_border_style>
+<search_button_border_color>#0080C0</search_button_border_color>
+<search_button_border_width>1</search_button_border_width>
+<search_button_border_radius>5</search_button_border_radius>
+<fs_style_settings></fs_style_settings>
+<sett_border_style>solid</sett_border_style>
+<sett_border_width>1</sett_border_width>
+<sett_border_color>#0080C0</sett_border_color>
+<sett_padding>5</sett_padding>
+<content_const>contents</content_const>
+<title_close>Закрыть окно</title_close>
+<fs_const_contents></fs_const_contents>
+<msg_order_violation>Вы не можете перейти на этот слайд, не посетив предыдущие слайды</msg_order_violation>
+<fs_const_search></fs_const_search>
+<search_text_button>Искать</search_text_button>
+<search_text_logic>Искать включение:</search_text_logic>
+<search_text_OR>Любого из слов</search_text_OR>
+<search_text_AND>Всех слов</search_text_AND>
+<search_text_case>Регистр:</search_text_case>
+<search_text_case_no>не учитывать</search_text_case_no>
+<search_text_case_yes>учитывать</search_text_case_yes>
+<search_text_found>Найдено слайдов:</search_text_found>
+<search_text_notfound>Не найдено включений, соответствующих заданным условиям</search_text_notfound>
+<fs_const_settings></fs_const_settings>
+<obj_header>Цель</obj_header>
+<obj_score>Баллы</obj_score>
+<obj_cs>Заверш.</obj_cs>
+<obj_ss>Успех</obj_ss>
+<status_n>Не начато</status_n>
+<status_i>Не закончено</status_i>
+<status_c>Закончено</status_c>
+<status_u>Неизвестно</status_u>
+<status_p>Успешно</status_p>
+<status_f>Неуспешно</status_f>
+<sound_click>none</sound_click>
+<sound_click_file_custom></sound_click_file_custom>
+<sound_over>none</sound_over>
+<sound_over_file_custom></sound_over_file_custom>
+<hide_close>no</hide_close>
+</param>
+<param objectid="OBJ_9">
+<hidden_slide_visited>Посещенный слайд</hidden_slide_visited>
+<hidden_slide_current>Текущий слайд</hidden_slide_current>
+<hidden_slide_unvisited>Непосещенный слайд</hidden_slide_unvisited>
+<hidden_slide_closed>Слайд - узел иерархии закрытый</hidden_slide_closed>
+<hidden_slide_open>Слайд - узел иерархии открытый</hidden_slide_open>
+<hidden_obj_title>Название цели</hidden_obj_title>
+<contenttype>glossary</contenttype>
+<fs_richtext></fs_richtext>
+<display_header_richtext>yes</display_header_richtext>
+<header_richtext><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Помощь</span>]]></header_richtext>
+<panel_text_richtext><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;"></span>]]></panel_text_richtext>
+<fs_contents></fs_contents>
+<display_header_contents>yes</display_header_contents>
+<header_contents><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Содержание</span>]]></header_contents>
+<fs_search></fs_search>
+<display_header_search>yes</display_header_search>
+<header_search><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Поиск</span>]]></header_search>
+<search_tip>yes</search_tip>
+<search_tip_text><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Вы можете использовать при поиске символы *, заменяющие любые неизвестные буквы в слове. Для поиска фразы в режиме точного соответствия заключите фразу в кавычки (однако символы * в этом случае использовать нельзя). Помните, что поиск осуществляется по всем текстам модуля - некоторые из них могут быть невидимы до выполнения условий, заложенных автором курса.</span>]]></search_tip_text>
+<search_case>no_user</search_case>
+<search_logic>OR_user</search_logic>
+<search_scope>slide</search_scope>
+<search_return_format>simple</search_return_format>
+<fs_glossary></fs_glossary>
+<display_header_glossary>yes</display_header_glossary>
+<header_glossary><![CDATA[<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="line-height: 13.4399995803833px;">Тезаурус</span></span></span>]]></header_glossary>
+<glossary_item_list>
+<item>
+<e_code>1</e_code>
+<e_item>Нуклеиновые кислоты</e_item>
+<e_text><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Биологические полимерные молекулы, хранящие информацию об отдельном живом организме, определяющие его рост и развитие, а также наследственные признаки, передаваемые следующему поколению.</span></span></p>]]></e_text>
+</item>
+<item>
+<e_code>2</e_code>
+<e_item>Комплементарность</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Взаимное соответствие молекул или их фрагментов, обеспечивающее связь дополняющих друг друга структур и определяемое их химическими свойствами.</span></span>]]></e_text>
+</item>
+<item>
+<e_code>3</e_code>
+<e_item>Транскрипция</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Это переписывание генетической информации с молекулы ДНК на молекулу и-РНК (информационную, или матричную, РНК).</span></span>]]></e_text>
+</item>
+<item>
+<e_code>4</e_code>
+<e_item>Трансляция</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Процесс&nbsp;синтеза&nbsp;белка&nbsp;из&nbsp;аминокислот&nbsp;на матрице&nbsp;информационной (матричной) РНК&nbsp;(иРНК, мРНК), осуществляемый&nbsp;рибосомой.</span></span>]]></e_text>
+</item>
+<item>
+<e_code>5</e_code>
+<e_item>Репликация</e_item>
+<e_text><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">(от&nbsp;лат.&nbsp;replicatio&nbsp;&mdash; возобновление)&nbsp;&mdash; процесс синтеза дочерней молекулы дезоксирибонуклеиновой кислоты на матрице родительской молекулы ДНК.&nbsp;</span></span></p>]]></e_text>
+</item>
+<item>
+<e_code>6</e_code>
+<e_item>Процессинг РНК</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Совокупность процессов в клетках&nbsp;эукариот, которые приводят к превращению первичного&nbsp; транскрипта в зрелую&nbsp;РНК.</span></span>]]></e_text>
+</item>
+<item>
+<e_code>7</e_code>
+<e_item>Рестрикционная карта</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">(restriction map) - линейное изображение последовательности ДНК, которое показывает расположение сайтов узнавания специфических рестрикционных ферментов.</span></span>]]></e_text>
+</item>
+<item>
+<e_code>8</e_code>
+<e_item>Лигаза</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Фермент, катализирующий соединение двух молекул с образованием новой химической связи. При этом обычно происходит отщепление (гидролиз) небольшой химической группы от одной из молекул.</span></span>]]></e_text>
+</item>
+<item>
+<e_code>9</e_code>
+<e_item>Нуклеазы</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Гидролитические ферменты, расщепляющие нуклеиновые кислоты. По механизму расщепления субстратов нуклеазы разделяют на экзонуклеазы и эндонуклеазы. <em>Экзонуклеазы</em> осуществляют последовательное отщепление олигонуклеотидов с концов молекулы, тогда как эндонуклеазы вносят в молекулы нуклеиновых кислот внутренние разрывы.</span></span>]]></e_text>
+</item>
+<item>
+<e_code>10</e_code>
+<e_item>Липкие концы</e_item>
+<e_text><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Комплементарные друг другу, выступающие однонитевые участки одного или разных двухцепочечных фрагментов ДНК. С помощью липких концов фрагменты могут соединяться друг с другом с образованием гибридных молекул.</span></span></p>]]></e_text>
+</item>
+<item>
+<e_code>11</e_code>
+<e_item>Тупой конец</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Концы цепей двухцепочечной молекулы ДНК, заканчивающиеся парой соединенных комплементарных оснований (т.е. один конец не &quot;выступает&quot; за другой - в отличие от &quot;липких концов&quot;).</span></span>]]></e_text>
+</item>
+<item>
+<e_code>12</e_code>
+<e_item>Вектор</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Молекула нуклеиновой кислоты, используемая в генетической инженерии для передачи генетического материала другой клетке.</span></span>]]></e_text>
+</item>
+<item>
+<e_code>13</e_code>
+<e_item>ПЦР</e_item>
+<e_text><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">(полимеразная цепная реакция) &ndash; метод молекулярной биологии, позволяющий добиться значительного увеличения малых концентраций определенных фрагментов нуклеиновой кислоты (ДНК) в биологическом материале (пробе).</span></span></p>]]></e_text>
+</item>
+<item>
+<e_code>14</e_code>
+<e_item>Секвенирование</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Определение последовательности нуклеотидов в гене.</span></span>]]></e_text>
+</item>
+<item>
+<e_code>15</e_code>
+<e_item>Нуклеотид</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Мономерное звено в полимерной молекуле нуклеиновой кислоты. В зависимости от вида содержащегося углевода различают рибонуклеотид (включает рибозу) и дезоксирибонуклеотид (включает дезоксирибозу).</span></span>]]></e_text>
+</item>
+<item>
+<e_code>16</e_code>
+<e_item>Кофактор</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Небелковое соединение, которое нужно белку для его биологической деятельности. Эти белки обычно являются ферментами, поэтому кофакторы называют &laquo;молекулами-помощниками&raquo;, которые участвуют в биохимических превращениях.</span></span>]]></e_text>
+</item>
+<item>
+<e_code>17</e_code>
+<e_item>Праймер</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Олигонуклеотид, комплементарный ДНК- или РНК-мишени, служит затравкой для синтеза комплементарной цепи с помощью ДНК-полимеразы. Затравка необходима для инициации синтеза новой цепи (ДНК-полимераза последовательно добавляет к 3&#39;-концу праймера нуклеотиды, комплементарные матричной цепи).</span></span>]]></e_text>
+</item>
+<item>
+<e_code>18</e_code>
+<e_item>Плазмида</e_item>
+<e_text><![CDATA[<p><span style="font-family:times new roman,times,serif;"><span style="font-size:20px;">Внехромосомная кольцевая ДНК, которая обладает способностью стабильно существовать в автономном (не связанном с хромосомами) состоянии в цитоплазме.</span></span></p>
+
+<p><span style="font-family:times new roman,times,serif;"><span style="font-size:20px;">В природе плазмиды обычно содержат гены, повышающие устойчивость бактерии к неблагоприятным внешним факторам (в т.ч. устойчивость к антибиотикам), нередко они могут передаваться от одной бактерии к другой и служат средством горизонтального переноса генов.</span></span></p>]]></e_text>
+</item>
+<item>
+<e_code>19</e_code>
+<e_item>Катализатор</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Вещество, помогающее протеканию химической реакции, но не изменяющееся в ходе нее.</span></span>]]></e_text>
+</item>
+<item>
+<e_code>20</e_code>
+<e_item>Ферменты (энзимы)</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;"><span class="w"><span style="line-height: 115%;">Органические</span></span><span style="line-height: 115%;"> <span class="w">вещества обычно</span> <span class="w">белковой</span> <span class="w">природы</span>, <span class="w">которые</span> <span class="w">синтезируются</span> <span class="w">в</span> <span class="w">клетках</span> <span class="w">и</span> <span class="w">во</span> <span class="w">много</span> <span class="w">раз</span> <span class="w">ускоряют протекающие</span> <span class="w">в</span> <span class="w">них</span> <span class="w">реакции</span>, <span class="w">не</span> <span class="w">подвергаясь</span> <span class="w">при</span> <span class="w">этом</span> <span class="w">химическим</span> <span class="w">превращениям</span>.</span></span></span>]]></e_text>
+</item>
+<item>
+<e_code>21</e_code>
+<e_item>Кофермент</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Органические соединения небелковой природы, необходимые для осуществления каталитического действия многих ферментов.</span></span>]]></e_text>
+</item>
+<item>
+<e_code>22</e_code>
+<e_item>Биологическое окисление</e_item>
+<e_text><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Окислительно-восстановительные реакции, протекающие в клетках организма, в результате которых сложные органические вещества окисляются&nbsp;при участии ферментов.</span></span></p>]]></e_text>
+</item>
+<item>
+<e_code>23</e_code>
+<e_item>Ферментер</e_item>
+<e_text><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Аппарат для глубинного выращивания (культивирования) микроорганизмов в питательной среде в условиях стерильности, интенсивного перемешивания, непрерывного продувания стерильным воздухом и постоянной температуры.</span></span></p>]]></e_text>
+</item>
+</glossary_item_list>
+<fs_documents></fs_documents>
+<display_header_documents>yes</display_header_documents>
+<header_documents><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Документы</span>]]></header_documents>
+<doc_list></doc_list>
+<fs_settings></fs_settings>
+<display_header_settings>yes</display_header_settings>
+<header_settings><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Параметры</span>]]></header_settings>
+<settings_tip>yes</settings_tip>
+<settings_tip_text><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;"></span>]]></settings_tip_text>
+<settings_display>main</settings_display>
+<mainobj_text><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Главная цель модуля</span>]]></mainobj_text>
+<allobj_text><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Цели модуля</span>]]></allobj_text>
+<score_style>scaled</score_style>
+<fs_calculator></fs_calculator>
+<display_header_calculator>yes</display_header_calculator>
+<header_calculator><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Калькулятор</span>]]></header_calculator>
+<display_calculator_desc>no</display_calculator_desc>
+<calculator_desc><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;"></span>]]></calculator_desc>
+<fs_comment></fs_comment>
+<display_header_comment>yes</display_header_comment>
+<header_comment><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Комментарий</span>]]></header_comment>
+<comment_display>text</comment_display>
+<no_comments><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Нет комментариев</span>]]></no_comments>
+<tranin>6</tranin>
+<durin>600</durin>
+<tranout>6</tranout>
+<durout>600</durout>
+<nav_lock>yes</nav_lock>
+<modal>no</modal>
+<fs_contents_2></fs_contents_2>
+<slide_icons>standard</slide_icons>
+<fs_slide_icons></fs_slide_icons>
+<i1_img></i1_img>
+<i2_img></i2_img>
+<i3_img></i3_img>
+<hier_type>none</hier_type>
+<fs_contents_hier_icons></fs_contents_hier_icons>
+<h1_img></h1_img>
+<h2_img></h2_img>
+<fs_glossary_2></fs_glossary_2>
+<display_letters>yes</display_letters>
+<glossary_default_text><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Выберите элемент, чтобы увидеть описание</span>]]></glossary_default_text>
+<glossary_not_found><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Запрошенный элемент не найден</span>]]></glossary_not_found>
+<glossary_items_col_width>30</glossary_items_col_width>
+<fs_settings_2></fs_settings_2>
+<settings_icons>standard</settings_icons>
+<fs_icons_statuses></fs_icons_statuses>
+<on_img></on_img>
+<oi_img></oi_img>
+<oc_img></oc_img>
+<ou_img></ou_img>
+<op_img></op_img>
+<of_img></of_img>
+<panel_padding>15</panel_padding>
+<panel_bordercolor>#0080C0</panel_bordercolor>
+<panel_borderwidth>1</panel_borderwidth>
+<panel_radius>5</panel_radius>
+<shadow_strength>normal</shadow_strength>
+<panel_bgtype>solid</panel_bgtype>
+<panel_bgcolor>#FFFFFF</panel_bgcolor>
+<fs_panel_gradient></fs_panel_gradient>
+<panel_gradientcolor>#DDEEFF</panel_gradientcolor>
+<fs_panel_bg_img></fs_panel_bg_img>
+<panel_bgimg></panel_bgimg>
+<panel_bgimg_repeat>repeat</panel_bgimg_repeat>
+<panel_bgimg_position>cm</panel_bgimg_position>
+<panel_bgimg_position_custom></panel_bgimg_position_custom>
+<contenttype_style>glossary</contenttype_style>
+<fs_style_none></fs_style_none>
+<fs_basic_font></fs_basic_font>
+<basic_font>clear_sansregular</basic_font>
+<basic_font_custom></basic_font_custom>
+<basic_font_style>normal</basic_font_style>
+<basic_font_size>16</basic_font_size>
+<fs_style_contents></fs_style_contents>
+<allowed_fill_color>#FFFFFF</allowed_fill_color>
+<allowed_font_color>#004080</allowed_font_color>
+<current_fill_color>#EEEEEE</current_fill_color>
+<current_font_color>#000000</current_font_color>
+<forbidden_fill_color>#FFFFFF</forbidden_fill_color>
+<forbidden_font_color>#999999</forbidden_font_color>
+<item_padding>5</item_padding>
+<fs_style_glossary></fs_style_glossary>
+<gloss_border_style>none</gloss_border_style>
+<gloss_border_width>1</gloss_border_width>
+<gloss_border_radius>5</gloss_border_radius>
+<gloss_padding>10</gloss_padding>
+<gloss_fill_type>grad_h</gloss_fill_type>
+<gloss_font_color_idle>#FFFFFF</gloss_font_color_idle>
+<gloss_font_color_selected>#0080C0</gloss_font_color_selected>
+<gloss_border_color_idle>#0080C0</gloss_border_color_idle>
+<gloss_border_color_selected>#0080C0</gloss_border_color_selected>
+<gloss_bg_color_idle>#0080C0</gloss_bg_color_idle>
+<gloss_bg_color_selected>#CEEFFF</gloss_bg_color_selected>
+<fs_gloss_gradient></fs_gloss_gradient>
+<gloss_gradient_color_idle>#8AD9FF</gloss_gradient_color_idle>
+<gloss_gradient_color_selected>#FFFFFF</gloss_gradient_color_selected>
+<fs_gloss_img></fs_gloss_img>
+<gloss_img_idle></gloss_img_idle>
+<gloss_img_selected></gloss_img_selected>
+<gloss_img_repeat>repeat</gloss_img_repeat>
+<gloss_img_position>cm</gloss_img_position>
+<gloss_img_position_custom></gloss_img_position_custom>
+<fs_style_search></fs_style_search>
+<search_input_border_style>solid</search_input_border_style>
+<search_input_border_color>#0080C0</search_input_border_color>
+<search_input_border_width>1</search_input_border_width>
+<search_input_border_radius>5</search_input_border_radius>
+<search_input_bg_color>#FFFFFF</search_input_bg_color>
+<search_input_font_color>#004080</search_input_font_color>
+<highlight_bg_color>#FFEE99</highlight_bg_color>
+<highlight_font_color>#CC0000</highlight_font_color>
+<search_button_bg_color>#0080C0</search_button_bg_color>
+<search_button_font_color>#FFFFFF</search_button_font_color>
+<search_button_border_style>solid</search_button_border_style>
+<search_button_border_color>#0080C0</search_button_border_color>
+<search_button_border_width>1</search_button_border_width>
+<search_button_border_radius>5</search_button_border_radius>
+<fs_style_settings></fs_style_settings>
+<sett_border_style>solid</sett_border_style>
+<sett_border_width>1</sett_border_width>
+<sett_border_color>#0080C0</sett_border_color>
+<sett_padding>5</sett_padding>
+<content_const>comment</content_const>
+<title_close>Закрыть окно</title_close>
+<fs_const_contents></fs_const_contents>
+<msg_order_violation>Вы не можете перейти на этот слайд, не посетив предыдущие слайды</msg_order_violation>
+<fs_const_search></fs_const_search>
+<search_text_button>Искать</search_text_button>
+<search_text_logic>Искать включение:</search_text_logic>
+<search_text_OR>Любого из слов</search_text_OR>
+<search_text_AND>Всех слов</search_text_AND>
+<search_text_case>Регистр:</search_text_case>
+<search_text_case_no>не учитывать</search_text_case_no>
+<search_text_case_yes>учитывать</search_text_case_yes>
+<search_text_found>Найдено слайдов:</search_text_found>
+<search_text_notfound>Не найдено включений, соответствующих заданным условиям</search_text_notfound>
+<fs_const_settings></fs_const_settings>
+<obj_header>Цель</obj_header>
+<obj_score>Баллы</obj_score>
+<obj_cs>Заверш.</obj_cs>
+<obj_ss>Успех</obj_ss>
+<status_n>Не начато</status_n>
+<status_i>Не закончено</status_i>
+<status_c>Закончено</status_c>
+<status_u>Неизвестно</status_u>
+<status_p>Успешно</status_p>
+<status_f>Неуспешно</status_f>
+<sound_click>none</sound_click>
+<sound_click_file_custom></sound_click_file_custom>
+<sound_over>none</sound_over>
+<sound_over_file_custom></sound_over_file_custom>
+<hide_close>no</hide_close>
+</param>
+<param objectid="OBJ_10">
+<role>closemodule</role>
+<selectedslide></selectedslide>
+<selectedframe></selectedframe>
+<fs_thisslide></fs_thisslide>
+<text_thisslide>ПОВТОР</text_thisslide>
+<alt_enabled_thisslide>Повторить слайд</alt_enabled_thisslide>
+<alt_disabled_thisslide>Повтор запрещен</alt_disabled_thisslide>
+<fs_nextslide></fs_nextslide>
+<text_nextslide>ДАЛЕЕ</text_nextslide>
+<alt_enabled_nextslide>Следующий слайд</alt_enabled_nextslide>
+<alt_disabled_nextslide>Переход запрещен</alt_disabled_nextslide>
+<fs_prevslide></fs_prevslide>
+<text_prevslide>НАЗАД</text_prevslide>
+<alt_enabled_prevslide>Предыдущий слайд</alt_enabled_prevslide>
+<alt_disabled_prevslide>Переход запрещен</alt_disabled_prevslide>
+<fs_firstslide></fs_firstslide>
+<text_firstslide>НАЧАЛО</text_firstslide>
+<alt_enabled_firstslide>Первый слайд</alt_enabled_firstslide>
+<alt_disabled_firstslide>Переход запрещен</alt_disabled_firstslide>
+<fs_lastslide></fs_lastslide>
+<text_lastslide>КОНЕЦ</text_lastslide>
+<alt_enabled_lastslide>Последний слайд</alt_enabled_lastslide>
+<alt_disabled_lastslide>Переход запрещен</alt_disabled_lastslide>
+<fs_nextframe></fs_nextframe>
+<text_nextframe>Далее</text_nextframe>
+<alt_enabled_nextframe>Следующий кадр</alt_enabled_nextframe>
+<alt_disabled_nextframe>Переход запрещен</alt_disabled_nextframe>
+<fs_prevframe></fs_prevframe>
+<text_prevframe>Назад</text_prevframe>
+<alt_enabled_prevframe>Предыдущий кадр</alt_enabled_prevframe>
+<alt_disabled_prevframe>Переход запрещен</alt_disabled_prevframe>
+<fs_firstframe></fs_firstframe>
+<text_firstframe>Начало</text_firstframe>
+<alt_enabled_firstframe>Первый кадр</alt_enabled_firstframe>
+<alt_disabled_firstframe>Переход запрещен</alt_disabled_firstframe>
+<fs_lastframe></fs_lastframe>
+<text_lastframe>Конец</text_lastframe>
+<alt_enabled_lastframe>Последний кадр</alt_enabled_lastframe>
+<alt_disabled_lastframe>Переход запрещен</alt_disabled_lastframe>
+<fs_selectedslide></fs_selectedslide>
+<text_selectedslide></text_selectedslide>
+<alt_enabled_selectedslide>Перейти на слайд</alt_enabled_selectedslide>
+<alt_disabled_selectedslide>Переход запрещен</alt_disabled_selectedslide>
+<fs_selectedframe></fs_selectedframe>
+<text_selectedframe></text_selectedframe>
+<alt_enabled_selectedframe>Перейти на кадр</alt_enabled_selectedframe>
+<alt_disabled_selectedframe>Переход запрещен</alt_disabled_selectedframe>
+<fs_closemodule></fs_closemodule>
+<text_closemodule>ВЫЙТИ</text_closemodule>
+<alt_enabled_closemodule>Закрыть модуль</alt_enabled_closemodule>
+<alt_disabled_closemodule></alt_disabled_closemodule>
+<display_closemodule_msg>no</display_closemodule_msg>
+<closemodule_msg>Подтверждаете закрытие модуля?</closemodule_msg>
+<nav_lock>yes</nav_lock>
+<swipe>yes</swipe>
+<btn_type>image</btn_type>
+<fs_image></fs_image>
+<n1_img>images/close.png</n1_img>
+<n2_img>images/close.png</n2_img>
+<n3_img>images/close.png</n3_img>
+<fs_html></fs_html>
+<bg_type>auto</bg_type>
+<border_style>solid</border_style>
+<border_width>1</border_width>
+<border_radius>5</border_radius>
+<bg_color>#0080C0</bg_color>
+<gradient_color>#A6E1FF</gradient_color>
+<border_color>#004080</border_color>
+<shadow_strength>normal</shadow_strength>
+<content>image</content>
+<fs_bg_img></fs_bg_img>
+<bg_img_1></bg_img_1>
+<bg_img_2></bg_img_2>
+<bg_img_3></bg_img_3>
+<bg_position>center</bg_position>
+<fs_text></fs_text>
+<text_position>center</text_position>
+<text_margin_left>0</text_margin_left>
+<text_margin_right>0</text_margin_right>
+<font>robotoblack</font>
+<font_custom></font_custom>
+<font_style>normal</font_style>
+<font_size>14</font_size>
+<text_shadow_strength>normal</text_shadow_strength>
+<text_shadow_color>#FFFFFF</text_shadow_color>
+<font_color>#004080</font_color>
+<font_color_over>#4080C0</font_color_over>
+<sound_click>none</sound_click>
+<sound_click_file_custom></sound_click_file_custom>
+<sound_over>none</sound_over>
+<sound_over_file_custom></sound_over_file_custom>
+</param>
+<param objectid="OBJ_11">
+<role>method</role>
+<fs_sound></fs_sound>
+<text_on_sound>ЗВУК ВКЛ.</text_on_sound>
+<text_off_sound>ЗВУК ВЫКЛ.</text_off_sound>
+<alt_on_sound>Разрешить звук</alt_on_sound>
+<alt_off_sound>Запретить звук</alt_off_sound>
+<alt_disabled_sound>Доступ запрещен</alt_disabled_sound>
+<fs_fitscreen></fs_fitscreen>
+<text_on_fitscreen>МАСШТАБ УВЕЛ.</text_on_fitscreen>
+<text_off_fitscreen>МАСШТАБ 1:1</text_off_fitscreen>
+<alt_on_fitscreen>Масштабировать по размерам окна</alt_on_fitscreen>
+<alt_off_fitscreen>Исходный масштаб</alt_off_fitscreen>
+<alt_disabled_fitscreen>Доступ запрещен</alt_disabled_fitscreen>
+<fs_method></fs_method>
+<text_on_method>ОТКРЫТЬ</text_on_method>
+<text_off_method>ЗАКРЫТЬ</text_off_method>
+<alt_on_method>Показать список слайдов</alt_on_method>
+<alt_off_method>Скрыть список слайдов</alt_off_method>
+<alt_disabled_method>Доступ запрещен</alt_disabled_method>
+<target_object>OBJ_8</target_object>
+<navibutton>yes</navibutton>
+<nav_lock>yes</nav_lock>
+<btn_type>html</btn_type>
+<fs_image></fs_image>
+<n1_img></n1_img>
+<n2_img></n2_img>
+<n1_dis_img></n1_dis_img>
+<n3_img></n3_img>
+<n4_img></n4_img>
+<n3_dis_img></n3_dis_img>
+<fs_html></fs_html>
+<bg_type>transparent</bg_type>
+<border_style>none</border_style>
+<border_width>1</border_width>
+<border_radius>0</border_radius>
+<bg_color>#0080C0</bg_color>
+<gradient_color>#A6E1FF</gradient_color>
+<border_color>#004080</border_color>
+<bg_color_off>#0080C0</bg_color_off>
+<gradient_color_off>#A6E1FF</gradient_color_off>
+<shadow_strength>none</shadow_strength>
+<content>image</content>
+<fs_bg_img></fs_bg_img>
+<bg_img_1>images/listSlider.png</bg_img_1>
+<bg_img_2>images/listSlider_hover.png</bg_img_2>
+<bg_img_3>images/Bezymyanny-1.png</bg_img_3>
+<bg_img_4>images/listSlider_hover.png</bg_img_4>
+<bg_position>center</bg_position>
+<fs_text></fs_text>
+<text_position>center</text_position>
+<text_margin_left>0</text_margin_left>
+<text_margin_right>0</text_margin_right>
+<font>robotoblack</font>
+<font_custom></font_custom>
+<font_style>normal</font_style>
+<font_size>14</font_size>
+<text_shadow_strength>normal</text_shadow_strength>
+<text_shadow_color>#FFFFFF</text_shadow_color>
+<font_color>#004080</font_color>
+<font_color_over>#4080C0</font_color_over>
+<sound_click>none</sound_click>
+<sound_click_file_custom></sound_click_file_custom>
+<sound_over>none</sound_over>
+<sound_over_file_custom></sound_over_file_custom>
+</param>
+<param objectid="OBJ_13">
+<hidden_noimg>Картинка не задана</hidden_noimg>
+<imagefile>images/1.1.png</imagefile>
+<bg_color_profile>custom</bg_color_profile>
+<bg_color_custom>#FFFFFF</bg_color_custom>
+<button_color_profile>custom</button_color_profile>
+<button_color_custom>#0080C0</button_color_custom>
+<radius>10</radius>
+<shadow>normal</shadow>
+<tooltip_zoomin>Нажите здесь, чтобы увеличить картинку</tooltip_zoomin>
+<tooltip_close>Нажмите здесь, чтобы закрыть картинку</tooltip_close>
+<hide_onclick>yes</hide_onclick>
+<modal>yes</modal>
+</param>
+<param objectid="OBJ_14">
+<hidden_noimg>Картинка не задана</hidden_noimg>
+<imagefile>images/1.2.png</imagefile>
+<bg_color_profile>custom</bg_color_profile>
+<bg_color_custom>#FFFFFF</bg_color_custom>
+<button_color_profile>custom</button_color_profile>
+<button_color_custom>#0080C0</button_color_custom>
+<radius>10</radius>
+<shadow>normal</shadow>
+<tooltip_zoomin>Нажите здесь, чтобы увеличить картинку</tooltip_zoomin>
+<tooltip_close>Нажмите здесь, чтобы закрыть картинку</tooltip_close>
+<hide_onclick>yes</hide_onclick>
+<modal>yes</modal>
+</param>
+</params>
+<objectives>
+<objective module="yes" id="total" name="Главная цель модуля" cs="i" ss="u" scoremax="100" scoremin="0"/>
+</objectives>
+<runtimechecks>
+</runtimechecks>
+</module>
