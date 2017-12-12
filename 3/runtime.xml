@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Presentation file, saved 12/11/2017 11:37:53 AM using CourseLab 171024 -->
+<!-- Presentation file, saved 12/12/2017 12:44:35 PM using CourseLab 171024 -->
 <module>
 <runtime preview_fullscreen="yes" preview_fitwindow="no" fit_small_window="yes" showsplash="yes" seqslides="no" preloadimages="yes" normalize="no"/>
 <groups>
 </groups>
 <slides>
-<slide id="SLIDE_4" sid="d" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="История возникновения генной инженерии" indent="0">
+<slide id="SLIDE_4" sid="d" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="История возникновения генной инженерии ч.1" indent="0">
 <frames>
 <frame id="FRAME_6" dur="600" infinite="0">
 <object id="TXT_3" x="178" y="59" w="663" h="36" z="100" display="frame" begin="0">
@@ -28,9 +28,252 @@
 <![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_13 .cl-container"><span class="rule-static">width: 280px; height: 377px;</span></div><div class="rule" data-name="#OBJ_13 .cl-box"><span class="rule-static">width: 280px; height: 377px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_13 .cl-box img"><span class="rule-static">width: 280px; height: 377px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_13 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_13_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_13_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_13_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_13_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_13_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/1.1.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_13_ZOOM" class="cl-zoom" ><div id="OBJ_13_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_13_ZOOM_IMG" src="images/1.1.png" onload="CLO['OBJ_13'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_13_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
 </data>
 </object>
-<object id="OBJ_14" x="379" y="228" w="261" h="351" z="104" display="frame" begin="0" type="v_block_005">
+<object id="OBJ_14" x="401" y="231" w="216" h="323" z="104" display="frame" begin="0" type="v_block_005">
 <data>
-<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_14 .cl-container"><span class="rule-static">width: 261px; height: 351px;</span></div><div class="rule" data-name="#OBJ_14 .cl-box"><span class="rule-static">width: 261px; height: 351px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_14 .cl-box img"><span class="rule-static">width: 261px; height: 351px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_14 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_14_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_14_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_14_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_14_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_14_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/1.2.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_14_ZOOM" class="cl-zoom" ><div id="OBJ_14_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_14_ZOOM_IMG" src="images/1.2.png" onload="CLO['OBJ_14'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_14_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_14 .cl-container"><span class="rule-static">width: 216px; height: 323px;</span></div><div class="rule" data-name="#OBJ_14 .cl-box"><span class="rule-static">width: 216px; height: 323px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_14 .cl-box img"><span class="rule-static">width: 216px; height: 323px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_14 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_14_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_14_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_14_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_14_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_14_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/1.2.jpg" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_14_ZOOM" class="cl-zoom" ><div id="OBJ_14_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_14_ZOOM_IMG" src="images/1.2.jpg" onload="CLO['OBJ_14'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_14_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
+</data>
+</object>
+<object id="OBJ_15" x="660" y="200" w="296" h="369" z="105" display="frame" begin="0" type="v_block_005">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_15 .cl-container"><span class="rule-static">width: 296px; height: 369px;</span></div><div class="rule" data-name="#OBJ_15 .cl-box"><span class="rule-static">width: 296px; height: 369px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_15 .cl-box img"><span class="rule-static">width: 296px; height: 369px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_15 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_15_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_15_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_15_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_15_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_15_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/1.3.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_15_ZOOM" class="cl-zoom" ><div id="OBJ_15_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_15_ZOOM_IMG" src="images/1.3.png" onload="CLO['OBJ_15'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_15_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_5" sid="h" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="История возникновения генной инженерии ч.2" indent="0">
+<frames>
+<frame id="FRAME_5" dur="600" infinite="0">
+<object id="TXT_9" x="178" y="59" w="663" h="36" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 663px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">История возникновения генной </span><span style="font-weight: bold;">инженерии</span></span></span><span style="font-size:28px;"><strong><span style="font-family:times new roman,times,serif;"><span style="color: rgb(0, 0, 0);"> </span></span></strong></span></p></div>]]>
+</data>
+</object>
+<object id="TXT_10" x="31" y="111" w="440" h="176" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 440px; height: 176px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Г. Бойер и С. Коэн в 1973 г. получили первые генетические модифицированные бактериальные организмы. Они создали штамм E. Coli, устойчивый к действию к антибиотику тетрациклину за счет контролируемого разрушения R-фактора и трансформации реципиентных клеток фрагментами R-фактора.&nbsp;</span></span></p></div>]]>
+</data>
+</object>
+<object id="TXT_11" x="550" y="109" w="438" h="176" z="102" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 438px; height: 176px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&nbsp;&nbsp;Р. Йениш в 1974 г. Впервые получил генетически-модифицированный животный организм. Для этого экспланты мышиных бластоцистов подвегали генетической трансформации вирусов SV40. После этого производили перенос клеточной культуры в матку суррогатных матерей. Генетически трансформированная ДНК была обнаружена у 40% потомства мышей.&nbsp;</span></span></p></div>]]>
+</data>
+</object>
+<object id="OBJ_19" x="204" y="290" w="608" h="307" z="103" display="frame" begin="0" type="v_block_005">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_19 .cl-container"><span class="rule-static">width: 608px; height: 307px;</span></div><div class="rule" data-name="#OBJ_19 .cl-box"><span class="rule-static">width: 608px; height: 307px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_19 .cl-box img"><span class="rule-static">width: 608px; height: 307px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_19 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_19_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_19_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_19_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_19_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_19_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/2.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_19_ZOOM" class="cl-zoom" ><div id="OBJ_19_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_19_ZOOM_IMG" src="images/2.png" onload="CLO['OBJ_19'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_19_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_6" sid="i" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Асиломарская конференция" indent="0">
+<frames>
+<frame id="FRAME_7" dur="600" infinite="0">
+<object id="TXT_12" x="178" y="59" w="663" h="36" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 663px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><strong><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;">Асиломарская конференция</span></span></strong><span style="font-size:28px;"><strong><span style="font-family:times new roman,times,serif;"><span style="color: rgb(0, 0, 0);"> </span></span></strong></span></p></div>]]>
+</data>
+</object>
+<object id="TXT_13" x="33" y="110" w="953" h="481" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 953px; height: 481px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Стремительные успехи в развитии генной инженерии привлекли широкое внимание общественности. Это повлекло за собой большое количестве этических вопросов. По этой причине в феврале 1975 г. П. Берг созвал конференцию, на которой предстояло решить ряд вопросов. 140 специалистов (в первую очередь биологов, а так же врачей и юристов) были собраны для разработки руководствующих принципов для обеспечения безопасности технологии рекомбинантных ДНК.</span></span></p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">В ходе конференции было решено разделить эксперименты по генетической модификации организмов на три группы риска.</span></span></p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Низкая группа риска. Рекомбинантная ДНК не может либо существенно изменить экологические свойства видов-реципиентов, увеличить его патогенность или препятствовать эффективному лечение любых возникающих инфекций.</span></span></p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Умеренная группа риска. Рекомбинантная ДНК несет вероятность нарушения экологического&nbsp; равновесия и значительный потенциал патогенности</span></span></p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Высокая группа риска. Рекомбинантная ДНК несет угрозу разрушения экологического равновесия. Уровень патогенность модифицированного организма представляет серьезную биологическую опасность для персонала лаборатории и общественности. </span></span></p>
+
+<div style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.31in; text-indent: -0.31in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</div>
+
+<div style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.31in; text-indent: -0.31in; text-align: justify; direction: ltr; word-break: normal;"><br />
+<!--[endif]--></div>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">В дополнении к ним вышло постановление запретить эксперименты по клонированию ДНК из высокопатогенных организмов, а так же генов, которые потенциально опасны для человека, растений и животных.</span></span></p></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_8" sid="j" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Технология рекомбинантных ДНК" indent="0">
+<frames>
+<frame id="FRAME_8" dur="600" infinite="0">
+<object id="TXT_14" x="178" y="59" w="663" h="36" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 663px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><strong><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;">Технология рекомбинантных ДНК</span></span></strong><span style="font-size:28px;"><strong><span style="font-family:times new roman,times,serif;"><span style="color: rgb(0, 0, 0);"> </span></span></strong></span></p></div>]]>
+</data>
+</object>
+<object id="TXT_15" x="34" y="111" w="472" h="459" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 472px; height: 459px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Технология рекомбинантных ДНК &ndash; совокупность экспериментальных процедур, позволяющая осуществлять перенос генетического материала (ДНК) из одного организма в другой. </span></span></p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Единого универсального набора методик не существует, но чаще всего эксперименты проводят по следующей схеме: </span></span></p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Экстракция нативной ДНК из организма-донора;</span></span></p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Ферментативный гидролиз рекомбинантной молекулы;</span></span></p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Введение конструкции в клетку-хозяина (трансформация);</span></span></p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Идентификация и отбор клеток, несущих рекомбинатную ДНК</span></span></p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Получение специфического белкового продукта, синтезированного клетками-хозяевами.&nbsp;</span></span></p></div>]]>
+</data>
+</object>
+<object id="OBJ_17" x="592" y="110" w="315" h="484" z="102" display="frame" begin="0" type="v_block_005">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_17 .cl-container"><span class="rule-static">width: 315px; height: 484px;</span></div><div class="rule" data-name="#OBJ_17 .cl-box"><span class="rule-static">width: 315px; height: 484px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_17 .cl-box img"><span class="rule-static">width: 315px; height: 484px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_17 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_17_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_17_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_17_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_17_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_17_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/4.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_17_ZOOM" class="cl-zoom" ><div id="OBJ_17_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_17_ZOOM_IMG" src="images/4.png" onload="CLO['OBJ_17'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_17_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_9" sid="k" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Рестрикция ДНК ч.1" indent="0">
+<frames>
+<frame id="FRAME_10" dur="600" infinite="0">
+<object id="TXT_16" x="178" y="59" w="663" h="36" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 663px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><strong><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;">Рестрикция ДНК</span></span></strong><span style="font-size:28px;"><strong><span style="font-family:times new roman,times,serif;"><span style="color: rgb(0, 0, 0);"> </span></span></strong></span></p></div>]]>
+</data>
+</object>
+<object id="TXT_17" x="34" y="111" w="474" h="357" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 474px; height: 357px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&nbsp;&nbsp;При молекулярном клонировании важно, чтобы расщепление донорной и векторной ДНК происходило в строго определенных участках с образованием воспроизводимого набора ферментов. Молекулярное клонирование стало возможным после выделения высокоспецифичных бактериальных ферментов, которые узнаю определенные последовательности оснований в двуцепочечной молекуле ДНК и расщепляют обе оцепи. Эти ферменты называются эндонуклеазами рестрикции типа II. При расщеплении молекулы ДНК возможно образования &laquo;тупых&raquo; и &laquo;липких&raquo; концов. Палиндромные последовательности, которые распознаются ферментами эндонуклеаз рестрикции и в которых происходит расщепление молекулы ДНК, называют сайтами распознавания. Сайты узнавания включают от 4 до 8 пар нуклеотидов.&nbsp;</span></span></p></div>]]>
+</data>
+</object>
+<object id="OBJ_20" x="540" y="183" w="443" h="388" z="102" display="frame" begin="0" type="v_block_005">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_20 .cl-container"><span class="rule-static">width: 443px; height: 388px;</span></div><div class="rule" data-name="#OBJ_20 .cl-box"><span class="rule-static">width: 443px; height: 388px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_20 .cl-box img"><span class="rule-static">width: 443px; height: 388px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_20 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_20_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_20_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_20_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_20_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_20_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/5.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_20_ZOOM" class="cl-zoom" ><div id="OBJ_20_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_20_ZOOM_IMG" src="images/5.png" onload="CLO['OBJ_20'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_20_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
+</data>
+</object>
+<object id="TXT_18" x="550" y="113" w="438" h="94" z="103" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 438px; height: 94px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Сайты распознавания некоторых наиболее распространенных ферментов эндонуклеаз рестрикции&nbsp;</span></span></p></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_10" sid="l" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Рестрикция ДНК ч.2" indent="0">
+<frames>
+<frame id="FRAME_11" dur="600" infinite="0">
+<object id="TXT_19" x="178" y="59" w="663" h="36" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 663px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-family: 'Times New Roman'; font-size: medium; font-variant: normal; line-height: 19.200000762939453px; font-weight: bolder; font-style: normal; text-align: center;"><span style="font-size: 28px;"><span style="font-family: 'times new roman', times, serif;">Рестрикция ДНК</span></span></span><span style="font-size:28px;"><strong><span style="font-family:times new roman,times,serif;"><span style="color: rgb(0, 0, 0);"> </span></span></strong></span></p></div>]]>
+</data>
+</object>
+<object id="TXT_20" x="34" y="533" w="951" h="59" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 951px; height: 59px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Схема расщепления короткого фрагмента ДНК эндонуклеазой рестрикции EcoRI с образованием липких концов. S &ndash; дезоксирибоза, P &ndash; фосфатная группа, OH &ndash; гидроксильная группа, A,T,G,C &ndash; азотистые основания.&nbsp;</span></span></p></div>]]>
+</data>
+</object>
+<object id="OBJ_21" x="93" y="110" w="831" h="412" z="102" display="frame" begin="0" type="v_block_005">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_21 .cl-container"><span class="rule-static">width: 831px; height: 412px;</span></div><div class="rule" data-name="#OBJ_21 .cl-box"><span class="rule-static">width: 831px; height: 412px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_21 .cl-box img"><span class="rule-static">width: 831px; height: 412px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_21 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_21_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_21_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_21_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_21_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_21_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/6.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_21_ZOOM" class="cl-zoom" ><div id="OBJ_21_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_21_ZOOM_IMG" src="images/6.png" onload="CLO['OBJ_21'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_21_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_11" sid="m" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Рестрикция ДНК ч.3" indent="0">
+<frames>
+<frame id="FRAME_12" dur="600" infinite="0">
+<object id="TXT_21" x="178" y="59" w="663" h="36" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 663px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-family: 'Times New Roman'; font-size: medium; font-variant: normal; line-height: 19.200000762939453px; font-weight: bolder; font-style: normal; text-align: center;"><span style="font-size: 28px;"><span style="font-family: 'times new roman', times, serif;">Рестрикция ДНК</span></span></span><span style="font-size:28px;"><strong><span style="font-family:times new roman,times,serif;"><span style="color: rgb(0, 0, 0);"> </span></span></strong></span></p></div>]]>
+</data>
+</object>
+<object id="TXT_22" x="34" y="533" w="951" h="59" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 951px; height: 59px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Схема расщепления короткого фрагмента ДНК эндонуклеазой рестрикции HindII с образованием тупых концов. S &ndash; дезоксирибоза, P &ndash; фосфатная группа, OH &ndash; гидроксильная группа, A,T,G,C &ndash; азотистые основания.&nbsp;</span></span></p></div>]]>
+</data>
+</object>
+<object id="OBJ_22" x="180" y="95" w="658" h="434" z="102" display="frame" begin="0" type="v_block_005">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_22 .cl-container"><span class="rule-static">width: 658px; height: 434px;</span></div><div class="rule" data-name="#OBJ_22 .cl-box"><span class="rule-static">width: 658px; height: 434px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_22 .cl-box img"><span class="rule-static">width: 658px; height: 434px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_22 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_22_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_22_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_22_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_22_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_22_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/7.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_22_ZOOM" class="cl-zoom" ><div id="OBJ_22_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_22_ZOOM_IMG" src="images/7.png" onload="CLO['OBJ_22'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_22_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_12" sid="n" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Комплементарной спаривание липких концов фрагментов ДНК" indent="0">
+<frames>
+<frame id="FRAME_13" dur="600" infinite="0">
+<object id="TXT_23" x="92" y="59" w="834" h="36" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 834px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><strong><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;">Комплементарной спаривание липких концов фрагментов ДНК</span></span></strong><span style="font-size:28px;"><strong><span style="font-family:times new roman,times,serif;"><span style="color: rgb(0, 0, 0);"> </span></span></strong></span></p></div>]]>
+</data>
+</object>
+<object id="TXT_24" x="34" y="533" w="951" h="59" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 951px; height: 59px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Схема расщепления короткого фрагмента ДНК эндонуклеазой рестрикции HindII с образованием тупых концов. S &ndash; дезоксирибоза, P &ndash; фосфатная группа, OH &ndash; гидроксильная группа, A,T,G,C &ndash; азотистые основания.&nbsp;</span></span></p></div>]]>
+</data>
+</object>
+<object id="OBJ_23" x="180" y="95" w="658" h="434" z="102" display="frame" begin="0" type="v_block_005">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_23 .cl-container"><span class="rule-static">width: 658px; height: 434px;</span></div><div class="rule" data-name="#OBJ_23 .cl-box"><span class="rule-static">width: 658px; height: 434px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_23 .cl-box img"><span class="rule-static">width: 658px; height: 434px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_23 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_23_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_23_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_23_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_23_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_23_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/7.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_23_ZOOM" class="cl-zoom" ><div id="OBJ_23_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_23_ZOOM_IMG" src="images/7.png" onload="CLO['OBJ_23'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_23_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_13" sid="p" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Лигирование фрагментов ДНК" indent="0">
+<frames>
+<frame id="FRAME_14" dur="600" infinite="0">
+<object id="TXT_25" x="178" y="59" w="663" h="36" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 663px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><strong><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;">Лигирование фрагментов ДНК</span></span></strong><span style="font-size:28px;"><strong><span style="font-family:times new roman,times,serif;"><span style="color: rgb(0, 0, 0);"> </span></span></strong></span></p></div>]]>
+</data>
+</object>
+<object id="TXT_26" x="31" y="111" w="279" h="450" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 279px; height: 450px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Чаще всего для молекулярного клонирования недостаточно только ферментов эндонуклеаз рестрикции. Это обусловлено тем, что водородные связи между основаниями липких концов недостаточно прочны, чтобы удержать два фрагмента ДНК. Необходимо устранить разрыв в сахарофосфатном остове ДНК. Это осуществляет фермент ДНК-лигаза бактериофага Т4. Кроме того, ДНК-лигаза позволяет сшивать тупые концы</span></span></p></div>]]>
+</data>
+</object>
+<object id="OBJ_25" x="350" y="106" w="606" h="472" z="102" display="frame" begin="0" type="v_block_005">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_25 .cl-container"><span class="rule-static">width: 606px; height: 472px;</span></div><div class="rule" data-name="#OBJ_25 .cl-box"><span class="rule-static">width: 606px; height: 472px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_25 .cl-box img"><span class="rule-static">width: 606px; height: 472px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_25 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_25_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_25_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_25_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_25_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_25_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/9.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_25_ZOOM" class="cl-zoom" ><div id="OBJ_25_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_25_ZOOM_IMG" src="images/9.png" onload="CLO['OBJ_25'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_25_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
 </data>
 </object>
 <timeline>
@@ -3647,7 +3890,119 @@
 </param>
 <param objectid="OBJ_14">
 <hidden_noimg>Картинка не задана</hidden_noimg>
-<imagefile>images/1.2.png</imagefile>
+<imagefile>images/1.2.jpg</imagefile>
+<bg_color_profile>custom</bg_color_profile>
+<bg_color_custom>#FFFFFF</bg_color_custom>
+<button_color_profile>custom</button_color_profile>
+<button_color_custom>#0080C0</button_color_custom>
+<radius>10</radius>
+<shadow>normal</shadow>
+<tooltip_zoomin>Нажите здесь, чтобы увеличить картинку</tooltip_zoomin>
+<tooltip_close>Нажмите здесь, чтобы закрыть картинку</tooltip_close>
+<hide_onclick>yes</hide_onclick>
+<modal>yes</modal>
+</param>
+<param objectid="OBJ_15">
+<hidden_noimg>Картинка не задана</hidden_noimg>
+<imagefile>images/1.3.png</imagefile>
+<bg_color_profile>custom</bg_color_profile>
+<bg_color_custom>#FFFFFF</bg_color_custom>
+<button_color_profile>custom</button_color_profile>
+<button_color_custom>#0080C0</button_color_custom>
+<radius>10</radius>
+<shadow>normal</shadow>
+<tooltip_zoomin>Нажите здесь, чтобы увеличить картинку</tooltip_zoomin>
+<tooltip_close>Нажмите здесь, чтобы закрыть картинку</tooltip_close>
+<hide_onclick>yes</hide_onclick>
+<modal>yes</modal>
+</param>
+<param objectid="OBJ_19">
+<hidden_noimg>Картинка не задана</hidden_noimg>
+<imagefile>images/2.png</imagefile>
+<bg_color_profile>custom</bg_color_profile>
+<bg_color_custom>#FFFFFF</bg_color_custom>
+<button_color_profile>custom</button_color_profile>
+<button_color_custom>#0080C0</button_color_custom>
+<radius>10</radius>
+<shadow>normal</shadow>
+<tooltip_zoomin>Нажите здесь, чтобы увеличить картинку</tooltip_zoomin>
+<tooltip_close>Нажмите здесь, чтобы закрыть картинку</tooltip_close>
+<hide_onclick>yes</hide_onclick>
+<modal>yes</modal>
+</param>
+<param objectid="OBJ_17">
+<hidden_noimg>Картинка не задана</hidden_noimg>
+<imagefile>images/4.png</imagefile>
+<bg_color_profile>custom</bg_color_profile>
+<bg_color_custom>#FFFFFF</bg_color_custom>
+<button_color_profile>custom</button_color_profile>
+<button_color_custom>#0080C0</button_color_custom>
+<radius>10</radius>
+<shadow>normal</shadow>
+<tooltip_zoomin>Нажите здесь, чтобы увеличить картинку</tooltip_zoomin>
+<tooltip_close>Нажмите здесь, чтобы закрыть картинку</tooltip_close>
+<hide_onclick>yes</hide_onclick>
+<modal>yes</modal>
+</param>
+<param objectid="OBJ_20">
+<hidden_noimg>Картинка не задана</hidden_noimg>
+<imagefile>images/5.png</imagefile>
+<bg_color_profile>custom</bg_color_profile>
+<bg_color_custom>#FFFFFF</bg_color_custom>
+<button_color_profile>custom</button_color_profile>
+<button_color_custom>#0080C0</button_color_custom>
+<radius>10</radius>
+<shadow>normal</shadow>
+<tooltip_zoomin>Нажите здесь, чтобы увеличить картинку</tooltip_zoomin>
+<tooltip_close>Нажмите здесь, чтобы закрыть картинку</tooltip_close>
+<hide_onclick>yes</hide_onclick>
+<modal>yes</modal>
+</param>
+<param objectid="OBJ_21">
+<hidden_noimg>Картинка не задана</hidden_noimg>
+<imagefile>images/6.png</imagefile>
+<bg_color_profile>custom</bg_color_profile>
+<bg_color_custom>#FFFFFF</bg_color_custom>
+<button_color_profile>custom</button_color_profile>
+<button_color_custom>#0080C0</button_color_custom>
+<radius>10</radius>
+<shadow>normal</shadow>
+<tooltip_zoomin>Нажите здесь, чтобы увеличить картинку</tooltip_zoomin>
+<tooltip_close>Нажмите здесь, чтобы закрыть картинку</tooltip_close>
+<hide_onclick>yes</hide_onclick>
+<modal>yes</modal>
+</param>
+<param objectid="OBJ_22">
+<hidden_noimg>Картинка не задана</hidden_noimg>
+<imagefile>images/7.png</imagefile>
+<bg_color_profile>custom</bg_color_profile>
+<bg_color_custom>#FFFFFF</bg_color_custom>
+<button_color_profile>custom</button_color_profile>
+<button_color_custom>#0080C0</button_color_custom>
+<radius>10</radius>
+<shadow>normal</shadow>
+<tooltip_zoomin>Нажите здесь, чтобы увеличить картинку</tooltip_zoomin>
+<tooltip_close>Нажмите здесь, чтобы закрыть картинку</tooltip_close>
+<hide_onclick>yes</hide_onclick>
+<modal>yes</modal>
+</param>
+<param objectid="OBJ_23">
+<hidden_noimg>Картинка не задана</hidden_noimg>
+<imagefile>images/7.png</imagefile>
+<bg_color_profile>custom</bg_color_profile>
+<bg_color_custom>#FFFFFF</bg_color_custom>
+<button_color_profile>custom</button_color_profile>
+<button_color_custom>#0080C0</button_color_custom>
+<radius>10</radius>
+<shadow>normal</shadow>
+<tooltip_zoomin>Нажите здесь, чтобы увеличить картинку</tooltip_zoomin>
+<tooltip_close>Нажмите здесь, чтобы закрыть картинку</tooltip_close>
+<hide_onclick>yes</hide_onclick>
+<modal>yes</modal>
+</param>
+<param objectid="OBJ_25">
+<hidden_noimg>Картинка не задана</hidden_noimg>
+<imagefile>images/9.png</imagefile>
 <bg_color_profile>custom</bg_color_profile>
 <bg_color_custom>#FFFFFF</bg_color_custom>
 <button_color_profile>custom</button_color_profile>
