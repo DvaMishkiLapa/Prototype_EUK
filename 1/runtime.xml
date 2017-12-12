@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Presentation file, saved 12/10/2017 11:01:18 PM using CourseLab 171024 -->
+<!-- Presentation file, saved 12/13/2017 2:14:38 AM using CourseLab 171024 -->
 <module>
 <runtime preview_fullscreen="yes" preview_fitwindow="no" fit_small_window="yes" showsplash="yes" seqslides="no" preloadimages="yes" normalize="no"/>
 <groups>
@@ -954,9 +954,9 @@
 </object>
 <object id="OBJ_32" x="402" y="403" w="214" h="32" z="106" display="none" begin="0" type="form_010_button">
 <data>
-<![CDATA[<div class="cl-wrapper" style="" onmousedown="try { var oEvt = e; } catch(x) { var oEvt = window.event; }; CL.Resp.Process({ leftrespid: 'OBJ_32_1', evt: oEvt });return false;"><div class="cl-audio-files-list" style="display: none"   /><div class="style-custom" style="display: none"  ><div class="rule" data-name="#OBJ_32 .cl-btn"><span class="rule-static">width: 214px; height: 32px; padding: 5px; text-align: center; border-style: solid; border-width: 1px; border-color: #0080C0; background-color: #0080C0; color: #336699; font-family: robotoregular, Arial, Helvetica, sans-serif; font-size:16px;</span><span class="rule-dynamic" data-type="border-radius" data-value="5px" /><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#0080C0|0;#A6E1FF|100" /></div><div class="rule" data-name="#OBJ_32 .cl-btn:hover"><span class="rule-dynamic" data-type="linear-gradient" data-angle="180" data-colors="#0080C0|0;#A6E1FF|100" /></div></div><div class="cl-container unselectable"  ><button id="OBJ_32_BTN" class="cl-btn">Детальные результаты</button></div></div>]]>
+<![CDATA[<div class="cl-wrapper" style="cursor: pointer;" onclick="try { var oEvt = e; } catch(x) { var oEvt = window.event; }; CL.Resp.Process({ respid: 'OBJ_32_1', evt: oEvt });return false;"><div class="cl-audio-files-list" style="display: none"   /><div class="style-custom" style="display: none"  ><div class="rule" data-name="#OBJ_32 .cl-btn"><span class="rule-static">width: 214px; height: 32px; padding: 5px; text-align: center; border-style: solid; border-width: 1px; border-color: #0080C0; background-color: #0080C0; color: #336699; font-family: robotoregular, Arial, Helvetica, sans-serif; font-size:16px;</span><span class="rule-dynamic" data-type="border-radius" data-value="5px" /><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#0080C0|0;#A6E1FF|100" /></div><div class="rule" data-name="#OBJ_32 .cl-btn:hover"><span class="rule-dynamic" data-type="linear-gradient" data-angle="180" data-colors="#0080C0|0;#A6E1FF|100" /></div></div><div class="cl-container unselectable"  ><button id="OBJ_32_BTN" class="cl-btn">Детальные результаты</button></div></div>]]>
 </data>
-<RESPONSE name="OBJ_32_1" event="onmousedown_l" type="link">
+<RESPONSE name="OBJ_32_1" event="onclick" type="link">
 <DISPLAY pid="OBJ_15_result" display="inline" transition="0" fs_dur="" dur="1000">
 </DISPLAY>
 <DISPLAY pid="OBJ_31" display="none" transition="0" fs_dur="" dur="1000">
@@ -9855,7 +9855,7 @@ TAAAAT</span></span></p>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 </q_variants_choice>
-<q_shuffle_choice>yes</q_shuffle_choice>
+<q_shuffle_choice>no</q_shuffle_choice>
 <q_variants_select></q_variants_select>
 <q_shuffle_select>no</q_shuffle_select>
 <q_variants_order></q_variants_order>
@@ -9916,7 +9916,7 @@ TAAAAT</span></span></p>]]></q_variant>
 <test_timer>10</test_timer>
 <test_timer_s>0</test_timer_s>
 <test_q_timer_switch>no</test_q_timer_switch>
-<repeat_test>no</repeat_test>
+<repeat_test>yes</repeat_test>
 <q_showright>no</q_showright>
 <q_fb_switch>no</q_fb_switch>
 <fs_fb></fs_fb>
@@ -10004,9 +10004,9 @@ TAAAAT</span></span></p>]]></q_variant>
 <title_btn_submit>ОТВЕТИТЬ</title_btn_submit>
 <title_btn_next>ДАЛЕЕ</title_btn_next>
 <title_close_fb>Закрыть сообщение</title_close_fb>
-<strings_alerts>3</strings_alerts>
+<strings_alerts>2</strings_alerts>
 <t_continue_alert>Вы уже начинали проходить данный тест. Прохождение будет продолжено с последнего не законченного вопроса.</t_continue_alert>
-<t_browse_alert>Вы уже прошли данный тест. Повторный прохождение запрещено.</t_browse_alert>
+<t_browse_alert>Вы уже прошли данный тест. Повторное прохождение запрещено.</t_browse_alert>
 <t_secondrun_confirm>Вы прошли данный тест. Нажатие кнопки OK позволит Вам пройти его снова. Нажатие Cancel сохранит результаты предыдущего прохода.</t_secondrun_confirm>
 <t_proceed_confirm>Вы не ответили на некоторые вопросы теста. Вернуться к их прохождению?</t_proceed_confirm>
 <q_input_alert>Пожалуйста, вводите только цифры и знаки</q_input_alert>
