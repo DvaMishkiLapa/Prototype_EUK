@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Module file, saved 12/12/2017 12:44:35 PM by artem using CourseLab 171024 -->
+<!-- Module file, saved 12/13/2017 5:07:41 PM by artem using CourseLab 171024 -->
 <module format="3.1 171024" rev="2" slideWidth="1018" slideHeight="682" template="Standard\0004" file="C:\github\Prototype_EUK\3\3.xml">
 <font face="robotoregular, Arial, Helvetica, sans-serif" style="1" size="14" color="#333333"/>
 <default_text></default_text>
@@ -1640,7 +1640,6 @@
 </params>
 </object>
 <object type="div" guid="a3bbe660_191e_4c5f_9739_77c4cd30a967" id="OBJ_15" state_extension="false" left="660" top="200" width="296" height="369" display="frame" begin="0">
-<selectedDialogButton>apply</selectedDialogButton>
 <template>v_block_005</template>
 <design_content><![CDATA[<style >
 		.cl-container { width: 296px; height: 369px; }
@@ -1687,7 +1686,6 @@
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="div" guid="75ea15d3_ff9c_4b15_9d4e_9f6a72460142" id="OBJ_19" state_extension="false" left="204" top="290" width="608" height="307" display="frame" begin="0">
-<selectedDialogButton>apply</selectedDialogButton>
 <template>v_block_005</template>
 <design_content><![CDATA[<style >
 		.cl-container { width: 608px; height: 307px; }
@@ -1795,7 +1793,6 @@
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="div" guid="60d19bd0_4867_47a1_acab_7937d69ec9da" id="OBJ_17" state_extension="false" left="592" top="110" width="315" height="484" display="frame" begin="0">
-<selectedDialogButton>apply</selectedDialogButton>
 <template>v_block_005</template>
 <design_content><![CDATA[<style >
 		.cl-container { width: 315px; height: 484px; }
@@ -1838,7 +1835,6 @@
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="div" guid="cabf2d01_d217_46e3_9d1a_8d758b1b33c6" id="OBJ_20" state_extension="false" left="540" top="183" width="443" height="388" display="frame" begin="0">
-<selectedDialogButton>apply</selectedDialogButton>
 <template>v_block_005</template>
 <design_content><![CDATA[<style >
 		.cl-container { width: 443px; height: 388px; }
@@ -1885,7 +1881,6 @@
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="div" guid="549bcfa0_f405_40c2_9c35_93dd06ec1f19" id="OBJ_21" state_extension="false" left="93" top="110" width="831" height="412" display="frame" begin="0">
-<selectedDialogButton>apply</selectedDialogButton>
 <template>v_block_005</template>
 <design_content><![CDATA[<style >
 		.cl-container { width: 831px; height: 412px; }
@@ -1928,7 +1923,6 @@
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="div" guid="a7c81d75_f9d3_42e1_a09a_dfdd73496f97" id="OBJ_22" state_extension="false" left="180" top="95" width="658" height="434" display="frame" begin="0">
-<selectedDialogButton>apply</selectedDialogButton>
 <template>v_block_005</template>
 <design_content><![CDATA[<style >
 		.cl-container { width: 658px; height: 434px; }
@@ -1966,24 +1960,25 @@
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Комплементарной спаривание липких концов фрагментов ДНК&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="9dfecaaf_d1d6_4561_a7cf_d88901c21269" id="TXT_24" left="34" top="533" width="951" height="59" display="frame" begin="0">
-<content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Схема расщепления короткого фрагмента ДНК эндонуклеазой рестрикции HindII с образованием тупых концов. S &amp;ndash; дезоксирибоза, P &amp;ndash; фосфатная группа, OH &amp;ndash; гидроксильная группа, A,T,G,C &amp;ndash; азотистые основания.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+<object type="iebox" guid="9dfecaaf_d1d6_4561_a7cf_d88901c21269" id="TXT_24" left="34" top="539" width="951" height="59" display="frame" begin="0">
+<content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;После расщепления ДНК эндонуклеазами рестрикции смешивают образцы разных ДНК и благодаря комплементарному спариванию липких концов фрагментов разных образцов могут образовываться новые комбинации генов &amp;ndash; рекомбинантные ДНК.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="div" guid="803c5d40_53f5_4af8_b246_128772f85b49" id="OBJ_23" state_extension="false" left="180" top="95" width="658" height="434" display="frame" begin="0">
+<object type="div" guid="803c5d40_53f5_4af8_b246_128772f85b49" id="OBJ_23" state_extension="false" left="195" top="107" width="628" height="417" display="frame" begin="0">
+<selectedDialogButton>apply</selectedDialogButton>
 <template>v_block_005</template>
 <design_content><![CDATA[<style >
-		.cl-container { width: 658px; height: 434px; }
-		.cl-box { width: 658px; height: 434px; background-color: #FFFFFF; border-radius: 10px; }
-		.cl-box img { width: 658px; height: 434px; border-radius: 10px; }
-		.cl-noimg-table { width: 658px; height: 434px; }
-		.cl-noimg-table td { width: 658px; height: 434px; color: #0080C0; }
+		.cl-container { width: 628px; height: 417px; }
+		.cl-box { width: 628px; height: 417px; background-color: #FFFFFF; border-radius: 10px; }
+		.cl-box img { width: 628px; height: 417px; border-radius: 10px; }
+		.cl-noimg-table { width: 628px; height: 417px; }
+		.cl-noimg-table td { width: 628px; height: 417px; color: #0080C0; }
 		.cl-magnify-svg { fill: #0080C0; }
-	</style><div class="clo-v_block_005" ><div class="cl-container"><div class="cl-box"><img src="C:\github\Prototype_EUK\3\images\7.png" /><div class="cl-btn cl-btn-magnify"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div></div>]]></design_content>
-<export_content><![CDATA[<div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_23 .cl-container"><span class="rule-static">width: 658px; height: 434px;</span></div><div class="rule" data-name="#OBJ_23 .cl-box"><span class="rule-static">width: 658px; height: 434px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_23 .cl-box img"><span class="rule-static">width: 658px; height: 434px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_23 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_23_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_23_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_23_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_23_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_23_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/7.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_23_ZOOM" class="cl-zoom" ><div id="OBJ_23_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_23_ZOOM_IMG" src="images/7.png" onload="CLO['OBJ_23'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_23_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div>]]></export_content>
+	</style><div class="clo-v_block_005" ><div class="cl-container"><div class="cl-box"><img src="C:\github\Prototype_EUK\3\images\8.png" /><div class="cl-btn cl-btn-magnify"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div></div>]]></design_content>
+<export_content><![CDATA[<div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_23 .cl-container"><span class="rule-static">width: 628px; height: 417px;</span></div><div class="rule" data-name="#OBJ_23 .cl-box"><span class="rule-static">width: 628px; height: 417px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_23 .cl-box img"><span class="rule-static">width: 628px; height: 417px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_23 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_23_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_23_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_23_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_23_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_23_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/8.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_23_ZOOM" class="cl-zoom" ><div id="OBJ_23_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_23_ZOOM_IMG" src="images/8.png" onload="CLO['OBJ_23'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_23_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div>]]></export_content>
 <params>
 <hidden_noimg type="edit">Картинка не задана</hidden_noimg>
-<imagefile type="file">images/7.png</imagefile>
+<imagefile type="file">images/8.png</imagefile>
 <bg_color_profile type="select">custom</bg_color_profile>
 <bg_color_custom type="color">#FFFFFF</bg_color_custom>
 <button_color_profile type="select">custom</button_color_profile>
@@ -2013,7 +2008,6 @@
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="div" guid="5bae8c16_2c78_4f33_8294_ac10ae468c7d" id="OBJ_25" state_extension="false" left="350" top="106" width="606" height="472" display="frame" begin="0">
-<selectedDialogButton>apply</selectedDialogButton>
 <template>v_block_005</template>
 <design_content><![CDATA[<style >
 		.cl-container { width: 606px; height: 472px; }
