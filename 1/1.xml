@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Module file, saved 12/13/2017 2:14:37 AM by artem using CourseLab 171024 -->
+<!-- Module file, saved 12/13/2017 4:52:18 PM by artem using CourseLab 171024 -->
 <module format="3.1 171024" rev="2" slideWidth="1018" slideHeight="682" template="Standard\0004" file="C:\github\Prototype_EUK\1\1.xml">
 <font face="Calibri" style="1" size="18" color="#000000"/>
 <default_text></default_text>
@@ -59,7 +59,6 @@
 <src>images\RUSNANO_FUND_logo_rus.jpg</src>
 </object>
 <object type="div" guid="6e983c6d_edb6_4549_b9f2_0ec2d8262b7d" id="EM3_TTL_BTN" state_extension="false" left="410" top="606" width="200" height="50" display="frame" begin="0">
-<selectedDialogButton>cancel</selectedDialogButton>
 <template>splash_button_go</template>
 <design_content><![CDATA[<style >
 		.cl-btn { position: relative; left: 0; top: 0; box-sizing: border-box; width: 200px; height: 50px; }
@@ -1454,7 +1453,6 @@
 </params>
 </object>
 <object type="div" guid="57455250_682b_449a_ad39_9b33c7ad9e27" id="OBJ_7" state_extension="false" left="49" top="624" width="50" height="50" display="frame" begin="0">
-<selectedDialogButton>cancel</selectedDialogButton>
 <default_color_bg>bg_color</default_color_bg>
 <default_color_border>border_color</default_color_border>
 <template>nav_0000_btn_toggle</template>
@@ -3461,7 +3459,7 @@ TAAAAT&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
 <test_timer type="spinner">10</test_timer>
 <test_timer_s type="spinner">0</test_timer_s>
 <test_q_timer_switch type="check">no</test_q_timer_switch>
-<repeat_test type="check">yes</repeat_test>
+<repeat_test type="check">no</repeat_test>
 <q_showright type="check">no</q_showright>
 <q_fb_switch type="check">no</q_fb_switch>
 <fs_fb type="fieldset"></fs_fb>
@@ -3994,7 +3992,6 @@ TAAAAT&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
 </params>
 </object>
 <object type="div" guid="4f9d2896_f414_4fd8_82de_4e4504b70cc2" id="OBJ_30" left="469" top="540" width="81" height="30" display="frame" begin="0">
-<selectedDialogButton>cancel</selectedDialogButton>
 <default_color_bg>bg_color</default_color_bg>
 <default_color_border>border_color</default_color_border>
 <template>form_010_button</template>
@@ -4086,7 +4083,6 @@ TAAAAT&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
 </params>
 </object>
 <object type="div" guid="95f02a1e_3233_4578_a190_27992dd49206" id="OBJ_32" left="402" top="403" width="214" height="32" display="none" begin="0">
-<selectedDialogButton>cancel</selectedDialogButton>
 <default_color_bg>bg_color</default_color_bg>
 <default_color_border>border_color</default_color_border>
 <template>form_010_button</template>

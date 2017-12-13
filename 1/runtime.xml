@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Presentation file, saved 12/13/2017 2:14:38 AM using CourseLab 171024 -->
+<!-- Presentation file, saved 12/13/2017 4:52:18 PM using CourseLab 171024 -->
 <module>
 <runtime preview_fullscreen="yes" preview_fitwindow="no" fit_small_window="yes" showsplash="yes" seqslides="no" preloadimages="yes" normalize="no"/>
 <groups>
@@ -9916,7 +9916,7 @@ TAAAAT</span></span></p>]]></q_variant>
 <test_timer>10</test_timer>
 <test_timer_s>0</test_timer_s>
 <test_q_timer_switch>no</test_q_timer_switch>
-<repeat_test>yes</repeat_test>
+<repeat_test>no</repeat_test>
 <q_showright>no</q_showright>
 <q_fb_switch>no</q_fb_switch>
 <fs_fb></fs_fb>
