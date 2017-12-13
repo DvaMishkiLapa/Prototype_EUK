@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Module file, saved 12/13/2017 9:50:51 PM by artem using CourseLab 171024 -->
+<!-- Module file, saved 12/13/2017 11:50:47 PM by artem using CourseLab 171024 -->
 <module format="3.1 171024" rev="2" slideWidth="1018" slideHeight="682" template="Standard\0004" file="C:\github\Prototype_EUK\1\1.xml">
 <font face="Calibri" style="1" size="18" color="#000000"/>
 <default_text></default_text>
@@ -1559,7 +1559,7 @@
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="iebox" guid="2e234aaf_ba36_4096_85dd_15d7be16a224" id="TXT_8" left="451" top="366" width="502" height="125" display="frame" begin="0">
-<content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Пурины комплементарны пиримидинам (способны к образованию водородных связей): аденин образует связи только с тимином, а цитозин &amp;mdash; с гуанином. В двойной спирали цепочки также связаны с помощью гидрофобных взаимодействий и стэкинга&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+<content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Пурины комплементарны пиримидинам (способны к образованию водородных связей): аденин образует связи только с тимином, а цитозин &amp;mdash; с гуанином. В двойной спирали цепочки также связаны с помощью гидрофобных взаимодействий и стэкинга.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="iebox" guid="02f8c996_c1ac_41d1_b924_5fd562ad16b0" id="TXT_9" left="107" top="559" width="201" height="38" display="frame" begin="0">
@@ -1605,7 +1605,7 @@
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="iebox" guid="2e91b69c_8c06_4d26_93ab_a158cbbf1095" id="TXT_12" left="529" top="157" width="454" height="137" display="frame" begin="0">
-<content><![CDATA[<ietext><text>&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;strong&gt;Трансляция&lt;/strong&gt;&amp;nbsp;&amp;nbsp;&amp;mdash;процесс&amp;nbsp;синтеза&amp;nbsp;белка&amp;nbsp;из&amp;nbsp;аминокислот&amp;nbsp;на матрице&amp;nbsp;информационной (матричной) РНК&amp;nbsp;(иРНК, мРНК), осуществляемый&amp;nbsp;рибосомой. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+<content><![CDATA[<ietext><text>&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;&lt;strong&gt;Трансляция&lt;/strong&gt;&amp;nbsp;&amp;nbsp;&amp;mdash; процесс&amp;nbsp;синтеза&amp;nbsp;белка&amp;nbsp;из&amp;nbsp;аминокислот&amp;nbsp;на матрице&amp;nbsp;информационной (матричной) РНК&amp;nbsp;(иРНК, мРНК), осуществляемый&amp;nbsp;рибосомой. &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="iebox" guid="a2feb7c0_7787_4897_97e7_98fab91db1d5" id="TXT_13" left="531" top="327" width="461" height="154" display="frame" begin="0">
@@ -1749,7 +1749,6 @@
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="div" guid="bd9c9dca_69ee_47d0_ba22_04fa39773c0e" id="OBJ_19" state_extension="false" left="583" top="150" width="409" height="315" display="frame" begin="0">
-<selectedDialogButton>apply</selectedDialogButton>
 <template>v_block_005</template>
 <design_content><![CDATA[<style >
 		.cl-container { width: 409px; height: 315px; }
@@ -1946,7 +1945,7 @@
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="iebox" guid="7b22cd61_1f77_42a2_bb73_615b6a9060ce" id="TXT_43" left="75" top="98" width="868" height="118" display="frame" begin="0">
-<content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;u&gt;Обратная транскриптаза, или ревертаза &lt;/u&gt;(reverse transcriptase, [лат. transcriptio &amp;mdash; переписывание]) - фермент РНК-зависимая ДНК-полимераза, с помощью которого осуществляется обратная транскрипция - синтез ДНК на матрице РНК.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+<content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;u&gt;Обратная транскриптаза, или ревертаза&lt;/u&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &#39;times new roman&#39;, times, serif; font-size: 18px; font-style: normal; font-variant: normal; line-height: 21.600000381469727px; text-align: justify;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;(reverse transcriptase, [лат. transcriptio &amp;mdash; переписывание]) - фермент РНК-зависимая ДНК-полимераза, с помощью которого осуществляется обратная транскрипция - синтез ДНК на матрице РНК.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Так же, как и ДНК-полимеразы, функционируют только при наличии затравки.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
@@ -2212,7 +2211,7 @@
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="iebox" guid="4d038ae6_8dfb_4baf_9940_ce09b1293876" id="TXT_67" left="74" top="96" width="868" height="323" display="frame" begin="0">
-<content><![CDATA[<ietext><text>&lt;div style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;1.&amp;nbsp;&lt;span style=&quot;font-style: italic;&quot;&gt;Бактериальные &lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;плазмиды&lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt; (&lt;/span&gt;небольшие кольцевидные двухцепочечные молекулы ДНК, способные удваиваться независимо от хромосомы хозяина&lt;span style=&quot;font-style: italic;&quot;&gt;).&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+<content><![CDATA[<ietext><text>&lt;div style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;1.&amp;nbsp;&lt;span style=&quot;font-style: italic;&quot;&gt;Бактериальные &lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;плазмиды&lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &#39;times new roman&#39;, times, serif; font-size: 18px; font-style: normal; font-variant: normal; line-height: 21.600000381469727px; text-indent: -36.47999954223633px;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;небольшие кольцевидные двухцепочечные молекулы ДНК, способные удваиваться независимо от хромосомы хозяина)&lt;span style=&quot;font-style: italic;&quot;&gt;.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
 
 &lt;div style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; direction: ltr; word-break: normal;&quot;&gt;&lt;br /&gt;
 &lt;!--[endif]--&gt;&lt;/div&gt;
@@ -2222,12 +2221,12 @@
 &lt;div style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; direction: ltr; word-break: normal;&quot;&gt;&lt;br /&gt;
 &lt;!--[endif]--&gt;&lt;/div&gt;
 
-&lt;div style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;3.&amp;nbsp;&lt;span style=&quot;font-style: italic;&quot;&gt;Космиды&lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt; (&lt;/span&gt;плазмидные вектора, в которые встроен участок генома фага &amp;lambda;, обеспечивающий возможность упаковки этой молекулы ДНК в фаговую частицу. Фаговые частицы обеспечивают хорошее проникновение гибридной ДНК в клетку (путем инъекции), после чего происходит замыкание ДНК в кольцо по липким концам и репликация ее по плазмидному типу&lt;span style=&quot;font-style: italic;&quot;&gt;)&lt;/span&gt; . &lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;3.&amp;nbsp;&lt;span style=&quot;font-style: italic;&quot;&gt;Космиды&lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &#39;times new roman&#39;, times, serif; font-size: 18px; font-style: normal; font-variant: normal; line-height: 21.600000381469727px; text-indent: -36.47999954223633px;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;плазмидные вектора, в которые встроен участок генома фага &amp;lambda;, обеспечивающий возможность упаковки этой молекулы ДНК в фаговую частицу. Фаговые частицы обеспечивают хорошее проникновение гибридной ДНК в клетку (путем инъекции), после чего происходит замыкание ДНК в кольцо по липким концам и репликация ее по плазмидному типу).&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
 
 &lt;div style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; direction: ltr; word-break: normal;&quot;&gt;&lt;br /&gt;
 &lt;!--[endif]--&gt;&lt;/div&gt;
 
-&lt;div style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;4.&amp;nbsp;&lt;span style=&quot;font-style: italic;&quot;&gt;Вироиды&lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt; (&lt;/span&gt;инфекционные&amp;nbsp;агенты, состоящие только из кольцевой&amp;nbsp;РНК&lt;span style=&quot;font-style: italic;&quot;&gt;) .&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;4.&amp;nbsp;&lt;span style=&quot;font-style: italic;&quot;&gt;Вироиды&lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &#39;times new roman&#39;, times, serif; font-size: 18px; font-style: normal; font-variant: normal; line-height: 21.600000381469727px; text-indent: -36.47999954223633px;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;инфекционные&amp;nbsp;агенты, состоящие только из кольцевой&amp;nbsp;РНК).&lt;span style=&quot;font-style: italic;&quot;&gt;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
 </objects>
@@ -2505,7 +2504,6 @@
 <subslide guid="be5499ed_199b_4e73_9afe_ffaf21732b03" id="FRAME_29" dur="0">
 <objects>
 <object type="div" guid="2c2f53e8_b29d_4692_8b5f_ec6a5acf7a2a" id="OBJ_13" state_extension="false" left="43" top="85" width="932" height="489" display="frame" begin="0">
-<selectedDialogButton>apply</selectedDialogButton>
 <default_text>text_main</default_text>
 <default_color_bg>bg_color</default_color_bg>
 <default_color_border>border_color</default_color_border>
@@ -3901,7 +3899,8 @@ TAAAAT&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
 <text_constant_question type="edit">Вопрос неоцениваемый</text_constant_question>
 </params>
 </object>
-<object type="div" guid="f800bc43_83f3_4a84_9eec_7f94c2666cf4" id="OBJ_29" left="31" top="73" width="956" height="514" display="frame" begin="0">
+<object type="div" guid="f800bc43_83f3_4a84_9eec_7f94c2666cf4" id="OBJ_29" left="31" top="73" width="956" height="514" display="none" begin="0">
+<selectedDialogButton>cancel</selectedDialogButton>
 <default_text>text_main</default_text>
 <default_color_bg>bg_color</default_color_bg>
 <default_color_border>border_color</default_color_border>
@@ -3992,7 +3991,7 @@ TAAAAT&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
 <sound_click_file_custom type="file"></sound_click_file_custom>
 </params>
 </object>
-<object type="div" guid="4f9d2896_f414_4fd8_82de_4e4504b70cc2" id="OBJ_30" left="469" top="540" width="81" height="30" display="frame" begin="0">
+<object type="div" guid="4f9d2896_f414_4fd8_82de_4e4504b70cc2" id="OBJ_30" left="469" top="540" width="81" height="30" display="none" begin="0">
 <default_color_bg>bg_color</default_color_bg>
 <default_color_border>border_color</default_color_border>
 <template>form_010_button</template>
@@ -4124,6 +4123,18 @@ TAAAAT&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
 </objects>
 </subslide>
 </subslides>
+<events>
+<ondisplay id="SLIDE_27_1" type="actions">
+<IF type="completion" fs_expression="" if="" fs_confirm="" confirm="" fs_drop="" objectid="" fs_objective="" pid="total" fs_cs="" cs="c" fs_ss="" ss="p" fs_score="" oid="" condition="lt" score=""/>
+<DISPLAY _indent="1" pid="OBJ_15_result" display="inline" transition="0" fs_dur="" dur="1000"/>
+<IF type="completion" fs_expression="" if="" fs_confirm="" confirm="" fs_drop="" objectid="" fs_objective="" pid="total" fs_cs="" cs="c" fs_ss="" ss="p" fs_score="" oid="" condition="lt" score=""/>
+<DISPLAY _indent="1" pid="OBJ_29" display="none" transition="0" fs_dur="" dur="1000"/>
+<DISPLAY _indent="1" pid="OBJ_30" display="none" transition="0" fs_dur="" dur="1000"/>
+<ELSE _indent="1"/>
+<DISPLAY _indent="2" pid="OBJ_29" display="inline" transition="0" fs_dur="" dur="1000"/>
+<DISPLAY _indent="2" pid="OBJ_30" display="inline" transition="0" fs_dur="" dur="1000"/>
+</ondisplay>
+</events>
 </slide>
 </slides>
 <objectives>

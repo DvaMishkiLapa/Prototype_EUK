@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Presentation file, saved 12/13/2017 9:50:51 PM using CourseLab 171024 -->
+<!-- Presentation file, saved 12/13/2017 11:50:48 PM using CourseLab 171024 -->
 <module>
 <runtime preview_fullscreen="yes" preview_fitwindow="no" fit_small_window="yes" showsplash="yes" seqslides="no" preloadimages="yes" normalize="no"/>
 <groups>
@@ -29,7 +29,7 @@
 </object>
 <object id="TXT_8" x="451" y="366" w="502" h="125" z="103" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 502px; height: 125px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Пурины комплементарны пиримидинам (способны к образованию водородных связей): аденин образует связи только с тимином, а цитозин &mdash; с гуанином. В двойной спирали цепочки также связаны с помощью гидрофобных взаимодействий и стэкинга</span></span></p></div>]]>
+<![CDATA[<div style="width: 502px; height: 125px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Пурины комплементарны пиримидинам (способны к образованию водородных связей): аденин образует связи только с тимином, а цитозин &mdash; с гуанином. В двойной спирали цепочки также связаны с помощью гидрофобных взаимодействий и стэкинга.</span></span></p></div>]]>
 </data>
 </object>
 <object id="TXT_9" x="107" y="559" w="201" h="38" z="104" display="frame" begin="0">
@@ -57,7 +57,7 @@
 </object>
 <object id="TXT_12" x="529" y="157" w="454" h="137" z="101" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 454px; height: 137px; box-sizing: border-box;"><p><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="color: rgb(0, 0, 0);"><strong>Трансляция</strong>&nbsp;&nbsp;&mdash;процесс&nbsp;синтеза&nbsp;белка&nbsp;из&nbsp;аминокислот&nbsp;на матрице&nbsp;информационной (матричной) РНК&nbsp;(иРНК, мРНК), осуществляемый&nbsp;рибосомой. </span></span></span></p></div>]]>
+<![CDATA[<div style="width: 454px; height: 137px; box-sizing: border-box;"><p><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="color: rgb(0, 0, 0);"><strong>Трансляция</strong>&nbsp;&nbsp;&mdash; процесс&nbsp;синтеза&nbsp;белка&nbsp;из&nbsp;аминокислот&nbsp;на матрице&nbsp;информационной (матричной) РНК&nbsp;(иРНК, мРНК), осуществляемый&nbsp;рибосомой. </span></span></span></p></div>]]>
 </data>
 </object>
 <object id="TXT_13" x="531" y="327" w="461" h="154" z="102" display="frame" begin="0">
@@ -322,7 +322,7 @@
 </object>
 <object id="TXT_43" x="75" y="98" w="868" h="118" z="101" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 868px; height: 118px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><u>Обратная транскриптаза, или ревертаза </u>(reverse transcriptase, [лат. transcriptio &mdash; переписывание]) - фермент РНК-зависимая ДНК-полимераза, с помощью которого осуществляется обратная транскрипция - синтез ДНК на матрице РНК.</span></span></p>
+<![CDATA[<div style="width: 868px; height: 118px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><u>Обратная транскриптаза, или ревертаза</u></span></span><span style="font-family: 'times new roman', times, serif; font-size: 18px; font-style: normal; font-variant: normal; line-height: 21.600000381469727px; text-align: justify;">&nbsp;</span><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">(reverse transcriptase, [лат. transcriptio &mdash; переписывание]) - фермент РНК-зависимая ДНК-полимераза, с помощью которого осуществляется обратная транскрипция - синтез ДНК на матрице РНК.</span></span></p>
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Так же, как и ДНК-полимеразы, функционируют только при наличии затравки.</span></span></p></div>]]>
 </data>
@@ -570,7 +570,7 @@
 </object>
 <object id="TXT_67" x="74" y="96" w="868" h="323" z="101" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 868px; height: 323px; box-sizing: border-box;"><div style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">1.&nbsp;<span style="font-style: italic;">Бактериальные </span><span style="font-style: italic;">плазмиды</span><span style="font-style: italic;"> (</span>небольшие кольцевидные двухцепочечные молекулы ДНК, способные удваиваться независимо от хромосомы хозяина<span style="font-style: italic;">).</span></span></span></div>
+<![CDATA[<div style="width: 868px; height: 323px; box-sizing: border-box;"><div style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">1.&nbsp;<span style="font-style: italic;">Бактериальные </span><span style="font-style: italic;">плазмиды</span><span style="font-style: italic;"> </span></span></span><span style="font-family: 'times new roman', times, serif; font-size: 18px; font-style: normal; font-variant: normal; line-height: 21.600000381469727px; text-indent: -36.47999954223633px;">(</span><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">небольшие кольцевидные двухцепочечные молекулы ДНК, способные удваиваться независимо от хромосомы хозяина)<span style="font-style: italic;">.</span></span></span></div>
 
 <div style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; direction: ltr; word-break: normal;"><br />
 <!--[endif]--></div>
@@ -580,12 +580,12 @@
 <div style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; direction: ltr; word-break: normal;"><br />
 <!--[endif]--></div>
 
-<div style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">3.&nbsp;<span style="font-style: italic;">Космиды</span><span style="font-style: italic;"> (</span>плазмидные вектора, в которые встроен участок генома фага &lambda;, обеспечивающий возможность упаковки этой молекулы ДНК в фаговую частицу. Фаговые частицы обеспечивают хорошее проникновение гибридной ДНК в клетку (путем инъекции), после чего происходит замыкание ДНК в кольцо по липким концам и репликация ее по плазмидному типу<span style="font-style: italic;">)</span> . </span></span></div>
+<div style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">3.&nbsp;<span style="font-style: italic;">Космиды</span><span style="font-style: italic;"> </span></span></span><span style="font-family: 'times new roman', times, serif; font-size: 18px; font-style: normal; font-variant: normal; line-height: 21.600000381469727px; text-indent: -36.47999954223633px;">(</span><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">плазмидные вектора, в которые встроен участок генома фага &lambda;, обеспечивающий возможность упаковки этой молекулы ДНК в фаговую частицу. Фаговые частицы обеспечивают хорошее проникновение гибридной ДНК в клетку (путем инъекции), после чего происходит замыкание ДНК в кольцо по липким концам и репликация ее по плазмидному типу).</span></span></div>
 
 <div style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; direction: ltr; word-break: normal;"><br />
 <!--[endif]--></div>
 
-<div style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">4.&nbsp;<span style="font-style: italic;">Вироиды</span><span style="font-style: italic;"> (</span>инфекционные&nbsp;агенты, состоящие только из кольцевой&nbsp;РНК<span style="font-style: italic;">) .&nbsp;</span></span></span></div></div>]]>
+<div style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">4.&nbsp;<span style="font-style: italic;">Вироиды</span><span style="font-style: italic;"> </span></span></span><span style="font-family: 'times new roman', times, serif; font-size: 18px; font-style: normal; font-variant: normal; line-height: 21.600000381469727px; text-indent: -36.47999954223633px;">(</span><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">инфекционные&nbsp;агенты, состоящие только из кольцевой&nbsp;РНК).<span style="font-style: italic;">&nbsp;</span></span></span></div></div>]]>
 </data>
 </object>
 <timeline>
@@ -793,6 +793,24 @@
 </frames>
 </slide>
 <slide id="SLIDE_27" sid="G" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Тестирование по Разделу 1" indent="0">
+<RESPONSE name="SLIDE_27_1" event="ondisplay" type="link">
+<IF type="completion" fs_expression="" if="" fs_confirm="" confirm="" fs_drop="" objectid="" fs_objective="" pid="total" fs_cs="" cs="c" fs_ss="" ss="p" fs_score="" oid="" condition="lt" score="">
+<DISPLAY pid="OBJ_15_result" display="inline" transition="0" fs_dur="" dur="1000">
+</DISPLAY>
+</IF>
+<IF type="completion" fs_expression="" if="" fs_confirm="" confirm="" fs_drop="" objectid="" fs_objective="" pid="total" fs_cs="" cs="c" fs_ss="" ss="p" fs_score="" oid="" condition="lt" score="">
+<DISPLAY pid="OBJ_29" display="none" transition="0" fs_dur="" dur="1000">
+</DISPLAY>
+<DISPLAY pid="OBJ_30" display="none" transition="0" fs_dur="" dur="1000">
+</DISPLAY>
+<ELSE>
+<DISPLAY pid="OBJ_29" display="inline" transition="0" fs_dur="" dur="1000">
+</DISPLAY>
+<DISPLAY pid="OBJ_30" display="inline" transition="0" fs_dur="" dur="1000">
+</DISPLAY>
+</ELSE>
+</IF>
+</RESPONSE>
 <frames>
 <frame id="FRAME_29" dur="0" infinite="0">
 <object id="OBJ_13" x="43" y="85" w="932" h="489" z="100" display="frame" begin="0" type="q_0001">
@@ -919,7 +937,7 @@
 									</div></div></div></div><div class="cl-template-storage"><div class="cl-results-t-template cl-results-parent"><div class="cl-results-t-header"><table class="cl-results-header-table"><tr><td class="cl-results-header-switch-cell"><div class="cl-switch"><svg class="cl-switch" width="20" height="20" viewBox="0 0 48 48"><g class="cl-switch-group"><path class="cl-switch-path-circle" d="M24,0C10.745,0,0,10.746,0,24c0,13.255,10.745,24,24,24s24-10.744,24-24C48,10.746,37.255,0,24,0z M24.029,43.844c-11.023,0-19.959-8.936-19.959-19.958S13.006,3.926,24.029,3.926c11.022,0,19.959,8.936,19.959,19.959 S35.052,43.844,24.029,43.844z" /><path class="cl-switch-path-plus" d="M32.56,21.902h-6.458l0.008-6.576c-0.026-0.454-0.221-1.354-1.331-1.356L23.2,13.968 c-1.181-0.001-1.282,1.165-1.288,1.47l-0.008,6.463h-6.607c-1.22,0-1.323,0.941-1.328,1.21v1.809 c0.006,0.247,0.107,1.178,1.328,1.178h6.602l-0.008,6.602c-0.002,1.219,0.939,1.324,1.209,1.33l1.809,0.002 c0.247-0.006,1.178-0.107,1.18-1.326l0.008-6.607h6.581c0.454-0.027,1.354-0.223,1.354-1.333v-1.578 C34.031,22.007,32.865,21.908,32.56,21.902z" /><path class="cl-switch-path-minus" d="M32.677,26.099c0.454-0.027,1.354-0.223,1.354-1.333v-1.578c0-1.181-1.166-1.28-1.472-1.286H15.297 c-1.22,0-1.323,0.941-1.328,1.21v1.809c0.006,0.247,0.108,1.178,1.328,1.178H32.677z" /></g></svg></div></td><td class="cl-results-header-title">Пример заголовка вопроса</td><td class="cl-results-na">Еще не пройден</td></tr></table></div><div class="cl-results-contents cl-results-t-contents" /></div><div class="cl-results-q-template cl-results-parent"><div class="cl-results-header"><table class="cl-results-header-table"><tr><td class="cl-results-header-switch-cell"><div class="cl-switch"><svg class="cl-switch" width="20" height="20" viewBox="0 0 48 48"><g class="cl-switch-group"><path class="cl-switch-path-circle" d="M24,0C10.745,0,0,10.746,0,24c0,13.255,10.745,24,24,24s24-10.744,24-24C48,10.746,37.255,0,24,0z M24.029,43.844c-11.023,0-19.959-8.936-19.959-19.958S13.006,3.926,24.029,3.926c11.022,0,19.959,8.936,19.959,19.959 S35.052,43.844,24.029,43.844z" /><path class="cl-switch-path-plus" d="M32.56,21.902h-6.458l0.008-6.576c-0.026-0.454-0.221-1.354-1.331-1.356L23.2,13.968 c-1.181-0.001-1.282,1.165-1.288,1.47l-0.008,6.463h-6.607c-1.22,0-1.323,0.941-1.328,1.21v1.809 c0.006,0.247,0.107,1.178,1.328,1.178h6.602l-0.008,6.602c-0.002,1.219,0.939,1.324,1.209,1.33l1.809,0.002 c0.247-0.006,1.178-0.107,1.18-1.326l0.008-6.607h6.581c0.454-0.027,1.354-0.223,1.354-1.333v-1.578 C34.031,22.007,32.865,21.908,32.56,21.902z" /><path class="cl-switch-path-minus" d="M32.677,26.099c0.454-0.027,1.354-0.223,1.354-1.333v-1.578c0-1.181-1.166-1.28-1.472-1.286H15.297 c-1.22,0-1.323,0.941-1.328,1.21v1.809c0.006,0.247,0.108,1.178,1.328,1.178H32.677z" /></g></svg></div></td><td class="cl-results-header-title">Пример заголовка вопроса</td><td class="cl-results-na">Еще не пройден</td></tr></table></div><div class="cl-results-contents"><div class="cl-results-q-text">Пример текста вопроса</div><div class="cl-results-variants cl-results-parent"><div class="cl-variants-header"><table class="cl-results-header-table"><tr><td class="cl-results-header-switch-cell"><div class="cl-switch"><svg class="cl-switch" width="20" height="20" viewBox="0 0 48 48"><g class="cl-switch-group"><path class="cl-switch-path-circle" d="M24,0C10.745,0,0,10.746,0,24c0,13.255,10.745,24,24,24s24-10.744,24-24C48,10.746,37.255,0,24,0z M24.029,43.844c-11.023,0-19.959-8.936-19.959-19.958S13.006,3.926,24.029,3.926c11.022,0,19.959,8.936,19.959,19.959 S35.052,43.844,24.029,43.844z" /><path class="cl-switch-path-plus" d="M32.56,21.902h-6.458l0.008-6.576c-0.026-0.454-0.221-1.354-1.331-1.356L23.2,13.968 c-1.181-0.001-1.282,1.165-1.288,1.47l-0.008,6.463h-6.607c-1.22,0-1.323,0.941-1.328,1.21v1.809 c0.006,0.247,0.107,1.178,1.328,1.178h6.602l-0.008,6.602c-0.002,1.219,0.939,1.324,1.209,1.33l1.809,0.002 c0.247-0.006,1.178-0.107,1.18-1.326l0.008-6.607h6.581c0.454-0.027,1.354-0.223,1.354-1.333v-1.578 C34.031,22.007,32.865,21.908,32.56,21.902z" /><path class="cl-switch-path-minus" d="M32.677,26.099c0.454-0.027,1.354-0.223,1.354-1.333v-1.578c0-1.181-1.166-1.28-1.472-1.286H15.297 c-1.22,0-1.323,0.941-1.328,1.21v1.809c0.006,0.247,0.108,1.178,1.328,1.178H32.677z" /></g></svg></div></td><td class="cl-results-header-title">Результаты</td></tr></table></div><div class="cl-results-contents" /></div></div></div></div></div></div>]]>
 </data>
 </object>
-<object id="OBJ_29" x="31" y="73" w="956" h="514" z="103" display="frame" begin="0" type="basic_popup">
+<object id="OBJ_29" x="31" y="73" w="956" h="514" z="103" display="none" begin="0" type="basic_popup">
 <data>
 <![CDATA[<div class="cl-wrapper" style=""><div class="cl-audio-files-list" style="display: none"  /><div class="cl-container cl-theme-light unselectable" data-adjuster="43" ><div class="style-custom" data-ie9="1" style="display: none"><div class="rule" data-name="#OBJ_29 .cl-header-box"><span class="rule-dynamic" data-ie9="1" data-type="linear-gradient" data-angle="0" data-colors="#B9DCFF|0;#E8F4FF|100" /></div></div><div class="cl-outer-box  unselectable" style="height: 512px; background-color: #FFFFFF; border-color: #336699; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; -moz-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); -webkit-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); box-shadow: 2px 2px 6px rgba(102,102,102,0.66);"><div class="cl-inner-box"><div class="cl-header-box" style="background-color: #B9DCFF; -moz-border-radius: 4px 4px 0 0; -webkit-border-radius: 4px 4px 0 0; border-radius: 4px 4px 0 0; background-image: -o-linear-gradient(90deg,#B9DCFF 0%,#E8F4FF 100%); background-image: -ms-linear-gradient(90deg,#B9DCFF 0%,#E8F4FF 100%); background-image: -moz-linear-gradient(90deg,#B9DCFF 0%,#E8F4FF 100%); background-image: -webkit-linear-gradient(90deg,#B9DCFF 0%,#E8F4FF 100%); background-image: linear-gradient(0deg,#B9DCFF 0%,#E8F4FF 100%);"><table cellpadding="0" cellspacing="0" border="0" class="cl-header-table"><tr><td class="cl-header-td cl-header-txt-box" style="color: #336699; padding: 10px;"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;"><span style="line-height: 21.600000381469727px;">Правила проведения теста</span></span></span></td></tr></table></div><div class="cl-txt-container" style="border-color: #336699; border-style: solid none none none; border-width: 1px 0 0 0; background-color: #FFFFFF; padding: 20px; -moz-border-radius: 0 0 4px 4px; -webkit-border-radius: 0 0 4px 4px; border-radius: 0 0 4px 4px;"><div class="cl-txt-box" style="overflow-y: auto;"><p align="center"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Прохождение следующего теста имеет ряд правил и ограничений:</span></span></p>
 
@@ -936,7 +954,7 @@
 <p>&nbsp;</p></div></div></div></div></div></div>]]>
 </data>
 </object>
-<object id="OBJ_30" x="469" y="540" w="81" h="30" z="104" display="frame" begin="0" type="form_010_button">
+<object id="OBJ_30" x="469" y="540" w="81" h="30" z="104" display="none" begin="0" type="form_010_button">
 <data>
 <![CDATA[<div class="cl-wrapper" style="cursor: pointer;" onclick="try { var oEvt = e; } catch(x) { var oEvt = window.event; }; CL.Resp.Process({ respid: 'OBJ_30_1', evt: oEvt });return false;"><div class="cl-audio-files-list" style="display: none"   /><div class="style-custom" style="display: none"  ><div class="rule" data-name="#OBJ_30 .cl-btn"><span class="rule-static">width: 81px; height: 30px; padding: 5px; text-align: center; border-style: solid; border-width: 1px; border-color: #0080C0; background-color: #0080C0; color: #336699; font-family: robotoregular, Arial, Helvetica, sans-serif; font-size:16px;</span><span class="rule-dynamic" data-type="border-radius" data-value="5px" /><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#0080C0|0;#A6E1FF|100" /></div><div class="rule" data-name="#OBJ_30 .cl-btn:hover"><span class="rule-dynamic" data-type="linear-gradient" data-angle="180" data-colors="#0080C0|0;#A6E1FF|100" /></div></div><div class="cl-container unselectable"  ><button id="OBJ_30_BTN" class="cl-btn">ОК</button></div></div>]]>
 </data>
