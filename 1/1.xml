@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Module file, saved 12/14/2017 7:36:55 PM by artem using CourseLab 171024 -->
+<!-- Module file, saved 12/14/2017 9:49:58 PM by artem using CourseLab 171024 -->
 <module format="3.1 171024" rev="2" slideWidth="1018" slideHeight="682" template="Standard\0004" file="C:\github\Prototype_EUK\1\1.xml">
 <font face="Calibri" style="1" size="18" color="#000000"/>
 <default_text></default_text>
@@ -1567,7 +1567,6 @@
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="div" guid="98dc69fd_45ea_4327_a381_4a6664ae18ba" id="OBJ_17" state_extension="false" left="49" top="255" width="307" height="270" display="frame" begin="0">
-<selectedDialogButton>apply</selectedDialogButton>
 <template>v_block_005</template>
 <design_content><![CDATA[<style >
 		.cl-container { width: 307px; height: 270px; }
@@ -1618,7 +1617,6 @@
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="div" guid="8d844023_56be_40e8_a2e1_3c1bb3d6de8c" id="OBJ_18" state_extension="false" left="100" top="132" width="250" height="380" display="frame" begin="0">
-<selectedDialogButton>apply</selectedDialogButton>
 <template>v_block_005</template>
 <design_content><![CDATA[<style >
 		.cl-container { width: 250px; height: 380px; }
@@ -1751,7 +1749,6 @@
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="div" guid="bd9c9dca_69ee_47d0_ba22_04fa39773c0e" id="OBJ_19" state_extension="false" left="559" top="184" width="435" height="285" display="frame" begin="0">
-<selectedDialogButton>apply</selectedDialogButton>
 <template>v_block_005</template>
 <design_content><![CDATA[<style >
 		.cl-container { width: 435px; height: 285px; }
@@ -1804,7 +1801,6 @@
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="div" guid="52607b90_c36f_4aa0_b524_0538c8db8136" id="OBJ_20" state_extension="false" left="418" top="288" width="480" height="308" display="frame" begin="0">
-<selectedDialogButton>apply</selectedDialogButton>
 <template>v_block_005</template>
 <design_content><![CDATA[<style >
 		.cl-container { width: 480px; height: 308px; }
@@ -1859,7 +1855,6 @@
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="div" guid="c8b63d9b_386d_4d4c_b767_c53364e00979" id="OBJ_21" state_extension="false" left="541" top="173" width="434" height="299" display="frame" begin="0">
-<selectedDialogButton>apply</selectedDialogButton>
 <template>v_block_005</template>
 <design_content><![CDATA[<style >
 		.cl-container { width: 434px; height: 299px; }
@@ -1908,7 +1903,6 @@
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="div" guid="2d79e5dd_8fa0_4696_b349_28ba662e66af" id="OBJ_22" state_extension="false" left="621" top="136" width="317" height="414" display="frame" begin="0">
-<selectedDialogButton>apply</selectedDialogButton>
 <template>v_block_005</template>
 <design_content><![CDATA[<style >
 		.cl-container { width: 317px; height: 414px; }
@@ -2057,7 +2051,6 @@
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="div" guid="75d8c5c1_d2e3_4d27_9f34_fd2212567378" id="OBJ_23" state_extension="false" left="432" top="259" width="505" height="327" display="frame" begin="0">
-<selectedDialogButton>apply</selectedDialogButton>
 <template>v_block_005</template>
 <design_content><![CDATA[<style >
 		.cl-container { width: 505px; height: 327px; }
@@ -2114,7 +2107,6 @@
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="div" guid="dd6011bf_add1_49c6_ba7c_26c9c8dd2378" id="OBJ_24" state_extension="false" left="484" top="268" width="484" height="340" display="frame" begin="0">
-<selectedDialogButton>apply</selectedDialogButton>
 <template>v_block_005</template>
 <design_content><![CDATA[<style >
 		.cl-container { width: 484px; height: 340px; }
@@ -2153,7 +2145,7 @@
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="iebox" guid="848285e0_7513_4950_b28a_9ade01f90e6c" id="TXT_60" left="74" top="95" width="868" height="85" display="frame" begin="0">
-<content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;u&gt;Клонирующий вектор &lt;/u&gt;&amp;ndash; фрагмент ДНК, обеспечивающий репликацию гиброидной молекулы ДНК в клетке&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+<content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;u&gt;Клонирующий вектор &lt;/u&gt;&amp;ndash; фрагмент ДНК, обеспечивающий репликацию гиброидной молекулы ДНК в клетке.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="iebox" guid="01255a13_af7a_4ab3_bee2_edd18c21192e" id="TXT_62" left="76" top="182" width="866" height="256" display="frame" begin="0">
@@ -2175,7 +2167,7 @@
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="iebox" guid="434ebc60_5979_4f97_a3f6_03900993aa47" id="TXT_61" left="75" top="392" width="868" height="74" display="frame" begin="0">
-<content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Экспрессирующий вектор &amp;ndash; вектор, который обеспечивает экспрессию чужеродных генов в клетках-рцепиентах.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+<content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Экспрессирующий вектор &amp;ndash; вектор, который обеспечивает экспрессию чужеродных генов в клетках-реципиентах.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
 </objects>
@@ -2316,7 +2308,6 @@
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="div" guid="cac14d89_29cb_4416_98b9_5740c6b37afb" id="OBJ_25" state_extension="false" left="648" top="109" width="280" height="417" display="frame" begin="0">
-<selectedDialogButton>apply</selectedDialogButton>
 <template>v_block_005</template>
 <design_content><![CDATA[<style >
 		.cl-container { width: 280px; height: 417px; }
@@ -2357,7 +2348,7 @@
 <object type="iebox" guid="2aeaf7e0_04a1_4014_954c_5638a3284219" id="TXT_74" left="74" top="137" width="868" height="312" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Первый метод секвенирования ДНК, предложенный Ф. Сэнгером и А. Коулсоном в 1975 г, основан на ферментативных реакциях и носит название плюс-минус метод. Данный подход предполагает выделение одноцепочечного фрагмента ДНК, соответствующего исследуемому участку генома. Этот фрагмент используют затем в реакции полимеразного копирования в качестве матрицы, а в качестве праймера &amp;mdash; синтетические олигонуклеотиды или природные субфрагменты, получаемые после гидролиза определенными рестриктазами.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
-&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Метод включает два этапа. Сначала в ограниченных условиях проводят полимеразную реакцию в присутствии всех четырех типов dNTP (один из них мечен по альфа-положению фосфата), получая на выходе набор продуктов неполного копирования матричного фрагмента. Смесь очищают от несвязавшихся дезоксинуклеозидтрифосфатов и делят на восемь частей. После чего в &amp;quot;плюс&amp;quot; системе проводят четыре реакции в присутствии каждого из четырех типов нуклеотидов, а в &amp;quot;минус&amp;quot; системе - в отсутствие каждого из них. В результате, в &amp;quot;минус&amp;quot; системе терминация происходит перед dNTP данного типа, а в &amp;quot;плюс&amp;quot; системе - после него. Полученные таким образом восемь образцов разделяют с помощью электрофореза, &amp;quot;считывают&amp;quot; сигнал и определяли последовательность исходной ДНК.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Метод включает два этапа. Сначала в ограниченных условиях проводят полимеразную реакцию в присутствии всех четырех типов dNTP (один из них мечен по альфа-положению фосфата), получая на выходе набор продуктов неполного копирования матричного фрагмента. Смесь очищают от несвязавшихся дезоксинуклеозидтрифосфатов и делят на восемь частей. После чего в &amp;quot;плюс&amp;quot; системе проводят четыре реакции в присутствии каждого из четырех типов нуклеотидов, а в &amp;quot;минус&amp;quot; системе - в отсутствие каждого из них. В результате, в &amp;quot;минус&amp;quot; системе терминация происходит перед dNTP данного типа, а в &amp;quot;плюс&amp;quot; системе - после него. Полученные таким образом восемь образцов разделяют с помощью электрофореза, &amp;quot;считывают&amp;quot; сигнал и определялют&amp;nbsp;последовательность исходной ДНК.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="iebox" guid="d27eb34b_20c2_4d8e_a904_346e02431b5f" id="TXT_86" left="138" top="97" width="743" height="50" display="frame" begin="0">
@@ -2385,7 +2376,6 @@
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="div" guid="84f6c2f4_de25_4b7d_a0fa_17dfe8cdd656" id="OBJ_26" state_extension="false" left="579" top="98" width="343" height="471" display="frame" begin="0">
-<selectedDialogButton>apply</selectedDialogButton>
 <template>v_block_005</template>
 <design_content><![CDATA[<style >
 		.cl-container { width: 343px; height: 471px; }
@@ -2432,7 +2422,6 @@
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="div" guid="a698c198_55d6_47de_9eb1_78bd9f693891" id="OBJ_27" state_extension="false" left="543" top="106" width="402" height="447" display="frame" begin="0">
-<selectedDialogButton>apply</selectedDialogButton>
 <template>v_block_005</template>
 <design_content><![CDATA[<style >
 		.cl-container { width: 402px; height: 447px; }
@@ -2481,7 +2470,6 @@
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="div" guid="58b088e2_5931_47d0_9bfb_746c9d6d4f73" id="OBJ_28" state_extension="false" left="351" top="268" width="582" height="329" display="frame" begin="0">
-<selectedDialogButton>apply</selectedDialogButton>
 <template>v_block_005</template>
 <design_content><![CDATA[<style >
 		.cl-container { width: 582px; height: 329px; }

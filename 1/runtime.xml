@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Presentation file, saved 12/14/2017 7:36:55 PM using CourseLab 171024 -->
+<!-- Presentation file, saved 12/14/2017 9:49:58 PM using CourseLab 171024 -->
 <module>
 <runtime preview_fullscreen="yes" preview_fitwindow="no" fit_small_window="yes" showsplash="yes" seqslides="no" preloadimages="yes" normalize="no"/>
 <groups>
@@ -497,7 +497,7 @@
 </object>
 <object id="TXT_60" x="74" y="95" w="868" h="85" z="101" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 868px; height: 85px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><u>Клонирующий вектор </u>&ndash; фрагмент ДНК, обеспечивающий репликацию гиброидной молекулы ДНК в клетке&nbsp;</span></span></p></div>]]>
+<![CDATA[<div style="width: 868px; height: 85px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><u>Клонирующий вектор </u>&ndash; фрагмент ДНК, обеспечивающий репликацию гиброидной молекулы ДНК в клетке.</span></span></p></div>]]>
 </data>
 </object>
 <object id="TXT_62" x="76" y="182" w="866" h="256" z="102" display="frame" begin="0">
@@ -521,7 +521,7 @@
 </object>
 <object id="TXT_61" x="75" y="392" w="868" h="74" z="103" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 868px; height: 74px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Экспрессирующий вектор &ndash; вектор, который обеспечивает экспрессию чужеродных генов в клетках-рцепиентах.</span></span></p></div>]]>
+<![CDATA[<div style="width: 868px; height: 74px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Экспрессирующий вектор &ndash; вектор, который обеспечивает экспрессию чужеродных генов в клетках-реципиентах.</span></span></p></div>]]>
 </data>
 </object>
 <timeline>
@@ -693,7 +693,7 @@
 <data>
 <![CDATA[<div style="width: 868px; height: 312px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Первый метод секвенирования ДНК, предложенный Ф. Сэнгером и А. Коулсоном в 1975 г, основан на ферментативных реакциях и носит название плюс-минус метод. Данный подход предполагает выделение одноцепочечного фрагмента ДНК, соответствующего исследуемому участку генома. Этот фрагмент используют затем в реакции полимеразного копирования в качестве матрицы, а в качестве праймера &mdash; синтетические олигонуклеотиды или природные субфрагменты, получаемые после гидролиза определенными рестриктазами.</span></span></p>
 
-<p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Метод включает два этапа. Сначала в ограниченных условиях проводят полимеразную реакцию в присутствии всех четырех типов dNTP (один из них мечен по альфа-положению фосфата), получая на выходе набор продуктов неполного копирования матричного фрагмента. Смесь очищают от несвязавшихся дезоксинуклеозидтрифосфатов и делят на восемь частей. После чего в &quot;плюс&quot; системе проводят четыре реакции в присутствии каждого из четырех типов нуклеотидов, а в &quot;минус&quot; системе - в отсутствие каждого из них. В результате, в &quot;минус&quot; системе терминация происходит перед dNTP данного типа, а в &quot;плюс&quot; системе - после него. Полученные таким образом восемь образцов разделяют с помощью электрофореза, &quot;считывают&quot; сигнал и определяли последовательность исходной ДНК.</span></span></p></div>]]>
+<p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Метод включает два этапа. Сначала в ограниченных условиях проводят полимеразную реакцию в присутствии всех четырех типов dNTP (один из них мечен по альфа-положению фосфата), получая на выходе набор продуктов неполного копирования матричного фрагмента. Смесь очищают от несвязавшихся дезоксинуклеозидтрифосфатов и делят на восемь частей. После чего в &quot;плюс&quot; системе проводят четыре реакции в присутствии каждого из четырех типов нуклеотидов, а в &quot;минус&quot; системе - в отсутствие каждого из них. В результате, в &quot;минус&quot; системе терминация происходит перед dNTP данного типа, а в &quot;плюс&quot; системе - после него. Полученные таким образом восемь образцов разделяют с помощью электрофореза, &quot;считывают&quot; сигнал и определялют&nbsp;последовательность исходной ДНК.</span></span></p></div>]]>
 </data>
 </object>
 <object id="TXT_86" x="138" y="97" w="743" h="50" z="102" display="frame" begin="0">
