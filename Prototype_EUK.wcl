@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Course file, saved 12/13/2017 11:58:57 PM by artem using CourseLab 171024 -->
+<!-- Course file, saved 12/14/2017 7:36:57 PM by artem using CourseLab 171024 -->
 <course3>
-<aicc_code>Genetik_Inzh_prot</aicc_code>
+<aicc_code>Genetik_Inzh012</aicc_code>
 <aicc_name>Прототип ЭУК</aicc_name>
 <aicc_description>null</aicc_description>
 <modules>
@@ -28,7 +28,7 @@
 <module>1</module>
 <zoom>100</zoom>
 <active>true</active>
-<slide>SLIDE_6</slide>
+<slide>SLIDE_4</slide>
 </window>
 </windows>
 </course3>
