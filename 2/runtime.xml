@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Presentation file, saved 12/12/2017 9:04:44 PM using CourseLab 171024 -->
+<!-- Presentation file, saved 12/15/2017 8:09:01 PM using CourseLab 171024 -->
 <module>
 <runtime preview_fullscreen="yes" preview_fitwindow="no" fit_small_window="yes" showsplash="yes" seqslides="no" preloadimages="yes" normalize="no"/>
 <groups>
@@ -41,12 +41,12 @@
 </object>
 <object id="TXT_6" x="49" y="110" w="665" h="58" z="101" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 665px; height: 58px; box-sizing: border-box;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="color: rgb(51, 51, 51);"><strong>1961 г. Москва. V Международный биохимический союз</strong> Была принята современная классификация ферментов </span></span></span></div>]]>
+<![CDATA[<div style="width: 665px; height: 58px; box-sizing: border-box;"><p><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="color: rgb(51, 51, 51);"><strong>1961 г. Москва. V Международный биохимический союз</strong> Была принята современная классификация ферментов:</span></span></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_7" x="48" y="167" w="406" h="225" z="102" display="frame" begin="0">
+<object id="TXT_7" x="48" y="167" w="406" h="167" z="102" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 406px; height: 225px; box-sizing: border-box;"><p><span style="color:#000000;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">I класс &ndash; <strong>Оксидоредуктазы</strong></span></span></span><br />
+<![CDATA[<div style="width: 406px; height: 167px; box-sizing: border-box;"><p><span style="color:#000000;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">I класс &ndash; <strong>Оксидоредуктазы</strong></span></span></span><br />
 <span style="color:#000000;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">II класс &ndash; <strong>Трансферазы</strong></span></span></span><br />
 <span style="color:#000000;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">III класс &ndash; <strong>Гидролазы</strong><br />
 IV класс &ndash; <strong>Лиазы</strong></span></span></span><br />
@@ -56,18 +56,18 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 </object>
 <object id="TXT_8" x="47" y="436" w="378" h="149" z="103" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 378px; height: 149px; box-sizing: border-box;"><p><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="color: rgb(51, 51, 51);">Пример 1</span></span></span></p>
+<![CDATA[<div style="width: 378px; height: 149px; box-sizing: border-box;"><p><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="color: rgb(51, 51, 51);">Пример 1:</span></span></span></p>
 
-<p><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="color: rgb(51, 51, 51);"><strong>Алкогольдегидрогеназа (КФ.1.1.1.1. или EC.1.1.1.1.)</strong> оксидоредуктаза, действует на ОН-группу донора с НАД в качестве акцептора с первым порядковым номером в своем подподклассе </span></span></span></p></div>]]>
+<p><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="color: rgb(51, 51, 51);"><strong>Алкогольдегидрогеназа (КФ.1.1.1.1. или EC.1.1.1.1.)</strong> оксидоредуктаза, действует на ОН-группу донора с НАД в качестве акцептора с первым порядковым номером в своем подподклассе.</span></span></span></p></div>]]>
 </data>
 </object>
 <object id="TXT_9" x="565" y="435" w="378" h="149" z="104" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 378px; height: 149px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Пример 2</span></span></p>
+<![CDATA[<div style="width: 378px; height: 149px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Пример 2:</span></span></p>
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;">&nbsp;</p>
 
-<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><strong>Алкогольдегидрогеназа (КФ.1.1.1.27. или EC.1.1.1.27.)</strong> оксидоредуктаза, действует на ОН-группу донора с НАД в качестве акцептора с порядковым номером 27 в своем подподклассе</span></span></p></div>]]>
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><strong>Алкогольдегидрогеназа (КФ.1.1.1.27. или EC.1.1.1.27.)</strong> оксидоредуктаза, действует на ОН-группу донора с НАД в качестве акцептора с порядковым номером 27 в своем подподклассе.</span></span></p></div>]]>
 </data>
 </object>
 <object id="OBJ_13" x="490" y="212" w="495" h="168" z="105" display="frame" begin="0" type="v_block_005">
@@ -133,7 +133,7 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 <data>
 <![CDATA[<div style="width: 378px; height: 249px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Систематическая название:</span></span></span></p>
 
-<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Алкоголь:НАД-оксидоредуктаза</span></span></p>
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Алкоголь: НАД-оксидоредуктаза</span></span></p>
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Рабочее название: </span></span></span></p>
 
@@ -154,7 +154,7 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 <data>
 <![CDATA[<div style="width: 378px; height: 249px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Систематическое название:</span></span></span></p>
 
-<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Сукцинат:ФАД-оксидоредуктаза</span></span></p>
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Сукцинат: ФАД-оксидоредуктаза</span></span></p>
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Рабочее название: </span></span></span></p>
 
@@ -189,7 +189,7 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 <slide id="SLIDE_9" sid="k" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="II класс – Трансферазы " indent="0">
 <frames>
 <frame id="FRAME_10" dur="0" infinite="0">
-<object id="TXT_16" x="268" y="63" w="485" h="50" z="100" display="frame" begin="0">
+<object id="TXT_16" x="268" y="56" w="485" h="50" z="100" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 485px; height: 50px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">II </span><span style="font-weight: bold;">класс &ndash; </span><span style="font-weight: bold;">Трансферазы</span></span></span><span style="font-size: 28pt; font-family: 'Times New Roman'; font-weight: bold;"> </span><span style="font-size:28px;"><strong><span style="font-family:times new roman,times,serif;"><span style="color: rgb(0, 0, 0);"> </span></span></strong></span></p></div>]]>
 </data>
@@ -219,7 +219,7 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
 
-<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Часто встречается рабочее название трансфераз &ndash; <span style="font-weight: bold;">киназы</span>. Это трансферазы, катализирующие перенос фосфата от АТФ на субстрат</span></span></p></div>]]>
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Часто встречается рабочее название трансфераз &ndash; <span style="font-weight: bold;">киназы</span>. Это трансферазы, катализирующие перенос фосфата от АТФ на субстрат.</span></span></p></div>]]>
 </data>
 </object>
 <object id="OBJ_34" x="413" y="324" w="574" h="175" z="103" display="frame" begin="0" type="v_block_005">
@@ -235,12 +235,22 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 <slide id="SLIDE_10" sid="l" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="III класс – Гидролазы " indent="0">
 <frames>
 <frame id="FRAME_11" dur="0" infinite="0">
-<object id="TXT_19" x="268" y="64" w="485" h="36" z="100" display="frame" begin="0">
+<object id="OBJ_36" x="605" y="181" w="323" h="212" z="100" display="frame" begin="0" type="v_block_005">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_36 .cl-container"><span class="rule-static">width: 323px; height: 212px;</span></div><div class="rule" data-name="#OBJ_36 .cl-box"><span class="rule-static">width: 323px; height: 212px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_36 .cl-box img"><span class="rule-static">width: 323px; height: 212px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_36 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_36_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_36_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_36_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_36_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_36_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/7.2.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_36_ZOOM" class="cl-zoom" ><div id="OBJ_36_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_36_ZOOM_IMG" src="images/7.2.png" onload="CLO['OBJ_36'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_36_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
+</data>
+</object>
+<object id="OBJ_35" x="58" y="182" w="349" h="210" z="101" display="frame" begin="0" type="v_block_005">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_35 .cl-container"><span class="rule-static">width: 349px; height: 210px;</span></div><div class="rule" data-name="#OBJ_35 .cl-box"><span class="rule-static">width: 349px; height: 210px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_35 .cl-box img"><span class="rule-static">width: 349px; height: 210px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_35 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_35_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_35_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_35_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_35_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_35_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/7.1.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_35_ZOOM" class="cl-zoom" ><div id="OBJ_35_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_35_ZOOM_IMG" src="images/7.1.png" onload="CLO['OBJ_35'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_35_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
+</data>
+</object>
+<object id="TXT_19" x="268" y="64" w="485" h="36" z="102" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 485px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">III </span><span style="font-weight: bold;">класс &ndash; Гидролазы&nbsp;</span></span></span><span style="font-size:28px;"><strong><span style="font-family:times new roman,times,serif;"><span style="color: rgb(0, 0, 0);"> </span></span></strong></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_20" x="60" y="409" w="378" h="190" z="101" display="frame" begin="0">
+<object id="TXT_20" x="60" y="409" w="378" h="190" z="103" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 378px; height: 190px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Систематическое название:</span>&nbsp; </span></span></p>
 
@@ -259,7 +269,7 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">КФ</span> 3.2.1.20.</span></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_21" x="578" y="403" w="378" h="203" z="102" display="frame" begin="0">
+<object id="TXT_21" x="578" y="403" w="378" h="203" z="104" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 378px; height: 203px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Систематическое название:&nbsp; </span></span></span></p>
 
@@ -269,7 +279,7 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;">&nbsp;</p>
 
-<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Клас</span>Глутаминаза<span style="font-weight: bold;">с</span><span style="font-weight: bold;">: </span>3. Гидролазы</span></span></p>
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Класс:&nbsp;</span>Глутаминаза<span style="font-weight: bold;">с</span><span style="font-weight: bold;">: </span>3. Гидролазы</span></span></p>
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Подкласс: </span>3.5. Действующие на связи углерод-азот (не пептидные)</span></span></p>
 
@@ -278,14 +288,9 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">КФ </span>3.5.1.2.</span></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_22" x="56" y="115" w="908" h="69" z="103" display="frame" begin="0">
+<object id="TXT_22" x="56" y="115" w="908" h="69" z="105" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 908px; height: 69px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="color: rgb(51, 51, 51);">Осуществляют разрыв внутримолекулярных связей в субстрате (за исключением С-С связей) путем присоединения элементов Н2О. Ввиду сложности многих субстратов у ряда ферментов сохранены тривиальные названия, например, пепсин, трипсин. Коферменты отсутствуют. </span></span></span></p></div>]]>
-</data>
-</object>
-<object id="OBJ_35" x="136" y="186" w="749" h="210" z="104" display="frame" begin="0" type="v_block_005">
-<data>
-<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_35 .cl-container"><span class="rule-static">width: 749px; height: 210px;</span></div><div class="rule" data-name="#OBJ_35 .cl-box"><span class="rule-static">width: 749px; height: 210px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_35 .cl-box img"><span class="rule-static">width: 749px; height: 210px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_35 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_35_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_35_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_35_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_35_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_35_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/7.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_35_ZOOM" class="cl-zoom" ><div id="OBJ_35_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_35_ZOOM_IMG" src="images/7.png" onload="CLO['OBJ_35'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_35_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
 </data>
 </object>
 <timeline>
@@ -345,12 +350,12 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 </object>
 <object id="TXT_26" x="56" y="115" w="908" h="114" z="103" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 908px; height: 114px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Катализируют разрыв С-О, С-С, C-N и других связей, а также обратимые реакции отщепления различных групп негидролитическим путем. Реакции сопровождаются образованием двойной связи или присоединением групп к месту двойной связи. Лиазы являются сложными ферментами. Коферментами служат пиридоксальфосфат, тиаминдифосфат, участвует магний, кобальт</span></span><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="color: rgb(51, 51, 51);"> </span></span></span></p></div>]]>
+<![CDATA[<div style="width: 908px; height: 114px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Катализируют разрыв С-О, С-С, C-N и других связей, а также обратимые реакции отщепления различных групп негидролитическим путем. Реакции сопровождаются образованием двойной связи или присоединением групп к месту двойной связи. Лиазы являются сложными ферментами. Коферментами служат пиридоксальфосфат, тиаминдифосфат, участвует магний, кобальт.</span></span></p></div>]]>
 </data>
 </object>
-<object id="OBJ_38" x="103" y="205" w="816" h="207" z="104" display="frame" begin="0" type="v_block_005">
+<object id="OBJ_38" x="127" y="205" w="767" h="207" z="104" display="frame" begin="0" type="v_block_005">
 <data>
-<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_38 .cl-container"><span class="rule-static">width: 816px; height: 207px;</span></div><div class="rule" data-name="#OBJ_38 .cl-box"><span class="rule-static">width: 816px; height: 207px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_38 .cl-box img"><span class="rule-static">width: 816px; height: 207px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_38 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_38_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_38_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_38_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_38_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_38_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/8.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_38_ZOOM" class="cl-zoom" ><div id="OBJ_38_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_38_ZOOM_IMG" src="images/8.png" onload="CLO['OBJ_38'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_38_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_38 .cl-container"><span class="rule-static">width: 767px; height: 207px;</span></div><div class="rule" data-name="#OBJ_38 .cl-box"><span class="rule-static">width: 767px; height: 207px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_38 .cl-box img"><span class="rule-static">width: 767px; height: 207px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_38 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_38_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_38_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_38_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_38_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_38_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/8.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_38_ZOOM" class="cl-zoom" ><div id="OBJ_38_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_38_ZOOM_IMG" src="images/8.png" onload="CLO['OBJ_38'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_38_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
 </data>
 </object>
 <timeline>
@@ -361,12 +366,22 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 <slide id="SLIDE_12" sid="n" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="V класс – Изомеразы " indent="0">
 <frames>
 <frame id="FRAME_13" dur="0" infinite="0">
-<object id="TXT_27" x="268" y="64" w="485" h="36" z="100" display="frame" begin="0">
+<object id="OBJ_40" x="56" y="240" w="382" h="154" z="100" display="frame" begin="0" type="v_block_005">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_40 .cl-container"><span class="rule-static">width: 382px; height: 154px;</span></div><div class="rule" data-name="#OBJ_40 .cl-box"><span class="rule-static">width: 382px; height: 154px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_40 .cl-box img"><span class="rule-static">width: 382px; height: 154px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_40 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_40_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_40_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_40_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_40_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_40_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/9.1.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_40_ZOOM" class="cl-zoom" ><div id="OBJ_40_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_40_ZOOM_IMG" src="images/9.1.png" onload="CLO['OBJ_40'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_40_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
+</data>
+</object>
+<object id="OBJ_39" x="528" y="225" w="444" h="164" z="101" display="frame" begin="0" type="v_block_005">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_39 .cl-container"><span class="rule-static">width: 444px; height: 164px;</span></div><div class="rule" data-name="#OBJ_39 .cl-box"><span class="rule-static">width: 444px; height: 164px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_39 .cl-box img"><span class="rule-static">width: 444px; height: 164px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_39 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_39_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_39_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_39_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_39_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_39_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/9.2.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_39_ZOOM" class="cl-zoom" ><div id="OBJ_39_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_39_ZOOM_IMG" src="images/9.2.png" onload="CLO['OBJ_39'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_39_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
+</data>
+</object>
+<object id="TXT_27" x="268" y="64" w="485" h="36" z="102" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 485px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">V </span><span style="font-weight: bold;">класс &ndash; </span><span style="font-weight: bold;">Изомеразы</span><span style="font-weight: bold;"> </span></span></span><span style="font-size: 28pt; font-family: 'Times New Roman'; font-weight: bold;"> </span><span style="font-size:28px;"><strong><span style="font-family:times new roman,times,serif;"><span style="color: rgb(0, 0, 0);"> </span></span></strong></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_28" x="55" y="415" w="378" h="180" z="101" display="frame" begin="0">
+<object id="TXT_28" x="55" y="415" w="378" h="180" z="103" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 378px; height: 180px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Систематическое название:</span></span></span></p>
 
@@ -385,7 +400,7 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">КФ</span> 5.1.3.1.</span></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_29" x="573" y="414" w="378" h="180" z="102" display="frame" begin="0">
+<object id="TXT_29" x="573" y="414" w="378" h="180" z="104" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 378px; height: 180px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-family:times new roman,times,serif;"><span style="font-size:18px;"><span style="font-weight: bold;">Систематическое название:</span></span></span></p>
 
@@ -404,20 +419,10 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-family:times new roman,times,serif;"><span style="font-size:18px;"><span style="font-weight: bold;">Кофактор</span><span style="font-weight: bold;">: </span>Глюкозо-1,6-дифосфат</span></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_30" x="56" y="115" w="908" h="138" z="103" display="frame" begin="0">
+<object id="TXT_30" x="56" y="115" w="908" h="138" z="105" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 908px; height: 138px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Катализируют изомерные превращения в пределах одной молекулы. Изомеразы &ndash; сложные ферменты. К их коферментам относятся пиридоксальфосфат, дезоксиаденозилкобаламин, глутатион, фосфаты моносахаридов (глюкозо-1,6-дифосфат) и др.<span style="color: rgb(51, 51, 51);"> </span><br />
 Систематическое название образуется: Субстрат &ndash; [ ] &ndash; реакция, где [ ] &ndash; обозначение, отражающее суть реакции, например, &laquo;номер изменяемого атома углерода&raquo;, изменение &laquo;цис-транс&raquo;, изменение &laquo;кето-енол&raquo;, изменение &laquo;альдозо-кетозо&raquo;.</span></span></p></div>]]>
-</data>
-</object>
-<object id="OBJ_39" x="535" y="236" w="444" h="158" z="104" display="frame" begin="0" type="v_block_005">
-<data>
-<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_39 .cl-container"><span class="rule-static">width: 444px; height: 158px;</span></div><div class="rule" data-name="#OBJ_39 .cl-box"><span class="rule-static">width: 444px; height: 158px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_39 .cl-box img"><span class="rule-static">width: 444px; height: 158px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_39 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_39_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_39_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_39_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_39_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_39_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/9.2.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_39_ZOOM" class="cl-zoom" ><div id="OBJ_39_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_39_ZOOM_IMG" src="images/9.2.png" onload="CLO['OBJ_39'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_39_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
-</data>
-</object>
-<object id="OBJ_40" x="68" y="299" w="320" h="86" z="105" display="frame" begin="0" type="v_block_005">
-<data>
-<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_40 .cl-container"><span class="rule-static">width: 320px; height: 86px;</span></div><div class="rule" data-name="#OBJ_40 .cl-box"><span class="rule-static">width: 320px; height: 86px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_40 .cl-noimg-table"><span class="rule-static">width: 320px; height: 86px;</span></div><div class="rule" data-name="#OBJ_40 .cl-noimg-table td"><span class="rule-static">width: 320px; height: 86px; color: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><table class="cl-noimg-table"><tr><td>Картинка не задана</td></tr></table></div></div><div id="OBJ_40_ZOOM" class="cl-zoom" ><div id="OBJ_40_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_40_ZOOM_IMG" src="" onload="CLO['OBJ_40'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_40_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
 </data>
 </object>
 <timeline>
@@ -478,9 +483,9 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 <![CDATA[<div style="width: 908px; height: 67px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Катализируют присоединение друг к другу двух молекул с использованием энергии высокоэнергетических связей АТФ (или других макроэргов). Сложные ферменты. Они содержат нуклеотидные (УТФ), биотиновые (витамин Н), фолиевые коферменты.</span></span></p></div>]]>
 </data>
 </object>
-<object id="OBJ_41" x="557" y="221" w="399" h="130" z="104" display="frame" begin="0" type="v_block_005">
+<object id="OBJ_41" x="557" y="222" w="399" h="137" z="104" display="frame" begin="0" type="v_block_005">
 <data>
-<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_41 .cl-container"><span class="rule-static">width: 399px; height: 130px;</span></div><div class="rule" data-name="#OBJ_41 .cl-box"><span class="rule-static">width: 399px; height: 130px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_41 .cl-box img"><span class="rule-static">width: 399px; height: 130px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_41 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_41_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_41_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_41_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_41_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_41_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/10.2.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_41_ZOOM" class="cl-zoom" ><div id="OBJ_41_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_41_ZOOM_IMG" src="images/10.2.png" onload="CLO['OBJ_41'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_41_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_41 .cl-container"><span class="rule-static">width: 399px; height: 137px;</span></div><div class="rule" data-name="#OBJ_41 .cl-box"><span class="rule-static">width: 399px; height: 137px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_41 .cl-box img"><span class="rule-static">width: 399px; height: 137px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_41 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_41_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_41_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_41_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_41_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_41_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/10.2.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_41_ZOOM" class="cl-zoom" ><div id="OBJ_41_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_41_ZOOM_IMG" src="images/10.2.png" onload="CLO['OBJ_41'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_41_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
 </data>
 </object>
 <object id="OBJ_42" x="56" y="216" w="420" h="145" z="105" display="frame" begin="0" type="v_block_005">
@@ -508,7 +513,7 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 </object>
 <object id="TXT_37" x="573" y="487" w="378" h="106" z="102" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 378px; height: 106px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal; text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Ферментные препараты животного происхождения выделяют из различных отделов желудочно-кишечного тракта животных. По сути &ndash; это пищеварительные ферменты. Все они являются протеолитическими ферментами</span></span></p></div>]]>
+<![CDATA[<div style="width: 378px; height: 106px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal; text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Ферментные препараты животного происхождения выделяют из различных отделов желудочно-кишечного тракта животных. По сути &ndash; это пищеварительные ферменты. Все они являются протеолитическими ферментами.</span></span></p></div>]]>
 </data>
 </object>
 <object id="TXT_38" x="56" y="115" w="908" h="67" z="103" display="frame" begin="0">
@@ -516,9 +521,9 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 <![CDATA[<div style="width: 908px; height: 67px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Катализируют присоединение друг к другу двух молекул с использованием энергии высокоэнергетических связей АТФ (или других макроэргов). Сложные ферменты. Они содержат нуклеотидные (УТФ), биотиновые (витамин Н), фолиевые коферменты.</span></span></p></div>]]>
 </data>
 </object>
-<object id="OBJ_44" x="115" y="188" w="763" h="287" z="104" display="frame" begin="0" type="v_block_005">
+<object id="OBJ_44" x="124" y="188" w="746" h="287" z="104" display="frame" begin="0" type="v_block_005">
 <data>
-<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_44 .cl-container"><span class="rule-static">width: 763px; height: 287px;</span></div><div class="rule" data-name="#OBJ_44 .cl-box"><span class="rule-static">width: 763px; height: 287px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_44 .cl-box img"><span class="rule-static">width: 763px; height: 287px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_44 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_44_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_44_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_44_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_44_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_44_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/11.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_44_ZOOM" class="cl-zoom" ><div id="OBJ_44_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_44_ZOOM_IMG" src="images/11.png" onload="CLO['OBJ_44'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_44_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_44 .cl-container"><span class="rule-static">width: 746px; height: 287px;</span></div><div class="rule" data-name="#OBJ_44 .cl-box"><span class="rule-static">width: 746px; height: 287px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_44 .cl-box img"><span class="rule-static">width: 746px; height: 287px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_44 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_44_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_44_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_44_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_44_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_44_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/11.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_44_ZOOM" class="cl-zoom" ><div id="OBJ_44_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_44_ZOOM_IMG" src="images/11.png" onload="CLO['OBJ_44'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_44_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
 </data>
 </object>
 <timeline>
@@ -674,7 +679,7 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 <![CDATA[<div style="width: 280px; height: 158px; box-sizing: border-box;"><p><em><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><strong>Амилосубтилин</strong></span></span></em><br />
 <em><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><strong>(Bacillus subtilis)</strong></span></span></em></p>
 
-<p><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">применяется в качестве добавки для животных, улучшает перевариваемость пищи, повышает общую устойчивость организма </span></span></p></div>]]>
+<p><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">применяется в качестве добавки для животных, улучшает перевариваемость пищи, повышает общую устойчивость организма.</span></span></p></div>]]>
 </data>
 </object>
 <object id="TXT_50" x="33" y="380" w="280" h="147" z="102" display="frame" begin="0">
@@ -685,7 +690,7 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
 
-<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">является кормовой добавкой, повышает усвояемость питательных веществ</span></span></p></div>]]>
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">является кормовой добавкой, повышает усвояемость питательных веществ.</span></span></p></div>]]>
 </data>
 </object>
 <object id="TXT_51" x="369" y="161" w="280" h="190" z="103" display="frame" begin="0">
@@ -696,7 +701,7 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
 
-<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">широко используется в хлебопекарной отрасли, способствует обогащению питательных сред для дрожжей</span></span></p></div>]]>
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">широко используется в хлебопекарной отрасли, способствует обогащению питательных сред для дрожжей.</span></span></p></div>]]>
 </data>
 </object>
 <object id="TXT_52" x="370" y="380" w="280" h="161" z="104" display="frame" begin="0">
@@ -707,7 +712,7 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
 
-<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">в качестве добавки для улучшения перевариваемости и усвоения питательных веществ</span></span></p></div>]]>
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">в качестве добавки для улучшения перевариваемости и усвоения питательных веществ.</span></span></p></div>]]>
 </data>
 </object>
 <object id="TXT_53" x="712" y="379" w="280" h="147" z="105" display="frame" begin="0">
@@ -718,7 +723,7 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
 
-<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">применяются в крахмалопаточной промышленности при производстве глюкозы</span></span></p></div>]]>
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">применяются в крахмалопаточной промышленности при производстве глюкозы.</span></span></p></div>]]>
 </data>
 </object>
 <object id="TXT_54" x="707" y="159" w="280" h="141" z="106" display="frame" begin="0">
@@ -729,7 +734,7 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
 
-<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">гидролиз растительных отходов, в производстве мехового сырья</span></span><span style="font-size: 18pt; font-family: 'Times New Roman';"> </span></p></div>]]>
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">гидролиз растительных отходов, в производстве мехового сырья.</span></span></p></div>]]>
 </data>
 </object>
 <timeline>
@@ -740,12 +745,32 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 <slide id="SLIDE_22" sid="x" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Применение ферментных препаратов в " indent="0">
 <frames>
 <frame id="FRAME_23" dur="0" infinite="0">
-<object id="TXT_55" x="34" y="64" w="951" h="36" z="100" display="frame" begin="0">
+<object id="IMG_9" x="773" y="101" w="108" h="141" z="100" display="frame" begin="0" preload="images/clip20171124_6.png">
+<data>
+<![CDATA[<img src="images/clip20171124_6.png" style="width: 108px; height: 141px;border-width: 0px;"/>]]>
+</data>
+</object>
+<object id="IMG_8" x="545" y="119" w="68" h="161" z="101" display="frame" begin="0" preload="images/clip20171124_5.png">
+<data>
+<![CDATA[<img src="images/clip20171124_5.png" style="width: 68px; height: 161px;border-width: 0px;"/>]]>
+</data>
+</object>
+<object id="IMG_7" x="329" y="124" w="68" h="161" z="102" display="frame" begin="0" preload="images/clip20171124_5.png">
+<data>
+<![CDATA[<img src="images/clip20171124_5.png" style="width: 68px; height: 161px;border-width: 0px;"/>]]>
+</data>
+</object>
+<object id="IMG_6" x="128" y="119" w="91" h="119" z="103" display="frame" begin="0" preload="images/clip20171124_3.png">
+<data>
+<![CDATA[<img src="images/clip20171124_3.png" style="width: 91px; height: 119px;border-width: 0px;"/>]]>
+</data>
+</object>
+<object id="TXT_55" x="34" y="64" w="951" h="36" z="104" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 951px; height: 36px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: center; direction: ltr; word-break: normal;"><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Применение ферментных препаратов в </span></span></span><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">пищевой промышленности</span></span></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_82" x="45" y="247" w="223" h="288" z="101" display="frame" begin="0">
+<object id="TXT_82" x="45" y="247" w="223" h="288" z="105" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 223px; height: 288px; box-sizing: border-box;"><div style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">1.&nbsp;<span style="font-weight: bold;">Протеолитические </span></span></span></div>
 
@@ -771,10 +796,10 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">производство,</span></span></p>
 
-<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">хлебопечение</span></span></p></div>]]>
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">хлебопечение.</span></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_83" x="291" y="289" w="223" h="288" z="102" display="frame" begin="0">
+<object id="TXT_83" x="291" y="289" w="223" h="288" z="106" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 223px; height: 288px; box-sizing: border-box;"><div style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; text-align: justify; direction: ltr; word-break: normal;">
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">2. </span><span style="font-weight: bold;">Амилолитические</span><span style="font-weight: bold;"> </span></span></span></p>
@@ -797,11 +822,11 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">промышленность, </span></span></p>
 
-<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">хлебопечение</span></span></p>
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">хлебопечение.</span></span></p>
 </div></div>]]>
 </data>
 </object>
-<object id="TXT_84" x="531" y="283" w="167" h="256" z="103" display="frame" begin="0">
+<object id="TXT_84" x="531" y="283" w="167" h="256" z="107" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 167px; height: 256px; box-sizing: border-box;"><div style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; text-align: justify; direction: ltr; word-break: normal;">
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">3. </span><span style="font-weight: bold;">Целлюло</span><span style="font-weight: bold;">-</span></span></span></p>
@@ -824,11 +849,11 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">пищеконцентратная</span></span></p>
 
-<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">промышленность&nbsp;</span></span></p>
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">промышленность.</span></span></p>
 </div></div>]]>
 </data>
 </object>
-<object id="TXT_85" x="765" y="243" w="178" h="223" z="104" display="frame" begin="0">
+<object id="TXT_85" x="765" y="243" w="178" h="223" z="108" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 178px; height: 223px; box-sizing: border-box;"><div style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; text-align: justify; direction: ltr; word-break: normal;">
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">4. </span><span style="font-weight: bold;">Пектолитические</span><span style="font-weight: bold;"> </span></span></span></p>
@@ -851,28 +876,8 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">из плодов и ягод,</span></span></p>
 
-<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">виноделие</span></span></p>
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">виноделие.</span></span></p>
 </div></div>]]>
-</data>
-</object>
-<object id="IMG_6" x="128" y="119" w="91" h="119" z="105" display="frame" begin="0" preload="images/clip20171124_3.png">
-<data>
-<![CDATA[<img src="images/clip20171124_3.png" style="width: 91px; height: 119px;border-width: 0px;"/>]]>
-</data>
-</object>
-<object id="IMG_7" x="329" y="124" w="68" h="161" z="106" display="frame" begin="0" preload="images/clip20171124_5.png">
-<data>
-<![CDATA[<img src="images/clip20171124_5.png" style="width: 68px; height: 161px;border-width: 0px;"/>]]>
-</data>
-</object>
-<object id="IMG_8" x="545" y="119" w="68" h="161" z="107" display="frame" begin="0" preload="images/clip20171124_5.png">
-<data>
-<![CDATA[<img src="images/clip20171124_5.png" style="width: 68px; height: 161px;border-width: 0px;"/>]]>
-</data>
-</object>
-<object id="IMG_9" x="773" y="101" w="108" h="141" z="108" display="frame" begin="0" preload="images/clip20171124_6.png">
-<data>
-<![CDATA[<img src="images/clip20171124_6.png" style="width: 108px; height: 141px;border-width: 0px;"/>]]>
 </data>
 </object>
 <timeline>
@@ -892,9 +897,13 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 <data>
 <![CDATA[<div style="width: 958px; height: 363px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Протеолитические ферменты </span>продуцируются грибами рода <span style="font-style: italic;">Aspergillus</span><span style="font-style: italic;">, </span><span style="font-style: italic;">Penicillium</span>, бактериями рода <span style="font-style: italic;">Bacillus</span>, дрожжами рода <span style="font-style: italic;">Saccharomyces</span>. Эти ферменты используют при переработке животного сырья в мясной, молочной и рыбной промышленности. Они применяются как размягчители мяса, ускорители созревания мяса и рыбы. При проведении слабого протеолиза с использованием набора специфических ферментов происходит незначительное изменение структуры мяса, но оно становится качественно лучше, значительно мягче. Особенно важным является действие ферментов на белки соединительной ткани. В этом случае оказывается возможным значительно полнее использовать все части туши. </span></span></p>
 
-<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&nbsp; Ввиду нехватки сырья для получения сычужного фермента в последние годы ведутся интенсивные работы по поиску его заменителей ферментами микробного происхождения для сыродельной промышленности. Однако все они уступают ему по свертывающей способности. Хорошими сгустителями являются протеазы, полученные из штаммов микроскопических грибов рода <span style="font-style: italic;">Mucor</span> и бактерий родов <span style="font-style: italic;">Bacillus</span><span style="font-style: italic;">, </span><span style="font-style: italic;">Pseudomonas</span><span style="font-style: italic;"> </span>и др. В настоящее время в сыроделии применяется около 10 % реннина микробного происхождения. </span></span></p>
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
 
-<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&nbsp; В пивоваренном производстве протеолитические ферменты применяют для устранения белковых помутнений, а в хлебопечении - для сокращения времени замеса теста из пшеничной муки с высоким содержанием клейковины. Протеолитические ферменты используют как добавки к моющим средствам, что дает высокий эффект при устранении белковых загрязнений.&nbsp;</span></span></p>
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Ввиду нехватки сырья для получения сычужного фермента в последние годы ведутся интенсивные работы по поиску его заменителей ферментами микробного происхождения для сыродельной промышленности. Однако все они уступают ему по свертывающей способности. Хорошими сгустителями являются протеазы, полученные из штаммов микроскопических грибов рода <span style="font-style: italic;">Mucor</span> и бактерий родов <span style="font-style: italic;">Bacillus</span><span style="font-style: italic;">, </span><span style="font-style: italic;">Pseudomonas</span><span style="font-style: italic;"> </span>и др. В настоящее время в сыроделии применяется около 10 % реннина микробного происхождения. </span></span></p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">В пивоваренном производстве протеолитические ферменты применяют для устранения белковых помутнений, а в хлебопечении - для сокращения времени замеса теста из пшеничной муки с высоким содержанием клейковины. Протеолитические ферменты используют как добавки к моющим средствам, что дает высокий эффект при устранении белковых загрязнений.&nbsp;</span></span></p>
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;">&nbsp;</p></div>]]>
 </data>
@@ -946,15 +955,17 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 <data>
 <![CDATA[<div style="width: 958px; height: 233px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Используются для улучшения консистенции и повышения пищевой ценности мяса. Применение ферментных препаратов положительно влияет на нежность, сочность, пищевую ценность сырья, формирование требуемого уровня водосвязывающей и адгезионной способности, улучшает органолептические характеристики благодаря целенаправленному воздействию ферментативных комплексов на компоненты мышечной ткани.</span></span></p>
 
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
+
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;">&nbsp;</p>
 
-<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&bull; Эндопептидазы &ndash; разрушают связи внутри молекул белка (в любой точке пептидной цепи)</span></span></p>
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&bull; Эндопептидазы &ndash; разрушают связи внутри молекул белка (в любой точке пептидной цепи).</span></span></p>
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><br />
-<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&bull; Экзопептидазы &ndash; отщепляют аминокислоты с N или С конца белковой молекулы</span></span></p>
+<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&bull; Экзопептидазы &ndash; отщепляют аминокислоты с N или С конца белковой молекулы.</span></span></p>
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><br />
-<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&bull; Специфические пептидазы &ndash; расщепляют пептидные связи между определенными аминокислотами</span></span></p></div>]]>
+<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&bull; Специфические пептидазы &ndash; расщепляют пептидные связи между определенными аминокислотами.</span></span></p></div>]]>
 </data>
 </object>
 <timeline>
@@ -973,24 +984,24 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 <object id="TXT_66" x="31" y="111" w="958" h="157" z="101" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 958px; height: 157px; box-sizing: border-box;"><ul>
-	<li><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Разрушает пептидную связь между лизином (Lys) и аргинином (Arg)</span></span><br />
+	<li><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Разрушает пептидную связь между лизином (Lys) и аргинином (Arg).</span></span><br />
 	&nbsp;</li>
-	<li><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Получают из слизистой свиней и крупного рогатого скота</span></span><br />
+	<li><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Получают из слизистой свиней и крупного рогатого скота.</span></span><br />
 	&nbsp;</li>
-	<li><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Трипсин, вырабатывающийся в поджелудочной железе, а также комплекс протеолитических ферментов поджелудочной железы (панкреатин) применяются при болезнях органов пищеварения и в переработке мясных продуктов</span></span></li>
+	<li><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Трипсин, вырабатывающийся в поджелудочной железе, а также комплекс протеолитических ферментов поджелудочной железы (панкреатин) применяются при болезнях органов пищеварения и в переработке мясных продуктов.</span></span></li>
 </ul></div>]]>
 </data>
 </object>
 <object id="TXT_70" x="31" y="360" w="958" h="195" z="102" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 958px; height: 195px; box-sizing: border-box;"><ul>
-	<li><span style="font-family:times new roman,times,serif;"><span style="font-size:18px;">Разрушает пептидную связь между остатками ароматических аминокислот, например, триптофаном (Trp), тирозином (Tyr) и фенилаланином (Phr)</span></span><br />
+	<li><span style="font-family:times new roman,times,serif;"><span style="font-size:18px;">Разрушает пептидную связь между остатками ароматических аминокислот, например, триптофаном (Trp), тирозином (Tyr) и фенилаланином (Phr).</span></span><br />
 	&nbsp;</li>
-	<li><span style="font-family:times new roman,times,serif;"><span style="font-size:18px;">Является протеолитическим ферментом поджелудочной железы</span></span><br />
+	<li><span style="font-family:times new roman,times,serif;"><span style="font-size:18px;">Является протеолитическим ферментом поджелудочной железы.</span></span><br />
 	&nbsp;</li>
-	<li><span style="font-family:times new roman,times,serif;"><span style="font-size:18px;">В виде неочищенного панкреатина находит применение в пищевой промышленности для производства гидролизатов</span></span><br />
+	<li><span style="font-family:times new roman,times,serif;"><span style="font-size:18px;">В виде неочищенного панкреатина находит применение в пищевой промышленности для производства гидролизатов.</span></span><br />
 	&nbsp;</li>
-	<li><span style="font-family:times new roman,times,serif;"><span style="font-size:18px;">Является составной частью комплексных препаратов панкреатина</span></span></li>
+	<li><span style="font-family:times new roman,times,serif;"><span style="font-size:18px;">Является составной частью комплексных препаратов панкреатина.</span></span></li>
 </ul></div>]]>
 </data>
 </object>
@@ -1015,24 +1026,24 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 <object id="TXT_71" x="31" y="91" w="958" h="145" z="101" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 958px; height: 145px; box-sizing: border-box;"><ul>
-	<li><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Разрушает пептидную связь между аминокислотами с гидрофобными радикалами, например между валином (Val) и лейцином (Leu)</span></span><br />
+	<li><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Разрушает пептидную связь между аминокислотами с гидрофобными радикалами, например между валином (Val) и лейцином (Leu).</span></span><br />
 	&nbsp;</li>
 	<li><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Для пищевой промышленности&nbsp;используют желудочный фермент жвачных животных, вырабатываемый железами сычуга, отсюда его тривиальное название - сычужный фермент. Также известен как &laquo;реннин&quot;, &laquo;химозин&quot;.</span></span><br />
 	&nbsp;</li>
-	<li><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Широко применяется в сыроделии​</span></span></li>
+	<li><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Широко применяется в сыроделии​.</span></span></li>
 </ul></div>]]>
 </data>
 </object>
 <object id="TXT_72" x="31" y="284" w="958" h="147" z="102" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 958px; height: 147px; box-sizing: border-box;"><ul>
-	<li><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Гидролизует связь между остатками&nbsp;лейцина&nbsp;в положениях 10 и 11 в ангиотензиногене</span></span><br />
+	<li><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Гидролизует связь между остатками&nbsp;лейцина&nbsp;в положениях 10 и 11 в ангиотензиногене.</span></span><br />
 	&nbsp;</li>
-	<li><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Вырабатывается из слизистой желудка телят</span></span><br />
+	<li><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Вырабатывается из слизистой желудка телят.</span></span><br />
 	&nbsp;</li>
-	<li><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">В организме катализирует&nbsp;свертывание молока (превращение растворимого казеиногена в нерастворимый&nbsp;казеин)</span></span><br />
+	<li><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">В организме катализирует&nbsp;свертывание молока (превращение растворимого казеиногена в нерастворимый&nbsp;казеин).</span></span><br />
 	&nbsp;</li>
-	<li><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Используют для створаживания молока и производства некоторых сортов сыра</span></span></li>
+	<li><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Используют для створаживания молока и производства некоторых сортов сыра.</span></span></li>
 </ul></div>]]>
 </data>
 </object>
@@ -1049,11 +1060,11 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 <object id="TXT_88" x="32" y="490" w="958" h="107" z="105" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 958px; height: 107px; box-sizing: border-box;"><ul dir="ltr">
-	<li style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Смесь трипсина, химотрипсина, липаз и амилаз</span></span><br />
+	<li style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Смесь трипсина, химотрипсина, липаз и амилаз.</span></span><br />
 	&nbsp;</li>
-	<li style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Получают из поджелудочной железы свиней</span></span><br />
+	<li style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Получают из поджелудочной железы свиней.</span></span><br />
 	&nbsp;</li>
-	<li style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Применяют в переработке мясных продуктов</span></span></li>
+	<li style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Применяют в переработке мясных продуктов.</span></span></li>
 </ul>
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;">&nbsp;</p></div>]]>
@@ -1075,22 +1086,20 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 <object id="TXT_77" x="82" y="385" w="378" h="83" z="101" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 378px; height: 83px; box-sizing: border-box;"><ul>
-	<li><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Полиазы (амилаза, целлюлаза). Расщепляют полисахариды</span></span></li>
-</ul>
-
-<p>&nbsp;</p></div>]]>
+	<li><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Полиазы (амилаза, целлюлаза). Расщепляют полисахариды.</span></span></li>
+</ul></div>]]>
 </data>
 </object>
 <object id="TXT_78" x="556" y="384" w="378" h="83" z="102" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 378px; height: 83px; box-sizing: border-box;"><ul dir="ltr">
-	<li style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Гексозидазы (фруктозидаза, сахараза, мальтаза, целлобиаза, лактаза). Действуют на дисахариды и гликозиды</span></span></li>
+	<li style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Гексозидазы (фруктозидаза, сахараза, мальтаза, целлобиаза, лактаза). Действуют на дисахариды и гликозиды.</span></span></li>
 </ul></div>]]>
 </data>
 </object>
-<object id="TXT_81" x="337" y="126" w="348" h="50" z="103" display="frame" begin="0">
+<object id="TXT_81" x="337" y="139" w="348" h="36" z="103" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 348px; height: 50px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="color: rgb(51, 51, 51);">Катализируют гидролиз полисахаридов </span></span></span></p></div>]]>
+<![CDATA[<div style="width: 348px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="color: rgb(51, 51, 51);">Катализируют гидролиз полисахаридов </span></span></span></p></div>]]>
 </data>
 </object>
 <object id="IMG_5" x="265" y="182" w="490" h="170" z="104" display="frame" begin="0" preload="images/clip20171124_1.png">
@@ -1114,17 +1123,17 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 <object id="TXT_80" x="31" y="125" w="958" h="257" z="101" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 958px; height: 257px; box-sizing: border-box;"><ul dir="ltr">
-	<li style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Амилаза &ndash; расщепляет крахмал, участвует в процессе&nbsp;пищеварения.&nbsp;Используются&nbsp;в&nbsp;спиртовой&nbsp;промышленности&nbsp;и&nbsp;в хлебопечении, а также&nbsp;при&nbsp;производстве&nbsp;глюкозы</span></span><br />
+	<li style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Амилаза &ndash; расщепляет крахмал, участвует в процессе&nbsp;пищеварения.&nbsp;Используются&nbsp;в&nbsp;спиртовой&nbsp;промышленности&nbsp;и&nbsp;в хлебопечении, а также&nbsp;при&nbsp;производстве&nbsp;глюкозы.</span></span><br />
 	&nbsp;</li>
-	<li style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Целлюлаза &ndash; получение спирта и глюкозы</span></span><br />
+	<li style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Целлюлаза &ndash; получение спирта и глюкозы.</span></span><br />
 	&nbsp;</li>
-	<li style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Лизоцим (мурамидаза) &ndash; в пищевой промышленности&nbsp;зарегистрирован&nbsp;в&nbsp;качестве&nbsp;пищевой&nbsp;добавки&nbsp;E1105</span></span><br />
+	<li style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Лизоцим (мурамидаза) &ndash;&nbsp;в&nbsp;пищевой&nbsp;промышленности&nbsp;зарегистрирован&nbsp;в&nbsp;качестве&nbsp;пищевой&nbsp;добавки&nbsp;E1105.</span></span><br />
 	&nbsp;</li>
-	<li style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Препараты фруктозидазы применяются в технологических процессах, где необходима инверсия сахарозы</span></span><br />
+	<li style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Препараты фруктозидазы применяются в технологических процессах, где необходима инверсия сахарозы.</span></span><br />
 	&nbsp;</li>
-	<li style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Инвертаза &ndash; инверсия сахарозы</span></span><br />
+	<li style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Инвертаза &ndash; инверсия сахарозы.</span></span><br />
 	&nbsp;</li>
-	<li style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Протеаза &ndash; производство спирта</span></span></li>
+	<li style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Протеаза &ndash; производство спирта.</span></span></li>
 </ul></div>]]>
 </data>
 </object>
@@ -9474,9 +9483,23 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 <hide_onclick>yes</hide_onclick>
 <modal>yes</modal>
 </param>
+<param objectid="OBJ_36">
+<hidden_noimg>Картинка не задана</hidden_noimg>
+<imagefile>images/7.2.png</imagefile>
+<bg_color_profile>custom</bg_color_profile>
+<bg_color_custom>#FFFFFF</bg_color_custom>
+<button_color_profile>custom</button_color_profile>
+<button_color_custom>#0080C0</button_color_custom>
+<radius>10</radius>
+<shadow>normal</shadow>
+<tooltip_zoomin>Нажите здесь, чтобы увеличить картинку</tooltip_zoomin>
+<tooltip_close>Нажмите здесь, чтобы закрыть картинку</tooltip_close>
+<hide_onclick>yes</hide_onclick>
+<modal>yes</modal>
+</param>
 <param objectid="OBJ_35">
 <hidden_noimg>Картинка не задана</hidden_noimg>
-<imagefile>images/7.png</imagefile>
+<imagefile>images/7.1.png</imagefile>
 <bg_color_profile>custom</bg_color_profile>
 <bg_color_custom>#FFFFFF</bg_color_custom>
 <button_color_profile>custom</button_color_profile>
@@ -9502,9 +9525,9 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 <hide_onclick>yes</hide_onclick>
 <modal>yes</modal>
 </param>
-<param objectid="OBJ_39">
+<param objectid="OBJ_40">
 <hidden_noimg>Картинка не задана</hidden_noimg>
-<imagefile>images/9.2.png</imagefile>
+<imagefile>images/9.1.png</imagefile>
 <bg_color_profile>custom</bg_color_profile>
 <bg_color_custom>#FFFFFF</bg_color_custom>
 <button_color_profile>custom</button_color_profile>
@@ -9516,9 +9539,9 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 <hide_onclick>yes</hide_onclick>
 <modal>yes</modal>
 </param>
-<param objectid="OBJ_40">
+<param objectid="OBJ_39">
 <hidden_noimg>Картинка не задана</hidden_noimg>
-<imagefile></imagefile>
+<imagefile>images/9.2.png</imagefile>
 <bg_color_profile>custom</bg_color_profile>
 <bg_color_custom>#FFFFFF</bg_color_custom>
 <button_color_profile>custom</button_color_profile>

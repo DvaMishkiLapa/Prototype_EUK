@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Course file, saved 12/15/2017 7:49:34 PM by artem using CourseLab 171024 -->
+<!-- Course file, saved 12/15/2017 8:09:02 PM by artem using CourseLab 171024 -->
 <course3>
 <aicc_code>Genetik_Inzh</aicc_code>
 <aicc_name>Прототип ЭУК</aicc_name>
@@ -47,12 +47,12 @@
 <window>
 <module>3</module>
 <zoom>123</zoom>
-<active>true</active>
-<slide>SLIDE_4</slide>
 </window>
 <window>
 <module>2</module>
 <zoom>100</zoom>
+<active>true</active>
+<slide>SLIDE_32</slide>
 </window>
 </windows>
 </course3>
