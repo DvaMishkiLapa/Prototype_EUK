@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Presentation file, saved 12/13/2017 5:07:41 PM using CourseLab 171024 -->
+<!-- Presentation file, saved 12/15/2017 7:49:33 PM using CourseLab 171024 -->
 <module>
 <runtime preview_fullscreen="yes" preview_fitwindow="no" fit_small_window="yes" showsplash="yes" seqslides="no" preloadimages="yes" normalize="no"/>
 <groups>
@@ -20,7 +20,7 @@
 </object>
 <object id="TXT_5" x="550" y="109" w="438" h="94" z="102" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 438px; height: 94px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Первый генетически-модифицированный организм был получен в 1972 г. П. Бергом. В ДНК вируса обезьяны SV40 был встроен фрагмент ДНК вируса &gamma;-фага и галактозного оперона E. Coli</span></span></p></div>]]>
+<![CDATA[<div style="width: 438px; height: 94px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Первый генетически-модифицированный организм был получен в 1972 г. П. Бергом. В ДНК вируса обезьяны SV40 был встроен фрагмент ДНК вируса &gamma;-фага и галактозного оперона E. Coli.</span></span></p></div>]]>
 </data>
 </object>
 <object id="OBJ_13" x="27" y="203" w="280" h="377" z="103" display="frame" begin="0" type="v_block_005">
@@ -58,7 +58,7 @@
 </object>
 <object id="TXT_11" x="550" y="109" w="438" h="176" z="102" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 438px; height: 176px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&nbsp;&nbsp;Р. Йениш в 1974 г. Впервые получил генетически-модифицированный животный организм. Для этого экспланты мышиных бластоцистов подвегали генетической трансформации вирусов SV40. После этого производили перенос клеточной культуры в матку суррогатных матерей. Генетически трансформированная ДНК была обнаружена у 40% потомства мышей.&nbsp;</span></span></p></div>]]>
+<![CDATA[<div style="width: 438px; height: 176px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Р. Йениш в 1974 г. Впервые получил генетически-модифицированный животный организм. Для этого экспланты мышиных бластоцистов подвегали генетической трансформации вирусов SV40. После этого производили перенос клеточной культуры в матку суррогатных матерей. Генетически трансформированная ДНК была обнаружена у 40% потомства мышей.&nbsp;</span></span></p></div>]]>
 </data>
 </object>
 <object id="OBJ_19" x="204" y="290" w="608" h="307" z="103" display="frame" begin="0" type="v_block_005">
@@ -95,7 +95,7 @@
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
 
-<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Умеренная группа риска. Рекомбинантная ДНК несет вероятность нарушения экологического&nbsp; равновесия и значительный потенциал патогенности</span></span></p>
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Умеренная группа риска. Рекомбинантная ДНК несет вероятность нарушения экологического&nbsp; равновесия и значительный потенциал патогенности.</span></span></p>
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
 
@@ -132,23 +132,17 @@
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
 
-<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Экстракция нативной ДНК из организма-донора;</span></span></p>
-
-<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
-
-<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Ферментативный гидролиз рекомбинантной молекулы;</span></span></p>
-
-<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
-
-<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Введение конструкции в клетку-хозяина (трансформация);</span></span></p>
-
-<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
-
-<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Идентификация и отбор клеток, несущих рекомбинатную ДНК</span></span></p>
-
-<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
-
-<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Получение специфического белкового продукта, синтезированного клетками-хозяевами.&nbsp;</span></span></p></div>]]>
+<ul dir="ltr">
+	<li style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Экстракция нативной ДНК из организма-донора;</span></span><br />
+	&nbsp;</li>
+	<li style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Ферментативный гидролиз рекомбинантной молекулы;</span></span><br />
+	&nbsp;</li>
+	<li style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Введение конструкции в клетку-хозяина (трансформация);</span></span><br />
+	&nbsp;</li>
+	<li style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Идентификация и отбор клеток, несущих рекомбинатную ДНК;</span></span><br />
+	&nbsp;</li>
+	<li style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Получение специфического белкового продукта, синтезированного клетками-хозяевами;</span></span></li>
+</ul></div>]]>
 </data>
 </object>
 <object id="OBJ_17" x="592" y="110" w="315" h="484" z="102" display="frame" begin="0" type="v_block_005">
@@ -169,9 +163,9 @@
 <![CDATA[<div style="width: 663px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><strong><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;">Рестрикция ДНК</span></span></strong><span style="font-size:28px;"><strong><span style="font-family:times new roman,times,serif;"><span style="color: rgb(0, 0, 0);"> </span></span></strong></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_17" x="34" y="111" w="474" h="357" z="101" display="frame" begin="0">
+<object id="TXT_17" x="34" y="158" w="474" h="357" z="101" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 474px; height: 357px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&nbsp;&nbsp;При молекулярном клонировании важно, чтобы расщепление донорной и векторной ДНК происходило в строго определенных участках с образованием воспроизводимого набора ферментов. Молекулярное клонирование стало возможным после выделения высокоспецифичных бактериальных ферментов, которые узнаю определенные последовательности оснований в двуцепочечной молекуле ДНК и расщепляют обе оцепи. Эти ферменты называются эндонуклеазами рестрикции типа II. При расщеплении молекулы ДНК возможно образования &laquo;тупых&raquo; и &laquo;липких&raquo; концов. Палиндромные последовательности, которые распознаются ферментами эндонуклеаз рестрикции и в которых происходит расщепление молекулы ДНК, называют сайтами распознавания. Сайты узнавания включают от 4 до 8 пар нуклеотидов.&nbsp;</span></span></p></div>]]>
+<![CDATA[<div style="width: 474px; height: 357px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">При молекулярном клонировании важно, чтобы расщепление донорной и векторной ДНК происходило в строго определенных участках с образованием воспроизводимого набора ферментов. Молекулярное клонирование стало возможным после выделения высокоспецифичных бактериальных ферментов, которые узнаю определенные последовательности оснований в двуцепочечной молекуле ДНК и расщепляют обе оцепи. Эти ферменты называются эндонуклеазами рестрикции типа II. При расщеплении молекулы ДНК возможно образования &laquo;тупых&raquo; и &laquo;липких&raquo; концов. Палиндромные последовательности, которые распознаются ферментами эндонуклеаз рестрикции и в которых происходит расщепление молекулы ДНК, называют сайтами распознавания. Сайты узнавания включают от 4 до 8 пар нуклеотидов.&nbsp;</span></span></p></div>]]>
 </data>
 </object>
 <object id="OBJ_20" x="540" y="183" w="443" h="388" z="102" display="frame" begin="0" type="v_block_005">
@@ -179,9 +173,9 @@
 <![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_20 .cl-container"><span class="rule-static">width: 443px; height: 388px;</span></div><div class="rule" data-name="#OBJ_20 .cl-box"><span class="rule-static">width: 443px; height: 388px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_20 .cl-box img"><span class="rule-static">width: 443px; height: 388px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_20 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_20_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_20_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_20_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_20_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_20_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/5.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_20_ZOOM" class="cl-zoom" ><div id="OBJ_20_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_20_ZOOM_IMG" src="images/5.png" onload="CLO['OBJ_20'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_20_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
 </data>
 </object>
-<object id="TXT_18" x="550" y="113" w="438" h="94" z="103" display="frame" begin="0">
+<object id="TXT_18" x="550" y="113" w="438" h="69" z="103" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 438px; height: 94px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Сайты распознавания некоторых наиболее распространенных ферментов эндонуклеаз рестрикции&nbsp;</span></span></p></div>]]>
+<![CDATA[<div style="width: 438px; height: 69px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Сайты распознавания некоторых наиболее распространенных ферментов эндонуклеаз рестрикции:&nbsp;</span></span></p></div>]]>
 </data>
 </object>
 <timeline>
@@ -266,14 +260,569 @@
 <![CDATA[<div style="width: 663px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><strong><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;">Лигирование фрагментов ДНК</span></span></strong><span style="font-size:28px;"><strong><span style="font-family:times new roman,times,serif;"><span style="color: rgb(0, 0, 0);"> </span></span></strong></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_26" x="31" y="111" w="279" h="450" z="101" display="frame" begin="0">
+<object id="TXT_26" x="31" y="177" w="279" h="330" z="101" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 279px; height: 450px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Чаще всего для молекулярного клонирования недостаточно только ферментов эндонуклеаз рестрикции. Это обусловлено тем, что водородные связи между основаниями липких концов недостаточно прочны, чтобы удержать два фрагмента ДНК. Необходимо устранить разрыв в сахарофосфатном остове ДНК. Это осуществляет фермент ДНК-лигаза бактериофага Т4. Кроме того, ДНК-лигаза позволяет сшивать тупые концы</span></span></p></div>]]>
+<![CDATA[<div style="width: 279px; height: 330px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Чаще всего для молекулярного клонирования недостаточно только ферментов эндонуклеаз рестрикции. Это обусловлено тем, что водородные связи между основаниями липких концов недостаточно прочны, чтобы удержать два фрагмента ДНК. Необходимо устранить разрыв в сахарофосфатном остове ДНК. Это осуществляет фермент ДНК-лигаза бактериофага Т4. Кроме того, ДНК-лигаза позволяет сшивать тупые концы.</span></span></p></div>]]>
 </data>
 </object>
 <object id="OBJ_25" x="350" y="106" w="606" h="472" z="102" display="frame" begin="0" type="v_block_005">
 <data>
 <![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_25 .cl-container"><span class="rule-static">width: 606px; height: 472px;</span></div><div class="rule" data-name="#OBJ_25 .cl-box"><span class="rule-static">width: 606px; height: 472px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_25 .cl-box img"><span class="rule-static">width: 606px; height: 472px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_25 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_25_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_25_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_25_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_25_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_25_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/9.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_25_ZOOM" class="cl-zoom" ><div id="OBJ_25_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_25_ZOOM_IMG" src="images/9.png" onload="CLO['OBJ_25'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_25_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_14" sid="q" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Векторы" indent="0">
+<frames>
+<frame id="FRAME_15" dur="600" infinite="0">
+<object id="TXT_27" x="178" y="59" w="663" h="36" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 663px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><strong><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;">Векторы</span></span></strong></p></div>]]>
+</data>
+</object>
+<object id="TXT_28" x="33" y="110" w="953" h="199" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 953px; height: 199px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">В качестве векторов для переноса клонируемой ДНК используют автономно реплицирующиеся генетические элементы &ndash; плазмиды. Плазмиды содержат информацию, обеспечивающую их перенос из одной клетки в другую (F-плазмиды), несут гены устойчивости к антибиотикам (R-плазмиды). Обязательные свойства векторов:</span></span></p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">1) любой вектор должен длительное время существовать в популяции клеток-хозяев, т.е. реплицироваться автономно или вместе с хромосомами клеток.</span></span></p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">2) в любом векторе должны быть биохимические или генетические маркеры, которые позволяли бы обнаруживать его присутствие в клетках.</span></span></p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">3) структура векторной молекулы должна допускать встраивание в нее чужеродной последовательности нуклеотидов без нарушения ее функциональной целостности.</span></span></p></div>]]>
+</data>
+</object>
+<object id="TXT_29" x="32" y="328" w="480" h="258" z="102" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 480px; height: 258px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Пример плазмиды - pBR322. Она представляет собой циклический фрагмент ДНК длиной 4361&nbsp;нуклеотидных&nbsp;пары. Плазмида содержит&nbsp;ген&nbsp;устойчивости к&nbsp;тетрациклину&nbsp;<span style="font-style: italic;">tet</span>, взятый из естественной плазмиды pSC 101; ген устойчивости к&nbsp;ампициллину&nbsp;<span style="font-style: italic;">amp</span>, взятый из&nbsp;транспозона&nbsp;Tn3; и участок начала&nbsp;репликации&nbsp;<span style="font-style: italic;">ori</span>, заимствованный из плазмиды pMB 1. Плазмида содержит также&nbsp;сайты рестрикции&nbsp;Pst I,&nbsp;<span style="font-style: italic;">Bam</span>&nbsp;HI и&nbsp;<span style="font-style: italic;">Sal</span>&nbsp;I, причём первый находится в гене amp, а два остальных&nbsp;&mdash; в гене tet. Это важное обстоятельство помогает модифицировать плазмиду.</span></span></p></div>]]>
+</data>
+</object>
+<object id="OBJ_24" x="532" y="290" w="461" h="304" z="103" display="frame" begin="0" type="v_block_005">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_24 .cl-container"><span class="rule-static">width: 461px; height: 304px;</span></div><div class="rule" data-name="#OBJ_24 .cl-box"><span class="rule-static">width: 461px; height: 304px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_24 .cl-box img"><span class="rule-static">width: 461px; height: 304px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_24 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_24_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_24_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_24_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_24_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_24_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/10.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_24_ZOOM" class="cl-zoom" ><div id="OBJ_24_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_24_ZOOM_IMG" src="images/10.png" onload="CLO['OBJ_24'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_24_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_15" sid="r" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Трансформация" indent="0">
+<frames>
+<frame id="FRAME_16" dur="600" infinite="0">
+<object id="TXT_30" x="178" y="59" w="663" h="36" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 663px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><strong><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;">Трансформация</span></span></strong><span style="font-size:28px;"><strong><span style="font-family:times new roman,times,serif;"><span style="color: rgb(0, 0, 0);"> </span></span></strong></span></p></div>]]>
+</data>
+</object>
+<object id="TXT_31" x="36" y="200" w="432" h="282" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 432px; height: 282px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Процесс переноса рекомбинатной ДНК в клетку хозяина называется трансформацией. Плазмидную ДНК, обработанную рестриктазой и щелочной фосфатазой, смешивают с рестрицированной донорной ДНК, содержащей таргетный ген, и добавляют ДНК-лигазу. Два из четырех одноцепочечных разрыва устраняются, и конструкция оказывается стабильной благодаря образовавшимся фосфодиэфирным связям. После введения гибридной ДНК в клетку-реципиент происходит ее репликация и образуются новые кольцевые молекулы без разрывов.&nbsp;</span></span></p></div>]]>
+</data>
+</object>
+<object id="OBJ_26" x="565" y="104" w="369" h="496" z="102" display="frame" begin="0" type="v_block_005">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_26 .cl-container"><span class="rule-static">width: 369px; height: 496px;</span></div><div class="rule" data-name="#OBJ_26 .cl-box"><span class="rule-static">width: 369px; height: 496px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_26 .cl-box img"><span class="rule-static">width: 369px; height: 496px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_26 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_26_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_26_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_26_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_26_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_26_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/11.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_26_ZOOM" class="cl-zoom" ><div id="OBJ_26_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_26_ZOOM_IMG" src="images/11.png" onload="CLO['OBJ_26'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_26_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_16" sid="s" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Скрининг с помощью гибридизации" indent="0">
+<frames>
+<frame id="FRAME_17" dur="600" infinite="0">
+<object id="TXT_32" x="178" y="59" w="663" h="36" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 663px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><strong><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;">Скрининг с помощью гибридизации</span></span></strong><span style="font-size:28px;"><strong><span style="font-family:times new roman,times,serif;"><span style="color: rgb(0, 0, 0);"> </span></span></strong></span></p></div>]]>
+</data>
+</object>
+<object id="OBJ_27" x="321" y="101" w="673" h="507" z="101" display="frame" begin="0" type="v_block_005">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_27 .cl-container"><span class="rule-static">width: 673px; height: 507px;</span></div><div class="rule" data-name="#OBJ_27 .cl-box"><span class="rule-static">width: 673px; height: 507px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_27 .cl-box img"><span class="rule-static">width: 673px; height: 507px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_27 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_27_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_27_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_27_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_27_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_27_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/12.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_27_ZOOM" class="cl-zoom" ><div id="OBJ_27_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_27_ZOOM_IMG" src="images/12.png" onload="CLO['OBJ_27'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_27_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
+</data>
+</object>
+<object id="TXT_33" x="33" y="126" w="432" h="142" z="102" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 432px; height: 142px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Следующим этапом является поиск клонов, несущих искомую последовательность ДНК. Нужную нуклеотидную последовательность в образце можно обнаружить с помощью ДНК-зонда, который спаривается только с искомой последовательностью.&nbsp;</span></span></p></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_17" sid="t" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Иммунологический скрининг ч.1" indent="0">
+<frames>
+<frame id="FRAME_18" dur="600" infinite="0">
+<object id="TXT_34" x="178" y="59" w="663" h="36" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 663px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><strong><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;">Иммунологический скрининг</span></span></strong><span style="font-size:28px;"><strong><span style="font-family:times new roman,times,serif;"><span style="color: rgb(0, 0, 0);"> </span></span></strong></span></p></div>]]>
+</data>
+</object>
+<object id="TXT_35" x="33" y="110" w="953" h="374" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 953px; height: 374px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Иммунологический скрининг геномной библиотеки осуществляется в несколько этапов. После трансформации клетки высевают на твердую питательную среду, обеспечивающую рост только трансформированных клеток. </span></span></p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
+
+<div style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">1. Переносят клетки из каждой выросшей колонии на твёрдую подложку (например,&nbsp; нитроцеллюлозный или нейлоновый фильтр) так, чтобы их расположение в точности соответствовало таковому на чашке Петри. </span></span></div>
+
+<div style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</div>
+
+<div style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">2. Клетки подвергают лизису. Белки фиксируют на фильтре.</span></span></div>
+
+<div style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</div>
+
+<div style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">3. Наносят на фильтр первичные антитела, которые связываются только с искомым белком.</span></span></div>
+
+<div style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</div>
+
+<div style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">4. Несвязавшиеся первичные антитела удаляют, наносят вторичные антитела, специфичные в отношении первичных антител, связанные с ферментом.</span></span></div>
+
+<div style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</div>
+
+<div style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">5. Смывают с фильтра все несвязавшиеся вторичные антитела и наносят его на бесцветный субстрат, при котором образуется окрашенный продукт. Гидролиз может произойти только в присутствии вторичных антител. </span></span></div>
+
+<div style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</div>
+
+<div style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">6. Отбирают колонии на чашке Петри, соответствующие окрашенным пятнам на фильтре, и культивируют их. В них может содержаться рекомбинатная ДНК, кодирующая белок, гомологичный первичным антителам.&nbsp;</span></span></div></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_18" sid="u" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Иммунологический скрининг ч.2" indent="0">
+<frames>
+<frame id="FRAME_19" dur="600" infinite="0">
+<object id="TXT_36" x="178" y="59" w="663" h="36" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 663px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><strong><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;">Иммунологический скрининг</span></span></strong><span style="font-size:28px;"><strong><span style="font-family:times new roman,times,serif;"><span style="color: rgb(0, 0, 0);"> </span></span></strong></span></p></div>]]>
+</data>
+</object>
+<object id="OBJ_28" x="106" y="100" w="806" h="496" z="101" display="frame" begin="0" type="v_block_005">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_28 .cl-container"><span class="rule-static">width: 806px; height: 496px;</span></div><div class="rule" data-name="#OBJ_28 .cl-box"><span class="rule-static">width: 806px; height: 496px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_28 .cl-box img"><span class="rule-static">width: 806px; height: 496px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_28 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_28_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_28_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_28_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_28_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_28_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/14.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_28_ZOOM" class="cl-zoom" ><div id="OBJ_28_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_28_ZOOM_IMG" src="images/14.png" onload="CLO['OBJ_28'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_28_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_19" sid="v" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Скрининг по активности белка" indent="0">
+<frames>
+<frame id="FRAME_20" dur="600" infinite="0">
+<object id="TXT_37" x="178" y="59" w="663" h="36" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 663px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><strong><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;">Скрининг по активности белка</span></span></strong><span style="font-size:28px;"><strong><span style="font-family:times new roman,times,serif;"><span style="color: rgb(0, 0, 0);"> </span></span></strong></span></p></div>]]>
+</data>
+</object>
+<object id="TXT_38" x="33" y="110" w="953" h="374" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 953px; height: 374px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Проверка способности выделенных микроорганизмов продуцировать требуемые ферменты &ndash; важный этап в селекции промышленных микроорганизмов. В отличие от иммунологического скрининга он представляет собой как качественный, так и количественный отбор. Его целью является подтверждение способности организмов продуцировать определенные ферменты и оценка их продуктивного потенциала. На этом этапе избавляются от всех организмов, которые обладают ложноположительной и низкой активностью. </span></span></p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">- Для проверки способности продуцировать требуемые гидролазы у выделенных ранее микроорганизмов высев производят на чашки такого же состава, как и в случае получения чистых культур. Чашки инкубируют в течение суток при 28 &deg;С. </span></span></p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">- О наличии протеолитической активности судят по появлению прозрачных зон гидролиза белков молока вокруг колоний. </span></span></p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">- При исследовании амилолитической активности чашку с выросшими 11 клонами заливают раствором, содержащим 0,5 % I<span style="vertical-align: sub;">2</span> и 5 % KI, и о наличии активности судят по образованию зон просветления вокруг колоний.</span></span></p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">- При проверке на целлюлолитическую активность чашку с выросшими клонами заливают 1 % водным раствором красителя Конго красного на 20 мин (происходит связывание красителя с целлюлозой), затем краситель сливают, чашки промывают 8 % водным раствором NaCl (для вымывания красителя из агара). О наличии целлюлолитической активности судят по образованию зон просветления вокруг колоний.&nbsp;</span></span></p></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_20" sid="w" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Оптимизация экспрессии генов" indent="0">
+<frames>
+<frame id="FRAME_21" dur="600" infinite="0">
+<object id="TXT_39" x="178" y="59" w="663" h="36" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 663px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><strong><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;">Оптимизация экспрессии генов</span></span></strong><span style="font-size:28px;"><strong><span style="font-family:times new roman,times,serif;"><span style="color: rgb(0, 0, 0);"> </span></span></strong></span></p></div>]]>
+</data>
+</object>
+<object id="TXT_41" x="43" y="109" w="931" h="176" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 931px; height: 176px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Для эффективной экспрессии любого гена необходимо наличие сильного регулируемого промотора, расположенного перед данным геном. Такой промотор&nbsp; имеет высокое сродство к РНК-полимеразе, поэтому прилегающие к нему последовательности эффективно транскрибируются. Регулируемость промотора позволяет клетке осуществлять строгий контроль транскрипции. Для экспрессии клонированных генов широко применяют хорошо изученный Lac-оперон E. Coli. Также транскрипция регулируется с помощью активатора катаболизма (CAP). Сродство CAP к промотору повышается при его связывании с cAMP, уровень которого повышается при снижении концентрации глюкозы в среде.&nbsp;</span></span></p></div>]]>
+</data>
+</object>
+<object id="OBJ_29" x="210" y="253" w="597" h="344" z="102" display="frame" begin="0" type="v_block_005">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_29 .cl-container"><span class="rule-static">width: 597px; height: 344px;</span></div><div class="rule" data-name="#OBJ_29 .cl-box"><span class="rule-static">width: 597px; height: 344px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_29 .cl-box img"><span class="rule-static">width: 597px; height: 344px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_29 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_29_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_29_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_29_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_29_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_29_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/16.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_29_ZOOM" class="cl-zoom" ><div id="OBJ_29_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_29_ZOOM_IMG" src="images/16.png" onload="CLO['OBJ_29'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_29_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_21" sid="x" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Векторы на основе РНК-содержащих вирусов" indent="0">
+<frames>
+<frame id="FRAME_22" dur="600" infinite="0">
+<object id="TXT_42" x="178" y="59" w="663" h="36" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 663px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:26px;"><span style="font-family:times new roman,times,serif;"><strong>Векторы на основе РНК-содержащих вирусов</strong></span></span></p></div>]]>
+</data>
+</object>
+<object id="TXT_43" x="33" y="142" w="953" h="140" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 953px; height: 140px; box-sizing: border-box;"><p><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">РНК-содержащие вирусы, или ретровирусы (Retroviridae) легко интегрируют в геном клетки-хозяина, тем самым обеспечивая долговременную экспрессию необходимого гена. Для создания генно-терапевтических&nbsp; векторов они считаются наиболее перспективными. </span></span></p>
+
+<p><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Ретровирусы - обширное семейство вирусов, заражающих преимущественно позвоночных. Это вирусы, которые, как и другие вирусы, для собственного размножения используют сложную молекулярную и надмолекулярную систему жизнеобеспечения клетки, заставляя ее подчиняться своим регуляторным сигналам.</span></span></p></div>]]>
+</data>
+</object>
+<object id="TXT_44" x="32" y="360" w="386" h="175" z="102" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 386px; height: 175px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Основные преимущества применения РНК-вирусных векторов &mdash; эффективная доставка генетического материала в клетки, поддержка долговременной экспрессии и трансдукция неделящихся клеток (большинство РНК-векторов неспособно к эффективному переносу трансгенов в покоящиеся клетки).&nbsp;</span></span></p></div>]]>
+</data>
+</object>
+<object id="OBJ_30" x="439" y="273" w="515" h="336" z="103" display="frame" begin="0" type="v_block_005">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_30 .cl-container"><span class="rule-static">width: 515px; height: 336px;</span></div><div class="rule" data-name="#OBJ_30 .cl-box"><span class="rule-static">width: 515px; height: 336px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_30 .cl-box img"><span class="rule-static">width: 515px; height: 336px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_30 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_30_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_30_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_30_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_30_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_30_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/17.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_30_ZOOM" class="cl-zoom" ><div id="OBJ_30_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_30_ZOOM_IMG" src="images/17.png" onload="CLO['OBJ_30'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_30_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
+</data>
+</object>
+<object id="TXT_81" x="305" y="113" w="407" h="25" z="104" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 407px; height: 25px; box-sizing: border-box;"><span style="font-size:18px;"><span style="font-style: italic; font-variant: normal; line-height: normal; text-align: justify; text-indent: 47.040000915527344px;">Векторы на основе РНК-содержащих вирусов</span></span></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_22" sid="y" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Получение рекомбинантных ДНК с помощью " indent="0">
+<frames>
+<frame id="FRAME_23" dur="600" infinite="0">
+<object id="TXT_45" x="178" y="59" w="663" h="75" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 663px; height: 75px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: center; direction: ltr; word-break: normal;"><strong><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;">Получение рекомбинантных ДНК с помощью </span></span></strong></p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: center; direction: ltr; word-break: normal;"><strong><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;">эукариотических систем</span></span></strong></p></div>]]>
+</data>
+</object>
+<object id="TXT_46" x="32" y="148" w="953" h="431" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 953px; height: 431px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Для получения гетерологичных рекомбинантных белков с клонированной эукариотической комп&shy;лементарной ДНК обычно используются прокариотические системы экспрессии. Однако в некоторых случаях эукариотические белки, синтезированные в бактериях, оказываются не&shy;стабильными или биологически неактивными. Чтобы решить эти проблемы, были разработаны эукариотические системы экспрессии. Такие белки должны быть идентичны природным по своим биохимиче&shy;ским, физическим и функциональным свойст&shy;вам. Неспособность прокариот синтезировать аутентичные варианты белков обусловлена в основном отсутствием у них адекватных меха&shy;низмов внесения специфических посттрансляционных модификаций.</span></span></p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Для экспрессии клонированных эукариотических генов интенсивно используют дрожжи <span style="font-style: italic;">Saccharomyces cerevisiae</span>. Они удобны в применении по ряду причин:</span></span></p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
+
+<div style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">1.&nbsp;Одноклеточный организм с хорошо изученными свойствами, который можно выращивать в лабораторных и промышленных условиях.</span></span></div>
+
+<div style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</div>
+
+<div style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">2. Выделены и охарактеризованы несколько сильных промоторов.</span></span></div>
+
+<div style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</div>
+
+<div style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">3. В качеств экспрессирующихся векторов можно использовать природные плазмиды</span></span></div>
+
+<div style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</div>
+
+<div style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">4. Секретирующийся белок поступает в среду и не требует дополнительной трудоемкой очистки. </span></span></div>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&nbsp;&nbsp;</span></span></p></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_23" sid="z" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Отличие эукариотических и прокариотических" indent="0">
+<frames>
+<frame id="FRAME_24" dur="600" infinite="0">
+<object id="TXT_47" x="178" y="59" w="663" h="80" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 663px; height: 80px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: center; direction: ltr; word-break: normal;"><strong><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;">Отличие эукариотических и прокариотических </span></span></strong></p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: center; direction: ltr; word-break: normal;"><strong><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;">экспрессионных систем</span></span></strong></p></div>]]>
+</data>
+</object>
+<object id="TXT_48" x="31" y="234" w="440" h="105" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 440px; height: 105px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&bull; Образование дисульфидных связей. Эту ре&shy;акцию катализирует фермент дисульфидизомераза. Неправильно уложенный белок ока&shy;зывается нестабильным и неактивным.</span></span></p></div>]]>
+</data>
+</object>
+<object id="TXT_49" x="550" y="232" w="438" h="105" z="102" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 438px; height: 105px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&bull; Гликозилирование: основная модификация, благодаря которой белки приобретают стабильность, а в некоторых случаях &mdash; особые свойства.&nbsp;</span></span></p></div>]]>
+</data>
+</object>
+<object id="TXT_50" x="31" y="436" w="440" h="105" z="103" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 440px; height: 105px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&bull; Протеолитическое расщепление предшественника, удаление определенного участка полипептидной цепи с образованием функ&shy;ционально активного белка.</span></span></p></div>]]>
+</data>
+</object>
+<object id="TXT_51" x="550" y="434" w="438" h="105" z="104" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 438px; height: 105px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&bull; Модификации аминокислот в составе белка: фосфорилирование, ацетилирование, ацили&shy;рование, гамма-карбоксилирование, сульфатирование, миристилирование и пальмитоилирование.</span></span></p></div>]]>
+</data>
+</object>
+<object id="TXT_52" x="128" y="167" w="761" h="31" z="105" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 761px; height: 31px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Белки в клетках эукариот претерпевают сле&shy;дующие посттрансляционные изменения:</span></span></p></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_24" sid="A" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Искусственные дрожжевые хромосомы - YAK" indent="0">
+<frames>
+<frame id="FRAME_25" dur="600" infinite="0">
+<object id="TXT_53" x="178" y="59" w="663" h="36" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 663px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><strong><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;">Искусственные дрожжевые хромосомы - YAK</span></span></strong></p></div>]]>
+</data>
+</object>
+<object id="TXT_54" x="33" y="110" w="953" h="74" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 953px; height: 74px; box-sizing: border-box;"><p><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">YAC предназначены для клонирования больших фрагментов ДНК (свыше 100 т.п.н.), которые затем поддерживаются в дрожжевой клетке как отдельные хромосомы. Отличительной характеристикой YAC-системы является ее чрезвычайная стабильность.&nbsp;</span></span></p></div>]]>
+</data>
+</object>
+<object id="OBJ_31" x="355" y="184" w="627" h="414" z="102" display="frame" begin="0" type="v_block_005">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_31 .cl-container"><span class="rule-static">width: 627px; height: 414px;</span></div><div class="rule" data-name="#OBJ_31 .cl-box"><span class="rule-static">width: 627px; height: 414px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_31 .cl-box img"><span class="rule-static">width: 627px; height: 414px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_31 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_31_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_31_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_31_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_31_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_31_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/20.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_31_ZOOM" class="cl-zoom" ><div id="OBJ_31_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_31_ZOOM_IMG" src="images/20.png" onload="CLO['OBJ_31'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_31_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
+</data>
+</object>
+<object id="TXT_55" x="32" y="219" w="386" h="221" z="103" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 386px; height: 221px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">YAC-система содержит селективный маркерный ген E.Coli (Amp<span style="vertical-align: super;">r</span>); сайт инициации&nbsp; репликации (ori<span style="vertical-align: super;">E</span>); сегмент дрожжевой ДНК, включающий участки URA3, CEN, TRP1 и ARS. T &ndash; теломерные области.</span></span></p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">YAC-система сначала обрабатывают SmaI, BamHI и щелочной фосфатазой, а затем сшивают с фрагментом ДНК длиной 100 т.п.н. Конечная конструкция содержит клонированную ДНК.&nbsp;</span></span></p></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_25" sid="B" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Достижения в генной инженерии белков" indent="0">
+<frames>
+<frame id="FRAME_26" dur="600" infinite="0">
+<object id="TXT_56" x="178" y="59" w="663" h="64" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 663px; height: 64px; box-sizing: border-box;"><p style="text-align: center;"><strong><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;">Достижения в генной инженерии белков</span></span></strong><span style="font-size:28px;"><strong><span style="font-family:times new roman,times,serif;"><span style="color: rgb(0, 0, 0);"> </span></span></strong></span></p>
+
+<p style="text-align: center;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Ферменты, применяемые в пищевой промышленности и их функции</span></span></p></div>]]>
+</data>
+</object>
+<object id="OBJ_32" x="142" y="137" w="733" h="471" z="101" display="frame" begin="0" type="v_block_005">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_32 .cl-container"><span class="rule-static">width: 733px; height: 471px;</span></div><div class="rule" data-name="#OBJ_32 .cl-box"><span class="rule-static">width: 733px; height: 471px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_32 .cl-box img"><span class="rule-static">width: 733px; height: 471px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_32 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_32_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_32_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_32_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_32_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_32_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/21.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_32_ZOOM" class="cl-zoom" ><div id="OBJ_32_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_32_ZOOM_IMG" src="images/21.png" onload="CLO['OBJ_32'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_32_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_26" sid="C" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Пути генетической модификации белков" indent="0">
+<frames>
+<frame id="FRAME_27" dur="600" infinite="0">
+<object id="TXT_59" x="178" y="59" w="663" h="45" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 663px; height: 45px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: center; direction: ltr; word-break: normal;"><strong><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;">Пути генетической модификации белков</span></span></strong></p></div>]]>
+</data>
+</object>
+<object id="TXT_60" x="178" y="167" w="250" h="44" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 250px; height: 44px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Образование дополнительных дисульфидных связей</span></span></p></div>]]>
+</data>
+</object>
+<object id="TXT_61" x="593" y="231" w="269" h="47" z="102" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 269px; height: 47px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Уменьшение числа свободных сульфгидрильных групп</span></span></p></div>]]>
+</data>
+</object>
+<object id="TXT_62" x="272" y="288" w="163" h="23" z="103" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 163px; height: 23px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Замена аспарагина</span></span></p></div>]]>
+</data>
+</object>
+<object id="TXT_63" x="595" y="337" w="302" h="51" z="104" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 302px; height: 51px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Повышение ферментативной активности</span></span></p></div>]]>
+</data>
+</object>
+<object id="TXT_58" x="197" y="389" w="223" h="66" z="105" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 223px; height: 66px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Изменение потребности ферментов в металлических кофакторах</span></span></p></div>]]>
+</data>
+</object>
+<object id="TXT_64" x="199" y="535" w="223" h="44" z="106" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 223px; height: 44px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Повышение стабильности фермента</span></span></p></div>]]>
+</data>
+</object>
+<object id="TXT_65" x="591" y="472" w="302" h="32" z="107" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 302px; height: 32px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Изменение специфичности фермента</span></span></p></div>]]>
+</data>
+</object>
+<object id="IMG_4" x="440" y="112" w="141" h="471" z="108" display="frame" begin="0" preload="images/clip20171215.bmp">
+<data>
+<![CDATA[<img src="images/clip20171215.bmp" style="width: 141px; height: 471px;border-width: 0px;"/>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_27" sid="D" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Повышение термостабильности ферментов" indent="0">
+<frames>
+<frame id="FRAME_28" dur="600" infinite="0">
+<object id="TXT_66" x="178" y="59" w="663" h="36" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 663px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><strong><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;">Повышение термостабильности ферментов</span></span></strong><span style="font-size:28px;"><strong><span style="font-family:times new roman,times,serif;"><span style="color: rgb(0, 0, 0);"> </span></span></strong></span></p></div>]]>
+</data>
+</object>
+<object id="OBJ_33" x="122" y="139" w="773" h="469" z="101" display="frame" begin="0" type="v_block_005">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_33 .cl-container"><span class="rule-static">width: 773px; height: 469px;</span></div><div class="rule" data-name="#OBJ_33 .cl-box"><span class="rule-static">width: 773px; height: 469px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_33 .cl-box img"><span class="rule-static">width: 773px; height: 469px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_33 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_33_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_33_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_33_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_33_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_33_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/23.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_33_ZOOM" class="cl-zoom" ><div id="OBJ_33_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_33_ZOOM_IMG" src="images/23.png" onload="CLO['OBJ_33'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_33_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
+</data>
+</object>
+<object id="TXT_67" x="31" y="111" w="440" h="155" z="102" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 440px; height: 155px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Термостабильность можно увеличить за счет внесения изменений, которые позволяют им не денатурировать при повышении температуры. К значительному повышению термостабильности приводит образование дополнительных дисульфидных связей. Основная проблемы заключаются в том, чтобы они не мешали нормальному функционированию фермента.</span></span></p></div>]]>
+</data>
+</object>
+<object id="TXT_68" x="550" y="109" w="438" h="155" z="103" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 438px; height: 155px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">При высоких температурах остатки аспарагина и глутамина могут дезаминировать с образованием аммиака. Это приводит к локальным изменениям конформации и утрате активности. При направленном мутагенезе, в результате которого происходит замена двух остатков аспарагина, время полужизни белка при температуре 100&ordm;С увеличивается почти в два раза.&nbsp;</span></span></p></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_28" sid="E" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Уменьшение числа свободных сульфгидрильных групп и повышение ферментативной активности" indent="0">
+<frames>
+<frame id="FRAME_29" dur="600" infinite="0">
+<object id="TXT_69" x="142" y="59" w="735" h="37" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 735px; height: 37px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: center; direction: ltr; word-break: normal;"><strong><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;">Уменьшение числа свободных сульфгидрильных групп</span></span></strong></p></div>]]>
+</data>
+</object>
+<object id="TXT_70" x="32" y="133" w="953" h="139" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 953px; height: 139px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Чужеродный белок, синтезируемый в организм-хозяине, иногда оказывается менее активным. Очень часто это связано с тем, что белок образует димеры и олигомеры в клетке-хозяине за счет образования дисульфидных связей. В таком случае производят замену одного или нескольких цистеиновых кодонов на сериновые. Серин используется потому, что его структура схожа с цистеиновой, но вместо серы содержится кислород, и не происходит образования дисульфидных связей. В результате можно получать белки с той же удельной активностью, что и в клетке-доноре.&nbsp;</span></span></p></div>]]>
+</data>
+</object>
+<object id="TXT_71" x="142" y="322" w="735" h="37" z="102" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 735px; height: 37px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: center; direction: ltr; word-break: normal;"><strong><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;">Повышение ферментативной активности</span></span></strong></p></div>]]>
+</data>
+</object>
+<object id="TXT_72" x="32" y="391" w="953" h="139" z="103" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 953px; height: 139px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Сродство фермента к субстрату и его каталитическую эффективность можно повысить, внося соответствующие изменения в клонируемый ген. В основном это осуществляется за счет специфических аминокислотных замен в боковых цепях, что приводит к улучшению кинетических свойств фермента. Однако результаты направленного мутагенеза во многом остаются непредсказуемыми.&nbsp;</span></span></p></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_29" sid="F" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Изменение потробности и специфичности фермента" indent="0">
+<frames>
+<frame id="FRAME_30" dur="600" infinite="0">
+<object id="TXT_73" x="61" y="59" w="898" h="37" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 898px; height: 37px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: center; direction: ltr; word-break: normal;"><strong><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;">Изменение потребности ферментов в металлических кофакторах</span></span></strong></p></div>]]>
+</data>
+</object>
+<object id="TXT_74" x="32" y="133" w="953" h="204" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 953px; height: 204px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">В качестве примера будет представлен белок субтилизин из класса сериновых протеаз. Эти белки используются в качестве биодеградируемых детергентов. Они прочно связываются с кальцием, что повышает их стабильность. Однако в промышленных процессах, где используются эти ферменты, участвуют различные хелаторы, связывающие кальций, в результате чего субтилизины теряют каталитическую активность. </span></span></p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">После идентификации домена, отвечающего за связывание кальция, была произведена делеция этого участка. Полученный белок не связывал кальций, но при этом сохранял исходную конформацию.</span></span></p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">После проведения стабилизирующих мутаций, стабильность мутантного субтилизина увеличивать в 10 раз в отсутствии кальция, и увеличилась на 50% в присутствии кальция.&nbsp;&nbsp;</span></span></p></div>]]>
+</data>
+</object>
+<object id="TXT_75" x="142" y="377" w="735" h="37" z="102" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 735px; height: 37px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: center; direction: ltr; word-break: normal;"><strong><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;">Изменение специфичности фермента</span></span></strong></p></div>]]>
+</data>
+</object>
+<object id="TXT_76" x="32" y="446" w="953" h="139" z="103" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 953px; height: 139px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Направленный мутагенез используют в основном для улучшения уже существующих свойств ферментов. Но иногда стоит биотехнологическая задача изменить ферменты таким образом, чтобы&nbsp; они приобретали иную специфичность. Так, например, на основе относительно неспецифичной эндонуклеазы рестрикции Fok1 были получены новые сайтспецифичные эндонуклеазы рестрикции.</span></span></p></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_30" sid="G" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Повышение стабильности и  специфичности фермента" indent="0">
+<frames>
+<frame id="FRAME_31" dur="600" infinite="0">
+<object id="TXT_77" x="126" y="59" w="763" h="42" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 763px; height: 42px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: center; direction: ltr; word-break: normal;"><strong><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;">Повышение стабильности и&nbsp; специфичности фермента</span></span></strong></p></div>]]>
+</data>
+</object>
+<object id="TXT_78" x="32" y="119" w="953" h="374" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 953px; height: 374px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Фермент активатор тканевого плазминогена (t РА), - это сериновая протеиназа, состоящая из нескольких доменов; ее используют в клинике для растворения сгустков&nbsp;</span></span><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">крови. К сожалению, tРА быстро выводится из системы кровообращения, поэтому его приходится вводить путем инфузии. Чтобы добиться желаемого терапевтического эффекта, необходимо использовать высокие концентрации фермента, а это может приводить к неспецифическому внутреннему кровотечению. Таким образом, было бы весьма желательно получить долгоживущий фермент tРА, обладающий высоким сродством к фибрину в тромбах и не вызывающий кровотечения. Белок с такими свойствами можно получить, внося специфические мутации в ген нативного tPА. </span></span></p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">В результате исследователи добились существенного повышения сродства фермента к фибрину. Кроме того, они получили фермент с такой же фибринолитической активностью, как у исходного фермента. Внеся эти три мутации в один белок, получили&nbsp;</span></span><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">фермент, обладающий всеми тремя свойствами.&nbsp;</span></span></p></div>]]>
+</data>
+</object>
+<timeline>
+</timeline>
+</frame>
+</frames>
+</slide>
+<slide id="SLIDE_31" sid="H" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Заключение" indent="0">
+<frames>
+<frame id="FRAME_32" dur="600" infinite="0">
+<object id="TXT_79" x="126" y="59" w="763" h="42" z="100" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 763px; height: 42px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: center; direction: ltr; word-break: normal;"><strong><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;">Заключение</span></span></strong></p></div>]]>
+</data>
+</object>
+<object id="TXT_80" x="32" y="119" w="953" h="374" z="101" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 953px; height: 374px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Свойства любого белка зависят от его конформации, которая, в свою очередь, определяется аминокислотной последовательностью. Некоторые аминокислоты в полипептидной цепи играют ключевую роль в определении специфичности, термостабильности и других свойств белка, так что замена единственного нуклеотида в гене, кодируюшем белок, может привести к включению в него аминокислоты, приводящему к снижению его активности, либо, напротив, к улучшению каких-то его специфических свойств. С развитием технологии рекомбинантных ДНК появилась возможность производить специфические замены в клонированных генах и получать белки, содержащие нужные аминокислоты в заданных сайтах. Такой подход получил название направленного мутагенеза. </span></span></p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Выбор аминокислоты, подлежащей замене, как правило, производится с учетом ее роли в функционировании белка. Данные об этом получают в ходе генетических исследований или методом рентгеноструктурного анализа трехмерной структуры белка. Изменяя специфические сайты или целые участки белковой молекулы, можно повысить термостабильность белка, изменить его чувствительность к рН, специфичность, аллостерическую регуляцию, потребность в кофакторе и другие свойства. </span></span></p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Эти подходы можно использовать как для придания новых свойств уже существующим белкам, так и для создания уникальных ферментов.</span></span></p></div>]]>
 </data>
 </object>
 <timeline>
@@ -4003,6 +4552,132 @@
 <param objectid="OBJ_25">
 <hidden_noimg>Картинка не задана</hidden_noimg>
 <imagefile>images/9.png</imagefile>
+<bg_color_profile>custom</bg_color_profile>
+<bg_color_custom>#FFFFFF</bg_color_custom>
+<button_color_profile>custom</button_color_profile>
+<button_color_custom>#0080C0</button_color_custom>
+<radius>10</radius>
+<shadow>normal</shadow>
+<tooltip_zoomin>Нажите здесь, чтобы увеличить картинку</tooltip_zoomin>
+<tooltip_close>Нажмите здесь, чтобы закрыть картинку</tooltip_close>
+<hide_onclick>yes</hide_onclick>
+<modal>yes</modal>
+</param>
+<param objectid="OBJ_24">
+<hidden_noimg>Картинка не задана</hidden_noimg>
+<imagefile>images/10.png</imagefile>
+<bg_color_profile>custom</bg_color_profile>
+<bg_color_custom>#FFFFFF</bg_color_custom>
+<button_color_profile>custom</button_color_profile>
+<button_color_custom>#0080C0</button_color_custom>
+<radius>10</radius>
+<shadow>normal</shadow>
+<tooltip_zoomin>Нажите здесь, чтобы увеличить картинку</tooltip_zoomin>
+<tooltip_close>Нажмите здесь, чтобы закрыть картинку</tooltip_close>
+<hide_onclick>yes</hide_onclick>
+<modal>yes</modal>
+</param>
+<param objectid="OBJ_26">
+<hidden_noimg>Картинка не задана</hidden_noimg>
+<imagefile>images/11.png</imagefile>
+<bg_color_profile>custom</bg_color_profile>
+<bg_color_custom>#FFFFFF</bg_color_custom>
+<button_color_profile>custom</button_color_profile>
+<button_color_custom>#0080C0</button_color_custom>
+<radius>10</radius>
+<shadow>normal</shadow>
+<tooltip_zoomin>Нажите здесь, чтобы увеличить картинку</tooltip_zoomin>
+<tooltip_close>Нажмите здесь, чтобы закрыть картинку</tooltip_close>
+<hide_onclick>yes</hide_onclick>
+<modal>yes</modal>
+</param>
+<param objectid="OBJ_27">
+<hidden_noimg>Картинка не задана</hidden_noimg>
+<imagefile>images/12.png</imagefile>
+<bg_color_profile>custom</bg_color_profile>
+<bg_color_custom>#FFFFFF</bg_color_custom>
+<button_color_profile>custom</button_color_profile>
+<button_color_custom>#0080C0</button_color_custom>
+<radius>10</radius>
+<shadow>normal</shadow>
+<tooltip_zoomin>Нажите здесь, чтобы увеличить картинку</tooltip_zoomin>
+<tooltip_close>Нажмите здесь, чтобы закрыть картинку</tooltip_close>
+<hide_onclick>yes</hide_onclick>
+<modal>yes</modal>
+</param>
+<param objectid="OBJ_28">
+<hidden_noimg>Картинка не задана</hidden_noimg>
+<imagefile>images/14.png</imagefile>
+<bg_color_profile>custom</bg_color_profile>
+<bg_color_custom>#FFFFFF</bg_color_custom>
+<button_color_profile>custom</button_color_profile>
+<button_color_custom>#0080C0</button_color_custom>
+<radius>10</radius>
+<shadow>normal</shadow>
+<tooltip_zoomin>Нажите здесь, чтобы увеличить картинку</tooltip_zoomin>
+<tooltip_close>Нажмите здесь, чтобы закрыть картинку</tooltip_close>
+<hide_onclick>yes</hide_onclick>
+<modal>yes</modal>
+</param>
+<param objectid="OBJ_29">
+<hidden_noimg>Картинка не задана</hidden_noimg>
+<imagefile>images/16.png</imagefile>
+<bg_color_profile>custom</bg_color_profile>
+<bg_color_custom>#FFFFFF</bg_color_custom>
+<button_color_profile>custom</button_color_profile>
+<button_color_custom>#0080C0</button_color_custom>
+<radius>10</radius>
+<shadow>normal</shadow>
+<tooltip_zoomin>Нажите здесь, чтобы увеличить картинку</tooltip_zoomin>
+<tooltip_close>Нажмите здесь, чтобы закрыть картинку</tooltip_close>
+<hide_onclick>yes</hide_onclick>
+<modal>yes</modal>
+</param>
+<param objectid="OBJ_30">
+<hidden_noimg>Картинка не задана</hidden_noimg>
+<imagefile>images/17.png</imagefile>
+<bg_color_profile>custom</bg_color_profile>
+<bg_color_custom>#FFFFFF</bg_color_custom>
+<button_color_profile>custom</button_color_profile>
+<button_color_custom>#0080C0</button_color_custom>
+<radius>10</radius>
+<shadow>normal</shadow>
+<tooltip_zoomin>Нажите здесь, чтобы увеличить картинку</tooltip_zoomin>
+<tooltip_close>Нажмите здесь, чтобы закрыть картинку</tooltip_close>
+<hide_onclick>yes</hide_onclick>
+<modal>yes</modal>
+</param>
+<param objectid="OBJ_31">
+<hidden_noimg>Картинка не задана</hidden_noimg>
+<imagefile>images/20.png</imagefile>
+<bg_color_profile>custom</bg_color_profile>
+<bg_color_custom>#FFFFFF</bg_color_custom>
+<button_color_profile>custom</button_color_profile>
+<button_color_custom>#0080C0</button_color_custom>
+<radius>10</radius>
+<shadow>normal</shadow>
+<tooltip_zoomin>Нажите здесь, чтобы увеличить картинку</tooltip_zoomin>
+<tooltip_close>Нажмите здесь, чтобы закрыть картинку</tooltip_close>
+<hide_onclick>yes</hide_onclick>
+<modal>yes</modal>
+</param>
+<param objectid="OBJ_32">
+<hidden_noimg>Картинка не задана</hidden_noimg>
+<imagefile>images/21.png</imagefile>
+<bg_color_profile>custom</bg_color_profile>
+<bg_color_custom>#FFFFFF</bg_color_custom>
+<button_color_profile>custom</button_color_profile>
+<button_color_custom>#0080C0</button_color_custom>
+<radius>10</radius>
+<shadow>normal</shadow>
+<tooltip_zoomin>Нажите здесь, чтобы увеличить картинку</tooltip_zoomin>
+<tooltip_close>Нажмите здесь, чтобы закрыть картинку</tooltip_close>
+<hide_onclick>yes</hide_onclick>
+<modal>yes</modal>
+</param>
+<param objectid="OBJ_33">
+<hidden_noimg>Картинка не задана</hidden_noimg>
+<imagefile>images/23.png</imagefile>
 <bg_color_profile>custom</bg_color_profile>
 <bg_color_custom>#FFFFFF</bg_color_custom>
 <button_color_profile>custom</button_color_profile>
