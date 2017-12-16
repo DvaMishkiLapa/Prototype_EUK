@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Presentation file, saved 12/16/2017 9:44:00 PM using CourseLab 171024 -->
+<!-- Presentation file, saved 12/16/2017 10:28:09 PM using CourseLab 171024 -->
 <module>
 <runtime preview_fullscreen="yes" preview_fitwindow="no" fit_small_window="yes" showsplash="yes" seqslides="no" preloadimages="yes" normalize="no"/>
 <groups>
@@ -973,31 +973,31 @@
 									</div></div></li></ul></div></div></div></div>]]>
 </data>
 </object>
-<object id="OBJ_10" x="121" y="202" w="720" h="400" z="8" display="frame" begin="0" type="nav_0002_navi_win">
-<data>
-<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none"  ><div class="rule" data-name="#OBJ_10 .cl-container"><span class="rule-static">width: 720px; height: 400px; min-width: 720px; min-height: 400px; max-width: 720px; max-height: 400px;</span></div><div class="rule" data-name="#OBJ_10 .cl-body"><span class="rule-static">left: 0; top: 0;width: 720px; height: 400px; min-width: 720px; min-height: 400px; max-width: 720px; max-height: 400px;padding: 15px; border: 1px solid #0080C0; background-color: #FFFFFF;
-			</span><span class="rule-dynamic" data-type="border-radius" data-value="5px" /><span class="rule-dynamic" data-type="box-shadow" data-value="2px 2px 6px rgba(102,102,102,0.66)" /></div><div class="rule" data-name="#OBJ_10 .cl-body-header"><span class="rule-static">padding: 0 0 15px 0;</span></div><div class="rule" data-name="#OBJ_10 .cl-letters-box"><span class="rule-static">border-bottom: solid 2px #0080C0;</span></div><div class="rule" data-name="#OBJ_10 .cl-letter-item"><span class="rule-static">font-family: clear_sansregular, Arial, sans-serif; font-size: 13px;</span></div><div class="rule" data-name="#OBJ_10 .cl-letter-idle"><span class="rule-static">background-color: #0080C0; border-color: #0080C0; color: #FFFFFF;</span></div><div class="rule" data-name="#OBJ_10 .cl-letter-selected"><span class="rule-static">background-color: #CEEFFF; border-color: #0080C0; color: #0080C0;</span></div><div class="rule" data-name="#OBJ_10 .cl-terms-list-cell"><span class="rule-static">width: 30%;</span></div><div class="rule" data-name="#OBJ_10 .cl-terms-desc"><span class="rule-static">width: 70%;</span></div><div class="rule" data-name="#OBJ_10 .cl-terms-desc-container"><span class="rule-static">padding: 15px;</span></div><div class="rule" data-name="#OBJ_10 .cl-terms-list"><span class="rule-static">font-family: clear_sansregular, Arial, sans-serif;
-		font-size: 16px;
-	</span></div><div class="rule" data-name="#OBJ_10 .cl-term-item"><span class="rule-static">padding: 10px; font-family: clear_sansregular, Arial, sans-serif;
-		font-size: 16px;
-	</span><span class="rule-dynamic" data-type="border-radius" data-value="5px 0 0 5px" /></div><div class="rule" data-name="#OBJ_10 .cl-term-idle"><span class="rule-static">color: #FFFFFF; background-color: #0080C0;</span><span class="rule-dynamic" data-type="linear-gradient" data-angle="90" data-colors="#0080C0|0;#8AD9FF|100" /></div><div class="rule" data-name="#OBJ_10 .cl-term-selected"><span class="rule-static">color: #0080C0; background-color: #CEEFFF;</span><span class="rule-dynamic" data-type="linear-gradient" data-angle="90" data-colors="#CEEFFF|0;#FFFFFF|100" /></div><div class="rule" data-name="#OBJ_10 .cl-close-btn"><span class="rule-static"> top: 15px; right: 15px; color: #0080C0;</span></div></div><div id="OBJ_10_CONTAINER" class="cl-container unselectable"  ><div class="cl-body"><div class="cl-body-header"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="line-height: 13.4399995803833px;">Тезаурус</span></span></span></div><div class="cl-btn cl-close-btn" title="Закрыть окно">
-				×
-			</div><div class="cl-body-contents cl-body-contents-glossary"><div class="cl-letters-box"><table align="center" class="cl-letters-table"><tr><td class="cl-letter-cell"><div class="cl-letter-item cl-letter-selected" data-letter="*">
-												*
-											</div></td><td class="cl-letter-cell"><div class="cl-letter-item cl-letter-idle" data-letter="Б">Б</div></td><td class="cl-letter-cell"><div class="cl-letter-item cl-letter-idle" data-letter="В">В</div></td><td class="cl-letter-cell"><div class="cl-letter-item cl-letter-idle" data-letter="К">К</div></td><td class="cl-letter-cell"><div class="cl-letter-item cl-letter-idle" data-letter="Л">Л</div></td><td class="cl-letter-cell"><div class="cl-letter-item cl-letter-idle" data-letter="Н">Н</div></td><td class="cl-letter-cell"><div class="cl-letter-item cl-letter-idle" data-letter="П">П</div></td><td class="cl-letter-cell"><div class="cl-letter-item cl-letter-idle" data-letter="Р">Р</div></td><td class="cl-letter-cell"><div class="cl-letter-item cl-letter-idle" data-letter="С">С</div></td><td class="cl-letter-cell"><div class="cl-letter-item cl-letter-idle" data-letter="Т">Т</div></td><td class="cl-letter-cell"><div class="cl-letter-item cl-letter-idle" data-letter="Ф">Ф</div></td></tr></table></div><div class="cl-terms-box"><table cellpadding="0" cellspacing="0" border="0" class="cl-terms-table"><tr><td class="cl-terms-td cl-terms-list-cell"><div class="cl-terms-list-container"><ul class="cl-terms-list"><li class="cl-term-item cl-term-idle" id="OBJ_10_TERM_1" data-code="22" data-number="1">Биологическое окисление</li><li class="cl-term-item cl-term-idle" id="OBJ_10_TERM_2" data-code="12" data-number="2">Вектор</li><li class="cl-term-item cl-term-idle" id="OBJ_10_TERM_3" data-code="19" data-number="3">Катализатор</li><li class="cl-term-item cl-term-idle" id="OBJ_10_TERM_4" data-code="2" data-number="4">Комплементарность</li><li class="cl-term-item cl-term-idle" id="OBJ_10_TERM_5" data-code="16" data-number="5">Кофактор</li><li class="cl-term-item cl-term-idle" id="OBJ_10_TERM_6" data-code="21" data-number="6">Кофермент</li><li class="cl-term-item cl-term-idle" id="OBJ_10_TERM_7" data-code="8" data-number="7">Лигаза</li><li class="cl-term-item cl-term-idle" id="OBJ_10_TERM_8" data-code="10" data-number="8">Липкие концы</li><li class="cl-term-item cl-term-idle" id="OBJ_10_TERM_9" data-code="9" data-number="9">Нуклеазы</li><li class="cl-term-item cl-term-idle" id="OBJ_10_TERM_10" data-code="1" data-number="10">Нуклеиновые кислоты</li><li class="cl-term-item cl-term-idle" id="OBJ_10_TERM_11" data-code="15" data-number="11">Нуклеотид</li><li class="cl-term-item cl-term-idle" id="OBJ_10_TERM_12" data-code="18" data-number="12">Плазмида</li><li class="cl-term-item cl-term-idle" id="OBJ_10_TERM_13" data-code="17" data-number="13">Праймер</li><li class="cl-term-item cl-term-idle" id="OBJ_10_TERM_14" data-code="6" data-number="14">Процессинг РНК</li><li class="cl-term-item cl-term-idle" id="OBJ_10_TERM_15" data-code="13" data-number="15">ПЦР</li><li class="cl-term-item cl-term-idle" id="OBJ_10_TERM_16" data-code="5" data-number="16">Репликация</li><li class="cl-term-item cl-term-idle" id="OBJ_10_TERM_17" data-code="7" data-number="17">Рестрикционная карта</li><li class="cl-term-item cl-term-idle" id="OBJ_10_TERM_18" data-code="14" data-number="18">Секвенирование</li><li class="cl-term-item cl-term-idle" id="OBJ_10_TERM_19" data-code="3" data-number="19">Транскрипция</li><li class="cl-term-item cl-term-idle" id="OBJ_10_TERM_20" data-code="4" data-number="20">Трансляция</li><li class="cl-term-item cl-term-idle" id="OBJ_10_TERM_21" data-code="11" data-number="21">Тупой конец</li><li class="cl-term-item cl-term-idle" id="OBJ_10_TERM_22" data-code="23" data-number="22">Ферментер</li><li class="cl-term-item cl-term-idle" id="OBJ_10_TERM_23" data-code="20" data-number="23">Ферменты (энзимы)</li></ul></div></td><td class="cl-terms-td cl-terms-desc"><div class="cl-terms-desc-container"><div class="cl-term-desc-item cl-term-desc-default" id="OBJ_10_DESC_0" data-code="___DEFAULT" data-number="0"><table class="cl-terms-desc-default-table"><tr><td class="cl-terms-desc-default-cell"><span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Выберите элемент, чтобы увидеть описание</span></td></tr></table></div><div class="cl-term-desc-item" id="OBJ_10_DESC_1" data-code="22" data-number="1"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Окислительно-восстановительные реакции, протекающие в клетках организма, в результате которых сложные органические вещества окисляются&nbsp;при участии ферментов.</span></span></p></div><div class="cl-term-desc-item" id="OBJ_10_DESC_2" data-code="12" data-number="2"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Молекула нуклеиновой кислоты, используемая в генетической инженерии для передачи генетического материала другой клетке.</span></span></div><div class="cl-term-desc-item" id="OBJ_10_DESC_3" data-code="19" data-number="3"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Вещество, помогающее протеканию химической реакции, но не изменяющееся в ходе нее.</span></span></div><div class="cl-term-desc-item" id="OBJ_10_DESC_4" data-code="2" data-number="4"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Взаимное соответствие молекул или их фрагментов, обеспечивающее связь дополняющих друг друга структур и определяемое их химическими свойствами.</span></span></div><div class="cl-term-desc-item" id="OBJ_10_DESC_5" data-code="16" data-number="5"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Небелковое соединение, которое нужно белку для его биологической деятельности. Эти белки обычно являются ферментами, поэтому кофакторы называют &laquo;молекулами-помощниками&raquo;, которые участвуют в биохимических превращениях.</span></span></div><div class="cl-term-desc-item" id="OBJ_10_DESC_6" data-code="21" data-number="6"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Органические соединения небелковой природы, необходимые для осуществления каталитического действия многих ферментов.</span></span></div><div class="cl-term-desc-item" id="OBJ_10_DESC_7" data-code="8" data-number="7"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Фермент, катализирующий соединение двух молекул с образованием новой химической связи. При этом обычно происходит отщепление (гидролиз) небольшой химической группы от одной из молекул.</span></span></div><div class="cl-term-desc-item" id="OBJ_10_DESC_8" data-code="10" data-number="8"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Комплементарные друг другу, выступающие однонитевые участки одного или разных двухцепочечных фрагментов ДНК. С помощью липких концов фрагменты могут соединяться друг с другом с образованием гибридных молекул.</span></span></p></div><div class="cl-term-desc-item" id="OBJ_10_DESC_9" data-code="9" data-number="9"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Гидролитические ферменты, расщепляющие нуклеиновые кислоты. По механизму расщепления субстратов нуклеазы разделяют на экзонуклеазы и эндонуклеазы. <em>Экзонуклеазы</em> осуществляют последовательное отщепление олигонуклеотидов с концов молекулы, тогда как эндонуклеазы вносят в молекулы нуклеиновых кислот внутренние разрывы.</span></span></div><div class="cl-term-desc-item" id="OBJ_10_DESC_10" data-code="1" data-number="10"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Биологические полимерные молекулы, хранящие информацию об отдельном живом организме, определяющие его рост и развитие, а также наследственные признаки, передаваемые следующему поколению.</span></span></p></div><div class="cl-term-desc-item" id="OBJ_10_DESC_11" data-code="15" data-number="11"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Мономерное звено в полимерной молекуле нуклеиновой кислоты. В зависимости от вида содержащегося углевода различают рибонуклеотид (включает рибозу) и дезоксирибонуклеотид (включает дезоксирибозу).</span></span></div><div class="cl-term-desc-item" id="OBJ_10_DESC_12" data-code="18" data-number="12"><p><span style="font-family:times new roman,times,serif;"><span style="font-size:20px;">Внехромосомная кольцевая ДНК, которая обладает способностью стабильно существовать в автономном (не связанном с хромосомами) состоянии в цитоплазме.</span></span></p>
-
-<p><span style="font-family:times new roman,times,serif;"><span style="font-size:20px;">В природе плазмиды обычно содержат гены, повышающие устойчивость бактерии к неблагоприятным внешним факторам (в т.ч. устойчивость к антибиотикам), нередко они могут передаваться от одной бактерии к другой и служат средством горизонтального переноса генов.</span></span></p></div><div class="cl-term-desc-item" id="OBJ_10_DESC_13" data-code="17" data-number="13"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Олигонуклеотид, комплементарный ДНК- или РНК-мишени, служит затравкой для синтеза комплементарной цепи с помощью ДНК-полимеразы. Затравка необходима для инициации синтеза новой цепи (ДНК-полимераза последовательно добавляет к 3&#39;-концу праймера нуклеотиды, комплементарные матричной цепи).</span></span></div><div class="cl-term-desc-item" id="OBJ_10_DESC_14" data-code="6" data-number="14"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Совокупность процессов в клетках&nbsp;эукариот, которые приводят к превращению первичного&nbsp; транскрипта в зрелую&nbsp;РНК.</span></span></div><div class="cl-term-desc-item" id="OBJ_10_DESC_15" data-code="13" data-number="15"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">(полимеразная цепная реакция) &ndash; метод молекулярной биологии, позволяющий добиться значительного увеличения малых концентраций определенных фрагментов нуклеиновой кислоты (ДНК) в биологическом материале (пробе).</span></span></p></div><div class="cl-term-desc-item" id="OBJ_10_DESC_16" data-code="5" data-number="16"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">(от&nbsp;лат.&nbsp;replicatio&nbsp;&mdash; возобновление)&nbsp;&mdash; процесс синтеза дочерней молекулы дезоксирибонуклеиновой кислоты на матрице родительской молекулы ДНК.&nbsp;</span></span></p></div><div class="cl-term-desc-item" id="OBJ_10_DESC_17" data-code="7" data-number="17"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">(restriction map) - линейное изображение последовательности ДНК, которое показывает расположение сайтов узнавания специфических рестрикционных ферментов.</span></span></div><div class="cl-term-desc-item" id="OBJ_10_DESC_18" data-code="14" data-number="18"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Определение последовательности нуклеотидов в гене.</span></span></div><div class="cl-term-desc-item" id="OBJ_10_DESC_19" data-code="3" data-number="19"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Это переписывание генетической информации с молекулы ДНК на молекулу и-РНК (информационную, или матричную, РНК).</span></span></div><div class="cl-term-desc-item" id="OBJ_10_DESC_20" data-code="4" data-number="20"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Процесс&nbsp;синтеза&nbsp;белка&nbsp;из&nbsp;аминокислот&nbsp;на матрице&nbsp;информационной (матричной) РНК&nbsp;(иРНК, мРНК), осуществляемый&nbsp;рибосомой.</span></span></div><div class="cl-term-desc-item" id="OBJ_10_DESC_21" data-code="11" data-number="21"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Концы цепей двухцепочечной молекулы ДНК, заканчивающиеся парой соединенных комплементарных оснований (т.е. один конец не &quot;выступает&quot; за другой - в отличие от &quot;липких концов&quot;).</span></span></div><div class="cl-term-desc-item" id="OBJ_10_DESC_22" data-code="23" data-number="22"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Аппарат для глубинного выращивания (культивирования) микроорганизмов в питательной среде в условиях стерильности, интенсивного перемешивания, непрерывного продувания стерильным воздухом и постоянной температуры.</span></span></p></div><div class="cl-term-desc-item" id="OBJ_10_DESC_23" data-code="20" data-number="23"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;"><span class="w"><span style="line-height: 115%;">Органические</span></span><span style="line-height: 115%;"> <span class="w">вещества обычно</span> <span class="w">белковой</span> <span class="w">природы</span>, <span class="w">которые</span> <span class="w">синтезируются</span> <span class="w">в</span> <span class="w">клетках</span> <span class="w">и</span> <span class="w">во</span> <span class="w">много</span> <span class="w">раз</span> <span class="w">ускоряют протекающие</span> <span class="w">в</span> <span class="w">них</span> <span class="w">реакции</span>, <span class="w">не</span> <span class="w">подвергаясь</span> <span class="w">при</span> <span class="w">этом</span> <span class="w">химическим</span> <span class="w">превращениям</span>.</span></span></span></div></div></td></tr></table></div></div></div></div></div>]]>
-</data>
-</object>
-<object id="OBJ_11" x="988" y="10" w="16" h="15" z="9" display="frame" begin="0" type="nav_0000_btn_navi">
+<object id="OBJ_11" x="988" y="10" w="16" h="15" z="8" display="frame" begin="0" type="nav_0000_btn_navi">
 <data>
 <![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_11 .cl-btn"><span class="rule-static">width: 16px; height: 15px;</span></div></div><div class="cl-container unselectable" ><div class="cl-btn cl-btn-img cl-idle" title="Закрыть модуль" data-title-enabled="Закрыть модуль" data-title-disabled=""><img class="cl-img-idle" src="images/close_20171216.png" /><img class="cl-img-over" src="images/close_20171216.png" /><img class="cl-img-disabled" src="images/close_20171216.png" /></div></div></div>]]>
 </data>
 </object>
-<object id="OBJ_12" x="49" y="624" w="50" h="50" z="10" display="frame" begin="0" type="nav_0000_btn_toggle">
+<object id="OBJ_12" x="49" y="624" w="50" h="50" z="9" display="frame" begin="0" type="nav_0000_btn_toggle">
 <data>
 <![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_12 .cl-btn"><span class="rule-static">width: 50px; height: 50px;</span></div><div class="rule" data-name="#OBJ_12 .cl-btn-html"><span class="rule-static"></span></div><div class="rule" data-name="#OBJ_12 .cl-btn-on .cl-idle" /><div class="rule" data-name="#OBJ_12 .cl-btn-on .cl-over"><span class="rule-static">background-color: ;</span></div><div class="rule" data-name="#OBJ_12 .cl-btn-off .cl-idle" /><div class="rule" data-name="#OBJ_12 .cl-btn-off .cl-over"><span class="rule-static">background-color: ;</span></div><div class="rule" data-name="#OBJ_12 .cl-btn-bg"><span class="rule-static">width: 48px; height: 48px;</span></div><div class="rule" data-name="#OBJ_12 .cl-btn-on .cl-idle .cl-btn-bg"><span class="rule-static">background-image: url(images/listSlider_20171216.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_12 .cl-btn-on .cl-over .cl-btn-bg"><span class="rule-static">background-image: url(images/listSlider_hover_20171216.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_12 .cl-btn-off .cl-idle .cl-btn-bg"><span class="rule-static">background-image: url(images/Bezymyanny-1_20171216.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_12 .cl-btn-off .cl-over .cl-btn-bg"><span class="rule-static">background-image: url(images/listSlider_hover_20171216.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_12 .cl-btn-table"><span class="rule-static">width: 48px; height: 48px;</span></div><div class="rule" data-name="#OBJ_12 .cl-btn-table .cl-btn-table-content"><span class="rule-static">width: 48px; height: 48px; text-align: center; padding: 0 0px 0 0px; 
 		font-family: robotoblack, 'Arial Black', Gadget, sans-serif; font-size: 14px; color: #004080; text-shadow: 1px 1px 2px rgba(255,255,255,0.66);</span></div><div class="rule" data-name="#OBJ_12 .cl-over .cl-btn-table-content"><span class="rule-static">color: #4080C0 !important;</span></div></div><div id="OBJ_12_CONTAINER" class="cl-container unselectable" ><div id="OBJ_12_BTN" class="cl-btn cl-btn-html cl-btn-on" title="Показать список слайдов" data-title-on="Показать список слайдов" data-title-off="Скрыть список слайдов"><div class="cl-idle"><div class="cl-btn-bg"><table class="cl-btn-table"><tr><td class="cl-btn-table-content"> </td></tr></table></div></div></div></div></div>]]>
+</data>
+</object>
+<object id="OBJ_17" x="121" y="202" w="720" h="400" z="10" display="frame" begin="0" type="nav_0002_navi_win">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none"  ><div class="rule" data-name="#OBJ_17 .cl-container"><span class="rule-static">width: 720px; height: 400px; min-width: 720px; min-height: 400px; max-width: 720px; max-height: 400px;</span></div><div class="rule" data-name="#OBJ_17 .cl-body"><span class="rule-static">left: 0; top: 0;width: 720px; height: 400px; min-width: 720px; min-height: 400px; max-width: 720px; max-height: 400px;padding: 15px; border: 1px solid #0080C0; background-color: #FFFFFF;
+			</span><span class="rule-dynamic" data-type="border-radius" data-value="5px" /><span class="rule-dynamic" data-type="box-shadow" data-value="2px 2px 6px rgba(102,102,102,0.66)" /></div><div class="rule" data-name="#OBJ_17 .cl-body-header"><span class="rule-static">padding: 0 0 15px 0;</span></div><div class="rule" data-name="#OBJ_17 .cl-letters-box"><span class="rule-static">border-bottom: solid 2px #0080C0;</span></div><div class="rule" data-name="#OBJ_17 .cl-letter-item"><span class="rule-static">font-family: clear_sansregular, Arial, sans-serif; font-size: 13px;</span></div><div class="rule" data-name="#OBJ_17 .cl-letter-idle"><span class="rule-static">background-color: #0080C0; border-color: #0080C0; color: #FFFFFF;</span></div><div class="rule" data-name="#OBJ_17 .cl-letter-selected"><span class="rule-static">background-color: #CEEFFF; border-color: #0080C0; color: #0080C0;</span></div><div class="rule" data-name="#OBJ_17 .cl-terms-list-cell"><span class="rule-static">width: 30%;</span></div><div class="rule" data-name="#OBJ_17 .cl-terms-desc"><span class="rule-static">width: 70%;</span></div><div class="rule" data-name="#OBJ_17 .cl-terms-desc-container"><span class="rule-static">padding: 15px;</span></div><div class="rule" data-name="#OBJ_17 .cl-terms-list"><span class="rule-static">font-family: clear_sansregular, Arial, sans-serif;
+		font-size: 16px;
+	</span></div><div class="rule" data-name="#OBJ_17 .cl-term-item"><span class="rule-static">padding: 10px; font-family: clear_sansregular, Arial, sans-serif;
+		font-size: 16px;
+	</span><span class="rule-dynamic" data-type="border-radius" data-value="5px 0 0 5px" /></div><div class="rule" data-name="#OBJ_17 .cl-term-idle"><span class="rule-static">color: #FFFFFF; background-color: #0080C0;</span><span class="rule-dynamic" data-type="linear-gradient" data-angle="90" data-colors="#0080C0|0;#8AD9FF|100" /></div><div class="rule" data-name="#OBJ_17 .cl-term-selected"><span class="rule-static">color: #0080C0; background-color: #CEEFFF;</span><span class="rule-dynamic" data-type="linear-gradient" data-angle="90" data-colors="#CEEFFF|0;#FFFFFF|100" /></div><div class="rule" data-name="#OBJ_17 .cl-close-btn"><span class="rule-static"> top: 15px; right: 15px; color: #0080C0;</span></div></div><div id="OBJ_17_CONTAINER" class="cl-container unselectable"  ><div class="cl-body"><div class="cl-body-header"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="line-height: 13.4399995803833px;">Тезаурус</span></span></span></div><div class="cl-btn cl-close-btn" title="Закрыть окно">
+				×
+			</div><div class="cl-body-contents cl-body-contents-glossary"><div class="cl-letters-box"><table align="center" class="cl-letters-table"><tr><td class="cl-letter-cell"><div class="cl-letter-item cl-letter-selected" data-letter="*">
+												*
+											</div></td><td class="cl-letter-cell"><div class="cl-letter-item cl-letter-idle" data-letter="G">G</div></td><td class="cl-letter-cell"><div class="cl-letter-item cl-letter-idle" data-letter="Б">Б</div></td><td class="cl-letter-cell"><div class="cl-letter-item cl-letter-idle" data-letter="В">В</div></td><td class="cl-letter-cell"><div class="cl-letter-item cl-letter-idle" data-letter="Г">Г</div></td><td class="cl-letter-cell"><div class="cl-letter-item cl-letter-idle" data-letter="К">К</div></td><td class="cl-letter-cell"><div class="cl-letter-item cl-letter-idle" data-letter="Л">Л</div></td><td class="cl-letter-cell"><div class="cl-letter-item cl-letter-idle" data-letter="Н">Н</div></td><td class="cl-letter-cell"><div class="cl-letter-item cl-letter-idle" data-letter="О">О</div></td><td class="cl-letter-cell"><div class="cl-letter-item cl-letter-idle" data-letter="П">П</div></td><td class="cl-letter-cell"><div class="cl-letter-item cl-letter-idle" data-letter="Р">Р</div></td><td class="cl-letter-cell"><div class="cl-letter-item cl-letter-idle" data-letter="С">С</div></td><td class="cl-letter-cell"><div class="cl-letter-item cl-letter-idle" data-letter="Т">Т</div></td><td class="cl-letter-cell"><div class="cl-letter-item cl-letter-idle" data-letter="Ф">Ф</div></td><td class="cl-letter-cell"><div class="cl-letter-item cl-letter-idle" data-letter="Х">Х</div></td></tr></table></div><div class="cl-terms-box"><table cellpadding="0" cellspacing="0" border="0" class="cl-terms-table"><tr><td class="cl-terms-td cl-terms-list-cell"><div class="cl-terms-list-container"><ul class="cl-terms-list"><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_1" data-code="28" data-number="1">GLP</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_2" data-code="29" data-number="2">GMP</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_3" data-code="27" data-number="3">Биобезопасность</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_4" data-code="22" data-number="4">Биологическое окисление</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_5" data-code="42" data-number="5">Биореактор, ферментер</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_6" data-code="24" data-number="6">Биотехнология</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_7" data-code="38" data-number="7">Брожение</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_8" data-code="12" data-number="8">Вектор</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_9" data-code="32" data-number="9">Генетический риск</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_10" data-code="43" data-number="10">Генная инженерия</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_11" data-code="53" data-number="11">Гетерологичный белок</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_12" data-code="41" data-number="12">Глубинное культивирование</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_13" data-code="19" data-number="13">Катализатор</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_14" data-code="51" data-number="14">Клонирование ДНК</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_15" data-code="34" data-number="15">КМАФАнМ</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_16" data-code="33" data-number="16">Колиформы</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_17" data-code="2" data-number="17">Комплементарность</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_18" data-code="16" data-number="18">Кофактор</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_19" data-code="21" data-number="19">Кофермент</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_20" data-code="8" data-number="20">Лигаза</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_21" data-code="44" data-number="21">Лигирование</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_22" data-code="10" data-number="22">Липкие концы</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_23" data-code="31" data-number="23">Направленный мутагенез</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_24" data-code="9" data-number="24">Нуклеазы</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_25" data-code="1" data-number="25">Нуклеиновые кислоты</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_26" data-code="15" data-number="26">Нуклеотид</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_27" data-code="37" data-number="27">Облигатный</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_28" data-code="35" data-number="28">Окраска по Граму</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_29" data-code="55" data-number="29">Патогенность</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_30" data-code="18" data-number="30">Плазмида</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_31" data-code="40" data-number="31">Поверхностное культивирование</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_32" data-code="17" data-number="32">Праймер</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_33" data-code="6" data-number="33">Процессинг РНК</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_34" data-code="13" data-number="34">ПЦР</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_35" data-code="45" data-number="35">Рекомбинантный ген</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_36" data-code="5" data-number="36">Репликация</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_37" data-code="47" data-number="37">Рестриктаза</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_38" data-code="7" data-number="38">Рестрикционная карта</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_39" data-code="50" data-number="39">Рестрикция</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_40" data-code="52" data-number="40">Ретровирусы</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_41" data-code="48" data-number="41">Сайт рестрикции</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_42" data-code="14" data-number="42">Секвенирование</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_43" data-code="26" data-number="43">Соматическая гибридизация</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_44" data-code="30" data-number="44">Спонтанный мутагенез</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_45" data-code="54" data-number="45">Технология рекомбинантных ДНК</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_46" data-code="25" data-number="46">Тотипотентность</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_47" data-code="3" data-number="47">Транскрипция</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_48" data-code="4" data-number="48">Трансляция</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_49" data-code="49" data-number="49">Трансформация</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_50" data-code="11" data-number="50">Тупой конец</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_51" data-code="39" data-number="51">Ферментация</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_52" data-code="23" data-number="52">Ферментер</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_53" data-code="20" data-number="53">Ферменты (энзимы)</li><li class="cl-term-item cl-term-idle" id="OBJ_17_TERM_54" data-code="36" data-number="54">Хемоорганотрофы</li></ul></div></td><td class="cl-terms-td cl-terms-desc"><div class="cl-terms-desc-container"><div class="cl-term-desc-item cl-term-desc-default" id="OBJ_17_DESC_0" data-code="___DEFAULT" data-number="0"><table class="cl-terms-desc-default-table"><tr><td class="cl-terms-desc-default-cell"><span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Выберите элемент, чтобы увидеть описание</span></td></tr></table></div><div class="cl-term-desc-item" id="OBJ_17_DESC_1" data-code="28" data-number="1"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">(good laboratory practice) - система обеспечения качества, имеющая отношение к процессам организации, планирования, порядку проведения и контролю исследований в области охраны здоровья человека и безопасности окружающей среды, а также оформления, архивирования и представления результатов исследований.</span></span></p></div><div class="cl-term-desc-item" id="OBJ_17_DESC_2" data-code="29" data-number="2"><p><span style="font-family:times new roman,times,serif;"><span style="font-size:20px;">(good manufacturing practice) - система удостоверения качества фармацевтических препаратов в международной практике, включающая набор правил, являющихся руководством, устанавливающим порядок организации производственного процесса и проведения контроля.</span></span></p></div><div class="cl-term-desc-item" id="OBJ_17_DESC_3" data-code="27" data-number="3"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Система мероприятий и законодательных актов, направленная на обеспечение эффективного использования достижений молекулярной генетики, генной инженерии и биотехнологии, не допускающая при этом неблагоприятных экологических последствий и непосредственной угрозы здоровью людей.</span></span></p></div><div class="cl-term-desc-item" id="OBJ_17_DESC_4" data-code="22" data-number="4"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Окислительно-восстановительные реакции, протекающие в клетках организма, в результате которых сложные органические вещества окисляются&nbsp;при участии ферментов.</span></span></p></div><div class="cl-term-desc-item" id="OBJ_17_DESC_5" data-code="42" data-number="5"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Аппарат для культивирования микроорганизмов, в котором протекают ферментативные биохимические реакции при участии живых клеток или клеточных экстрактов. Представляет собой закрытый цилиндрический резервуар, в котором механически перемешиваются среда и микроорганизмы.</span></span></p></div><div class="cl-term-desc-item" id="OBJ_17_DESC_6" data-code="24" data-number="6"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Наука о методах и технологиях производства различных ценных веществ и продуктов с использованием природных биологических объектов (микроорганизмов, растительных и животных клеток), частей клеток и процессов.</span></span></p></div><div class="cl-term-desc-item" id="OBJ_17_DESC_7" data-code="38" data-number="7"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Процесс анаэробного расщепления органических веществ, преимущественно углеводов,&nbsp;происходящий под влиянием микроорганизмов или выделенных из них ферментов. Большинство типов брожения осуществляют микроорганизмы&nbsp;- облигатные или факультативные анаэробы.</span></span></div><div class="cl-term-desc-item" id="OBJ_17_DESC_8" data-code="12" data-number="8"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Молекула нуклеиновой кислоты, используемая в генетической инженерии для передачи генетического материала другой клетке.</span></span></div><div class="cl-term-desc-item" id="OBJ_17_DESC_9" data-code="32" data-number="9"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Вероятность возникновения генетических повреждений популяции под воздействием мутагенов среды (в большинстве случаев антропогенного происхождения).</span></span></p></div><div class="cl-term-desc-item" id="OBJ_17_DESC_10" data-code="43" data-number="10"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Совокупность приемов, методов и технологий, в том числе технологий получения рекомбинантных рибонуклеиновых и дезоксирибонуклеиновых кислот, по выделению генов из организма, осуществлению манипуляций с ними и введению их в другие организмы.</span></span></div><div class="cl-term-desc-item" id="OBJ_17_DESC_11" data-code="53" data-number="11"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Белок, не свойственный данному природному организму. Например, генетически модифицированные бактерии могут продуцировать гетерологичный белок человека, животных или растений.</span></span></p></div><div class="cl-term-desc-item" id="OBJ_17_DESC_12" data-code="41" data-number="12"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Культивирование, при котором микроорганизмы развивают&shy;ся во всем объеме жидкой питательной среды. Так как подав&shy;ляющее большинство продуцентов ферментов - строгие аэробы, среду интенсивно аэрируют.</span></span></div><div class="cl-term-desc-item" id="OBJ_17_DESC_13" data-code="19" data-number="13"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Вещество, помогающее протеканию химической реакции, но не изменяющееся в ходе нее.</span></span></div><div class="cl-term-desc-item" id="OBJ_17_DESC_14" data-code="51" data-number="14"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;"><span style="line-height: 115%;">Использование технологии рекомбинантных ДНК для выделения и размножения определенной нуклеотидной последовательности, содержащейся в сложной смеси фрагментов ДНК. Для этой цели первоначально все фрагменты ДНК смеси внедряют в клонирующий вектор, затем отбирают среди них рекомбинантные молекулы с целевым фрагментом ДНК, а затем осуществляют их размножение путем введения отобранной ДНК в подходящую клетку-хозяина.</span></span></span></div><div class="cl-term-desc-item" id="OBJ_17_DESC_15" data-code="34" data-number="15"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Определение количества мезофильных аэробных и факультативно анаэробных микроорганизмов относится к оценке численности группы санитарно-показательных микроорганизмов. В составе КМАФАнМ представлены таксономические группы микроорганизмов &ndash; бактерии, дрожжи, плесневые грибы. Их общая численность свидетельствуют о санитарно-гигиеническом состоянии продукта, степени его обсемененности микрофлорой.</span></span></p></div><div class="cl-term-desc-item" id="OBJ_17_DESC_16" data-code="33" data-number="16"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;"><span style="line-height: 115%;">Бактерии группы кишечной палочки - условно выделяемая по морфологическим и культуральным признакам группа бактерий семейства энтеробактерий, используемая санитарной микробиологией в качестве маркера фекальной контаминации, относятся к группе санитарно-показательных микроорганизмов.</span></span></span></p></div><div class="cl-term-desc-item" id="OBJ_17_DESC_17" data-code="2" data-number="17"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Взаимное соответствие молекул или их фрагментов, обеспечивающее связь дополняющих друг друга структур и определяемое их химическими свойствами.</span></span></div><div class="cl-term-desc-item" id="OBJ_17_DESC_18" data-code="16" data-number="18"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Небелковое соединение, которое нужно белку для его биологической деятельности. Эти белки обычно являются ферментами, поэтому кофакторы называют &laquo;молекулами-помощниками&raquo;, которые участвуют в биохимических превращениях.</span></span></div><div class="cl-term-desc-item" id="OBJ_17_DESC_19" data-code="21" data-number="19"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Органические соединения небелковой природы, необходимые для осуществления каталитического действия многих ферментов.</span></span></div><div class="cl-term-desc-item" id="OBJ_17_DESC_20" data-code="8" data-number="20"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Фермент, катализирующий соединение двух молекул с образованием новой химической связи. При этом обычно происходит отщепление (гидролиз) небольшой химической группы от одной из молекул.</span></span></div><div class="cl-term-desc-item" id="OBJ_17_DESC_21" data-code="44" data-number="21"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Образование фосфодиэфирной связи между двумя основа&shy;ниями одной цепи ДНК, разделенными разрывом. Этот термин употребляют также в случае соединения тупых концов и при образовании связи в РНК.</span></span></div><div class="cl-term-desc-item" id="OBJ_17_DESC_22" data-code="10" data-number="22"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Комплементарные друг другу, выступающие однонитевые участки одного или разных двухцепочечных фрагментов ДНК. С помощью липких концов фрагменты могут соединяться друг с другом с образованием гибридных молекул.</span></span></p></div><div class="cl-term-desc-item" id="OBJ_17_DESC_23" data-code="31" data-number="23"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Искусственное изменение нуклеотидной последовательности клонированного гена с помощью одного из нескольких существующих методов. Может использоваться для изучения взаимосвязи между последовательностью нуклеотидов и функцией гена, а также для модификации белков.</span></span></p></div><div class="cl-term-desc-item" id="OBJ_17_DESC_24" data-code="9" data-number="24"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Гидролитические ферменты, расщепляющие нуклеиновые кислоты. По механизму расщепления субстратов нуклеазы разделяют на экзонуклеазы и эндонуклеазы. <em>Экзонуклеазы</em> осуществляют последовательное отщепление олигонуклеотидов с концов молекулы, тогда как эндонуклеазы вносят в молекулы нуклеиновых кислот внутренние разрывы.</span></span></div><div class="cl-term-desc-item" id="OBJ_17_DESC_25" data-code="1" data-number="25"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Биологические полимерные молекулы, хранящие информацию об отдельном живом организме, определяющие его рост и развитие, а также наследственные признаки, передаваемые следующему поколению.</span></span></p></div><div class="cl-term-desc-item" id="OBJ_17_DESC_26" data-code="15" data-number="26"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Мономерное звено в полимерной молекуле нуклеиновой кислоты. В зависимости от вида содержащегося углевода различают рибонуклеотид (включает рибозу) и дезоксирибонуклеотид (включает дезоксирибозу).</span></span></div><div class="cl-term-desc-item" id="OBJ_17_DESC_27" data-code="37" data-number="27"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Термин, определяющий состояние или условие, обязательное для данного организма (облигатные анаэробы - организмы, живущие и растущие только при отсутствии молекулярного кислорода в среде).</span></span></div><div class="cl-term-desc-item" id="OBJ_17_DESC_28" data-code="35" data-number="28"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Метод окраски микроорганизмов, позволяющий дифференцировать бактерии по биохимическим свойствам их клеточной стенки. Клеточная стенка грамположительных бактерий практически полностью состоит из пептидогликана, вследствие чего эти бактерии сохраняют свою окраску и не обесцвечиваются при промывке. Грамотрицательные наоборот, полностью обесцвечиваются за счет наличия наружной мембраны, препятствующей проникновению красителя внутрь клетки.</span></span></p></div><div class="cl-term-desc-item" id="OBJ_17_DESC_29" data-code="55" data-number="29"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;"><span style="line-height: 115%;">Потенциальная способность микробов вызывать инфекционный процесс у организмов определенного вида.</span></span></span></div><div class="cl-term-desc-item" id="OBJ_17_DESC_30" data-code="18" data-number="30"><p><span style="font-family:times new roman,times,serif;"><span style="font-size:20px;">Внехромосомная кольцевая ДНК, которая обладает способностью стабильно существовать в автономном (не связанном с хромосомами) состоянии в цитоплазме.</span></span></p>
+
+<p><span style="font-family:times new roman,times,serif;"><span style="font-size:20px;">В природе плазмиды обычно содержат гены, повышающие устойчивость бактерии к неблагоприятным внешним факторам (в т.ч. устойчивость к антибиотикам), нередко они могут передаваться от одной бактерии к другой и служат средством горизонтального переноса генов.</span></span></p></div><div class="cl-term-desc-item" id="OBJ_17_DESC_31" data-code="40" data-number="31"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Культивирование аэробных микроорганизмов на поверхности питательных сред; применяется при промышленном получении ферментов. Микроорганизмы получают кислород непосредственно из воздуха.</span></span></div><div class="cl-term-desc-item" id="OBJ_17_DESC_32" data-code="17" data-number="32"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Олигонуклеотид, комплементарный ДНК- или РНК-мишени, служит затравкой для синтеза комплементарной цепи с помощью ДНК-полимеразы. Затравка необходима для инициации синтеза новой цепи (ДНК-полимераза последовательно добавляет к 3&#39;-концу праймера нуклеотиды, комплементарные матричной цепи).</span></span></div><div class="cl-term-desc-item" id="OBJ_17_DESC_33" data-code="6" data-number="33"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Совокупность процессов в клетках&nbsp;эукариот, которые приводят к превращению первичного&nbsp; транскрипта в зрелую&nbsp;РНК.</span></span></div><div class="cl-term-desc-item" id="OBJ_17_DESC_34" data-code="13" data-number="34"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">(полимеразная цепная реакция) &ndash; метод молекулярной биологии, позволяющий добиться значительного увеличения малых концентраций определенных фрагментов нуклеиновой кислоты (ДНК) в биологическом материале (пробе).</span></span></p></div><div class="cl-term-desc-item" id="OBJ_17_DESC_35" data-code="45" data-number="35"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Ген, состоящий из компонентов различных генов.</span></span></div><div class="cl-term-desc-item" id="OBJ_17_DESC_36" data-code="5" data-number="36"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">(от&nbsp;лат.&nbsp;replicatio&nbsp;&mdash; возобновление)&nbsp;&mdash; процесс синтеза дочерней молекулы дезоксирибонуклеиновой кислоты на матрице родительской молекулы ДНК.&nbsp;</span></span></p></div><div class="cl-term-desc-item" id="OBJ_17_DESC_37" data-code="47" data-number="37"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Это эндонуклеаза, узнающая какую-то последовательность внутри цепи ДНК и проводящая гидролиз этой цепи.</span></span></div><div class="cl-term-desc-item" id="OBJ_17_DESC_38" data-code="7" data-number="38"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">(restriction map) - линейное изображение последовательности ДНК, которое показывает расположение сайтов узнавания специфических рестрикционных ферментов.</span></span></div><div class="cl-term-desc-item" id="OBJ_17_DESC_39" data-code="50" data-number="39"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;"><span style="line-height: 115%;">Процесс разрезания двухцепочечной молекулы ДНК специфическими ферментами &mdash; эндонуклеазами рестрикции.</span></span></span></div><div class="cl-term-desc-item" id="OBJ_17_DESC_40" data-code="52" data-number="40"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Семейство РНК-содержащих вирусов. Попадая внутрь клетки в ходе вирусной инфекции ретровирусная РНК превращается в ДНК с помощью обратной транскрипции. Эта ДНК встраивается в геномную ДНК и становится неотъемлемой частью генома клетки.</span></span></div><div class="cl-term-desc-item" id="OBJ_17_DESC_41" data-code="48" data-number="41"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Небольшой участок ДНК для узнавания ферментом &ndash; рестриктазой.</span></span></div><div class="cl-term-desc-item" id="OBJ_17_DESC_42" data-code="14" data-number="42"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Определение последовательности нуклеотидов в гене.</span></span></div><div class="cl-term-desc-item" id="OBJ_17_DESC_43" data-code="26" data-number="43"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Метод создания неполовых гибридов путем слияния изолированных про&shy;топластов, полученных из соматических клеток.</span></span></p></div><div class="cl-term-desc-item" id="OBJ_17_DESC_44" data-code="30" data-number="44"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Естественный процесс изменений нуклеотидных последовательностей в геноме, возникающий под действием различных природных факторов.</span></span></p></div><div class="cl-term-desc-item" id="OBJ_17_DESC_45" data-code="54" data-number="45"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Совокупность экспериментальных процедур, позволяющая осуществлять перенос генетического материала (ДНК) из одного организма в другой.</span></span></p></div><div class="cl-term-desc-item" id="OBJ_17_DESC_46" data-code="25" data-number="46"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Способность клетки путем деления дать начало любому клеточному типу организма.</span></span></p></div><div class="cl-term-desc-item" id="OBJ_17_DESC_47" data-code="3" data-number="47"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Это переписывание генетической информации с молекулы ДНК на молекулу и-РНК (информационную, или матричную, РНК).</span></span></div><div class="cl-term-desc-item" id="OBJ_17_DESC_48" data-code="4" data-number="48"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Процесс&nbsp;синтеза&nbsp;белка&nbsp;из&nbsp;аминокислот&nbsp;на матрице&nbsp;информационной (матричной) РНК&nbsp;(иРНК, мРНК), осуществляемый&nbsp;рибосомой.</span></span></div><div class="cl-term-desc-item" id="OBJ_17_DESC_49" data-code="49" data-number="49"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Процесс внедрения плазмиды-вектора внутрь клетки с внесением чужеродной ДНК.</span></span></div><div class="cl-term-desc-item" id="OBJ_17_DESC_50" data-code="11" data-number="50"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Концы цепей двухцепочечной молекулы ДНК, заканчивающиеся парой соединенных комплементарных оснований (т.е. один конец не &quot;выступает&quot; за другой - в отличие от &quot;липких концов&quot;).</span></span></div><div class="cl-term-desc-item" id="OBJ_17_DESC_51" data-code="39" data-number="51"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Совокупность последовательных операций от внесения в заранее приготовленную и термостатированную питательную среду посевного материала до завершения процессов роста и биосинтеза вследствие исчерпывания питательных веществ среды.</span></span></div><div class="cl-term-desc-item" id="OBJ_17_DESC_52" data-code="23" data-number="52"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Аппарат для глубинного выращивания (культивирования) микроорганизмов в питательной среде в условиях стерильности, интенсивного перемешивания, непрерывного продувания стерильным воздухом и постоянной температуры.</span></span></p></div><div class="cl-term-desc-item" id="OBJ_17_DESC_53" data-code="20" data-number="53"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;"><span class="w"><span style="line-height: 115%;">Органические</span></span><span style="line-height: 115%;"> <span class="w">вещества обычно</span> <span class="w">белковой</span> <span class="w">природы</span>, <span class="w">которые</span> <span class="w">синтезируются</span> <span class="w">в</span> <span class="w">клетках</span> <span class="w">и</span> <span class="w">во</span> <span class="w">много</span> <span class="w">раз</span> <span class="w">ускоряют протекающие</span> <span class="w">в</span> <span class="w">них</span> <span class="w">реакции</span>, <span class="w">не</span> <span class="w">подвергаясь</span> <span class="w">при</span> <span class="w">этом</span> <span class="w">химическим</span> <span class="w">превращениям</span>.</span></span></span></div><div class="cl-term-desc-item" id="OBJ_17_DESC_54" data-code="36" data-number="54"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Группа гетеротрофов, источником питательных веществ для которых являются органические вещества. Необходимую для жизнедеятельности энергию они извлекают из органических веществ путем биологического окисления.</span></span></div></div></td></tr></table></div></div></div></div></div>]]>
 </data>
 </object>
 <timeline>
@@ -3807,7 +3807,7 @@
 <alt_on_method>Показать тезаурус</alt_on_method>
 <alt_off_method>Скрыть тезаурус</alt_off_method>
 <alt_disabled_method>Доступ запрещен</alt_disabled_method>
-<target_object>OBJ_10</target_object>
+<target_object>OBJ_17</target_object>
 <navibutton>yes</navibutton>
 <nav_lock>yes</nav_lock>
 <btn_type>html</btn_type>
@@ -4050,306 +4050,6 @@
 <sound_over_file_custom></sound_over_file_custom>
 <hide_close>no</hide_close>
 </param>
-<param objectid="OBJ_10">
-<hidden_slide_visited>Посещенный слайд</hidden_slide_visited>
-<hidden_slide_current>Текущий слайд</hidden_slide_current>
-<hidden_slide_unvisited>Непосещенный слайд</hidden_slide_unvisited>
-<hidden_slide_closed>Слайд - узел иерархии закрытый</hidden_slide_closed>
-<hidden_slide_open>Слайд - узел иерархии открытый</hidden_slide_open>
-<hidden_obj_title>Название цели</hidden_obj_title>
-<contenttype>glossary</contenttype>
-<fs_richtext></fs_richtext>
-<display_header_richtext>yes</display_header_richtext>
-<header_richtext><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Помощь</span>]]></header_richtext>
-<panel_text_richtext><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;"></span>]]></panel_text_richtext>
-<fs_contents></fs_contents>
-<display_header_contents>yes</display_header_contents>
-<header_contents><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Содержание</span>]]></header_contents>
-<fs_search></fs_search>
-<display_header_search>yes</display_header_search>
-<header_search><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Поиск</span>]]></header_search>
-<search_tip>yes</search_tip>
-<search_tip_text><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Вы можете использовать при поиске символы *, заменяющие любые неизвестные буквы в слове. Для поиска фразы в режиме точного соответствия заключите фразу в кавычки (однако символы * в этом случае использовать нельзя). Помните, что поиск осуществляется по всем текстам модуля - некоторые из них могут быть невидимы до выполнения условий, заложенных автором курса.</span>]]></search_tip_text>
-<search_case>no_user</search_case>
-<search_logic>OR_user</search_logic>
-<search_scope>slide</search_scope>
-<search_return_format>simple</search_return_format>
-<fs_glossary></fs_glossary>
-<display_header_glossary>yes</display_header_glossary>
-<header_glossary><![CDATA[<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="line-height: 13.4399995803833px;">Тезаурус</span></span></span>]]></header_glossary>
-<glossary_item_list>
-<item>
-<e_code>1</e_code>
-<e_item>Нуклеиновые кислоты</e_item>
-<e_text><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Биологические полимерные молекулы, хранящие информацию об отдельном живом организме, определяющие его рост и развитие, а также наследственные признаки, передаваемые следующему поколению.</span></span></p>]]></e_text>
-</item>
-<item>
-<e_code>2</e_code>
-<e_item>Комплементарность</e_item>
-<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Взаимное соответствие молекул или их фрагментов, обеспечивающее связь дополняющих друг друга структур и определяемое их химическими свойствами.</span></span>]]></e_text>
-</item>
-<item>
-<e_code>3</e_code>
-<e_item>Транскрипция</e_item>
-<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Это переписывание генетической информации с молекулы ДНК на молекулу и-РНК (информационную, или матричную, РНК).</span></span>]]></e_text>
-</item>
-<item>
-<e_code>4</e_code>
-<e_item>Трансляция</e_item>
-<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Процесс&nbsp;синтеза&nbsp;белка&nbsp;из&nbsp;аминокислот&nbsp;на матрице&nbsp;информационной (матричной) РНК&nbsp;(иРНК, мРНК), осуществляемый&nbsp;рибосомой.</span></span>]]></e_text>
-</item>
-<item>
-<e_code>5</e_code>
-<e_item>Репликация</e_item>
-<e_text><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">(от&nbsp;лат.&nbsp;replicatio&nbsp;&mdash; возобновление)&nbsp;&mdash; процесс синтеза дочерней молекулы дезоксирибонуклеиновой кислоты на матрице родительской молекулы ДНК.&nbsp;</span></span></p>]]></e_text>
-</item>
-<item>
-<e_code>6</e_code>
-<e_item>Процессинг РНК</e_item>
-<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Совокупность процессов в клетках&nbsp;эукариот, которые приводят к превращению первичного&nbsp; транскрипта в зрелую&nbsp;РНК.</span></span>]]></e_text>
-</item>
-<item>
-<e_code>7</e_code>
-<e_item>Рестрикционная карта</e_item>
-<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">(restriction map) - линейное изображение последовательности ДНК, которое показывает расположение сайтов узнавания специфических рестрикционных ферментов.</span></span>]]></e_text>
-</item>
-<item>
-<e_code>8</e_code>
-<e_item>Лигаза</e_item>
-<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Фермент, катализирующий соединение двух молекул с образованием новой химической связи. При этом обычно происходит отщепление (гидролиз) небольшой химической группы от одной из молекул.</span></span>]]></e_text>
-</item>
-<item>
-<e_code>9</e_code>
-<e_item>Нуклеазы</e_item>
-<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Гидролитические ферменты, расщепляющие нуклеиновые кислоты. По механизму расщепления субстратов нуклеазы разделяют на экзонуклеазы и эндонуклеазы. <em>Экзонуклеазы</em> осуществляют последовательное отщепление олигонуклеотидов с концов молекулы, тогда как эндонуклеазы вносят в молекулы нуклеиновых кислот внутренние разрывы.</span></span>]]></e_text>
-</item>
-<item>
-<e_code>10</e_code>
-<e_item>Липкие концы</e_item>
-<e_text><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Комплементарные друг другу, выступающие однонитевые участки одного или разных двухцепочечных фрагментов ДНК. С помощью липких концов фрагменты могут соединяться друг с другом с образованием гибридных молекул.</span></span></p>]]></e_text>
-</item>
-<item>
-<e_code>11</e_code>
-<e_item>Тупой конец</e_item>
-<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Концы цепей двухцепочечной молекулы ДНК, заканчивающиеся парой соединенных комплементарных оснований (т.е. один конец не &quot;выступает&quot; за другой - в отличие от &quot;липких концов&quot;).</span></span>]]></e_text>
-</item>
-<item>
-<e_code>12</e_code>
-<e_item>Вектор</e_item>
-<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Молекула нуклеиновой кислоты, используемая в генетической инженерии для передачи генетического материала другой клетке.</span></span>]]></e_text>
-</item>
-<item>
-<e_code>13</e_code>
-<e_item>ПЦР</e_item>
-<e_text><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">(полимеразная цепная реакция) &ndash; метод молекулярной биологии, позволяющий добиться значительного увеличения малых концентраций определенных фрагментов нуклеиновой кислоты (ДНК) в биологическом материале (пробе).</span></span></p>]]></e_text>
-</item>
-<item>
-<e_code>14</e_code>
-<e_item>Секвенирование</e_item>
-<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Определение последовательности нуклеотидов в гене.</span></span>]]></e_text>
-</item>
-<item>
-<e_code>15</e_code>
-<e_item>Нуклеотид</e_item>
-<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Мономерное звено в полимерной молекуле нуклеиновой кислоты. В зависимости от вида содержащегося углевода различают рибонуклеотид (включает рибозу) и дезоксирибонуклеотид (включает дезоксирибозу).</span></span>]]></e_text>
-</item>
-<item>
-<e_code>16</e_code>
-<e_item>Кофактор</e_item>
-<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Небелковое соединение, которое нужно белку для его биологической деятельности. Эти белки обычно являются ферментами, поэтому кофакторы называют &laquo;молекулами-помощниками&raquo;, которые участвуют в биохимических превращениях.</span></span>]]></e_text>
-</item>
-<item>
-<e_code>17</e_code>
-<e_item>Праймер</e_item>
-<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Олигонуклеотид, комплементарный ДНК- или РНК-мишени, служит затравкой для синтеза комплементарной цепи с помощью ДНК-полимеразы. Затравка необходима для инициации синтеза новой цепи (ДНК-полимераза последовательно добавляет к 3&#39;-концу праймера нуклеотиды, комплементарные матричной цепи).</span></span>]]></e_text>
-</item>
-<item>
-<e_code>18</e_code>
-<e_item>Плазмида</e_item>
-<e_text><![CDATA[<p><span style="font-family:times new roman,times,serif;"><span style="font-size:20px;">Внехромосомная кольцевая ДНК, которая обладает способностью стабильно существовать в автономном (не связанном с хромосомами) состоянии в цитоплазме.</span></span></p>
-
-<p><span style="font-family:times new roman,times,serif;"><span style="font-size:20px;">В природе плазмиды обычно содержат гены, повышающие устойчивость бактерии к неблагоприятным внешним факторам (в т.ч. устойчивость к антибиотикам), нередко они могут передаваться от одной бактерии к другой и служат средством горизонтального переноса генов.</span></span></p>]]></e_text>
-</item>
-<item>
-<e_code>19</e_code>
-<e_item>Катализатор</e_item>
-<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Вещество, помогающее протеканию химической реакции, но не изменяющееся в ходе нее.</span></span>]]></e_text>
-</item>
-<item>
-<e_code>20</e_code>
-<e_item>Ферменты (энзимы)</e_item>
-<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;"><span class="w"><span style="line-height: 115%;">Органические</span></span><span style="line-height: 115%;"> <span class="w">вещества обычно</span> <span class="w">белковой</span> <span class="w">природы</span>, <span class="w">которые</span> <span class="w">синтезируются</span> <span class="w">в</span> <span class="w">клетках</span> <span class="w">и</span> <span class="w">во</span> <span class="w">много</span> <span class="w">раз</span> <span class="w">ускоряют протекающие</span> <span class="w">в</span> <span class="w">них</span> <span class="w">реакции</span>, <span class="w">не</span> <span class="w">подвергаясь</span> <span class="w">при</span> <span class="w">этом</span> <span class="w">химическим</span> <span class="w">превращениям</span>.</span></span></span>]]></e_text>
-</item>
-<item>
-<e_code>21</e_code>
-<e_item>Кофермент</e_item>
-<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Органические соединения небелковой природы, необходимые для осуществления каталитического действия многих ферментов.</span></span>]]></e_text>
-</item>
-<item>
-<e_code>22</e_code>
-<e_item>Биологическое окисление</e_item>
-<e_text><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Окислительно-восстановительные реакции, протекающие в клетках организма, в результате которых сложные органические вещества окисляются&nbsp;при участии ферментов.</span></span></p>]]></e_text>
-</item>
-<item>
-<e_code>23</e_code>
-<e_item>Ферментер</e_item>
-<e_text><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Аппарат для глубинного выращивания (культивирования) микроорганизмов в питательной среде в условиях стерильности, интенсивного перемешивания, непрерывного продувания стерильным воздухом и постоянной температуры.</span></span></p>]]></e_text>
-</item>
-</glossary_item_list>
-<fs_documents></fs_documents>
-<display_header_documents>yes</display_header_documents>
-<header_documents><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Документы</span>]]></header_documents>
-<doc_list></doc_list>
-<fs_settings></fs_settings>
-<display_header_settings>yes</display_header_settings>
-<header_settings><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Параметры</span>]]></header_settings>
-<settings_tip>yes</settings_tip>
-<settings_tip_text><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;"></span>]]></settings_tip_text>
-<settings_display>main</settings_display>
-<mainobj_text><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Главная цель модуля</span>]]></mainobj_text>
-<allobj_text><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Цели модуля</span>]]></allobj_text>
-<score_style>scaled</score_style>
-<fs_calculator></fs_calculator>
-<display_header_calculator>yes</display_header_calculator>
-<header_calculator><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Калькулятор</span>]]></header_calculator>
-<display_calculator_desc>no</display_calculator_desc>
-<calculator_desc><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;"></span>]]></calculator_desc>
-<fs_comment></fs_comment>
-<display_header_comment>yes</display_header_comment>
-<header_comment><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Комментарий</span>]]></header_comment>
-<comment_display>text</comment_display>
-<no_comments><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Нет комментариев</span>]]></no_comments>
-<tranin>6</tranin>
-<durin>600</durin>
-<tranout>6</tranout>
-<durout>600</durout>
-<nav_lock>yes</nav_lock>
-<modal>no</modal>
-<fs_contents_2></fs_contents_2>
-<slide_icons>standard</slide_icons>
-<fs_slide_icons></fs_slide_icons>
-<i1_img></i1_img>
-<i2_img></i2_img>
-<i3_img></i3_img>
-<hier_type>none</hier_type>
-<fs_contents_hier_icons></fs_contents_hier_icons>
-<h1_img></h1_img>
-<h2_img></h2_img>
-<fs_glossary_2></fs_glossary_2>
-<display_letters>yes</display_letters>
-<glossary_default_text><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Выберите элемент, чтобы увидеть описание</span>]]></glossary_default_text>
-<glossary_not_found><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Запрошенный элемент не найден</span>]]></glossary_not_found>
-<glossary_items_col_width>30</glossary_items_col_width>
-<fs_settings_2></fs_settings_2>
-<settings_icons>standard</settings_icons>
-<fs_icons_statuses></fs_icons_statuses>
-<on_img></on_img>
-<oi_img></oi_img>
-<oc_img></oc_img>
-<ou_img></ou_img>
-<op_img></op_img>
-<of_img></of_img>
-<panel_padding>15</panel_padding>
-<panel_bordercolor>#0080C0</panel_bordercolor>
-<panel_borderwidth>1</panel_borderwidth>
-<panel_radius>5</panel_radius>
-<shadow_strength>normal</shadow_strength>
-<panel_bgtype>solid</panel_bgtype>
-<panel_bgcolor>#FFFFFF</panel_bgcolor>
-<fs_panel_gradient></fs_panel_gradient>
-<panel_gradientcolor>#DDEEFF</panel_gradientcolor>
-<fs_panel_bg_img></fs_panel_bg_img>
-<panel_bgimg></panel_bgimg>
-<panel_bgimg_repeat>repeat</panel_bgimg_repeat>
-<panel_bgimg_position>cm</panel_bgimg_position>
-<panel_bgimg_position_custom></panel_bgimg_position_custom>
-<contenttype_style>glossary</contenttype_style>
-<fs_style_none></fs_style_none>
-<fs_basic_font></fs_basic_font>
-<basic_font>clear_sansregular</basic_font>
-<basic_font_custom></basic_font_custom>
-<basic_font_style>normal</basic_font_style>
-<basic_font_size>16</basic_font_size>
-<fs_style_contents></fs_style_contents>
-<allowed_fill_color>#FFFFFF</allowed_fill_color>
-<allowed_font_color>#004080</allowed_font_color>
-<current_fill_color>#EEEEEE</current_fill_color>
-<current_font_color>#000000</current_font_color>
-<forbidden_fill_color>#FFFFFF</forbidden_fill_color>
-<forbidden_font_color>#999999</forbidden_font_color>
-<item_padding>5</item_padding>
-<fs_style_glossary></fs_style_glossary>
-<gloss_border_style>none</gloss_border_style>
-<gloss_border_width>1</gloss_border_width>
-<gloss_border_radius>5</gloss_border_radius>
-<gloss_padding>10</gloss_padding>
-<gloss_fill_type>grad_h</gloss_fill_type>
-<gloss_font_color_idle>#FFFFFF</gloss_font_color_idle>
-<gloss_font_color_selected>#0080C0</gloss_font_color_selected>
-<gloss_border_color_idle>#0080C0</gloss_border_color_idle>
-<gloss_border_color_selected>#0080C0</gloss_border_color_selected>
-<gloss_bg_color_idle>#0080C0</gloss_bg_color_idle>
-<gloss_bg_color_selected>#CEEFFF</gloss_bg_color_selected>
-<fs_gloss_gradient></fs_gloss_gradient>
-<gloss_gradient_color_idle>#8AD9FF</gloss_gradient_color_idle>
-<gloss_gradient_color_selected>#FFFFFF</gloss_gradient_color_selected>
-<fs_gloss_img></fs_gloss_img>
-<gloss_img_idle></gloss_img_idle>
-<gloss_img_selected></gloss_img_selected>
-<gloss_img_repeat>repeat</gloss_img_repeat>
-<gloss_img_position>cm</gloss_img_position>
-<gloss_img_position_custom></gloss_img_position_custom>
-<fs_style_search></fs_style_search>
-<search_input_border_style>solid</search_input_border_style>
-<search_input_border_color>#0080C0</search_input_border_color>
-<search_input_border_width>1</search_input_border_width>
-<search_input_border_radius>5</search_input_border_radius>
-<search_input_bg_color>#FFFFFF</search_input_bg_color>
-<search_input_font_color>#004080</search_input_font_color>
-<highlight_bg_color>#FFEE99</highlight_bg_color>
-<highlight_font_color>#CC0000</highlight_font_color>
-<search_button_bg_color>#0080C0</search_button_bg_color>
-<search_button_font_color>#FFFFFF</search_button_font_color>
-<search_button_border_style>solid</search_button_border_style>
-<search_button_border_color>#0080C0</search_button_border_color>
-<search_button_border_width>1</search_button_border_width>
-<search_button_border_radius>5</search_button_border_radius>
-<fs_style_settings></fs_style_settings>
-<sett_border_style>solid</sett_border_style>
-<sett_border_width>1</sett_border_width>
-<sett_border_color>#0080C0</sett_border_color>
-<sett_padding>5</sett_padding>
-<content_const>comment</content_const>
-<title_close>Закрыть окно</title_close>
-<fs_const_contents></fs_const_contents>
-<msg_order_violation>Вы не можете перейти на этот слайд, не посетив предыдущие слайды</msg_order_violation>
-<fs_const_search></fs_const_search>
-<search_text_button>Искать</search_text_button>
-<search_text_logic>Искать включение:</search_text_logic>
-<search_text_OR>Любого из слов</search_text_OR>
-<search_text_AND>Всех слов</search_text_AND>
-<search_text_case>Регистр:</search_text_case>
-<search_text_case_no>не учитывать</search_text_case_no>
-<search_text_case_yes>учитывать</search_text_case_yes>
-<search_text_found>Найдено слайдов:</search_text_found>
-<search_text_notfound>Не найдено включений, соответствующих заданным условиям</search_text_notfound>
-<fs_const_settings></fs_const_settings>
-<obj_header>Цель</obj_header>
-<obj_score>Баллы</obj_score>
-<obj_cs>Заверш.</obj_cs>
-<obj_ss>Успех</obj_ss>
-<status_n>Не начато</status_n>
-<status_i>Не закончено</status_i>
-<status_c>Закончено</status_c>
-<status_u>Неизвестно</status_u>
-<status_p>Успешно</status_p>
-<status_f>Неуспешно</status_f>
-<sound_click>none</sound_click>
-<sound_click_file_custom></sound_click_file_custom>
-<sound_over>none</sound_over>
-<sound_over_file_custom></sound_over_file_custom>
-<hide_close>no</hide_close>
-</param>
 <param objectid="OBJ_11">
 <role>closemodule</role>
 <selectedslide></selectedslide>
@@ -4508,6 +4208,461 @@
 <sound_click_file_custom></sound_click_file_custom>
 <sound_over>none</sound_over>
 <sound_over_file_custom></sound_over_file_custom>
+</param>
+<param objectid="OBJ_17">
+<hidden_slide_visited>Посещенный слайд</hidden_slide_visited>
+<hidden_slide_current>Текущий слайд</hidden_slide_current>
+<hidden_slide_unvisited>Непосещенный слайд</hidden_slide_unvisited>
+<hidden_slide_closed>Слайд - узел иерархии закрытый</hidden_slide_closed>
+<hidden_slide_open>Слайд - узел иерархии открытый</hidden_slide_open>
+<hidden_obj_title>Название цели</hidden_obj_title>
+<contenttype>glossary</contenttype>
+<fs_richtext></fs_richtext>
+<display_header_richtext>yes</display_header_richtext>
+<header_richtext><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Помощь</span>]]></header_richtext>
+<panel_text_richtext><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;"></span>]]></panel_text_richtext>
+<fs_contents></fs_contents>
+<display_header_contents>yes</display_header_contents>
+<header_contents><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Содержание</span>]]></header_contents>
+<fs_search></fs_search>
+<display_header_search>yes</display_header_search>
+<header_search><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Поиск</span>]]></header_search>
+<search_tip>yes</search_tip>
+<search_tip_text><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Вы можете использовать при поиске символы *, заменяющие любые неизвестные буквы в слове. Для поиска фразы в режиме точного соответствия заключите фразу в кавычки (однако символы * в этом случае использовать нельзя). Помните, что поиск осуществляется по всем текстам модуля - некоторые из них могут быть невидимы до выполнения условий, заложенных автором курса.</span>]]></search_tip_text>
+<search_case>no_user</search_case>
+<search_logic>OR_user</search_logic>
+<search_scope>slide</search_scope>
+<search_return_format>simple</search_return_format>
+<fs_glossary></fs_glossary>
+<display_header_glossary>yes</display_header_glossary>
+<header_glossary><![CDATA[<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="line-height: 13.4399995803833px;">Тезаурус</span></span></span>]]></header_glossary>
+<glossary_item_list>
+<item>
+<e_code>1</e_code>
+<e_item>Нуклеиновые кислоты</e_item>
+<e_text><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Биологические полимерные молекулы, хранящие информацию об отдельном живом организме, определяющие его рост и развитие, а также наследственные признаки, передаваемые следующему поколению.</span></span></p>]]></e_text>
+</item>
+<item>
+<e_code>2</e_code>
+<e_item>Комплементарность</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Взаимное соответствие молекул или их фрагментов, обеспечивающее связь дополняющих друг друга структур и определяемое их химическими свойствами.</span></span>]]></e_text>
+</item>
+<item>
+<e_code>3</e_code>
+<e_item>Транскрипция</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Это переписывание генетической информации с молекулы ДНК на молекулу и-РНК (информационную, или матричную, РНК).</span></span>]]></e_text>
+</item>
+<item>
+<e_code>4</e_code>
+<e_item>Трансляция</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Процесс&nbsp;синтеза&nbsp;белка&nbsp;из&nbsp;аминокислот&nbsp;на матрице&nbsp;информационной (матричной) РНК&nbsp;(иРНК, мРНК), осуществляемый&nbsp;рибосомой.</span></span>]]></e_text>
+</item>
+<item>
+<e_code>5</e_code>
+<e_item>Репликация</e_item>
+<e_text><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">(от&nbsp;лат.&nbsp;replicatio&nbsp;&mdash; возобновление)&nbsp;&mdash; процесс синтеза дочерней молекулы дезоксирибонуклеиновой кислоты на матрице родительской молекулы ДНК.&nbsp;</span></span></p>]]></e_text>
+</item>
+<item>
+<e_code>6</e_code>
+<e_item>Процессинг РНК</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Совокупность процессов в клетках&nbsp;эукариот, которые приводят к превращению первичного&nbsp; транскрипта в зрелую&nbsp;РНК.</span></span>]]></e_text>
+</item>
+<item>
+<e_code>7</e_code>
+<e_item>Рестрикционная карта</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">(restriction map) - линейное изображение последовательности ДНК, которое показывает расположение сайтов узнавания специфических рестрикционных ферментов.</span></span>]]></e_text>
+</item>
+<item>
+<e_code>8</e_code>
+<e_item>Лигаза</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Фермент, катализирующий соединение двух молекул с образованием новой химической связи. При этом обычно происходит отщепление (гидролиз) небольшой химической группы от одной из молекул.</span></span>]]></e_text>
+</item>
+<item>
+<e_code>9</e_code>
+<e_item>Нуклеазы</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Гидролитические ферменты, расщепляющие нуклеиновые кислоты. По механизму расщепления субстратов нуклеазы разделяют на экзонуклеазы и эндонуклеазы. <em>Экзонуклеазы</em> осуществляют последовательное отщепление олигонуклеотидов с концов молекулы, тогда как эндонуклеазы вносят в молекулы нуклеиновых кислот внутренние разрывы.</span></span>]]></e_text>
+</item>
+<item>
+<e_code>10</e_code>
+<e_item>Липкие концы</e_item>
+<e_text><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Комплементарные друг другу, выступающие однонитевые участки одного или разных двухцепочечных фрагментов ДНК. С помощью липких концов фрагменты могут соединяться друг с другом с образованием гибридных молекул.</span></span></p>]]></e_text>
+</item>
+<item>
+<e_code>11</e_code>
+<e_item>Тупой конец</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Концы цепей двухцепочечной молекулы ДНК, заканчивающиеся парой соединенных комплементарных оснований (т.е. один конец не &quot;выступает&quot; за другой - в отличие от &quot;липких концов&quot;).</span></span>]]></e_text>
+</item>
+<item>
+<e_code>12</e_code>
+<e_item>Вектор</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Молекула нуклеиновой кислоты, используемая в генетической инженерии для передачи генетического материала другой клетке.</span></span>]]></e_text>
+</item>
+<item>
+<e_code>13</e_code>
+<e_item>ПЦР</e_item>
+<e_text><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">(полимеразная цепная реакция) &ndash; метод молекулярной биологии, позволяющий добиться значительного увеличения малых концентраций определенных фрагментов нуклеиновой кислоты (ДНК) в биологическом материале (пробе).</span></span></p>]]></e_text>
+</item>
+<item>
+<e_code>14</e_code>
+<e_item>Секвенирование</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Определение последовательности нуклеотидов в гене.</span></span>]]></e_text>
+</item>
+<item>
+<e_code>15</e_code>
+<e_item>Нуклеотид</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Мономерное звено в полимерной молекуле нуклеиновой кислоты. В зависимости от вида содержащегося углевода различают рибонуклеотид (включает рибозу) и дезоксирибонуклеотид (включает дезоксирибозу).</span></span>]]></e_text>
+</item>
+<item>
+<e_code>16</e_code>
+<e_item>Кофактор</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Небелковое соединение, которое нужно белку для его биологической деятельности. Эти белки обычно являются ферментами, поэтому кофакторы называют &laquo;молекулами-помощниками&raquo;, которые участвуют в биохимических превращениях.</span></span>]]></e_text>
+</item>
+<item>
+<e_code>17</e_code>
+<e_item>Праймер</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Олигонуклеотид, комплементарный ДНК- или РНК-мишени, служит затравкой для синтеза комплементарной цепи с помощью ДНК-полимеразы. Затравка необходима для инициации синтеза новой цепи (ДНК-полимераза последовательно добавляет к 3&#39;-концу праймера нуклеотиды, комплементарные матричной цепи).</span></span>]]></e_text>
+</item>
+<item>
+<e_code>18</e_code>
+<e_item>Плазмида</e_item>
+<e_text><![CDATA[<p><span style="font-family:times new roman,times,serif;"><span style="font-size:20px;">Внехромосомная кольцевая ДНК, которая обладает способностью стабильно существовать в автономном (не связанном с хромосомами) состоянии в цитоплазме.</span></span></p>
+
+<p><span style="font-family:times new roman,times,serif;"><span style="font-size:20px;">В природе плазмиды обычно содержат гены, повышающие устойчивость бактерии к неблагоприятным внешним факторам (в т.ч. устойчивость к антибиотикам), нередко они могут передаваться от одной бактерии к другой и служат средством горизонтального переноса генов.</span></span></p>]]></e_text>
+</item>
+<item>
+<e_code>19</e_code>
+<e_item>Катализатор</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Вещество, помогающее протеканию химической реакции, но не изменяющееся в ходе нее.</span></span>]]></e_text>
+</item>
+<item>
+<e_code>20</e_code>
+<e_item>Ферменты (энзимы)</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;"><span class="w"><span style="line-height: 115%;">Органические</span></span><span style="line-height: 115%;"> <span class="w">вещества обычно</span> <span class="w">белковой</span> <span class="w">природы</span>, <span class="w">которые</span> <span class="w">синтезируются</span> <span class="w">в</span> <span class="w">клетках</span> <span class="w">и</span> <span class="w">во</span> <span class="w">много</span> <span class="w">раз</span> <span class="w">ускоряют протекающие</span> <span class="w">в</span> <span class="w">них</span> <span class="w">реакции</span>, <span class="w">не</span> <span class="w">подвергаясь</span> <span class="w">при</span> <span class="w">этом</span> <span class="w">химическим</span> <span class="w">превращениям</span>.</span></span></span>]]></e_text>
+</item>
+<item>
+<e_code>21</e_code>
+<e_item>Кофермент</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Органические соединения небелковой природы, необходимые для осуществления каталитического действия многих ферментов.</span></span>]]></e_text>
+</item>
+<item>
+<e_code>22</e_code>
+<e_item>Биологическое окисление</e_item>
+<e_text><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Окислительно-восстановительные реакции, протекающие в клетках организма, в результате которых сложные органические вещества окисляются&nbsp;при участии ферментов.</span></span></p>]]></e_text>
+</item>
+<item>
+<e_code>23</e_code>
+<e_item>Ферментер</e_item>
+<e_text><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Аппарат для глубинного выращивания (культивирования) микроорганизмов в питательной среде в условиях стерильности, интенсивного перемешивания, непрерывного продувания стерильным воздухом и постоянной температуры.</span></span></p>]]></e_text>
+</item>
+<item>
+<e_code>24</e_code>
+<e_item>Биотехнология</e_item>
+<e_text><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Наука о методах и технологиях производства различных ценных веществ и продуктов с использованием природных биологических объектов (микроорганизмов, растительных и животных клеток), частей клеток и процессов.</span></span></p>]]></e_text>
+</item>
+<item>
+<e_code>25</e_code>
+<e_item>Тотипотентность</e_item>
+<e_text><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Способность клетки путем деления дать начало любому клеточному типу организма.</span></span></p>]]></e_text>
+</item>
+<item>
+<e_code>26</e_code>
+<e_item>Соматическая гибридизация</e_item>
+<e_text><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Метод создания неполовых гибридов путем слияния изолированных про&shy;топластов, полученных из соматических клеток.</span></span></p>]]></e_text>
+</item>
+<item>
+<e_code>27</e_code>
+<e_item>Биобезопасность</e_item>
+<e_text><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Система мероприятий и законодательных актов, направленная на обеспечение эффективного использования достижений молекулярной генетики, генной инженерии и биотехнологии, не допускающая при этом неблагоприятных экологических последствий и непосредственной угрозы здоровью людей.</span></span></p>]]></e_text>
+</item>
+<item>
+<e_code>28</e_code>
+<e_item>GLP</e_item>
+<e_text><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">(good laboratory practice) - система обеспечения качества, имеющая отношение к процессам организации, планирования, порядку проведения и контролю исследований в области охраны здоровья человека и безопасности окружающей среды, а также оформления, архивирования и представления результатов исследований.</span></span></p>]]></e_text>
+</item>
+<item>
+<e_code>29</e_code>
+<e_item>GMP</e_item>
+<e_text><![CDATA[<p><span style="font-family:times new roman,times,serif;"><span style="font-size:20px;">(good manufacturing practice) - система удостоверения качества фармацевтических препаратов в международной практике, включающая набор правил, являющихся руководством, устанавливающим порядок организации производственного процесса и проведения контроля.</span></span></p>]]></e_text>
+</item>
+<item>
+<e_code>30</e_code>
+<e_item>Спонтанный мутагенез</e_item>
+<e_text><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Естественный процесс изменений нуклеотидных последовательностей в геноме, возникающий под действием различных природных факторов.</span></span></p>]]></e_text>
+</item>
+<item>
+<e_code>31</e_code>
+<e_item>Направленный мутагенез</e_item>
+<e_text><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Искусственное изменение нуклеотидной последовательности клонированного гена с помощью одного из нескольких существующих методов. Может использоваться для изучения взаимосвязи между последовательностью нуклеотидов и функцией гена, а также для модификации белков.</span></span></p>]]></e_text>
+</item>
+<item>
+<e_code>32</e_code>
+<e_item>Генетический риск</e_item>
+<e_text><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Вероятность возникновения генетических повреждений популяции под воздействием мутагенов среды (в большинстве случаев антропогенного происхождения).</span></span></p>]]></e_text>
+</item>
+<item>
+<e_code>33</e_code>
+<e_item>Колиформы</e_item>
+<e_text><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;"><span style="line-height: 115%;">Бактерии группы кишечной палочки - условно выделяемая по морфологическим и культуральным признакам группа бактерий семейства энтеробактерий, используемая санитарной микробиологией в качестве маркера фекальной контаминации, относятся к группе санитарно-показательных микроорганизмов.</span></span></span></p>]]></e_text>
+</item>
+<item>
+<e_code>34</e_code>
+<e_item>КМАФАнМ</e_item>
+<e_text><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Определение количества мезофильных аэробных и факультативно анаэробных микроорганизмов относится к оценке численности группы санитарно-показательных микроорганизмов. В составе КМАФАнМ представлены таксономические группы микроорганизмов &ndash; бактерии, дрожжи, плесневые грибы. Их общая численность свидетельствуют о санитарно-гигиеническом состоянии продукта, степени его обсемененности микрофлорой.</span></span></p>]]></e_text>
+</item>
+<item>
+<e_code>35</e_code>
+<e_item>Окраска по Граму</e_item>
+<e_text><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Метод окраски микроорганизмов, позволяющий дифференцировать бактерии по биохимическим свойствам их клеточной стенки. Клеточная стенка грамположительных бактерий практически полностью состоит из пептидогликана, вследствие чего эти бактерии сохраняют свою окраску и не обесцвечиваются при промывке. Грамотрицательные наоборот, полностью обесцвечиваются за счет наличия наружной мембраны, препятствующей проникновению красителя внутрь клетки.</span></span></p>]]></e_text>
+</item>
+<item>
+<e_code>36</e_code>
+<e_item>Хемоорганотрофы</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Группа гетеротрофов, источником питательных веществ для которых являются органические вещества. Необходимую для жизнедеятельности энергию они извлекают из органических веществ путем биологического окисления.</span></span>]]></e_text>
+</item>
+<item>
+<e_code>37</e_code>
+<e_item>Облигатный</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Термин, определяющий состояние или условие, обязательное для данного организма (облигатные анаэробы - организмы, живущие и растущие только при отсутствии молекулярного кислорода в среде).</span></span>]]></e_text>
+</item>
+<item>
+<e_code>38</e_code>
+<e_item>Брожение</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Процесс анаэробного расщепления органических веществ, преимущественно углеводов,&nbsp;происходящий под влиянием микроорганизмов или выделенных из них ферментов. Большинство типов брожения осуществляют микроорганизмы&nbsp;- облигатные или факультативные анаэробы.</span></span>]]></e_text>
+</item>
+<item>
+<e_code>39</e_code>
+<e_item>Ферментация</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Совокупность последовательных операций от внесения в заранее приготовленную и термостатированную питательную среду посевного материала до завершения процессов роста и биосинтеза вследствие исчерпывания питательных веществ среды.</span></span>]]></e_text>
+</item>
+<item>
+<e_code>40</e_code>
+<e_item>Поверхностное культивирование</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Культивирование аэробных микроорганизмов на поверхности питательных сред; применяется при промышленном получении ферментов. Микроорганизмы получают кислород непосредственно из воздуха.</span></span>]]></e_text>
+</item>
+<item>
+<e_code>41</e_code>
+<e_item>Глубинное культивирование</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Культивирование, при котором микроорганизмы развивают&shy;ся во всем объеме жидкой питательной среды. Так как подав&shy;ляющее большинство продуцентов ферментов - строгие аэробы, среду интенсивно аэрируют.</span></span>]]></e_text>
+</item>
+<item>
+<e_code>42</e_code>
+<e_item>Биореактор, ферментер</e_item>
+<e_text><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Аппарат для культивирования микроорганизмов, в котором протекают ферментативные биохимические реакции при участии живых клеток или клеточных экстрактов. Представляет собой закрытый цилиндрический резервуар, в котором механически перемешиваются среда и микроорганизмы.</span></span></p>]]></e_text>
+</item>
+<item>
+<e_code>43</e_code>
+<e_item>Генная инженерия</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Совокупность приемов, методов и технологий, в том числе технологий получения рекомбинантных рибонуклеиновых и дезоксирибонуклеиновых кислот, по выделению генов из организма, осуществлению манипуляций с ними и введению их в другие организмы.</span></span>]]></e_text>
+</item>
+<item>
+<e_code>44</e_code>
+<e_item>Лигирование</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Образование фосфодиэфирной связи между двумя основа&shy;ниями одной цепи ДНК, разделенными разрывом. Этот термин употребляют также в случае соединения тупых концов и при образовании связи в РНК.</span></span>]]></e_text>
+</item>
+<item>
+<e_code>45</e_code>
+<e_item>Рекомбинантный ген</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Ген, состоящий из компонентов различных генов.</span></span>]]></e_text>
+</item>
+<item>
+<e_code>47</e_code>
+<e_item>Рестриктаза</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Это эндонуклеаза, узнающая какую-то последовательность внутри цепи ДНК и проводящая гидролиз этой цепи.</span></span>]]></e_text>
+</item>
+<item>
+<e_code>48</e_code>
+<e_item>Сайт рестрикции</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Небольшой участок ДНК для узнавания ферментом &ndash; рестриктазой.</span></span>]]></e_text>
+</item>
+<item>
+<e_code>49</e_code>
+<e_item>Трансформация</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Процесс внедрения плазмиды-вектора внутрь клетки с внесением чужеродной ДНК.</span></span>]]></e_text>
+</item>
+<item>
+<e_code>50</e_code>
+<e_item>Рестрикция</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;"><span style="line-height: 115%;">Процесс разрезания двухцепочечной молекулы ДНК специфическими ферментами &mdash; эндонуклеазами рестрикции.</span></span></span>]]></e_text>
+</item>
+<item>
+<e_code>51</e_code>
+<e_item>Клонирование ДНК</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;"><span style="line-height: 115%;">Использование технологии рекомбинантных ДНК для выделения и размножения определенной нуклеотидной последовательности, содержащейся в сложной смеси фрагментов ДНК. Для этой цели первоначально все фрагменты ДНК смеси внедряют в клонирующий вектор, затем отбирают среди них рекомбинантные молекулы с целевым фрагментом ДНК, а затем осуществляют их размножение путем введения отобранной ДНК в подходящую клетку-хозяина.</span></span></span>]]></e_text>
+</item>
+<item>
+<e_code>52</e_code>
+<e_item>Ретровирусы</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Семейство РНК-содержащих вирусов. Попадая внутрь клетки в ходе вирусной инфекции ретровирусная РНК превращается в ДНК с помощью обратной транскрипции. Эта ДНК встраивается в геномную ДНК и становится неотъемлемой частью генома клетки.</span></span>]]></e_text>
+</item>
+<item>
+<e_code>53</e_code>
+<e_item>Гетерологичный белок</e_item>
+<e_text><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Белок, не свойственный данному природному организму. Например, генетически модифицированные бактерии могут продуцировать гетерологичный белок человека, животных или растений.</span></span></p>]]></e_text>
+</item>
+<item>
+<e_code>54</e_code>
+<e_item>Технология рекомбинантных ДНК</e_item>
+<e_text><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Совокупность экспериментальных процедур, позволяющая осуществлять перенос генетического материала (ДНК) из одного организма в другой.</span></span></p>]]></e_text>
+</item>
+<item>
+<e_code>55</e_code>
+<e_item>Патогенность</e_item>
+<e_text><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;"><span style="line-height: 115%;">Потенциальная способность микробов вызывать инфекционный процесс у организмов определенного вида.</span></span></span>]]></e_text>
+</item>
+</glossary_item_list>
+<fs_documents></fs_documents>
+<display_header_documents>yes</display_header_documents>
+<header_documents><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Документы</span>]]></header_documents>
+<doc_list></doc_list>
+<fs_settings></fs_settings>
+<display_header_settings>yes</display_header_settings>
+<header_settings><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Параметры</span>]]></header_settings>
+<settings_tip>yes</settings_tip>
+<settings_tip_text><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;"></span>]]></settings_tip_text>
+<settings_display>main</settings_display>
+<mainobj_text><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Главная цель модуля</span>]]></mainobj_text>
+<allobj_text><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Цели модуля</span>]]></allobj_text>
+<score_style>scaled</score_style>
+<fs_calculator></fs_calculator>
+<display_header_calculator>yes</display_header_calculator>
+<header_calculator><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Калькулятор</span>]]></header_calculator>
+<display_calculator_desc>no</display_calculator_desc>
+<calculator_desc><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;"></span>]]></calculator_desc>
+<fs_comment></fs_comment>
+<display_header_comment>yes</display_header_comment>
+<header_comment><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Комментарий</span>]]></header_comment>
+<comment_display>text</comment_display>
+<no_comments><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Нет комментариев</span>]]></no_comments>
+<tranin>6</tranin>
+<durin>600</durin>
+<tranout>6</tranout>
+<durout>600</durout>
+<nav_lock>yes</nav_lock>
+<modal>no</modal>
+<fs_contents_2></fs_contents_2>
+<slide_icons>standard</slide_icons>
+<fs_slide_icons></fs_slide_icons>
+<i1_img></i1_img>
+<i2_img></i2_img>
+<i3_img></i3_img>
+<hier_type>none</hier_type>
+<fs_contents_hier_icons></fs_contents_hier_icons>
+<h1_img></h1_img>
+<h2_img></h2_img>
+<fs_glossary_2></fs_glossary_2>
+<display_letters>yes</display_letters>
+<glossary_default_text><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Выберите элемент, чтобы увидеть описание</span>]]></glossary_default_text>
+<glossary_not_found><![CDATA[<span style="font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 18px; color: #000000;">Запрошенный элемент не найден</span>]]></glossary_not_found>
+<glossary_items_col_width>30</glossary_items_col_width>
+<fs_settings_2></fs_settings_2>
+<settings_icons>standard</settings_icons>
+<fs_icons_statuses></fs_icons_statuses>
+<on_img></on_img>
+<oi_img></oi_img>
+<oc_img></oc_img>
+<ou_img></ou_img>
+<op_img></op_img>
+<of_img></of_img>
+<panel_padding>15</panel_padding>
+<panel_bordercolor>#0080C0</panel_bordercolor>
+<panel_borderwidth>1</panel_borderwidth>
+<panel_radius>5</panel_radius>
+<shadow_strength>normal</shadow_strength>
+<panel_bgtype>solid</panel_bgtype>
+<panel_bgcolor>#FFFFFF</panel_bgcolor>
+<fs_panel_gradient></fs_panel_gradient>
+<panel_gradientcolor>#DDEEFF</panel_gradientcolor>
+<fs_panel_bg_img></fs_panel_bg_img>
+<panel_bgimg></panel_bgimg>
+<panel_bgimg_repeat>repeat</panel_bgimg_repeat>
+<panel_bgimg_position>cm</panel_bgimg_position>
+<panel_bgimg_position_custom></panel_bgimg_position_custom>
+<contenttype_style>glossary</contenttype_style>
+<fs_style_none></fs_style_none>
+<fs_basic_font></fs_basic_font>
+<basic_font>clear_sansregular</basic_font>
+<basic_font_custom></basic_font_custom>
+<basic_font_style>normal</basic_font_style>
+<basic_font_size>16</basic_font_size>
+<fs_style_contents></fs_style_contents>
+<allowed_fill_color>#FFFFFF</allowed_fill_color>
+<allowed_font_color>#004080</allowed_font_color>
+<current_fill_color>#EEEEEE</current_fill_color>
+<current_font_color>#000000</current_font_color>
+<forbidden_fill_color>#FFFFFF</forbidden_fill_color>
+<forbidden_font_color>#999999</forbidden_font_color>
+<item_padding>5</item_padding>
+<fs_style_glossary></fs_style_glossary>
+<gloss_border_style>none</gloss_border_style>
+<gloss_border_width>1</gloss_border_width>
+<gloss_border_radius>5</gloss_border_radius>
+<gloss_padding>10</gloss_padding>
+<gloss_fill_type>grad_h</gloss_fill_type>
+<gloss_font_color_idle>#FFFFFF</gloss_font_color_idle>
+<gloss_font_color_selected>#0080C0</gloss_font_color_selected>
+<gloss_border_color_idle>#0080C0</gloss_border_color_idle>
+<gloss_border_color_selected>#0080C0</gloss_border_color_selected>
+<gloss_bg_color_idle>#0080C0</gloss_bg_color_idle>
+<gloss_bg_color_selected>#CEEFFF</gloss_bg_color_selected>
+<fs_gloss_gradient></fs_gloss_gradient>
+<gloss_gradient_color_idle>#8AD9FF</gloss_gradient_color_idle>
+<gloss_gradient_color_selected>#FFFFFF</gloss_gradient_color_selected>
+<fs_gloss_img></fs_gloss_img>
+<gloss_img_idle></gloss_img_idle>
+<gloss_img_selected></gloss_img_selected>
+<gloss_img_repeat>repeat</gloss_img_repeat>
+<gloss_img_position>cm</gloss_img_position>
+<gloss_img_position_custom></gloss_img_position_custom>
+<fs_style_search></fs_style_search>
+<search_input_border_style>solid</search_input_border_style>
+<search_input_border_color>#0080C0</search_input_border_color>
+<search_input_border_width>1</search_input_border_width>
+<search_input_border_radius>5</search_input_border_radius>
+<search_input_bg_color>#FFFFFF</search_input_bg_color>
+<search_input_font_color>#004080</search_input_font_color>
+<highlight_bg_color>#FFEE99</highlight_bg_color>
+<highlight_font_color>#CC0000</highlight_font_color>
+<search_button_bg_color>#0080C0</search_button_bg_color>
+<search_button_font_color>#FFFFFF</search_button_font_color>
+<search_button_border_style>solid</search_button_border_style>
+<search_button_border_color>#0080C0</search_button_border_color>
+<search_button_border_width>1</search_button_border_width>
+<search_button_border_radius>5</search_button_border_radius>
+<fs_style_settings></fs_style_settings>
+<sett_border_style>solid</sett_border_style>
+<sett_border_width>1</sett_border_width>
+<sett_border_color>#0080C0</sett_border_color>
+<sett_padding>5</sett_padding>
+<content_const>comment</content_const>
+<title_close>Закрыть окно</title_close>
+<fs_const_contents></fs_const_contents>
+<msg_order_violation>Вы не можете перейти на этот слайд, не посетив предыдущие слайды</msg_order_violation>
+<fs_const_search></fs_const_search>
+<search_text_button>Искать</search_text_button>
+<search_text_logic>Искать включение:</search_text_logic>
+<search_text_OR>Любого из слов</search_text_OR>
+<search_text_AND>Всех слов</search_text_AND>
+<search_text_case>Регистр:</search_text_case>
+<search_text_case_no>не учитывать</search_text_case_no>
+<search_text_case_yes>учитывать</search_text_case_yes>
+<search_text_found>Найдено слайдов:</search_text_found>
+<search_text_notfound>Не найдено включений, соответствующих заданным условиям</search_text_notfound>
+<fs_const_settings></fs_const_settings>
+<obj_header>Цель</obj_header>
+<obj_score>Баллы</obj_score>
+<obj_cs>Заверш.</obj_cs>
+<obj_ss>Успех</obj_ss>
+<status_n>Не начато</status_n>
+<status_i>Не закончено</status_i>
+<status_c>Закончено</status_c>
+<status_u>Неизвестно</status_u>
+<status_p>Успешно</status_p>
+<status_f>Неуспешно</status_f>
+<sound_click>none</sound_click>
+<sound_click_file_custom></sound_click_file_custom>
+<sound_over>none</sound_over>
+<sound_over_file_custom></sound_over_file_custom>
+<hide_close>no</hide_close>
 </param>
 <param objectid="OBJ_16">
 <hidden_noimg>Картинка не задана</hidden_noimg>
