@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Course file, saved 12/15/2017 8:09:02 PM by artem using CourseLab 171024 -->
+<!-- Course file, saved 12/16/2017 9:46:01 PM by artem using CourseLab 171024 -->
 <course3>
 <aicc_code>Genetik_Inzh</aicc_code>
 <aicc_name>Прототип ЭУК</aicc_name>
@@ -35,6 +35,16 @@
 <aicc_maxmark></aicc_maxmark>
 <aicc_reqmark></aicc_reqmark>
 </module>
+<module>
+<name>4</name>
+<folder_id>1</folder_id>
+<file>4\4.xml</file>
+<aicc_code></aicc_code>
+<aicc_name>Раздел 3. Введение в пищевую микробиологию</aicc_name>
+<aicc_description></aicc_description>
+<aicc_maxmark></aicc_maxmark>
+<aicc_reqmark></aicc_reqmark>
+</module>
 </modules>
 <folders>
 <folder>
@@ -45,14 +55,14 @@
 </folders>
 <windows>
 <window>
-<module>3</module>
-<zoom>123</zoom>
+<module>1</module>
+<zoom>100</zoom>
 </window>
 <window>
-<module>2</module>
+<module>4</module>
 <zoom>100</zoom>
 <active>true</active>
-<slide>SLIDE_32</slide>
+<slide>SLIDE_4</slide>
 </window>
 </windows>
 </course3>
