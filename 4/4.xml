@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Module file, saved 12/17/2017 1:25:19 PM by artem using CourseLab 171024 -->
+<!-- Module file, saved 12/17/2017 5:12:27 PM by artem using CourseLab 171024 -->
 <module format="3.1 171024" rev="2" slideWidth="1018" slideHeight="682" template="Standard\0004" file="C:\github\Prototype_EUK\4\4.xml">
 <font face="robotoregular, Arial, Helvetica, sans-serif" style="1" size="14" color="#333333"/>
 <default_text></default_text>
 <newids slide="SLIDE_" subslide="FRAME_" iebox="TXT_" image="IMG_" object="OBJ_" group="GROUP_"/>
 <import masterid="" left="0" top="0" width="0" height="0" commentsLeft="0" commentsTop="0" commentsWidth="0" commentsHeight="0" importComments="no" commentscolor="#000000" fiximages="yes"/>
 <runtime preview_fullscreen="yes" preview_fitwindow="no" fit_small_window="yes" showsplash="yes" seqslides="no" preloadimages="yes" normalize="no"/>
-<nextidentity slide="39" subslide="0" object="0" group="0" mousepointer="0" actionbox="0"/>
+<nextidentity slide="40" subslide="0" object="0" group="0" mousepointer="0" actionbox="0"/>
 <moduleColors>
 <color>996600</color>
 <color>cc9900</color>
@@ -1764,7 +1764,7 @@
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="iebox" guid="2fb75d55_5bd0_4b24_b43a_906896663acc" id="TXT_4" left="257" top="139" width="504" height="33" display="frame" begin="0">
-<content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;С6Н12О6 + 2 АДФ + 2 Фн &amp;rarr; 2 СН3СН2ОН + 2 СО2 + 2 АТФ&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+<content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;С&lt;sub&gt;6&lt;/sub&gt;Н&lt;sub&gt;12&lt;/sub&gt;О&lt;sub&gt;6&lt;/sub&gt; + 2 АДФ + 2 Фн &amp;rarr; 2 СН&lt;sub&gt;3&lt;/sub&gt;СН&lt;sub&gt;2&lt;/sub&gt;ОН + 2 СО&lt;sub&gt;2&lt;/sub&gt; + 2 АТФ&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="iebox" guid="93e2084d_5e92_4a83_a4d0_0147e14079e7" id="TXT_5" left="290" top="188" width="438" height="52" display="frame" begin="0">
@@ -2597,9 +2597,1434 @@
 </subslide>
 </subslides>
 </slide>
+<slide guid="d5622e24_0a5d_4147_aa5a_22aec335360b" id="SLIDE_30" sid="40" masterid="SLIDE_MASTER" name="Тестирование по Разделу 3" indent="0" infinite="1" advance="wait" transition="-1" durout="0">
+<subslides>
+<subslide guid="b8a6dd49_aa76_4e96_8fce_203cdd543c6b" id="FRAME_31" dur="0">
+<objects>
+<object type="div" guid="44213e2d_ba87_47dc_98d9_0d5e82a9b247" id="OBJ_23" state_extension="false" left="44" top="49" width="932" height="509" display="frame" begin="0">
+<selectedDialogButton>apply</selectedDialogButton>
+<default_text>text_main</default_text>
+<default_color_bg>bg_color</default_color_bg>
+<default_color_border>border_color</default_color_border>
+<theme>theme</theme>
+<template>q_0001</template>
+<design_content><![CDATA[<style >
+		.container { width: 932px; height: 509px; }
+		.cl-t-workarea { border-color: #0080C0;  }
+		.cl-t-header-table td { font-family: robotoregular, Arial, Helvetica, sans-serif; color: #0080C0; }
+		.cl-t-footer-table td { font-family: robotoregular, Arial, Helvetica, sans-serif; color: #0080C0; }
+		.cl-t-footer-btn { border-color: #0080C0; font-family: robotoregular, Arial, Helvetica, sans-serif; }
+
+		.var-true-false .spot { border-color: #0080C0; border-radius: 50%; }
+		.var-selected .var-true-false .spot-point { background-color: #0080C0; border-radius: 50%; }
+
+		.var-choice .spot { border-color: #0080C0; border-radius: 50%; }
+		.var-selected .var-choice .spot-point { background-color: #0080C0; border-radius: 50%; }
+
+		.var-select .spot { border-color: #0080C0; }
+		.var-select .inner-part { fill: #0080C0; }
+
+		.var-numeric .var-input { font-family: robotoregular, Arial, Helvetica, sans-serif; color: #0080C0; border-color: #0080C0; }
+
+		.var-fib .var-input { font-family: robotoregular, Arial, Helvetica, sans-serif; color: #0080C0; border-color: #0080C0; }
+
+		.var-target { font-family: robotoregular, Arial, Helvetica, sans-serif; color: #0080C0; border-color: #0080C0; }
+		.var-bullet { font-family: robotoregular, Arial, Helvetica, sans-serif; color: #0080C0; border-color: #0080C0; }
+
+		.q-feedback { width: 30%; left: 35%; top: 30%; border-radius: 5px; box-shadow: 2px 2px 6px rgba(102,102,102,0.66); }
+		.q-feedback-correct { background-color: #E0FFE0; border-color: #006600; color: #006600; }
+		.q-feedback-lastattempt { background-color: #FFE0D0; border-color: #CC0000; color: #CC0000; }
+		.q-feedback-incorrect { background-color: #FFE0D0; border-color: #CC0000; color: #CC0000; }
+		.q-feedback-exceed { background-color: #FFE0D0; border-color: #CC0000; color: #CC0000; }
+		.q-feedback-timeout { background-color: #FFE0D0; border-color: #CC0000; color: #CC0000; }
+		.q-feedback-btn { font-family: robotoregular, Arial, Helvetica, sans-serif; }
+
+		.q-question-txt { padding: 12px !important; }
+				.cl-theme-light .cl-t-container { border-color: #0080C0; border-radius: 15px; background-image: linear-gradient(0deg, #D5EAFF, #F1F8FF); box-shadow: 2px 2px 6px rgba(102,102,102,0.66);  }
+				.cl-theme-light .cl-t-header { border-radius: 15px 15px 0 0; background-image: linear-gradient(0deg, #D5EAFF, #F1F8FF); }
+				.cl-theme-light .cl-t-workarea { background-color: #FFFFFF; }
+				.cl-theme-light .cl-t-footer { border-radius: 0 0 15px 15px; background-image: linear-gradient(180deg, #D5EAFF, #F1F8FF); }
+				.cl-theme-light .rnd-timer-main { border-color: #0080C0; border-radius: 50%; }
+				.cl-theme-light .rnd-timer-svg-full { fill: #0080C0; }
+				.cl-theme-light .cl-t-progress .cl-t-progress-item-btn { border-color: #0080C0; border-radius: 2px; }
+				.cl-theme-light .cl-current .cl-t-progress-item-btn { background-color: #0080C0; }
+				.cl-theme-light .cl-visited .cl-t-progress-item-btn { background-color: #A6E1FF; }
+				.cl-theme-light .cl-unvisited .cl-t-progress-item-btn { background-color: #FFFFFF; }
+				.cl-theme-light .cl-t-footer-btn { border-radius: 5px; color: #0080C0; background-color: #D5EAFF; background-image: linear-gradient(0deg, #D5EAFF, #F1F8FF); }
+
+				.cl-theme-light .q-question { margin: 0; }
+				
+				.cl-theme-light .q-question-txt { border-color: #0080C0; background-color: #D5EAFF; border-radius: 10px; }
+				.cl-theme-light .q-question-goal { padding: 5px 15px;font-family: robotoregular, Arial, Helvetica, sans-serif; color: #0080C0; }
+				.cl-theme-light .q-vars { background-color: #FFFFFF; padding: 0; }
+
+				.cl-theme-light .var-true-false .spot { border-color: #0080C0; }
+				.cl-theme-light .var-selected .var-true-false .spot-point { background-color: #0080C0; }
+
+				.cl-theme-light .var-choice .spot { border-color: #0080C0;  }
+				.cl-theme-light .var-selected .var-choice .spot-point { background-color: #0080C0; }
+
+				.cl-theme-light .var-select .spot { border-color: #0080C0; border-width: 1px; border-radius: 5px; }
+				.cl-theme-light .var-select .inner-part { fill: #0080C0; }
+
+				.cl-theme-light .var-order .inner-part { font-family: robotoregular, Arial, Helvetica, sans-serif; color: #0080C0; }
+				
+				.cl-theme-light .var-numeric .var-input { font-family: robotoregular, Arial, Helvetica, sans-serif; color: #0080C0; border-color: #0080C0; border-radius: 5px; }
+
+				.cl-theme-light .var-fib .var-input { font-family: robotoregular, Arial, Helvetica, sans-serif; color: #0080C0; border-color: #0080C0;  border-radius: 5px; }
+
+				.cl-theme-light .oto-connector { border-color: #0080C0; }
+				.cl-theme-light .var-target { font-family: robotoregular, Arial, Helvetica, sans-serif; color: #0080C0; border-color: #0080C0; border-radius: 5px; background-color: #D5EAFF; background-image: linear-gradient(0deg, #D5EAFF, #F1F8FF); }
+				.cl-theme-light .var-bullet { font-family: robotoregular, Arial, Helvetica, sans-serif; color: #0080C0; border-color: #0080C0; border-radius: 5px; background-color: #D5EAFF; background-image: linear-gradient(0deg, #D5EAFF, #F1F8FF); }
+
+			</style><div class="clo-q_0001" ><div class="container cl-theme-light"><div class="wrapper"><div class="cl-t-container"><div class="cl-t-wrapper"><div class="cl-t-header"><table class="cl-t-header-table"><tr><td class="cl-t-header-cell-left"><div class="cl-t-credit-info"></div><div class="cl-t-answered-info"></div></td><td class="cl-t-header-cell-center"><div class="cl-t-progress"><table class="cl-t-progress-rail"><tr><td class="cl-t-progress-item cl-current"><div class="cl-t-progress-item-btn"> </div></td><td class="cl-t-progress-item cl-unvisited"><div class="cl-t-progress-item-btn"> </div></td><td class="cl-t-progress-item cl-unvisited"><div class="cl-t-progress-item-btn"> </div></td><td class="cl-t-progress-item cl-unvisited"><div class="cl-t-progress-item-btn"> </div></td><td class="cl-t-progress-item cl-unvisited"><div class="cl-t-progress-item-btn"> </div></td><td class="cl-t-progress-item cl-unvisited"><div class="cl-t-progress-item-btn"> </div></td><td class="cl-t-progress-item cl-unvisited"><div class="cl-t-progress-item-btn"> </div></td></tr></table></div><div class="cl-t-info-line">Вопрос 1 из 7</div></td><td class="cl-t-header-cell-right"></td></tr></table></div><div class="cl-t-workarea"><div class="q-question q-question-page" style="visibility: visible;" data-q-num="1"><div class="q-question-txt text-main" data-template="qtext"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">В результате спиртового брожения образуется:</span></span></div><div class="q-question-goal  q-question-goal-page" data-template="qgoal">Выберите &lt;b&gt;все&lt;/b&gt; правильные варианты</div><div class="q-vars q-vars-select" data-template="qvars-select" data-append="1"><div data-template="qvar-select" class="var var-idle unselectable"><div class="var-inner var-select"><table class="var-table"><tr><td class="var-spot-td"><div class="spot spot-idle" data-template="qvar-select-spot"><div class="inner-part selected"><svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg"><path d="M0.7,7.7 L2.1,5.6 L2.8,5.6 L4.9,8.96 L12.0,2.0 L12.8,3.7 L5.6,12.6 Z" stroke="none" stroke-width="0" /></svg></div></div></td><td class="var-txt-td"><div class="var-txt text-main"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">глюкоза</span></span></div></td></tr></table></div></div><div data-template="qvar-select" class="var var-selected unselectable"><div class="var-inner var-select"><table class="var-table"><tr><td class="var-spot-td"><div class="spot spot-selected" data-template="qvar-select-spot"><div class="inner-part selected"><svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg"><path d="M0.7,7.7 L2.1,5.6 L2.8,5.6 L4.9,8.96 L12.0,2.0 L12.8,3.7 L5.6,12.6 Z" stroke="none" stroke-width="0" /></svg></div></div></td><td class="var-txt-td"><div class="var-txt text-main"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">этанол​</span></span></div></td></tr></table></div></div><div data-template="qvar-select" class="var var-selected unselectable"><div class="var-inner var-select"><table class="var-table"><tr><td class="var-spot-td"><div class="spot spot-selected" data-template="qvar-select-spot"><div class="inner-part selected"><svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg"><path d="M0.7,7.7 L2.1,5.6 L2.8,5.6 L4.9,8.96 L12.0,2.0 L12.8,3.7 L5.6,12.6 Z" stroke="none" stroke-width="0" /></svg></div></div></td><td class="var-txt-td"><div class="var-txt text-main"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">углекислый газ</span></span></div></td></tr></table></div></div><div data-template="qvar-select" class="var var-idle unselectable"><div class="var-inner var-select"><table class="var-table"><tr><td class="var-spot-td"><div class="spot spot-idle" data-template="qvar-select-spot"><div class="inner-part selected"><svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg"><path d="M0.7,7.7 L2.1,5.6 L2.8,5.6 L4.9,8.96 L12.0,2.0 L12.8,3.7 L5.6,12.6 Z" stroke="none" stroke-width="0" /></svg></div></div></td><td class="var-txt-td"><div class="var-txt text-main"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">лактат</span></span></div></td></tr></table></div></div></div></div><div class="q-question q-question-page" style="visibility: hidden;" data-q-num="2"><div class="q-question-txt text-main" data-template="qtext"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Общая реакция брожения С<sub>6</sub>Н<sub>12</sub>О<sub>6</sub> + 2 АДФ + 2 Ф<sub>н</sub> &rarr; 2 СН<sub>3</sub>СНОНСООН + 2 АТФ относится к:</span></span></p></div><div class="q-question-goal  q-question-goal-page" data-template="qgoal">Выберите правильный вариант</div><div class="q-vars q-vars-choice" data-template="qvars-choice" data-append="1"><div data-template="qvar-choice" class="var var-idle unselectable"><div class="var-inner var-choice var-choice-"><table class="var-table"><tr><td class="var-spot-td"><div class="spot spot-idle" data-template="qvar-choice-spot"><div class="inner-part selected"><div class="spot-point">
+				 
+			</div></div></div></td><td class="var-txt-td"><div class="var-txt text-main"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">спиртовому брожению</span></span></div></td></tr></table></div></div><div data-template="qvar-choice" class="var var-selected unselectable"><div class="var-inner var-choice var-choice-"><table class="var-table"><tr><td class="var-spot-td"><div class="spot spot-selected" data-template="qvar-choice-spot"><div class="inner-part selected"><div class="spot-point">
+				 
+			</div></div></div></td><td class="var-txt-td"><div class="var-txt text-main"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">молочнокислому брожению</span></span></div></td></tr></table></div></div><div data-template="qvar-choice" class="var var-idle unselectable"><div class="var-inner var-choice var-choice-"><table class="var-table"><tr><td class="var-spot-td"><div class="spot spot-idle" data-template="qvar-choice-spot"><div class="inner-part selected"><div class="spot-point">
+				 
+			</div></div></div></td><td class="var-txt-td"><div class="var-txt text-main"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">маслянокислому брожению</span></span></div></td></tr></table></div></div><div data-template="qvar-choice" class="var var-idle unselectable"><div class="var-inner var-choice var-choice-"><table class="var-table"><tr><td class="var-spot-td"><div class="spot spot-idle" data-template="qvar-choice-spot"><div class="inner-part selected"><div class="spot-point">
+				 
+			</div></div></div></td><td class="var-txt-td"><div class="var-txt text-main"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">пропионовокислому брожению</span></span></div></td></tr></table></div></div></div></div><div class="q-question q-question-page" style="visibility: hidden;" data-q-num="3"><div class="q-question-txt text-main" data-template="qtext"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">При проведении качественной реакции на лактат используют реактив Уффельмана, включающий:</span></span></p></div><div class="q-question-goal  q-question-goal-page" data-template="qgoal">Выберите правильный вариант</div><div class="q-vars q-vars-choice" data-template="qvars-choice" data-append="1"><div data-template="qvar-choice" class="var var-idle unselectable"><div class="var-inner var-choice var-choice-"><table class="var-table"><tr><td class="var-spot-td"><div class="spot spot-idle" data-template="qvar-choice-spot"><div class="inner-part selected"><div class="spot-point">
+				 
+			</div></div></div></td><td class="var-txt-td"><div class="var-txt text-main"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">ZnCl<sub>2</sub></span></span></div></td></tr></table></div></div><div data-template="qvar-choice" class="var var-idle unselectable"><div class="var-inner var-choice var-choice-"><table class="var-table"><tr><td class="var-spot-td"><div class="spot spot-idle" data-template="qvar-choice-spot"><div class="inner-part selected"><div class="spot-point">
+				 
+			</div></div></div></td><td class="var-txt-td"><div class="var-txt text-main"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">I<sub>2</sub></span></span></div></td></tr></table></div></div><div data-template="qvar-choice" class="var var-idle unselectable"><div class="var-inner var-choice var-choice-"><table class="var-table"><tr><td class="var-spot-td"><div class="spot spot-idle" data-template="qvar-choice-spot"><div class="inner-part selected"><div class="spot-point">
+				 
+			</div></div></div></td><td class="var-txt-td"><div class="var-txt text-main"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Fe(OH)<sub>2</sub></span></span></div></td></tr></table></div></div><div data-template="qvar-choice" class="var var-selected unselectable"><div class="var-inner var-choice var-choice-"><table class="var-table"><tr><td class="var-spot-td"><div class="spot spot-selected" data-template="qvar-choice-spot"><div class="inner-part selected"><div class="spot-point">
+				 
+			</div></div></div></td><td class="var-txt-td"><div class="var-txt text-main"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">FeCl<sub>3</sub></span></span></div></td></tr></table></div></div></div></div><div class="q-question q-question-page" style="visibility: hidden;" data-q-num="4"><div class="q-question-txt text-main" data-template="qtext"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Пропионовокислые бактерии используются в основном в:</span></span></p></div><div class="q-question-goal  q-question-goal-page" data-template="qgoal">Выберите правильный вариант</div><div class="q-vars q-vars-choice" data-template="qvars-choice" data-append="1"><div data-template="qvar-choice" class="var var-selected unselectable"><div class="var-inner var-choice var-choice-"><table class="var-table"><tr><td class="var-spot-td"><div class="spot spot-selected" data-template="qvar-choice-spot"><div class="inner-part selected"><div class="spot-point">
+				 
+			</div></div></div></td><td class="var-txt-td"><div class="var-txt text-main"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">производстве сыров</span></span></div></td></tr></table></div></div><div data-template="qvar-choice" class="var var-idle unselectable"><div class="var-inner var-choice var-choice-"><table class="var-table"><tr><td class="var-spot-td"><div class="spot spot-idle" data-template="qvar-choice-spot"><div class="inner-part selected"><div class="spot-point">
+				 
+			</div></div></div></td><td class="var-txt-td"><div class="var-txt text-main"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">пивоварении</span></span></div></td></tr></table></div></div><div data-template="qvar-choice" class="var var-idle unselectable"><div class="var-inner var-choice var-choice-"><table class="var-table"><tr><td class="var-spot-td"><div class="spot spot-idle" data-template="qvar-choice-spot"><div class="inner-part selected"><div class="spot-point">
+				 
+			</div></div></div></td><td class="var-txt-td"><div class="var-txt text-main"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">хлебопечении</span></span></div></td></tr></table></div></div><div data-template="qvar-choice" class="var var-idle unselectable"><div class="var-inner var-choice var-choice-"><table class="var-table"><tr><td class="var-spot-td"><div class="spot spot-idle" data-template="qvar-choice-spot"><div class="inner-part selected"><div class="spot-point">
+				 
+			</div></div></div></td><td class="var-txt-td"><div class="var-txt text-main"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">виноделии</span></span></div></td></tr></table></div></div></div></div><div class="q-question q-question-page" style="visibility: hidden;" data-q-num="5"><div class="q-question-txt text-main" data-template="qtext"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">К бактериям какого рода относится данная характеристика: &laquo;Палочковидные клетки, имеют жгутики, пили. Не образую цист и спор. Являются факультативными анаэробами. Наличие в пищевых продуктах говорит о нарушении санитарного режима при производстве&raquo;</span></span></p></div><div class="q-question-goal  q-question-goal-page" data-template="qgoal">Выберите правильный вариант</div><div class="q-vars q-vars-choice" data-template="qvars-choice" data-append="1"><div data-template="qvar-choice" class="var var-idle unselectable"><div class="var-inner var-choice var-choice-"><table class="var-table"><tr><td class="var-spot-td"><div class="spot spot-idle" data-template="qvar-choice-spot"><div class="inner-part selected"><div class="spot-point">
+				 
+			</div></div></div></td><td class="var-txt-td"><div class="var-txt text-main"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">род<em> Proteus</em></span></span></div></td></tr></table></div></div><div data-template="qvar-choice" class="var var-idle unselectable"><div class="var-inner var-choice var-choice-"><table class="var-table"><tr><td class="var-spot-td"><div class="spot spot-idle" data-template="qvar-choice-spot"><div class="inner-part selected"><div class="spot-point">
+				 
+			</div></div></div></td><td class="var-txt-td"><div class="var-txt text-main"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">род<em> Bacillus&nbsp;</em></span></span></div></td></tr></table></div></div><div data-template="qvar-choice" class="var var-idle unselectable"><div class="var-inner var-choice var-choice-"><table class="var-table"><tr><td class="var-spot-td"><div class="spot spot-idle" data-template="qvar-choice-spot"><div class="inner-part selected"><div class="spot-point">
+				 
+			</div></div></div></td><td class="var-txt-td"><div class="var-txt text-main"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">род<em> Pseudomonas</em></span></span></div></td></tr></table></div></div><div data-template="qvar-choice" class="var var-selected unselectable"><div class="var-inner var-choice var-choice-"><table class="var-table"><tr><td class="var-spot-td"><div class="spot spot-selected" data-template="qvar-choice-spot"><div class="inner-part selected"><div class="spot-point">
+				 
+			</div></div></div></td><td class="var-txt-td"><div class="var-txt text-main"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">род <em>Escherichiа</em></span></span></div></td></tr></table></div></div></div></div><div class="q-question q-question-page" style="visibility: hidden;" data-q-num="6"><div class="q-question-txt text-main" data-template="qtext"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Выберете грамотрицательные бактерии:</span></span></div><div class="q-question-goal  q-question-goal-page" data-template="qgoal">Выберите &lt;b&gt;все&lt;/b&gt; правильные варианты</div><div class="q-vars q-vars-select" data-template="qvars-select" data-append="1"><div data-template="qvar-select" class="var var-selected unselectable"><div class="var-inner var-select"><table class="var-table"><tr><td class="var-spot-td"><div class="spot spot-selected" data-template="qvar-select-spot"><div class="inner-part selected"><svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg"><path d="M0.7,7.7 L2.1,5.6 L2.8,5.6 L4.9,8.96 L12.0,2.0 L12.8,3.7 L5.6,12.6 Z" stroke="none" stroke-width="0" /></svg></div></div></td><td class="var-txt-td"><div class="var-txt text-main"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Род <em>Escherichi</em><em>а</em></span></span></p></div></td></tr></table></div></div><div data-template="qvar-select" class="var var-idle unselectable"><div class="var-inner var-select"><table class="var-table"><tr><td class="var-spot-td"><div class="spot spot-idle" data-template="qvar-select-spot"><div class="inner-part selected"><svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg"><path d="M0.7,7.7 L2.1,5.6 L2.8,5.6 L4.9,8.96 L12.0,2.0 L12.8,3.7 L5.6,12.6 Z" stroke="none" stroke-width="0" /></svg></div></div></td><td class="var-txt-td"><div class="var-txt text-main"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Род <em>Sarcina</em></span></span></p></div></td></tr></table></div></div><div data-template="qvar-select" class="var var-idle unselectable"><div class="var-inner var-select"><table class="var-table"><tr><td class="var-spot-td"><div class="spot spot-idle" data-template="qvar-select-spot"><div class="inner-part selected"><svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg"><path d="M0.7,7.7 L2.1,5.6 L2.8,5.6 L4.9,8.96 L12.0,2.0 L12.8,3.7 L5.6,12.6 Z" stroke="none" stroke-width="0" /></svg></div></div></td><td class="var-txt-td"><div class="var-txt text-main"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Род <em>Clostridium</em></span></span></p></div></td></tr></table></div></div><div data-template="qvar-select" class="var var-selected unselectable"><div class="var-inner var-select"><table class="var-table"><tr><td class="var-spot-td"><div class="spot spot-selected" data-template="qvar-select-spot"><div class="inner-part selected"><svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg"><path d="M0.7,7.7 L2.1,5.6 L2.8,5.6 L4.9,8.96 L12.0,2.0 L12.8,3.7 L5.6,12.6 Z" stroke="none" stroke-width="0" /></svg></div></div></td><td class="var-txt-td"><div class="var-txt text-main"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Род <em>Pseudomonas</em></span></span></p></div></td></tr></table></div></div><div data-template="qvar-select" class="var var-idle unselectable"><div class="var-inner var-select"><table class="var-table"><tr><td class="var-spot-td"><div class="spot spot-idle" data-template="qvar-select-spot"><div class="inner-part selected"><svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg"><path d="M0.7,7.7 L2.1,5.6 L2.8,5.6 L4.9,8.96 L12.0,2.0 L12.8,3.7 L5.6,12.6 Z" stroke="none" stroke-width="0" /></svg></div></div></td><td class="var-txt-td"><div class="var-txt text-main"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Род <em>Enterococcus</em></span></span></p></div></td></tr></table></div></div><div data-template="qvar-select" class="var var-selected unselectable"><div class="var-inner var-select"><table class="var-table"><tr><td class="var-spot-td"><div class="spot spot-selected" data-template="qvar-select-spot"><div class="inner-part selected"><svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg"><path d="M0.7,7.7 L2.1,5.6 L2.8,5.6 L4.9,8.96 L12.0,2.0 L12.8,3.7 L5.6,12.6 Z" stroke="none" stroke-width="0" /></svg></div></div></td><td class="var-txt-td"><div class="var-txt text-main"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Род <em>Proteus</em></span></span></p></div></td></tr></table></div></div></div></div><div class="q-question q-question-page" style="visibility: hidden;" data-q-num="7"><div class="q-question-txt text-main" data-template="qtext"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">К бактериям какого рода относится характеристика: &laquo;Сферические клетки, не образующие спор и капсул. Грамположительные, факультативные анаэробы. Устойчивы к высокой температуре. Может вызывать пищевое отравление&raquo;</span></span></p></div><div class="q-question-goal  q-question-goal-page" data-template="qgoal">Выберите правильный вариант</div><div class="q-vars q-vars-choice" data-template="qvars-choice" data-append="1"><div data-template="qvar-choice" class="var var-idle unselectable"><div class="var-inner var-choice var-choice-"><table class="var-table"><tr><td class="var-spot-td"><div class="spot spot-idle" data-template="qvar-choice-spot"><div class="inner-part selected"><div class="spot-point">
+				 
+			</div></div></div></td><td class="var-txt-td"><div class="var-txt text-main"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">род <em>Enterococcus</em></span></span></div></td></tr></table></div></div><div data-template="qvar-choice" class="var var-idle unselectable"><div class="var-inner var-choice var-choice-"><table class="var-table"><tr><td class="var-spot-td"><div class="spot spot-idle" data-template="qvar-choice-spot"><div class="inner-part selected"><div class="spot-point">
+				 
+			</div></div></div></td><td class="var-txt-td"><div class="var-txt text-main"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">род <em>Proteus</em></span></span></div></td></tr></table></div></div><div data-template="qvar-choice" class="var var-idle unselectable"><div class="var-inner var-choice var-choice-"><table class="var-table"><tr><td class="var-spot-td"><div class="spot spot-idle" data-template="qvar-choice-spot"><div class="inner-part selected"><div class="spot-point">
+				 
+			</div></div></div></td><td class="var-txt-td"><div class="var-txt text-main"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">род <em>Micrococcus</em></span></span></div></td></tr></table></div></div><div data-template="qvar-choice" class="var var-selected unselectable"><div class="var-inner var-choice var-choice-"><table class="var-table"><tr><td class="var-spot-td"><div class="spot spot-selected" data-template="qvar-choice-spot"><div class="inner-part selected"><div class="spot-point">
+				 
+			</div></div></div></td><td class="var-txt-td"><div class="var-txt text-main"><p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">род <em>Staphylococcus</em></span></span></p></div></td></tr></table></div></div></div></div></div><div class="cl-t-footer"><table class="cl-t-footer-table"><tr><td class="cl-t-footer-cell-left"><button class="cl-btn cl-t-footer-btn idle">ОТВЕТИТЬ</button></td><td class="cl-t-footer-cell-center"><div class="cl-t-attempts"></div></td><td class="cl-t-footer-cell-right"></td></tr></table></div></div></div></div></div></div><script >
+function Adjust()
+{
+	if('page'=='list')
+	{
+		var oContainer = document.getElementsByClassName('cl-t-container')[0];
+		var oHeader = document.getElementsByClassName('cl-t-header')[0];
+		var oWA = document.getElementsByClassName('cl-t-workarea')[0];
+		var oFooter = document.getElementsByClassName('cl-t-footer')[0];
+		var iFullH = parseInt('509', 10);
+		var iBorder = parseInt(window.getComputedStyle(oContainer, null).getPropertyValue('border-top-width'), 10) + parseInt(window.getComputedStyle(oContainer, null).getPropertyValue('border-bottom-width'), 10);
+		iBorder += parseInt(window.getComputedStyle(oHeader, null).getPropertyValue('border-top-width'), 10) + parseInt(window.getComputedStyle(oHeader, null).getPropertyValue('border-bottom-width'), 10);
+		iBorder += parseInt(window.getComputedStyle(oWA, null).getPropertyValue('border-top-width'), 10) + parseInt(window.getComputedStyle(oWA, null).getPropertyValue('border-bottom-width'), 10);
+		iBorder += parseInt(window.getComputedStyle(oFooter, null).getPropertyValue('border-top-width'), 10) + parseInt(window.getComputedStyle(oFooter, null).getPropertyValue('border-bottom-width'), 10);
+		var iPadding = parseInt(window.getComputedStyle(oWA, null).getPropertyValue('padding-top'), 10) + parseInt(window.getComputedStyle(oWA, null).getPropertyValue('padding-bottom'), 10);
+		var iH = iFullH - oHeader.offsetHeight - oFooter.offsetHeight - iPadding - iBorder;
+		oWA.style.height = iH + 'px';
+	}
+	var aOTO = document.getElementsByClassName('oto-table');
+	var aInner;
+	var iTxtH;
+	var iMaxH;
+	var iIdx;
+	var iCnt = 0;
+	while(aOTO[iCnt]!=null)
+	{
+		iMaxH = 0;
+		iIdx = 0;
+		aInner = aOTO[iCnt].getElementsByClassName('cell-to-adjust');
+		while(aInner[iIdx]!=null)
+		{
+			iTxtH = parseInt(window.getComputedStyle(aInner[iIdx], null).getPropertyValue('height'), 10);
+			if(Math.abs(iMaxH - iTxtH) != (iMaxH - iTxtH))
+			{
+				iMaxH = iTxtH;
+			}
+			iIdx++;
+		}
+		iIdx = 0;
+		while(aInner[iIdx]!=null)
+		{
+			aInner[iIdx].style.height = iMaxH + 'px';
+			iIdx++;
+		}
+		iCnt++;
+	}
+	if('page'=='page')
+	{
+		if('yes'=='yes')
+		{
+			var oWA = document.getElementsByClassName('cl-t-workarea')[0];
+			var aQuestions = document.getElementsByClassName('q-question');
+			iMaxH = 0;
+			iCnt = 0;
+			var iQH = 0;
+			while(aQuestions[iCnt]!=null)
+			{
+				iQH = parseInt(window.getComputedStyle(aQuestions[iCnt], null).getPropertyValue('height'), 10);
+				if(Math.abs(iMaxH - iQH) != (iMaxH - iQH))
+				{
+					iMaxH = iQH;
+				}
+				if(aQuestions[iCnt].style.visibility=='hidden')
+				{
+					aQuestions[iCnt].style.display = 'none';
+				}
+				iCnt++;
+			}
+			oWA.style.height = iMaxH + 'px';
+		}
+	}
+}
+</script>]]></design_content>
+<export_content><![CDATA[<div class="cl-audio-files-list" >
+		 
+	</div><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_23 .container"><span class="rule-static">width: 932px; height: 509px;</span></div><div class="rule" data-name="#OBJ_23 .cl-t-workarea"><span class="rule-static">border-color: #0080C0; </span></div><div class="rule" data-name="#OBJ_23 .cl-t-header-table td"><span class="rule-static">font-family: robotoregular, Arial, Helvetica, sans-serif; color: #0080C0;</span></div><div class="rule" data-name="#OBJ_23 .cl-t-footer-table td"><span class="rule-static">font-family: robotoregular, Arial, Helvetica, sans-serif; color: #0080C0;</span></div><div class="rule" data-name="#OBJ_23 .cl-t-footer-btn"><span class="rule-static">border-color: #0080C0; font-family: robotoregular, Arial, Helvetica, sans-serif;</span></div><div class="rule" data-name="#OBJ_23 .var-true-false .spot"><span class="rule-static">border-color: #0080C0;</span><span class="rule-dynamic" data-type="border-radius" data-value="50%" /></div><div class="rule" data-name="#OBJ_23 .var-selected .var-true-false .spot-point"><span class="rule-static">background-color: #0080C0;</span><span class="rule-dynamic" data-type="border-radius" data-value="50%" /></div><div class="rule" data-name="#OBJ_23 .var-choice .spot"><span class="rule-static">border-color: #0080C0;</span><span class="rule-dynamic" data-type="border-radius" data-value="50%" /></div><div class="rule" data-name="#OBJ_23 .var-selected .var-choice .spot-point"><span class="rule-static">background-color: #0080C0;</span><span class="rule-dynamic" data-type="border-radius" data-value="50%" /></div><div class="rule" data-name="#OBJ_23 .var-select .spot"><span class="rule-static">border-color: #0080C0;</span></div><div class="rule" data-name="#OBJ_23 .var-select .inner-part"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_23 .var-fib .var-input"><span class="rule-static">font-family: robotoregular, Arial, Helvetica, sans-serif; color: #0080C0; border-color: #0080C0;</span></div><div class="rule" data-name="#OBJ_23 .var-target"><span class="rule-static">font-family: robotoregular, Arial, Helvetica, sans-serif; color: #0080C0; border-color: #0080C0;</span></div><div class="rule" data-name="#OBJ_23 .var-bullet"><span class="rule-static">font-family: robotoregular, Arial, Helvetica, sans-serif; color: #0080C0; border-color: #0080C0;</span></div><div class="rule" data-name="#OBJ_23 .q-feedback"><span class="rule-static">width: 30%; left: 35%; top: 30%; font-family: robotoregular, Arial, Helvetica, sans-serif;</span><span class="rule-dynamic" data-type="border-radius" data-value="5px" /><span class="rule-dynamic" data-type="box-shadow" data-value="2px 2px 6px rgba(102,102,102,0.66)" /></div><div class="rule" data-name="#OBJ_23 .q-feedback-correct"><span class="rule-static">background-color: #E0FFE0; border-color: #006600; color: #006600;</span></div><div class="rule" data-name="#OBJ_23 .q-feedback-incorrect"><span class="rule-static">background-color: #FFE0D0; border-color: #CC0000; color: #CC0000;</span></div><div class="rule" data-name="#OBJ_23 .q-feedback-lastattempt"><span class="rule-static">background-color: #FFE0D0; border-color: #CC0000; color: #CC0000;</span></div><div class="rule" data-name="#OBJ_23 .q-feedback-exceed"><span class="rule-static">background-color: #FFE0D0; border-color: #CC0000; color: #CC0000;</span></div><div class="rule" data-name="#OBJ_23 .q-feedback-timeout"><span class="rule-static">background-color: #FFE0D0; border-color: #CC0000; color: #CC0000;</span></div><div class="rule" data-name="#OBJ_23 .q-feedback-btn"><span class="rule-static">font-family: robotoregular, Arial, Helvetica, sans-serif;</span></div><div class="rule" data-name="#OBJ_23 .q-question-txt"><span class="rule-static">padding: 12px !important;</span></div><div class="rule" data-name="#OBJ_23 .cl-theme-light .cl-t-container"><span class="rule-static">border-color: #0080C0; background-color: #D5EAFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="15px" /><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#D5EAFF|0;#F1F8FF|100" /><span class="rule-dynamic" data-type="box-shadow" data-value="2px 2px 6px rgba(102,102,102,0.66)" /></div><div class="rule" data-name="#OBJ_23 .cl-theme-light .cl-t-header"><span class="rule-static">background-color: #D5EAFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="15px 15px 0 0" /><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#D5EAFF|0;#F1F8FF|100" /></div><div class="rule" data-name="#OBJ_23 .cl-theme-light .cl-t-workarea"><span class="rule-static">background-color: #FFFFFF;</span></div><div class="rule" data-name="#OBJ_23 .cl-theme-light .cl-t-footer"><span class="rule-static">background-color: #D5EAFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="0 0 15px 15px" /><span class="rule-dynamic" data-type="linear-gradient" data-angle="180" data-colors="#D5EAFF|0;#F1F8FF|100" /></div><div class="rule" data-name="#OBJ_23 .cl-theme-light .rnd-timer-main"><span class="rule-static">border-color: #0080C0;</span><span class="rule-dynamic" data-type="border-radius" data-value="50%" /></div><div class="rule" data-name="#OBJ_23 .cl-theme-light .rnd-timer-path"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_23 .cl-theme-light .rnd-timer-svg-full"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_23 .cl-theme-light .cl-t-progress .cl-t-progress-item-btn"><span class="rule-static">border-color: #0080C0;</span><span class="rule-dynamic" data-type="border-radius" data-value="2px" /></div><div class="rule" data-name="#OBJ_23 .cl-theme-light .cl-current .cl-t-progress-item-btn"><span class="rule-static">background-color: #0080C0;</span></div><div class="rule" data-name="#OBJ_23 .cl-theme-light .cl-visited .cl-t-progress-item-btn"><span class="rule-static">background-color: #A6E1FF;</span></div><div class="rule" data-name="#OBJ_23 .cl-theme-light .cl-unvisited .cl-t-progress-item-btn"><span class="rule-static">background-color: #FFFFFF;</span></div><div class="rule" data-name="#OBJ_23 .cl-theme-light .cl-t-footer-btn"><span class="rule-static">color: #0080C0; background-color: #D5EAFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="5px" /><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#D5EAFF|0;#F1F8FF|100" /></div><div class="rule" data-name="#OBJ_23 .cl-theme-light .q-question"><span class="rule-static">margin: 0;</span></div><div class="rule" data-name="#OBJ_23 .cl-theme-light .q-question-txt"><span class="rule-static">border-color: #0080C0; background-color: #D5EAFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_23 .cl-theme-light .q-question-goal"><span class="rule-static">padding: 5px 15px;font-family: robotoregular, Arial, Helvetica, sans-serif; color: #0080C0;</span></div><div class="rule" data-name="#OBJ_23 .cl-theme-light .q-vars"><span class="rule-static">background-color: #FFFFFF; padding: 0;</span></div><div class="rule" data-name="#OBJ_23 .cl-theme-light .var-true-false .spot"><span class="rule-static">border-color: #0080C0;</span></div><div class="rule" data-name="#OBJ_23 .cl-theme-light .var-selected .var-true-false .spot-point"><span class="rule-static">background-color: #0080C0;</span></div><div class="rule" data-name="#OBJ_23 .cl-theme-light .var-choice .spot"><span class="rule-static">border-color: #0080C0;</span></div><div class="rule" data-name="#OBJ_23 .cl-theme-light .var-selected .var-choice .spot-point"><span class="rule-static">background-color: #0080C0;</span></div><div class="rule" data-name="#OBJ_23 .cl-theme-light .var-select .spot"><span class="rule-static">border-color: #0080C0;</span><span class="rule-dynamic" data-type="border-radius" data-value="5px" /></div><div class="rule" data-name="#OBJ_23 .cl-theme-light .var-select .inner-part"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_23 .cl-theme-light .var-order .inner-part"><span class="rule-static">font-family: robotoregular, Arial, Helvetica, sans-serif; color: #0080C0;</span></div><div class="rule" data-name="#OBJ_23 .cl-theme-light .var-numeric .var-input"><span class="rule-static">font-family: robotoregular, Arial, Helvetica, sans-serif; color: #0080C0; border-color: #0080C0;</span><span class="rule-dynamic" data-type="border-radius" data-value="5px" /></div><div class="rule" data-name="#OBJ_23 .cl-theme-light .var-fib .var-input"><span class="rule-static">font-family: robotoregular, Arial, Helvetica, sans-serif; color: #0080C0; border-color: #0080C0;</span><span class="rule-dynamic" data-type="border-radius" data-value="5px" /></div><div class="rule" data-name="#OBJ_23 .cl-theme-light .oto-connector"><span class="rule-static">border-color: #0080C0;</span></div><div class="rule" data-name="#OBJ_23 .cl-theme-light .var-target"><span class="rule-static">font-family: robotoregular, Arial, Helvetica, sans-serif; color: #0080C0; background-color: #D5EAFF; border-color: #0080C0;</span><span class="rule-dynamic" data-type="border-radius" data-value="5px" /><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#D5EAFF|0;#F1F8FF|100" /></div><div class="rule" data-name="#OBJ_23 .cl-theme-light .var-bullet"><span class="rule-static">font-family: robotoregular, Arial, Helvetica, sans-serif; color: #0080C0; background-color: #D5EAFF; border-color: #0080C0;</span><span class="rule-dynamic" data-type="border-radius" data-value="5px" /><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#D5EAFF|0;#F1F8FF|100" /></div></div><div class="container cl-theme-light" ><div class="wrapper"><div class="cl-t-container unselectable"><div class="cl-t-wrapper"><div class="cl-t-header"><table class="cl-t-header-table"><tr><td class="cl-t-header-cell-left"><div class="cl-t-credit-info"></div><div class="cl-t-answered-info"></div></td><td class="cl-t-header-cell-center"><div class="cl-t-progress"><table class="cl-t-progress-rail"><tr><td class="cl-t-progress-item cl-unvisited"><div class="cl-t-progress-item-btn"> </div></td><td class="cl-t-progress-item cl-unvisited"><div class="cl-t-progress-item-btn"> </div></td><td class="cl-t-progress-item cl-unvisited"><div class="cl-t-progress-item-btn"> </div></td><td class="cl-t-progress-item cl-unvisited"><div class="cl-t-progress-item-btn"> </div></td><td class="cl-t-progress-item cl-unvisited"><div class="cl-t-progress-item-btn"> </div></td><td class="cl-t-progress-item cl-unvisited"><div class="cl-t-progress-item-btn"> </div></td><td class="cl-t-progress-item cl-unvisited"><div class="cl-t-progress-item-btn"> </div></td></tr></table></div><div class="cl-t-info-line">Вопрос 1 из 7</div></td><td class="cl-t-header-cell-right"></td></tr></table></div><div class="cl-t-workarea" /><div class="cl-t-footer"><table class="cl-t-footer-table"><tr><td class="cl-t-footer-cell-left"><button class="cl-btn cl-t-footer-btn idle cl-btn-submit" data-action="submit" title="ОТВЕТИТЬ">ОТВЕТИТЬ</button><button class="cl-btn cl-t-footer-btn idle cl-btn-next" data-action="next" title="ДАЛЕЕ">ДАЛЕЕ</button></td><td class="cl-t-footer-cell-center"><div class="cl-t-attempts"></div></td><td class="cl-t-footer-cell-right"><div class="cl-q-timer-container"><div class="cl-q-timer question-timer" data-template="qtimer"><div class="cl-q-timer-bar"><div class="cl-q-timer-scale">
+				 
+			</div></div><table class="cl-q-timer-table"><tr><td class="cl-q-timer-value">Время вопроса 0 мин 10 сек</td><td class="cl-q-timer-progress"><div class="rnd-timer-main"><svg viewBox="0 0 24 24" class="rnd-timer-svg" xmlns="http://www.w3.org/2000/svg"><path style="display: none;" class="rnd-timer-path" d="M12,0 A12,12 1 1,1 12,24 A12,12 1 1,1 12,0 Z" /><circle class="rnd-timer-svg-full" cx="12" cy="12" r="12" /></svg></div></td></tr></table></div></div><div class="cl-q-no-timer"></div></td></tr></table></div></div></div></div></div><div class="template-storage" ><div class="q-question-number" data-template="qnumber"></div><div class="q-question-goal  q-question-goal-page" data-template="qgoal"></div><div class="q-question-txt text-main" data-template="qtext"></div><div class="q-vars q-vars-true-false q-vars-tf-v" data-template="qvars-true-false-v" data-append="1" /><div class="q-vars q-vars-true-false q-vars-tf-h" data-template="qvars-true-false-h"><table class="q-vars-tf-h-table"><tr><td class="q-vars-tf-h-td" data-append="1" /><td class="q-vars-tf-h-td" data-append="1" /></tr></table></div><div class="q-vars q-vars-choice" data-template="qvars-choice" data-append="1" /><div class="q-vars q-vars-select" data-template="qvars-select" data-append="1" /><div class="q-vars q-vars-order" data-template="qvars-order" data-append="1" /><div class="q-vars q-vars-numeric" data-template="qvars-numeric" data-append="1" /><div class="q-vars q-vars-fib" data-template="qvars-fib" data-append="1" /><div class="q-vars q-vars-oto" data-template="qvars-oto" data-append="1" /><div data-template="qvar-tf" class="var var-idle unselectable"><div class="var-inner var-true-false var-true-false-light"><table class="var-table"><tr><td class="var-spot-td"><div class="spot spot-idle" data-template="qvar-tf-spot"><div class="inner-part selected"><div class="spot-point">
+						 
+					</div></div></div></td><td class="var-txt-td"><div class="var-txt text-main">
+							 
+						</div></td></tr></table></div></div><div data-template="qvar-choice" class="var var-idle unselectable"><div class="var-inner var-choice var-choice-light"><table class="var-table"><tr><td class="var-spot-td"><div class="spot spot-idle" data-template="qvar-choice-spot"><div class="inner-part selected"><div class="spot-point">
+						 
+					</div></div></div></td><td class="var-txt-td"><div class="var-txt text-main">
+							 
+						</div></td></tr></table></div></div><div data-template="qvar-select" class="var var-idle unselectable"><div class="var-inner var-select"><table class="var-table"><tr><td class="var-spot-td"><div class="spot spot-idle" data-template="qvar-select-spot"><div class="inner-part selected"><svg width="14" height="14" viewBox="0 0 14 14" xmlns="http://www.w3.org/2000/svg"><path d="M0.7,7.7 L2.1,5.6 L2.8,5.6 L4.9,8.96 L12.0,2.0 L12.8,3.7 L5.6,12.6 Z" stroke="none" stroke-width="0" /></svg></div></div></td><td class="var-txt-td"><div class="var-txt text-main">
+							 
+						</div></td></tr></table></div></div><div data-template="qvar-order" class="var var-order-elem unselectable"><div class="var-inner var-order"><table class="var-table"><tr><td class="var-spot-td"><div class="spot spot-basic" data-template="qvar-order-spot"><div class="inner-part"><span class="order-up">
+						↑
+					</span><span class="order-down">
+						↓
+					</span></div></div></td><td class="var-txt-td"><div class="var-txt text-main">
+							 
+						</div></td></tr></table></div></div><div data-template="qvar-numeric" class="var"><div class="var-inner var-numeric"><table class="var-table"><tr><td class="var-txt-td cl-var-exp-left"><div class="var-txt text-main">
+							 
+						</div></td><td class="var-spot-td"><input type="text" class="var-input" /></td><td class="var-txt-td cl-var-exp-right"><div class="var-txt text-main">
+							 
+						</div></td></tr></table></div></div><div data-template="qvar-fib" class="var"><div class="var-inner var-fib"><table class="var-table"><tr><td class="var-txt-td cl-var-exp-left"><div class="var-txt text-main">
+							 
+						</div></td><td class="var-spot-td"><input type="text" class="var-input" /></td><td class="var-txt-td cl-var-exp-right"><div class="var-txt text-main">
+							 
+						</div></td></tr></table></div></div><div class="var-target unselectable" data-template="qvar-oto-target" data-target-id=""><table><tr><td class="target-text-cell"><div class="target-text text-main">
+					   
+					</div></td></tr></table></div><div class="var-bullet text-main unselectable" data-template="qvar-oto-bullet" data-bullet-id=""><table><tr><td class="bullet-text-cell"><div class="bullet-text text-main">
+						 
+					</div></td></tr></table></div><div data-template="fb" class="q-feedback-template"><div class="q-feedback-inner"><div class="q-feedback-btn unselectable" title="Закрыть сообщение">
+				×
+			</div><div class="q-feedback-txt-cnt unselectable"><div class="q-feedback-txt text-main">
+					 
+				</div></div></div></div></div>]]></export_content>
+<params>
+<theme type="select">light</theme>
+<border_color type="color">#0080C0</border_color>
+<bg_color type="color">#D5EAFF</bg_color>
+<base_color type="color">#FFFFFF</base_color>
+<q_questions type="list">
+<item>
+<question_type type="select">select</question_type>
+<display_question_text type="check">yes</display_question_text>
+<text_main type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;В результате спиртового брожения образуется:&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</text_main>
+<q_text_true type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;Да&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</q_text_true>
+<q_text_false type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;Нет&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</q_text_false>
+<q_elements_order type="select">tf</q_elements_order>
+<q_elements_layout type="select">v</q_elements_layout>
+<q_eval type="select">true</q_eval>
+<q_variants_choice type="list"></q_variants_choice>
+<q_shuffle_choice type="check">no</q_shuffle_choice>
+<q_variants_select type="list">
+<item>
+<q_right type="check">no</q_right>
+<q_variant type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;глюкоза&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</q_variant>
+<q_weight_by_connection type="dec_spinner">0.0</q_weight_by_connection>
+</item>
+<item>
+<q_right type="check">yes</q_right>
+<q_variant type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;этанол​&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</q_variant>
+<q_weight_by_connection type="dec_spinner">1.0</q_weight_by_connection>
+</item>
+<item>
+<q_right type="check">yes</q_right>
+<q_variant type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;углекислый газ&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</q_variant>
+<q_weight_by_connection type="dec_spinner">1.0</q_weight_by_connection>
+</item>
+<item>
+<q_right type="check">no</q_right>
+<q_variant type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;лактат&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</q_variant>
+<q_weight_by_connection type="dec_spinner">0.0</q_weight_by_connection>
+</item>
+</q_variants_select>
+<q_shuffle_select type="check">no</q_shuffle_select>
+<q_variants_order type="list"></q_variants_order>
+<q_variants_numeric type="list"></q_variants_numeric>
+<q_var_logic_numeric type="select">AND</q_var_logic_numeric>
+<q_variants_fib type="list"></q_variants_fib>
+<q_var_logic_fib type="select">AND</q_var_logic_fib>
+<q_variants_oto type="list"></q_variants_oto>
+<q_attempts_type type="select">fixed</q_attempts_type>
+<q_attempts type="spinner">1</q_attempts>
+<q_scored type="check">yes</q_scored>
+<q_scoring_type_tf type="select">plain</q_scoring_type_tf>
+<q_scoring_type_choice type="select">plain</q_scoring_type_choice>
+<q_weight type="dec_spinner">1.0</q_weight>
+<q_scoreboards type="list">
+<item>
+<q_board type="objectiveid">total</q_board>
+<q_weight_byobj type="dec_spinner">1.0</q_weight_byobj>
+</item>
+</q_scoreboards>
+<q_timer_switch type="check">no</q_timer_switch>
+<q_timer type="spinner">10</q_timer>
+<q_fb_test type="check">yes</q_fb_test>
+<display_fb_correct type="check">yes</display_fb_correct>
+<fb_correct type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;Правильно&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</fb_correct>
+<display_fb_incorrect type="check">yes</display_fb_incorrect>
+<fb_incorrect type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;К сожалению, Вы ошиблись&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</fb_incorrect>
+<display_fb_lastattempt type="check">no</display_fb_lastattempt>
+<fb_lastattempt type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;К сожалению, Вы ошиблись. Осталась всего одна попытка.&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</fb_lastattempt>
+<display_fb_exceed type="check">no</display_fb_exceed>
+<fb_exceed type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;К сожалению Вы исчерпали все попытки, но не ввели правильный ответ&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</fb_exceed>
+<display_fb_timeout type="check">no</display_fb_timeout>
+<fb_timeout type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;К сожалению время, отведенное на ответ, закончилось&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</fb_timeout>
+</item>
+<item>
+<question_type type="select">choice</question_type>
+<display_question_text type="check">yes</display_question_text>
+<text_main type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;p&amp;gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;Общая реакция брожения С&amp;lt;sub&amp;gt;6&amp;lt;/sub&amp;gt;Н&amp;lt;sub&amp;gt;12&amp;lt;/sub&amp;gt;О&amp;lt;sub&amp;gt;6&amp;lt;/sub&amp;gt; + 2 АДФ + 2 Ф&amp;lt;sub&amp;gt;н&amp;lt;/sub&amp;gt; &amp;amp;rarr; 2 СН&amp;lt;sub&amp;gt;3&amp;lt;/sub&amp;gt;СНОНСООН + 2 АТФ относится к:&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</text_main>
+<q_text_true type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;Да&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</q_text_true>
+<q_text_false type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;Нет&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</q_text_false>
+<q_elements_order type="select">tf</q_elements_order>
+<q_elements_layout type="select">v</q_elements_layout>
+<q_eval type="select">true</q_eval>
+<q_variants_choice type="list">
+<item>
+<q_right type="check">no</q_right>
+<q_variant type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;спиртовому брожению&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</q_variant>
+<q_weight_by_connection type="dec_spinner">0.0</q_weight_by_connection>
+</item>
+<item>
+<q_right type="check">yes</q_right>
+<q_variant type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;молочнокислому брожению&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</q_variant>
+<q_weight_by_connection type="dec_spinner">1.0</q_weight_by_connection>
+</item>
+<item>
+<q_right type="check">no</q_right>
+<q_variant type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;маслянокислому брожению&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</q_variant>
+<q_weight_by_connection type="dec_spinner">0.0</q_weight_by_connection>
+</item>
+<item>
+<q_right type="check">no</q_right>
+<q_variant type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;пропионовокислому брожению&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</q_variant>
+<q_weight_by_connection type="dec_spinner">0.0</q_weight_by_connection>
+</item>
+</q_variants_choice>
+<q_shuffle_choice type="check">no</q_shuffle_choice>
+<q_variants_select type="list"></q_variants_select>
+<q_shuffle_select type="check">no</q_shuffle_select>
+<q_variants_order type="list"></q_variants_order>
+<q_variants_numeric type="list"></q_variants_numeric>
+<q_var_logic_numeric type="select">AND</q_var_logic_numeric>
+<q_variants_fib type="list"></q_variants_fib>
+<q_var_logic_fib type="select">AND</q_var_logic_fib>
+<q_variants_oto type="list"></q_variants_oto>
+<q_attempts_type type="select">fixed</q_attempts_type>
+<q_attempts type="spinner">1</q_attempts>
+<q_scored type="check">yes</q_scored>
+<q_scoring_type_tf type="select">plain</q_scoring_type_tf>
+<q_scoring_type_choice type="select">plain</q_scoring_type_choice>
+<q_weight type="dec_spinner">1.0</q_weight>
+<q_scoreboards type="list">
+<item>
+<q_board type="objectiveid">total</q_board>
+<q_weight_byobj type="dec_spinner">1.0</q_weight_byobj>
+</item>
+</q_scoreboards>
+<q_timer_switch type="check">no</q_timer_switch>
+<q_timer type="spinner">10</q_timer>
+<q_fb_test type="check">yes</q_fb_test>
+<display_fb_correct type="check">yes</display_fb_correct>
+<fb_correct type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;Правильно&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</fb_correct>
+<display_fb_incorrect type="check">yes</display_fb_incorrect>
+<fb_incorrect type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;К сожалению, Вы ошиблись&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</fb_incorrect>
+<display_fb_lastattempt type="check">no</display_fb_lastattempt>
+<fb_lastattempt type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;К сожалению, Вы ошиблись. Осталась всего одна попытка.&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</fb_lastattempt>
+<display_fb_exceed type="check">no</display_fb_exceed>
+<fb_exceed type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;К сожалению Вы исчерпали все попытки, но не ввели правильный ответ&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</fb_exceed>
+<display_fb_timeout type="check">no</display_fb_timeout>
+<fb_timeout type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;К сожалению время, отведенное на ответ, закончилось&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</fb_timeout>
+</item>
+<item>
+<question_type type="select">choice</question_type>
+<display_question_text type="check">yes</display_question_text>
+<text_main type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;p&amp;gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;При проведении качественной реакции на лактат используют реактив Уффельмана, включающий:&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</text_main>
+<q_text_true type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;Да&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</q_text_true>
+<q_text_false type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;Нет&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</q_text_false>
+<q_elements_order type="select">tf</q_elements_order>
+<q_elements_layout type="select">v</q_elements_layout>
+<q_eval type="select">true</q_eval>
+<q_variants_choice type="list">
+<item>
+<q_right type="check">no</q_right>
+<q_variant type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;ZnCl&amp;lt;sub&amp;gt;2&amp;lt;/sub&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</q_variant>
+<q_weight_by_connection type="dec_spinner">0.0</q_weight_by_connection>
+</item>
+<item>
+<q_right type="check">no</q_right>
+<q_variant type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;I&amp;lt;sub&amp;gt;2&amp;lt;/sub&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</q_variant>
+<q_weight_by_connection type="dec_spinner">0.0</q_weight_by_connection>
+</item>
+<item>
+<q_right type="check">no</q_right>
+<q_variant type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;Fe(OH)&amp;lt;sub&amp;gt;2&amp;lt;/sub&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</q_variant>
+<q_weight_by_connection type="dec_spinner">0.0</q_weight_by_connection>
+</item>
+<item>
+<q_right type="check">yes</q_right>
+<q_variant type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;FeCl&amp;lt;sub&amp;gt;3&amp;lt;/sub&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</q_variant>
+<q_weight_by_connection type="dec_spinner">1.0</q_weight_by_connection>
+</item>
+</q_variants_choice>
+<q_shuffle_choice type="check">no</q_shuffle_choice>
+<q_variants_select type="list"></q_variants_select>
+<q_shuffle_select type="check">no</q_shuffle_select>
+<q_variants_order type="list"></q_variants_order>
+<q_variants_numeric type="list"></q_variants_numeric>
+<q_var_logic_numeric type="select">AND</q_var_logic_numeric>
+<q_variants_fib type="list"></q_variants_fib>
+<q_var_logic_fib type="select">AND</q_var_logic_fib>
+<q_variants_oto type="list"></q_variants_oto>
+<q_attempts_type type="select">fixed</q_attempts_type>
+<q_attempts type="spinner">1</q_attempts>
+<q_scored type="check">yes</q_scored>
+<q_scoring_type_tf type="select">plain</q_scoring_type_tf>
+<q_scoring_type_choice type="select">plain</q_scoring_type_choice>
+<q_weight type="dec_spinner">1.0</q_weight>
+<q_scoreboards type="list">
+<item>
+<q_board type="objectiveid">total</q_board>
+<q_weight_byobj type="dec_spinner">1.0</q_weight_byobj>
+</item>
+</q_scoreboards>
+<q_timer_switch type="check">no</q_timer_switch>
+<q_timer type="spinner">10</q_timer>
+<q_fb_test type="check">yes</q_fb_test>
+<display_fb_correct type="check">yes</display_fb_correct>
+<fb_correct type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;Правильно&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</fb_correct>
+<display_fb_incorrect type="check">yes</display_fb_incorrect>
+<fb_incorrect type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;К сожалению, Вы ошиблись&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</fb_incorrect>
+<display_fb_lastattempt type="check">no</display_fb_lastattempt>
+<fb_lastattempt type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;К сожалению, Вы ошиблись. Осталась всего одна попытка.&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</fb_lastattempt>
+<display_fb_exceed type="check">no</display_fb_exceed>
+<fb_exceed type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;К сожалению Вы исчерпали все попытки, но не ввели правильный ответ&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</fb_exceed>
+<display_fb_timeout type="check">no</display_fb_timeout>
+<fb_timeout type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;К сожалению время, отведенное на ответ, закончилось&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</fb_timeout>
+</item>
+<item>
+<question_type type="select">choice</question_type>
+<display_question_text type="check">yes</display_question_text>
+<text_main type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;p&amp;gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;Пропионовокислые бактерии используются в основном в:&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</text_main>
+<q_text_true type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;Да&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</q_text_true>
+<q_text_false type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;Нет&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</q_text_false>
+<q_elements_order type="select">tf</q_elements_order>
+<q_elements_layout type="select">v</q_elements_layout>
+<q_eval type="select">true</q_eval>
+<q_variants_choice type="list">
+<item>
+<q_right type="check">yes</q_right>
+<q_variant type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;производстве сыров&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</q_variant>
+<q_weight_by_connection type="dec_spinner">1.0</q_weight_by_connection>
+</item>
+<item>
+<q_right type="check">no</q_right>
+<q_variant type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;пивоварении&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</q_variant>
+<q_weight_by_connection type="dec_spinner">0.0</q_weight_by_connection>
+</item>
+<item>
+<q_right type="check">no</q_right>
+<q_variant type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;хлебопечении&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</q_variant>
+<q_weight_by_connection type="dec_spinner">0.0</q_weight_by_connection>
+</item>
+<item>
+<q_right type="check">no</q_right>
+<q_variant type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;виноделии&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</q_variant>
+<q_weight_by_connection type="dec_spinner">0.0</q_weight_by_connection>
+</item>
+</q_variants_choice>
+<q_shuffle_choice type="check">no</q_shuffle_choice>
+<q_variants_select type="list"></q_variants_select>
+<q_shuffle_select type="check">no</q_shuffle_select>
+<q_variants_order type="list"></q_variants_order>
+<q_variants_numeric type="list"></q_variants_numeric>
+<q_var_logic_numeric type="select">AND</q_var_logic_numeric>
+<q_variants_fib type="list"></q_variants_fib>
+<q_var_logic_fib type="select">AND</q_var_logic_fib>
+<q_variants_oto type="list"></q_variants_oto>
+<q_attempts_type type="select">fixed</q_attempts_type>
+<q_attempts type="spinner">1</q_attempts>
+<q_scored type="check">yes</q_scored>
+<q_scoring_type_tf type="select">plain</q_scoring_type_tf>
+<q_scoring_type_choice type="select">plain</q_scoring_type_choice>
+<q_weight type="dec_spinner">1.0</q_weight>
+<q_scoreboards type="list">
+<item>
+<q_board type="objectiveid">total</q_board>
+<q_weight_byobj type="dec_spinner">1.0</q_weight_byobj>
+</item>
+</q_scoreboards>
+<q_timer_switch type="check">no</q_timer_switch>
+<q_timer type="spinner">10</q_timer>
+<q_fb_test type="check">yes</q_fb_test>
+<display_fb_correct type="check">yes</display_fb_correct>
+<fb_correct type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;Правильно&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</fb_correct>
+<display_fb_incorrect type="check">yes</display_fb_incorrect>
+<fb_incorrect type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;К сожалению, Вы ошиблись&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</fb_incorrect>
+<display_fb_lastattempt type="check">no</display_fb_lastattempt>
+<fb_lastattempt type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;К сожалению, Вы ошиблись. Осталась всего одна попытка.&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</fb_lastattempt>
+<display_fb_exceed type="check">no</display_fb_exceed>
+<fb_exceed type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;К сожалению Вы исчерпали все попытки, но не ввели правильный ответ&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</fb_exceed>
+<display_fb_timeout type="check">no</display_fb_timeout>
+<fb_timeout type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;К сожалению время, отведенное на ответ, закончилось&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</fb_timeout>
+</item>
+<item>
+<question_type type="select">choice</question_type>
+<display_question_text type="check">yes</display_question_text>
+<text_main type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;p&amp;gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;К бактериям какого рода относится данная характеристика: &amp;amp;laquo;Палочковидные клетки, имеют жгутики, пили. Не образую цист и спор. Являются факультативными анаэробами. Наличие в пищевых продуктах говорит о нарушении санитарного режима при производстве&amp;amp;raquo;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</text_main>
+<q_text_true type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;Да&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</q_text_true>
+<q_text_false type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;Нет&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</q_text_false>
+<q_elements_order type="select">tf</q_elements_order>
+<q_elements_layout type="select">v</q_elements_layout>
+<q_eval type="select">true</q_eval>
+<q_variants_choice type="list">
+<item>
+<q_right type="check">no</q_right>
+<q_variant type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;род&amp;lt;em&amp;gt; Proteus&amp;lt;/em&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</q_variant>
+<q_weight_by_connection type="dec_spinner">0.0</q_weight_by_connection>
+</item>
+<item>
+<q_right type="check">no</q_right>
+<q_variant type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;род&amp;lt;em&amp;gt; Bacillus&amp;amp;nbsp;&amp;lt;/em&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</q_variant>
+<q_weight_by_connection type="dec_spinner">0.0</q_weight_by_connection>
+</item>
+<item>
+<q_right type="check">no</q_right>
+<q_variant type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;род&amp;lt;em&amp;gt; Pseudomonas&amp;lt;/em&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</q_variant>
+<q_weight_by_connection type="dec_spinner">0.0</q_weight_by_connection>
+</item>
+<item>
+<q_right type="check">yes</q_right>
+<q_variant type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;род &amp;lt;em&amp;gt;Escherichiа&amp;lt;/em&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</q_variant>
+<q_weight_by_connection type="dec_spinner">1.0</q_weight_by_connection>
+</item>
+</q_variants_choice>
+<q_shuffle_choice type="check">no</q_shuffle_choice>
+<q_variants_select type="list"></q_variants_select>
+<q_shuffle_select type="check">no</q_shuffle_select>
+<q_variants_order type="list"></q_variants_order>
+<q_variants_numeric type="list"></q_variants_numeric>
+<q_var_logic_numeric type="select">AND</q_var_logic_numeric>
+<q_variants_fib type="list"></q_variants_fib>
+<q_var_logic_fib type="select">AND</q_var_logic_fib>
+<q_variants_oto type="list"></q_variants_oto>
+<q_attempts_type type="select">fixed</q_attempts_type>
+<q_attempts type="spinner">1</q_attempts>
+<q_scored type="check">yes</q_scored>
+<q_scoring_type_tf type="select">plain</q_scoring_type_tf>
+<q_scoring_type_choice type="select">plain</q_scoring_type_choice>
+<q_weight type="dec_spinner">1.0</q_weight>
+<q_scoreboards type="list">
+<item>
+<q_board type="objectiveid">total</q_board>
+<q_weight_byobj type="dec_spinner">1.0</q_weight_byobj>
+</item>
+</q_scoreboards>
+<q_timer_switch type="check">no</q_timer_switch>
+<q_timer type="spinner">10</q_timer>
+<q_fb_test type="check">yes</q_fb_test>
+<display_fb_correct type="check">yes</display_fb_correct>
+<fb_correct type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;Правильно&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</fb_correct>
+<display_fb_incorrect type="check">yes</display_fb_incorrect>
+<fb_incorrect type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;К сожалению, Вы ошиблись&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</fb_incorrect>
+<display_fb_lastattempt type="check">no</display_fb_lastattempt>
+<fb_lastattempt type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;К сожалению, Вы ошиблись. Осталась всего одна попытка.&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</fb_lastattempt>
+<display_fb_exceed type="check">no</display_fb_exceed>
+<fb_exceed type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;К сожалению Вы исчерпали все попытки, но не ввели правильный ответ&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</fb_exceed>
+<display_fb_timeout type="check">no</display_fb_timeout>
+<fb_timeout type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;К сожалению время, отведенное на ответ, закончилось&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</fb_timeout>
+</item>
+<item>
+<question_type type="select">select</question_type>
+<display_question_text type="check">yes</display_question_text>
+<text_main type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;Выберете грамотрицательные бактерии:&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</text_main>
+<q_text_true type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;Да&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</q_text_true>
+<q_text_false type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;Нет&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</q_text_false>
+<q_elements_order type="select">tf</q_elements_order>
+<q_elements_layout type="select">v</q_elements_layout>
+<q_eval type="select">true</q_eval>
+<q_variants_choice type="list"></q_variants_choice>
+<q_shuffle_choice type="check">no</q_shuffle_choice>
+<q_variants_select type="list">
+<item>
+<q_right type="check">yes</q_right>
+<q_variant type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;p&amp;gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;Род &amp;lt;em&amp;gt;Escherichi&amp;lt;/em&amp;gt;&amp;lt;em&amp;gt;а&amp;lt;/em&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</q_variant>
+<q_weight_by_connection type="dec_spinner">1.0</q_weight_by_connection>
+</item>
+<item>
+<q_right type="check">no</q_right>
+<q_variant type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;p&amp;gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;Род &amp;lt;em&amp;gt;Sarcina&amp;lt;/em&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</q_variant>
+<q_weight_by_connection type="dec_spinner">0.0</q_weight_by_connection>
+</item>
+<item>
+<q_right type="check">no</q_right>
+<q_variant type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;p&amp;gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;Род &amp;lt;em&amp;gt;Clostridium&amp;lt;/em&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</q_variant>
+<q_weight_by_connection type="dec_spinner">0.0</q_weight_by_connection>
+</item>
+<item>
+<q_right type="check">yes</q_right>
+<q_variant type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;p&amp;gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;Род &amp;lt;em&amp;gt;Pseudomonas&amp;lt;/em&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</q_variant>
+<q_weight_by_connection type="dec_spinner">1.0</q_weight_by_connection>
+</item>
+<item>
+<q_right type="check">no</q_right>
+<q_variant type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;p&amp;gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;Род &amp;lt;em&amp;gt;Enterococcus&amp;lt;/em&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</q_variant>
+<q_weight_by_connection type="dec_spinner">0.0</q_weight_by_connection>
+</item>
+<item>
+<q_right type="check">yes</q_right>
+<q_variant type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;p&amp;gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;Род &amp;lt;em&amp;gt;Proteus&amp;lt;/em&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</q_variant>
+<q_weight_by_connection type="dec_spinner">1.0</q_weight_by_connection>
+</item>
+</q_variants_select>
+<q_shuffle_select type="check">no</q_shuffle_select>
+<q_variants_order type="list"></q_variants_order>
+<q_variants_numeric type="list"></q_variants_numeric>
+<q_var_logic_numeric type="select">AND</q_var_logic_numeric>
+<q_variants_fib type="list"></q_variants_fib>
+<q_var_logic_fib type="select">AND</q_var_logic_fib>
+<q_variants_oto type="list"></q_variants_oto>
+<q_attempts_type type="select">fixed</q_attempts_type>
+<q_attempts type="spinner">1</q_attempts>
+<q_scored type="check">yes</q_scored>
+<q_scoring_type_tf type="select">plain</q_scoring_type_tf>
+<q_scoring_type_choice type="select">plain</q_scoring_type_choice>
+<q_weight type="dec_spinner">1.0</q_weight>
+<q_scoreboards type="list">
+<item>
+<q_board type="objectiveid">total</q_board>
+<q_weight_byobj type="dec_spinner">1.0</q_weight_byobj>
+</item>
+</q_scoreboards>
+<q_timer_switch type="check">no</q_timer_switch>
+<q_timer type="spinner">10</q_timer>
+<q_fb_test type="check">yes</q_fb_test>
+<display_fb_correct type="check">yes</display_fb_correct>
+<fb_correct type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;Правильно&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</fb_correct>
+<display_fb_incorrect type="check">yes</display_fb_incorrect>
+<fb_incorrect type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;К сожалению, Вы ошиблись&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</fb_incorrect>
+<display_fb_lastattempt type="check">no</display_fb_lastattempt>
+<fb_lastattempt type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;К сожалению, Вы ошиблись. Осталась всего одна попытка.&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</fb_lastattempt>
+<display_fb_exceed type="check">no</display_fb_exceed>
+<fb_exceed type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;К сожалению Вы исчерпали все попытки, но не ввели правильный ответ&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</fb_exceed>
+<display_fb_timeout type="check">no</display_fb_timeout>
+<fb_timeout type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;К сожалению время, отведенное на ответ, закончилось&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</fb_timeout>
+</item>
+<item>
+<question_type type="select">choice</question_type>
+<display_question_text type="check">yes</display_question_text>
+<text_main type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;p&amp;gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;К бактериям какого рода относится характеристика: &amp;amp;laquo;Сферические клетки, не образующие спор и капсул. Грамположительные, факультативные анаэробы. Устойчивы к высокой температуре. Может вызывать пищевое отравление&amp;amp;raquo;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</text_main>
+<q_text_true type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;Да&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</q_text_true>
+<q_text_false type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;Нет&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</q_text_false>
+<q_elements_order type="select">tf</q_elements_order>
+<q_elements_layout type="select">v</q_elements_layout>
+<q_eval type="select">true</q_eval>
+<q_variants_choice type="list">
+<item>
+<q_right type="check">no</q_right>
+<q_variant type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;род &amp;lt;em&amp;gt;Enterococcus&amp;lt;/em&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</q_variant>
+<q_weight_by_connection type="dec_spinner">0.0</q_weight_by_connection>
+</item>
+<item>
+<q_right type="check">no</q_right>
+<q_variant type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;род &amp;lt;em&amp;gt;Proteus&amp;lt;/em&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</q_variant>
+<q_weight_by_connection type="dec_spinner">0.0</q_weight_by_connection>
+</item>
+<item>
+<q_right type="check">no</q_right>
+<q_variant type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;род &amp;lt;em&amp;gt;Micrococcus&amp;lt;/em&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</q_variant>
+<q_weight_by_connection type="dec_spinner">0.0</q_weight_by_connection>
+</item>
+<item>
+<q_right type="check">yes</q_right>
+<q_variant type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;p&amp;gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;род &amp;lt;em&amp;gt;Staphylococcus&amp;lt;/em&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</q_variant>
+<q_weight_by_connection type="dec_spinner">1.0</q_weight_by_connection>
+</item>
+</q_variants_choice>
+<q_shuffle_choice type="check">no</q_shuffle_choice>
+<q_variants_select type="list"></q_variants_select>
+<q_shuffle_select type="check">no</q_shuffle_select>
+<q_variants_order type="list"></q_variants_order>
+<q_variants_numeric type="list"></q_variants_numeric>
+<q_var_logic_numeric type="select">AND</q_var_logic_numeric>
+<q_variants_fib type="list"></q_variants_fib>
+<q_var_logic_fib type="select">AND</q_var_logic_fib>
+<q_variants_oto type="list"></q_variants_oto>
+<q_attempts_type type="select">fixed</q_attempts_type>
+<q_attempts type="spinner">1</q_attempts>
+<q_scored type="check">yes</q_scored>
+<q_scoring_type_tf type="select">plain</q_scoring_type_tf>
+<q_scoring_type_choice type="select">plain</q_scoring_type_choice>
+<q_weight type="dec_spinner">1.0</q_weight>
+<q_scoreboards type="list">
+<item>
+<q_board type="objectiveid">total</q_board>
+<q_weight_byobj type="dec_spinner">1.0</q_weight_byobj>
+</item>
+</q_scoreboards>
+<q_timer_switch type="check">no</q_timer_switch>
+<q_timer type="spinner">10</q_timer>
+<q_fb_test type="check">yes</q_fb_test>
+<display_fb_correct type="check">yes</display_fb_correct>
+<fb_correct type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;Правильно&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</fb_correct>
+<display_fb_incorrect type="check">yes</display_fb_incorrect>
+<fb_incorrect type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;К сожалению, Вы ошиблись&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</fb_incorrect>
+<display_fb_lastattempt type="check">no</display_fb_lastattempt>
+<fb_lastattempt type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;К сожалению, Вы ошиблись. Осталась всего одна попытка.&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</fb_lastattempt>
+<display_fb_exceed type="check">no</display_fb_exceed>
+<fb_exceed type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;К сожалению Вы исчерпали все попытки, но не ввели правильный ответ&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</fb_exceed>
+<display_fb_timeout type="check">no</display_fb_timeout>
+<fb_timeout type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: robotoregular, Arial, Helvetica, sans-serif;font-size: 14px; color: #333333;&amp;quot;&amp;gt;К сожалению время, отведенное на ответ, закончилось&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</fb_timeout>
+</item>
+</q_questions>
+<test_scored type="check">yes</test_scored>
+<randomize type="check">no</randomize>
+<random_quantity type="spinner">1</random_quantity>
+<display_goal type="check">yes</display_goal>
+<display_type type="select">page</display_type>
+<display_question_number type="spinner">1</display_question_number>
+<adjust_height type="check">yes</adjust_height>
+<shadow_strength type="select">normal</shadow_strength>
+<allow_partial_answer type="check">yes</allow_partial_answer>
+<combine_btn_next type="check">yes</combine_btn_next>
+<spot_color_switch type="check">no</spot_color_switch>
+<spot_color type="color">#0080C0</spot_color>
+<font_color_switch type="check">no</font_color_switch>
+<font_color type="color">#0080C0</font_color>
+<q_text_padding_override type="check">yes</q_text_padding_override>
+<q_text_padding type="spinner">12</q_text_padding>
+<q_item_padding_override type="check">no</q_item_padding_override>
+<q_item_padding type="spinner">6</q_item_padding>
+<q_base_override type="check">no</q_base_override>
+<q_base_width type="spinner">50</q_base_width>
+<q_base_padding type="spinner">10</q_base_padding>
+<test_timer_switch type="check">no</test_timer_switch>
+<test_timer type="spinner">10</test_timer>
+<test_timer_s type="spinner">0</test_timer_s>
+<test_q_timer_switch type="check">no</test_q_timer_switch>
+<repeat_test type="check">no</repeat_test>
+<q_showright type="check">no</q_showright>
+<q_fb_switch type="check">no</q_fb_switch>
+<fs_fb type="fieldset"></fs_fb>
+<q_display_fb_correct type="check">yes</q_display_fb_correct>
+<q_fb_correct type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Calibri;font-size: 18px; color: #000000;&amp;quot;&amp;gt;Правильно&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</q_fb_correct>
+<q_fb_correct_preview type="check">no</q_fb_correct_preview>
+<q_display_fb_incorrect type="check">yes</q_display_fb_incorrect>
+<q_fb_incorrect type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Calibri;font-size: 18px; color: #000000;&amp;quot;&amp;gt;К сожалению, Вы ошиблись&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</q_fb_incorrect>
+<q_fb_incorrect_preview type="check">no</q_fb_incorrect_preview>
+<q_display_fb_lastattempt type="check">no</q_display_fb_lastattempt>
+<q_fb_lastattempt type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Calibri;font-size: 18px; color: #000000;&amp;quot;&amp;gt;К сожалению, Вы ошиблись. Осталась всего одна попытка.&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</q_fb_lastattempt>
+<q_fb_lastattempt_preview type="check">no</q_fb_lastattempt_preview>
+<q_display_fb_exceed type="check">no</q_display_fb_exceed>
+<q_fb_exceed type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Calibri;font-size: 18px; color: #000000;&amp;quot;&amp;gt;К сожалению Вы исчерпали все попытки, но не ввели правильный ответ&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</q_fb_exceed>
+<q_fb_exceed_preview type="check">no</q_fb_exceed_preview>
+<q_display_fb_timeout type="check">no</q_display_fb_timeout>
+<q_fb_timeout type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-family: Calibri;font-size: 18px; color: #000000;&amp;quot;&amp;gt;К сожалению время, отведенное на ответ, закончилось&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks&gt;&lt;/hyperlinks&gt;&lt;/ietext&gt;</q_fb_timeout>
+<q_fb_timeout_preview type="check">no</q_fb_timeout_preview>
+<q_fb_timerswitch type="check">no</q_fb_timerswitch>
+<q_fb_timer type="time">3000</q_fb_timer>
+<q_fb_box_width type="spinner">30</q_fb_box_width>
+<q_fb_position type="check">no</q_fb_position>
+<q_fb_left type="spinner">40</q_fb_left>
+<q_fb_top type="spinner">10</q_fb_top>
+<q_fb_correct_color_bg type="color">#E0FFE0</q_fb_correct_color_bg>
+<q_fb_correct_color_border type="color">#006600</q_fb_correct_color_border>
+<q_fb_correct_color_close type="color">#006600</q_fb_correct_color_close>
+<q_fb_incorrect_color_bg type="color">#FFE0D0</q_fb_incorrect_color_bg>
+<q_fb_incorrect_color_border type="color">#CC0000</q_fb_incorrect_color_border>
+<q_fb_incorrect_color_close type="color">#CC0000</q_fb_incorrect_color_close>
+<q_fb_lastattempt_color_bg type="color">#FFE0D0</q_fb_lastattempt_color_bg>
+<q_fb_lastattempt_color_border type="color">#CC0000</q_fb_lastattempt_color_border>
+<q_fb_lastattempt_color_close type="color">#CC0000</q_fb_lastattempt_color_close>
+<q_fb_exceed_color_bg type="color">#FFE0D0</q_fb_exceed_color_bg>
+<q_fb_exceed_color_border type="color">#CC0000</q_fb_exceed_color_border>
+<q_fb_exceed_color_close type="color">#CC0000</q_fb_exceed_color_close>
+<q_fb_timeout_color_bg type="color">#FFE0D0</q_fb_timeout_color_bg>
+<q_fb_timeout_color_border type="color">#CC0000</q_fb_timeout_color_border>
+<q_fb_timeout_color_close type="color">#CC0000</q_fb_timeout_color_close>
+<q_custom_btns type="check">no</q_custom_btns>
+<fs_btns type="fieldset"></fs_btns>
+<q_abtn_0 type="file"></q_abtn_0>
+<q_abtn_1 type="file"></q_abtn_1>
+<q_nbtn_0 type="file"></q_nbtn_0>
+<q_nbtn_1 type="file"></q_nbtn_1>
+<q_custom_spots type="check">yes</q_custom_spots>
+<fs_spots type="fieldset"></fs_spots>
+<q_choicespot_0 type="file"></q_choicespot_0>
+<q_choicespot_1 type="file"></q_choicespot_1>
+<q_selectspot_0 type="file"></q_selectspot_0>
+<q_selectspot_1 type="file"></q_selectspot_1>
+<q_rangespot_up_0 type="file"></q_rangespot_up_0>
+<q_rangespot_up_1 type="file"></q_rangespot_up_1>
+<q_rangespot_down_0 type="file"></q_rangespot_down_0>
+<q_rangespot_down_1 type="file"></q_rangespot_down_1>
+<strings_header type="select">4</strings_header>
+<q_scored_msg type="edit"></q_scored_msg>
+<q_notscored_msg type="edit">Неоцениваемый тест</q_notscored_msg>
+<string_answered type="edit"></string_answered>
+<string_question_count type="edit">Вопрос {{1}} из {{2}}</string_question_count>
+<string_test_time type="edit">Время теста {{1}} мин {{2}} сек</string_test_time>
+<string_test_time_unlimited type="edit"></string_test_time_unlimited>
+<strings_instr type="select">3</strings_instr>
+<q_goal_true-false type="edit">Выберите правильный вариант</q_goal_true-false>
+<q_goal_choice type="edit">Выберите правильный вариант</q_goal_choice>
+<q_goal_select type="edit">Выберите &lt;b&gt;все&lt;/b&gt; правильные варианты</q_goal_select>
+<q_goal_order type="edit">Расположите варианты в правильном порядке</q_goal_order>
+<q_goal_numeric type="edit">Введите числовое значение</q_goal_numeric>
+<q_goal_fib type="edit">Введите строковое значение</q_goal_fib>
+<q_goal_oto type="edit">Соедините элементы справа с их парами слева</q_goal_oto>
+<q_goal_right type="edit">ПРАВИЛЬНЫЙ ОТВЕТ</q_goal_right>
+<q_goal_last type="edit">ПОСЛЕДНЕЕ СОСТОЯНИЕ ВОПРОСА</q_goal_last>
+<q_goal_skip type="edit">ВОПРОС ПРОПУЩЕН</q_goal_skip>
+<strings_footer type="select">6</strings_footer>
+<string_question_attempts type="edit"></string_question_attempts>
+<string_attempt_for_list type="edit">Ответ принимается сразу на все вопросы теста</string_attempt_for_list>
+<t_stop_msg type="edit">Тест остановлен по истечению времени</t_stop_msg>
+<t_allanswered_msg type="edit">Все вопросы отвечены. Тест закончен.</t_allanswered_msg>
+<string_question_time type="edit">Время вопроса {{1}} мин {{2}} сек</string_question_time>
+<string_question_time_unlimited type="edit"></string_question_time_unlimited>
+<strings_btns type="select">1</strings_btns>
+<string_btn_submit type="edit">ОТВЕТИТЬ</string_btn_submit>
+<string_btn_next type="edit">ДАЛЕЕ</string_btn_next>
+<strings_tooltips type="select">1</strings_tooltips>
+<title_btn_submit type="edit">ОТВЕТИТЬ</title_btn_submit>
+<title_btn_next type="edit">ДАЛЕЕ</title_btn_next>
+<title_close_fb type="edit">Закрыть сообщение</title_close_fb>
+<strings_alerts type="select">5</strings_alerts>
+<t_continue_alert type="edit">Вы уже начинали проходить этот тест. Прохождение будет продолжено с последнего не законченного вопроса.</t_continue_alert>
+<t_browse_alert type="edit">Вы уже прошли данный тест. Повторный прохождение запрещено.</t_browse_alert>
+<t_secondrun_confirm type="edit">Вы прошли данный тест. Нажатие кнопки OK позволит Вам пройти его снова. Нажатие Cancel сохранит результаты предыдущего прохода.</t_secondrun_confirm>
+<t_proceed_confirm type="edit">Вы не ответили на некоторые вопросы теста. Вернуться к их прохождению?</t_proceed_confirm>
+<q_input_alert type="edit">Пожалуйста, вводите только цифры и знаки.</q_input_alert>
+<sound_click type="select">none</sound_click>
+<sound_click_file_custom type="file"></sound_click_file_custom>
+<sound_over type="select">none</sound_over>
+<sound_over_file_custom type="file"></sound_over_file_custom>
+<sound_success type="select">none</sound_success>
+<sound_success_file_custom type="file"></sound_success_file_custom>
+<sound_failure type="select">none</sound_failure>
+<sound_failure_file_custom type="file"></sound_failure_file_custom>
+</params>
+<events>
+<ondisplay id="OBJ_23_1" type="actions">
+<VARIABLE name="var1" value="0" global="1"/>
+</ondisplay>
+<onSuccess id="OBJ_23_2" type="actions" custom="true">
+<VARIABLE name="var1" value="#var1+1" global="1"/>
+</onSuccess>
+<onQuestionEnd id="OBJ_23_3" type="actions" custom="true">
+<METHOD pid="OBJ_24" method="Refresh">
+</METHOD>
+</onQuestionEnd>
+<onTestEnd id="OBJ_23_4" type="actions" custom="true">
+<DISPLAY pid="OBJ_28" display="inline" transition="0" fs_dur="" dur="1000"/>
+<DISPLAY pid="OBJ_29" display="inline" transition="0" fs_dur="" dur="1000"/>
+<IF type="score" fs_expression="" if="" fs_confirm="" confirm="" fs_drop="" objectid="" fs_objective="" pid="total" fs_cs="" cs="c" fs_ss="" ss="p" fs_score="" oid="" condition="ge" score="5"/>
+<METHOD _indent="1" pid="OBJ_28" method="AddText">
+<param name="where" value="start"/>
+<param name="how" value="space"/>
+<param name="value" value="Поздравляем! Вы успешно прошли тест."/>
+</METHOD>
+<SET _indent="1" type="completion" fs_object="" objectid="" fs_property="" color_bg_switch="no" color_bg="#FFFFFF" color_border_switch="no" color_border="#000000" borderwidth_switch="no" borderwidth="0" opacity_switch="no" opacity="100" drag_switch="no" drag="no" fs_master="" master="" fs_state="" state="default" fs_objective="" pid="total" fs_score="" oid="" additive="replace" score="0" fs_cs="" cs="c" fs_ss="" ss="u"/>
+<SET _indent="1" type="success" fs_object="" objectid="" fs_property="" color_bg_switch="no" color_bg="#FFFFFF" color_border_switch="no" color_border="#000000" borderwidth_switch="no" borderwidth="0" opacity_switch="no" opacity="100" drag_switch="no" drag="no" fs_master="" master="" fs_state="" state="default" fs_objective="" pid="total" fs_score="" oid="" additive="replace" score="0" fs_cs="" cs="c" fs_ss="" ss="p"/>
+<ELSE _indent="1"/>
+<METHOD _indent="2" pid="OBJ_28" method="AddText">
+<param name="where" value="start"/>
+<param name="how" value="space"/>
+<param name="value" value="К сожалению, вы не прошли тест."/>
+</METHOD>
+<SET _indent="2" type="completion" fs_object="" objectid="" fs_property="" color_bg_switch="no" color_bg="#FFFFFF" color_border_switch="no" color_border="#000000" borderwidth_switch="no" borderwidth="0" opacity_switch="no" opacity="100" drag_switch="no" drag="no" fs_master="" master="" fs_state="" state="default" fs_objective="" pid="total" fs_score="" oid="" additive="replace" score="0" fs_cs="" cs="c" fs_ss="" ss="u"/>
+<SET _indent="2" type="success" fs_object="" objectid="" fs_property="" color_bg_switch="no" color_bg="#FFFFFF" color_border_switch="no" color_border="#000000" borderwidth_switch="no" borderwidth="0" opacity_switch="no" opacity="100" drag_switch="no" drag="no" fs_master="" master="" fs_state="" state="default" fs_objective="" pid="total" fs_score="" oid="" additive="replace" score="0" fs_cs="" cs="c" fs_ss="" ss="f"/>
+<IF type="expression" fs_expression="" if="#var1==1" fs_confirm="" confirm="" fs_drop="" objectid="" fs_objective="" pid="" fs_cs="" cs="c" fs_ss="" ss="p" fs_score="" oid="" condition="lt" score=""/>
+<METHOD _indent="1" pid="OBJ_28" method="AddText">
+<param name="where" value="start"/>
+<param name="how" value="space"/>
+<param name="value" value="Вы верно ответили на {{#var1}} вопрос из 7."/>
+</METHOD>
+<ELSE _indent="1"/>
+<IF _indent="2" type="expression" fs_expression="" if="#var1&gt;1&amp;&amp;#var1&lt;5" fs_confirm="" confirm="" fs_drop="" objectid="" fs_objective="" pid="" fs_cs="" cs="c" fs_ss="" ss="p" fs_score="" oid="" condition="lt" score=""/>
+<METHOD _indent="3" pid="OBJ_28" method="AddText">
+<param name="where" value="start"/>
+<param name="how" value="space"/>
+<param name="value" value="Вы верно ответили на {{#var1}} вопроса из 7."/>
+</METHOD>
+<ELSE _indent="3"/>
+<METHOD _indent="4" pid="OBJ_28" method="AddText">
+<param name="where" value="start"/>
+<param name="how" value="space"/>
+<param name="value" value="Вы верно ответили на {{#var1}} вопросов из 7. "/>
+</METHOD>
+</onTestEnd>
+</events>
+</object>
+<object type="div" guid="687d9ffd_c552_4f55_904c_0249c7514fcb" id="OBJ_24" state_extension="false" left="329" top="563" width="648" height="41" display="frame" begin="0">
+<default_color_bg>bg_color</default_color_bg>
+<default_color_border>border_color</default_color_border>
+<theme>theme</theme>
+<template>q_0002</template>
+<design_content><![CDATA[<style  xmlns="http://www.w3.org/2000/svg">
+		.container { width: 648px; height: 41px; }
+		
+						.cl-outer, .cl-middle, .cl-inner { position: relative; width: 648px; height: 41px; padding: 0; }
+						.cl-table-scale { position: relative; width: 648px; height: 41px; border-spacing: 0; }
+						.cl-table-scale-td { vertical-align: middle; text-align: center; width: 648px; height: 41px; }
+					
+				.cl-table-scale-h { border-spacing: 0; margin: 0 auto; }
+				.cl-table-scale-h-desc { width: 50%; padding: 5px 10px; text-align: right; font-family: robotomedium, Arial, Helvetica, sans-serif; font-size: 16px;  }
+				.cl-table-scale-h-scale { width: 50%; padding: 5px 0; text-align: left; }
+				.cl-table-scale-h-value { white-space: nowrap; padding: 5px 10px; text-align: left; font-family: robotomedium, Arial, Helvetica, sans-serif; font-size: 16px;  }
+				.cl-table-scale-h-div { position: relative; width: 100%; height: 16px; border-radius: 8px; background-color: #666666; background-image: linear-gradient(180deg, #666666 0%, #CCCCCC 100%); }
+				
+					.cl-table-scale-h-desc-1 { color: #0080C0; }
+					.cl-table-scale-h-scale-1 { color: #0080C0; }
+					.cl-table-scale-h-scale-1 .cl-table-scale-h-ind { position: relative; width: 50%; height: 16px; border-radius: 8px; background-color: #0080C0; background-image: linear-gradient(0deg, #0080C0 0%, #A6E1FF 100%); overflow: hidden; }
+					.cl-table-scale-h-value-1 { color: #0080C0; }
+				</style><div class="clo-q_0002 container cl-theme-light"  xmlns="http://www.w3.org/2000/svg"><div class="cl-outer"><div class="cl-middle"><div class="cl-inner"><table class="cl-table-scale"><tr><td class="cl-table-scale-td"><table class="cl-table-scale-h"><tr><td class="cl-table-scale-h-desc cl-table-scale-h-desc-1">Набранные баллы</td><td class="cl-table-scale-h-scale cl-table-scale-h-scale-1"><div class="cl-table-scale-h-div"><div class="cl-table-scale-h-ind">
+																 
+															</div></div></td><td class="cl-table-scale-h-value cl-table-scale-h-value-1">50 из 100</td></tr></table></td></tr></table></div></div></div></div>]]></design_content>
+<export_content><![CDATA[<div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_24 .container"><span class="rule-static">width: 648px; height: 41px;</span></div><div class="rule" data-name="#OBJ_24 .cl-outer, #OBJ_24 .cl-middle, #OBJ_24 .cl-inner"><span class="rule-static">width: 648px; height: 41px; padding: 0;</span></div><div class="rule" data-name="#OBJ_24 .cl-table-scale"><span class="rule-static">width: 648px; height: 41px; border-spacing: 0;</span></div><div class="rule" data-name="#OBJ_24 .cl-table-scale-td"><span class="rule-static">vertical-align: middle; text-align: center; width: 648px; height: 41px; padding: 0;</span></div><div class="rule" data-name="#OBJ_24 .cl-table-scale-h-desc"><span class="rule-static">padding: 5px 10px; font-family: robotomedium, Arial, Helvetica, sans-serif; font-size: 16px; </span></div><div class="rule" data-name="#OBJ_24 .cl-table-scale-h-scale"><span class="rule-static">padding: 5px 0;</span></div><div class="rule" data-name="#OBJ_24 .cl-table-scale-h-value"><span class="rule-static">padding: 5px 10px; font-family: robotomedium, Arial, Helvetica, sans-serif; font-size: 16px; </span></div><div class="rule" data-name="#OBJ_24 .cl-table-scale-h-div"><span class="rule-static">height: 16px; background-color: #666666;</span><span class="rule-dynamic" data-type="border-radius" data-value="8px" /><span class="rule-dynamic" data-type="linear-gradient" data-angle="180" data-colors="#666666|0;#CCCCCC|100" /></div><div class="rule" data-name="#OBJ_24 .cl-table-scale-h-scale-1 .cl-table-scale-h-ind"><span class="rule-static">width: 100%; height: 16px; background-color: #0080C0; overflow: hidden;</span><span class="rule-dynamic" data-type="border-radius" data-value="8px" /><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#0080C0|0;#A6E1FF|100" /></div><div class="rule" data-name="#OBJ_24 .cl-table-scale-h-desc-1"><span class="rule-static">color: #0080C0;</span></div><div class="rule" data-name="#OBJ_24 .cl-table-scale-h-value-1"><span class="rule-static">color: #0080C0;</span></div></div><div class="container cl-theme-light unselectable" ><div class="cl-outer"><div class="cl-middle"><div class="cl-inner"><table class="cl-table-scale"><tr><td class="cl-table-scale-td"><table class="cl-table-scale-h"><tr><td class="cl-table-scale-h-desc cl-table-scale-h-desc-1">Набранные баллы</td><td class="cl-table-scale-h-scale cl-table-scale-h-scale-1"><div class="cl-table-scale-h-div"><div class="cl-table-scale-h-ind">
+																 
+															</div></div></td><td class="cl-table-scale-h-value cl-table-scale-h-value-1">50 из 100</td></tr></table></td></tr></table></div></div></div><div class="cl-template-storage"><div class="cl-results-t-template cl-results-parent"><div class="cl-results-t-header"><table class="cl-results-header-table"><tr><td class="cl-results-header-switch-cell"><div class="cl-switch"><svg class="cl-switch" width="20" height="20" viewBox="0 0 48 48"><g class="cl-switch-group"><path class="cl-switch-path-circle" d="M24,0C10.745,0,0,10.746,0,24c0,13.255,10.745,24,24,24s24-10.744,24-24C48,10.746,37.255,0,24,0z M24.029,43.844c-11.023,0-19.959-8.936-19.959-19.958S13.006,3.926,24.029,3.926c11.022,0,19.959,8.936,19.959,19.959 S35.052,43.844,24.029,43.844z" /><path class="cl-switch-path-plus" d="M32.56,21.902h-6.458l0.008-6.576c-0.026-0.454-0.221-1.354-1.331-1.356L23.2,13.968 c-1.181-0.001-1.282,1.165-1.288,1.47l-0.008,6.463h-6.607c-1.22,0-1.323,0.941-1.328,1.21v1.809 c0.006,0.247,0.107,1.178,1.328,1.178h6.602l-0.008,6.602c-0.002,1.219,0.939,1.324,1.209,1.33l1.809,0.002 c0.247-0.006,1.178-0.107,1.18-1.326l0.008-6.607h6.581c0.454-0.027,1.354-0.223,1.354-1.333v-1.578 C34.031,22.007,32.865,21.908,32.56,21.902z" /><path class="cl-switch-path-minus" d="M32.677,26.099c0.454-0.027,1.354-0.223,1.354-1.333v-1.578c0-1.181-1.166-1.28-1.472-1.286H15.297 c-1.22,0-1.323,0.941-1.328,1.21v1.809c0.006,0.247,0.108,1.178,1.328,1.178H32.677z" /></g></svg></div></td><td class="cl-results-header-title">Пример заголовка вопроса</td><td class="cl-results-na">Еще не пройден</td></tr></table></div><div class="cl-results-contents cl-results-t-contents" /></div><div class="cl-results-q-template cl-results-parent"><div class="cl-results-header"><table class="cl-results-header-table"><tr><td class="cl-results-header-switch-cell"><div class="cl-switch"><svg class="cl-switch" width="20" height="20" viewBox="0 0 48 48"><g class="cl-switch-group"><path class="cl-switch-path-circle" d="M24,0C10.745,0,0,10.746,0,24c0,13.255,10.745,24,24,24s24-10.744,24-24C48,10.746,37.255,0,24,0z M24.029,43.844c-11.023,0-19.959-8.936-19.959-19.958S13.006,3.926,24.029,3.926c11.022,0,19.959,8.936,19.959,19.959 S35.052,43.844,24.029,43.844z" /><path class="cl-switch-path-plus" d="M32.56,21.902h-6.458l0.008-6.576c-0.026-0.454-0.221-1.354-1.331-1.356L23.2,13.968 c-1.181-0.001-1.282,1.165-1.288,1.47l-0.008,6.463h-6.607c-1.22,0-1.323,0.941-1.328,1.21v1.809 c0.006,0.247,0.107,1.178,1.328,1.178h6.602l-0.008,6.602c-0.002,1.219,0.939,1.324,1.209,1.33l1.809,0.002 c0.247-0.006,1.178-0.107,1.18-1.326l0.008-6.607h6.581c0.454-0.027,1.354-0.223,1.354-1.333v-1.578 C34.031,22.007,32.865,21.908,32.56,21.902z" /><path class="cl-switch-path-minus" d="M32.677,26.099c0.454-0.027,1.354-0.223,1.354-1.333v-1.578c0-1.181-1.166-1.28-1.472-1.286H15.297 c-1.22,0-1.323,0.941-1.328,1.21v1.809c0.006,0.247,0.108,1.178,1.328,1.178H32.677z" /></g></svg></div></td><td class="cl-results-header-title">Пример заголовка вопроса</td><td class="cl-results-na">Еще не пройден</td><td class="cl-results-header-score"><div class="cl-results-header-score-div">
+										0
+									</div></td></tr></table></div><div class="cl-results-contents"><div class="cl-results-q-text">Пример текста вопроса</div><div class="cl-results-stats cl-results-parent"><div class="cl-stats-header"><table class="cl-results-header-table"><tr><td class="cl-results-header-switch-cell"><div class="cl-switch"><svg class="cl-switch" width="20" height="20" viewBox="0 0 48 48"><g class="cl-switch-group"><path class="cl-switch-path-circle" d="M24,0C10.745,0,0,10.746,0,24c0,13.255,10.745,24,24,24s24-10.744,24-24C48,10.746,37.255,0,24,0z M24.029,43.844c-11.023,0-19.959-8.936-19.959-19.958S13.006,3.926,24.029,3.926c11.022,0,19.959,8.936,19.959,19.959 S35.052,43.844,24.029,43.844z" /><path class="cl-switch-path-plus" d="M32.56,21.902h-6.458l0.008-6.576c-0.026-0.454-0.221-1.354-1.331-1.356L23.2,13.968 c-1.181-0.001-1.282,1.165-1.288,1.47l-0.008,6.463h-6.607c-1.22,0-1.323,0.941-1.328,1.21v1.809 c0.006,0.247,0.107,1.178,1.328,1.178h6.602l-0.008,6.602c-0.002,1.219,0.939,1.324,1.209,1.33l1.809,0.002 c0.247-0.006,1.178-0.107,1.18-1.326l0.008-6.607h6.581c0.454-0.027,1.354-0.223,1.354-1.333v-1.578 C34.031,22.007,32.865,21.908,32.56,21.902z" /><path class="cl-switch-path-minus" d="M32.677,26.099c0.454-0.027,1.354-0.223,1.354-1.333v-1.578c0-1.181-1.166-1.28-1.472-1.286H15.297 c-1.22,0-1.323,0.941-1.328,1.21v1.809c0.006,0.247,0.108,1.178,1.328,1.178H32.677z" /></g></svg></div></td><td class="cl-results-header-title">Статистика</td></tr></table></div><div class="cl-results-contents"><table class="cl-stats-table"><tr><td class="cl-stats-left"><div class="cl-stats-q-type">Вопрос с единственным выбором</div><div class="cl-stats-q-scoring">Расчет оценки:Общий вес вопроса по всем целям</div><div class="cl-stats-q-attempts">Отведено попыток: 0<br />Осталось попыток: 0
+												</div><div class="cl-stats-q-timing">Отведено времени: 0<br />Затрачено времени: 0
+												</div></td><td class="cl-stats-right"><table class="cl-stats-obj-table"><tr><td class="cl-stats-obj-obj cl-stats-obj-header">Цели</td><td class="cl-stats-obj-score cl-stats-obj-header">Баллы</td></tr></table></td></tr></table></div></div><div class="cl-results-variants cl-results-parent"><div class="cl-variants-header"><table class="cl-results-header-table"><tr><td class="cl-results-header-switch-cell"><div class="cl-switch"><svg class="cl-switch" width="20" height="20" viewBox="0 0 48 48"><g class="cl-switch-group"><path class="cl-switch-path-circle" d="M24,0C10.745,0,0,10.746,0,24c0,13.255,10.745,24,24,24s24-10.744,24-24C48,10.746,37.255,0,24,0z M24.029,43.844c-11.023,0-19.959-8.936-19.959-19.958S13.006,3.926,24.029,3.926c11.022,0,19.959,8.936,19.959,19.959 S35.052,43.844,24.029,43.844z" /><path class="cl-switch-path-plus" d="M32.56,21.902h-6.458l0.008-6.576c-0.026-0.454-0.221-1.354-1.331-1.356L23.2,13.968 c-1.181-0.001-1.282,1.165-1.288,1.47l-0.008,6.463h-6.607c-1.22,0-1.323,0.941-1.328,1.21v1.809 c0.006,0.247,0.107,1.178,1.328,1.178h6.602l-0.008,6.602c-0.002,1.219,0.939,1.324,1.209,1.33l1.809,0.002 c0.247-0.006,1.178-0.107,1.18-1.326l0.008-6.607h6.581c0.454-0.027,1.354-0.223,1.354-1.333v-1.578 C34.031,22.007,32.865,21.908,32.56,21.902z" /><path class="cl-switch-path-minus" d="M32.677,26.099c0.454-0.027,1.354-0.223,1.354-1.333v-1.578c0-1.181-1.166-1.28-1.472-1.286H15.297 c-1.22,0-1.323,0.941-1.328,1.21v1.809c0.006,0.247,0.108,1.178,1.328,1.178H32.677z" /></g></svg></div></td><td class="cl-results-header-title">Результаты</td></tr></table></div><div class="cl-results-contents" /></div></div></div></div></div>]]></export_content>
+<params>
+<hidden.obj.not.defined type="edit">Цель не определена</hidden.obj.not.defined>
+<hidden.no.objects type="edit">Объекты для результатов не определены</hidden.no.objects>
+<hidden.results type="edit">Результаты по объектам не могут быть показаны в редакторе</hidden.results>
+<hidden.question_header type="edit">Пример заголовка вопроса</hidden.question_header>
+<hidden.question_text type="edit">Пример текста вопроса</hidden.question_text>
+<hidden.question_variant_correct type="edit">Пример правильно выбранного варианта</hidden.question_variant_correct>
+<hidden.question_variant_incorrect type="edit">Пример неправильно выбранного варианта</hidden.question_variant_incorrect>
+<hidden.question_variant_selected type="edit">Пример выбранного варианта</hidden.question_variant_selected>
+<hidden.question_variant_unselected type="edit">Пример невыбранного варианта</hidden.question_variant_unselected>
+<display_type type="select">scale</display_type>
+<fs_plain type="fieldset"></fs_plain>
+<q_board type="objectiveid">total</q_board>
+<plain_values type="select">score_percent</plain_values>
+<plain_text type="edit">Набрано {{1}} баллов из {{2}}</plain_text>
+<fs_scale type="fieldset"></fs_scale>
+<scoreboards type="list">
+<item>
+<scoreboard type="objectiveid">total</scoreboard>
+<sb_text type="edit">Набранные баллы</sb_text>
+<scorecolor type="color">#0080C0</scorecolor>
+</item>
+</scoreboards>
+<scale_values type="select">score</scale_values>
+<scale_text type="edit">{{1}} из {{2}}</scale_text>
+<fs_detail type="fieldset"></fs_detail>
+<objects type="list"></objects>
+<display_questiontext type="check">yes</display_questiontext>
+<display_main_score type="check">yes</display_main_score>
+<display_statistics type="check">yes</display_statistics>
+<display_attempts type="check">yes</display_attempts>
+<display_scores type="check">yes</display_scores>
+<display_timers type="check">yes</display_timers>
+<display_variants type="check">yes</display_variants>
+<display_corrects type="check">yes</display_corrects>
+<display_bg type="check">no</display_bg>
+<fs_bg type="fieldset"></fs_bg>
+<theme type="select">light</theme>
+<bg_color type="color">#E8EEFF</bg_color>
+<border_color type="color">#336699</border_color>
+<padding type="spinner">15</padding>
+<shadow_strength type="select">normal</shadow_strength>
+<font type="select">robotomedium</font>
+<font_custom type="edit"></font_custom>
+<font_style type="select">normal</font_style>
+<font_size type="spinner">16</font_size>
+<font_color_type type="select">by_scale</font_color_type>
+<font_color type="color">#666666</font_color>
+<base_color_type type="select">by_theme</base_color_type>
+<base_color type="color">#0080C0</base_color>
+<scalecolor type="color">#666666</scalecolor>
+<interscale type="spinner">10</interscale>
+<text_objecttypes type="select">na</text_objecttypes>
+<text_objecttype_na type="edit">Не определен</text_objecttype_na>
+<text_objecttype_tf type="edit">Вопрос Правда-Ложь</text_objecttype_tf>
+<text_objecttype_choice type="edit">Вопрос с единственным выбором</text_objecttype_choice>
+<text_objecttype_select type="edit">Вопрос с множественным выбором</text_objecttype_select>
+<text_objecttype_range type="edit">Вопрос на упорядочивание вариантов</text_objecttype_range>
+<text_objecttype_numeric type="edit">Вопрос на числовой ввод</text_objecttype_numeric>
+<text_objecttype_text type="edit">Вопрос на текстовый ввод</text_objecttype_text>
+<text_objecttype_oto type="edit">Вопрос на соответствие один-к-одному</text_objecttype_oto>
+<text_objecttype_otm type="edit">Вопрос на соответствие один-к-многим</text_objecttype_otm>
+<text_objecttype_mtm type="edit">Вопрос на соответствие многие-к-многим</text_objecttype_mtm>
+<text_objecttype_test type="edit">Тест</text_objecttype_test>
+<text_scoringtypes type="select">plain</text_scoringtypes>
+<text_scoringtype_plain type="edit">Общий вес вопроса по всем целям</text_scoringtype_plain>
+<text_scoringtype_regressive type="edit">Вес по попыткам регрессивно по всем целям</text_scoringtype_regressive>
+<text_scoringtype_byobj type="edit">Разные веса по целям</text_scoringtype_byobj>
+<text_scoringtype_byvar type="edit">Вес выбранного варианта по всем целям</text_scoringtype_byvar>
+<text_scoringtype_max type="edit">Максимальный вес выбранного ответа по всем целям</text_scoringtype_max>
+<text_scoringtype_min type="edit">Минимальный вес выбранного ответа по всем целям</text_scoringtype_min>
+<text_scoringtype_avg type="edit">Средний вес только по выбранным ответам по всем целям</text_scoringtype_avg>
+<text_scoringtype_avgall type="edit">Средний вес выбранных ответов по отношению ко всем правильным ответам по всем целям</text_scoringtype_avgall>
+<text_constants type="select">notdefined</text_constants>
+<text_constant_notdefined type="edit">Текст вопроса не определен</text_constant_notdefined>
+<text_constant_attemptsleft type="edit">Осталось попыток:</text_constant_attemptsleft>
+<text_constant_attemptsmax type="edit">Отведено попыток:</text_constant_attemptsmax>
+<text_constant_duration type="edit">Отведено времени:</text_constant_duration>
+<text_constant_latency type="edit">Затрачено времени:</text_constant_latency>
+<text_constant_nolimit type="edit">не ограничено</text_constant_nolimit>
+<text_constant_sec type="edit">сек</text_constant_sec>
+<text_constant_scoringtype type="edit">Расчет оценки:</text_constant_scoringtype>
+<text_constant_objectives type="edit">Цели</text_constant_objectives>
+<text_constant_score type="edit">Баллы</text_constant_score>
+<text_constant_weight type="edit">вес:</text_constant_weight>
+<text_constant_youranswer type="edit">Ваш ответ</text_constant_youranswer>
+<text_constant_bullets type="edit">Вы присоединили</text_constant_bullets>
+<text_constant_targets type="edit">Базы</text_constant_targets>
+<text_constant_correct type="edit">Правильно</text_constant_correct>
+<text_constant_nodata type="edit">Еще не пройден</text_constant_nodata>
+<text_constant_statistics type="edit">Статистика</text_constant_statistics>
+<text_constant_results type="edit">Результаты</text_constant_results>
+<text_constant_variants type="edit">Варианты</text_constant_variants>
+<text_constant_uncredited type="edit">Вопрос неоцениваемый</text_constant_uncredited>
+<text_constant_question type="edit">Вопрос неоцениваемый</text_constant_question>
+</params>
+</object>
+<object type="div" guid="67cf7eb6_15bc_4cd3_abfc_73a01187a301" id="OBJ_25" state_extension="false" left="33" top="48" width="953" height="555" display="none" begin="0" hide_design="1">
+<selectedDialogButton>apply</selectedDialogButton>
+<default_color_bg>bg_color</default_color_bg>
+<default_color_border>border_color</default_color_border>
+<theme>theme</theme>
+<template>q_0002</template>
+<design_content><![CDATA[<style  xmlns="http://www.w3.org/2000/svg">
+		.container { width: 953px; height: 555px; }
+		
+						.cl-outer { position: relative; width: 951px; height: 553px; border-style: solid; border-width: 1px; background-color: #E8EEFF; border-color: #336699; border-radius: 5px; box-shadow: 2px 2px 6px rgba(102,102,102,0.66); }
+						.cl-middle { position: relative; width: inherit; height: inherit; }
+						.cl-inner { position: relative; width: inherit; height: inherit; padding: 8px; }
+						.cl-table-plain { position: relative; width: 935px; height: 537px; border-spacing: 0; }
+						.cl-table-plain-td { vertical-align: middle; text-align: center; width: 935px; height: 537px; font-family: robotomedium, Arial, Helvetica, sans-serif; font-size: 16px; color: #666666;  }
+						.cl-table-scale { position: relative; width: 935px; height: 537px; border-spacing: 0; }
+						.cl-table-scale-td { vertical-align: middle; text-align: center; width: 935px; height: 537px; }
+						.cl-results-container { position: relative; overflow-y: scroll; text-align: center; width: 935px; height: 537px; font-family: robotomedium, Arial, Helvetica, sans-serif; font-size: 16px; color: #666666;  }
+					
+				.cl-results-q-template { border-color: #336699; border-radius: 3px; }
+				.cl-results-q-template .cl-results-header .cl-results-header-title { color: #336699; }
+				.cl-results-q-template .cl-results-header .cl-results-na { color: #336699; }
+				.cl-results-q-template .cl-results-header .cl-results-header-score-div { background-color: #E8EEFF; color: #336699; }
+				.cl-switch-group { fill: #336699;}
+				
+				.cl-results-q-text { background-color: #E8EEFF; border-color: #336699; color: #336699; }
+
+				.cl-results-stats { border-color: #336699; color: #336699; }
+				.cl-stats-obj-table td { border-color: #336699; }
+				.cl-stats-obj-header { background-color: #E8EEFF; }
+
+				.cl-results-variants { border-color: #336699; color: #336699; }
+				.cl-results-q-variants-table td { border-color: #336699; }
+				.cl-results-q-variants-header { background-color: #E8EEFF; }
+			</style><div class="clo-q_0002 container cl-theme-light"  xmlns="http://www.w3.org/2000/svg"><div class="cl-outer"><div class="cl-middle"><div class="cl-inner"><div class="cl-results-container"><div class="cl-results-q-template"><div class="cl-results-header"><table class="cl-results-header-table"><tr><td class="cl-results-header-switch-cell"><svg class="cl-switch" width="20" height="20" viewBox="0 0 48 48"><g class="cl-switch-group"><path class="cl-switch-path-circle" d="M24,0C10.745,0,0,10.746,0,24c0,13.255,10.745,24,24,24s24-10.744,24-24C48,10.746,37.255,0,24,0z M24.029,43.844c-11.023,0-19.959-8.936-19.959-19.958S13.006,3.926,24.029,3.926c11.022,0,19.959,8.936,19.959,19.959 S35.052,43.844,24.029,43.844z" /><path class="cl-switch-path-plus" d="M32.56,21.902h-6.458l0.008-6.576c-0.026-0.454-0.221-1.354-1.331-1.356L23.2,13.968 c-1.181-0.001-1.282,1.165-1.288,1.47l-0.008,6.463h-6.607c-1.22,0-1.323,0.941-1.328,1.21v1.809 c0.006,0.247,0.107,1.178,1.328,1.178h6.602l-0.008,6.602c-0.002,1.219,0.939,1.324,1.209,1.33l1.809,0.002 c0.247-0.006,1.178-0.107,1.18-1.326l0.008-6.607h6.581c0.454-0.027,1.354-0.223,1.354-1.333v-1.578 C34.031,22.007,32.865,21.908,32.56,21.902z" /><path class="cl-switch-path-minus" d="M32.677,26.099c0.454-0.027,1.354-0.223,1.354-1.333v-1.578c0-1.181-1.166-1.28-1.472-1.286H15.297 c-1.22,0-1.323,0.941-1.328,1.21v1.809c0.006,0.247,0.108,1.178,1.328,1.178H32.677z" /></g></svg></td><td class="cl-results-header-title">Пример заголовка вопроса</td><td class="cl-results-na">Еще не пройден</td></tr></table></div><div class="cl-results-contents"><div class="cl-results-q-text">Пример текста вопроса</div><div class="cl-results-variants"><div class="cl-variants-header"><table class="cl-results-header-table"><tr><td class="cl-results-header-switch-cell"><svg class="cl-switch" width="20" height="20" viewBox="0 0 48 48"><g class="cl-switch-group"><path class="cl-switch-path-circle" d="M24,0C10.745,0,0,10.746,0,24c0,13.255,10.745,24,24,24s24-10.744,24-24C48,10.746,37.255,0,24,0z M24.029,43.844c-11.023,0-19.959-8.936-19.959-19.958S13.006,3.926,24.029,3.926c11.022,0,19.959,8.936,19.959,19.959 S35.052,43.844,24.029,43.844z" /><path class="cl-switch-path-plus" d="M32.56,21.902h-6.458l0.008-6.576c-0.026-0.454-0.221-1.354-1.331-1.356L23.2,13.968 c-1.181-0.001-1.282,1.165-1.288,1.47l-0.008,6.463h-6.607c-1.22,0-1.323,0.941-1.328,1.21v1.809 c0.006,0.247,0.107,1.178,1.328,1.178h6.602l-0.008,6.602c-0.002,1.219,0.939,1.324,1.209,1.33l1.809,0.002 c0.247-0.006,1.178-0.107,1.18-1.326l0.008-6.607h6.581c0.454-0.027,1.354-0.223,1.354-1.333v-1.578 C34.031,22.007,32.865,21.908,32.56,21.902z" /><path class="cl-switch-path-minus" d="M32.677,26.099c0.454-0.027,1.354-0.223,1.354-1.333v-1.578c0-1.181-1.166-1.28-1.472-1.286H15.297 c-1.22,0-1.323,0.941-1.328,1.21v1.809c0.006,0.247,0.108,1.178,1.328,1.178H32.677z" /></g></svg></td><td class="cl-results-header-title">Результаты</td></tr></table></div><div class="cl-results-contents"><table class="cl-results-q-variants-table  cl-results-q-choice-table"><tr><td colspan="2" class="cl-results-q-variants-header">Ваш ответ</td><td class="cl-results-q-variants-header">Правильно</td></tr><tr><td class="cl-results-q-variants-mark cl-results-mark-selected  cl-results-mark-correct cl-results-correct">
+																		✓
+																	</td><td class="cl-results-q-variants-text cl-results-var-selected cl-results-correct">Пример правильно выбранного варианта</td><td class="cl-results-q-variants-mark cl-results-mark-correct cl-results-correct">
+																			✓
+																		</td></tr><tr><td class="cl-results-q-variants-mark cl-results-mark-selected cl-results-mark-incorrect cl-results-incorrect">
+																			✗
+																		</td><td class="cl-results-q-variants-text cl-results-var-selected cl-results-incorrect">Пример неправильно выбранного варианта</td><td class="cl-results-q-variants-mark cl-results-mark-correct cl-results-correct">
+																			✓
+																		</td></tr><tr><td class="cl-results-q-variants-mark cl-results-incorrect">
+																		 
+																	</td><td class="cl-results-q-variants-text cl-results-var-unselected cl-results-incorrect">Пример невыбранного варианта</td><td class="cl-results-q-variants-mark cl-results-mark-correct cl-results-correct">
+																			✓
+																		</td></tr><tr><td class="cl-results-q-variants-mark cl-results-mark-empty cl-results-correct">
+																			 
+																		</td><td class="cl-results-q-variants-text cl-results-var-unselected cl-results-correct">Пример невыбранного варианта</td><td class="cl-results-q-variants-mark cl-results-mark-empty cl-results-correct">
+																			 
+																		</td></tr></table></div></div></div></div></div></div></div></div></div>]]></design_content>
+<export_content><![CDATA[<div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_25 .container"><span class="rule-static">width: 953px; height: 555px;</span></div><div class="rule" data-name="#OBJ_25 .cl-outer"><span class="rule-static">width: 951px; height: 553px; border-style: solid; border-width: 1px; background-color: #E8EEFF; border-color: #336699;</span><span class="rule-dynamic" data-type="border-radius" data-value="5px" /><span class="rule-dynamic" data-type="box-shadow" data-value="2px 2px 6px rgba(102,102,102,0.66)" /></div><div class="rule" data-name="#OBJ_25 .cl-middle"><span class="rule-static">width: inherit; height: inherit;</span></div><div class="rule" data-name="#OBJ_25 .cl-inner"><span class="rule-static">width: 935px; height: 537px; padding: 8px;</span></div>
+						.cl-results-container { position: relative; overflow-y: scroll; text-align: center; width: 935px; height: 537px; font-family: robotomedium, Arial, Helvetica, sans-serif; font-size: 16px; color: #666666;  }
+						<div class="rule" data-name="#OBJ_25 .cl-results-container"><span class="rule-static">width: 935px; height: 537px; font-family: robotomedium, Arial, Helvetica, sans-serif; font-size: 16px; color: #666666; </span></div><div class="rule" data-name="#OBJ_25 .cl-results-t-template"><span class="rule-static">border-color: #336699; color: #336699;</span><span class="rule-dynamic" data-type="border-radius" data-value="3px" /></div><div class="rule" data-name="#OBJ_25 .cl-results-q-template"><span class="rule-static">border-color: #336699; color: #336699;</span><span class="rule-dynamic" data-type="border-radius" data-value="3px" /></div><div class="rule" data-name="#OBJ_25 .cl-results-q-header-title"><span class="rule-static">color: #336699;</span></div><div class="rule" data-name="#OBJ_25 .cl-results-header-score-div"><span class="rule-static">background-color: #E8EEFF; color: #336699;</span></div><div class="rule" data-name="#OBJ_25 .cl-results-q-text"><span class="rule-static">background-color: #E8EEFF; border-color: #336699; color: #336699;</span></div><div class="rule" data-name="#OBJ_25 .cl-results-q-variants"><span class="rule-static">border-color: #336699; color: #336699;</span></div><div class="rule" data-name="#OBJ_25 .cl-results-q-answer-title"><span class="rule-static">color: #336699;</span></div><div class="rule" data-name="#OBJ_25 .cl-results-q-variants-table td"><span class="rule-static">border-color: #336699;</span></div><div class="rule" data-name="#OBJ_25 .cl-results-q-variants-header"><span class="rule-static">background-color: #E8EEFF;</span></div><div class="rule" data-name="#OBJ_25 .cl-results-q-stats"><span class="rule-static">border-color: #336699; color: #336699;</span></div><div class="rule" data-name="#OBJ_25 .cl-results-q-stats-title"><span class="rule-static">color: #336699;</span></div><div class="rule" data-name="#OBJ_25 .cl-stats-obj-table td"><span class="rule-static">border-color: #336699;</span></div><div class="rule" data-name="#OBJ_25 .cl-stats-obj-header"><span class="rule-static">background-color: #E8EEFF;</span></div><div class="rule" data-name="#OBJ_25 .cl-switch-group"><span class="rule-static">fill: #336699;</span></div></div><div class="container cl-theme-light unselectable" ><div class="cl-outer"><div class="cl-middle"><div class="cl-inner"><div class="cl-results-container">
+										 
+									</div></div></div></div><div class="cl-template-storage"><div class="cl-results-t-template cl-results-parent"><div class="cl-results-t-header"><table class="cl-results-header-table"><tr><td class="cl-results-header-switch-cell"><div class="cl-switch"><svg class="cl-switch" width="20" height="20" viewBox="0 0 48 48"><g class="cl-switch-group"><path class="cl-switch-path-circle" d="M24,0C10.745,0,0,10.746,0,24c0,13.255,10.745,24,24,24s24-10.744,24-24C48,10.746,37.255,0,24,0z M24.029,43.844c-11.023,0-19.959-8.936-19.959-19.958S13.006,3.926,24.029,3.926c11.022,0,19.959,8.936,19.959,19.959 S35.052,43.844,24.029,43.844z" /><path class="cl-switch-path-plus" d="M32.56,21.902h-6.458l0.008-6.576c-0.026-0.454-0.221-1.354-1.331-1.356L23.2,13.968 c-1.181-0.001-1.282,1.165-1.288,1.47l-0.008,6.463h-6.607c-1.22,0-1.323,0.941-1.328,1.21v1.809 c0.006,0.247,0.107,1.178,1.328,1.178h6.602l-0.008,6.602c-0.002,1.219,0.939,1.324,1.209,1.33l1.809,0.002 c0.247-0.006,1.178-0.107,1.18-1.326l0.008-6.607h6.581c0.454-0.027,1.354-0.223,1.354-1.333v-1.578 C34.031,22.007,32.865,21.908,32.56,21.902z" /><path class="cl-switch-path-minus" d="M32.677,26.099c0.454-0.027,1.354-0.223,1.354-1.333v-1.578c0-1.181-1.166-1.28-1.472-1.286H15.297 c-1.22,0-1.323,0.941-1.328,1.21v1.809c0.006,0.247,0.108,1.178,1.328,1.178H32.677z" /></g></svg></div></td><td class="cl-results-header-title">Пример заголовка вопроса</td><td class="cl-results-na">Еще не пройден</td></tr></table></div><div class="cl-results-contents cl-results-t-contents" /></div><div class="cl-results-q-template cl-results-parent"><div class="cl-results-header"><table class="cl-results-header-table"><tr><td class="cl-results-header-switch-cell"><div class="cl-switch"><svg class="cl-switch" width="20" height="20" viewBox="0 0 48 48"><g class="cl-switch-group"><path class="cl-switch-path-circle" d="M24,0C10.745,0,0,10.746,0,24c0,13.255,10.745,24,24,24s24-10.744,24-24C48,10.746,37.255,0,24,0z M24.029,43.844c-11.023,0-19.959-8.936-19.959-19.958S13.006,3.926,24.029,3.926c11.022,0,19.959,8.936,19.959,19.959 S35.052,43.844,24.029,43.844z" /><path class="cl-switch-path-plus" d="M32.56,21.902h-6.458l0.008-6.576c-0.026-0.454-0.221-1.354-1.331-1.356L23.2,13.968 c-1.181-0.001-1.282,1.165-1.288,1.47l-0.008,6.463h-6.607c-1.22,0-1.323,0.941-1.328,1.21v1.809 c0.006,0.247,0.107,1.178,1.328,1.178h6.602l-0.008,6.602c-0.002,1.219,0.939,1.324,1.209,1.33l1.809,0.002 c0.247-0.006,1.178-0.107,1.18-1.326l0.008-6.607h6.581c0.454-0.027,1.354-0.223,1.354-1.333v-1.578 C34.031,22.007,32.865,21.908,32.56,21.902z" /><path class="cl-switch-path-minus" d="M32.677,26.099c0.454-0.027,1.354-0.223,1.354-1.333v-1.578c0-1.181-1.166-1.28-1.472-1.286H15.297 c-1.22,0-1.323,0.941-1.328,1.21v1.809c0.006,0.247,0.108,1.178,1.328,1.178H32.677z" /></g></svg></div></td><td class="cl-results-header-title">Пример заголовка вопроса</td><td class="cl-results-na">Еще не пройден</td></tr></table></div><div class="cl-results-contents"><div class="cl-results-q-text">Пример текста вопроса</div><div class="cl-results-variants cl-results-parent"><div class="cl-variants-header"><table class="cl-results-header-table"><tr><td class="cl-results-header-switch-cell"><div class="cl-switch"><svg class="cl-switch" width="20" height="20" viewBox="0 0 48 48"><g class="cl-switch-group"><path class="cl-switch-path-circle" d="M24,0C10.745,0,0,10.746,0,24c0,13.255,10.745,24,24,24s24-10.744,24-24C48,10.746,37.255,0,24,0z M24.029,43.844c-11.023,0-19.959-8.936-19.959-19.958S13.006,3.926,24.029,3.926c11.022,0,19.959,8.936,19.959,19.959 S35.052,43.844,24.029,43.844z" /><path class="cl-switch-path-plus" d="M32.56,21.902h-6.458l0.008-6.576c-0.026-0.454-0.221-1.354-1.331-1.356L23.2,13.968 c-1.181-0.001-1.282,1.165-1.288,1.47l-0.008,6.463h-6.607c-1.22,0-1.323,0.941-1.328,1.21v1.809 c0.006,0.247,0.107,1.178,1.328,1.178h6.602l-0.008,6.602c-0.002,1.219,0.939,1.324,1.209,1.33l1.809,0.002 c0.247-0.006,1.178-0.107,1.18-1.326l0.008-6.607h6.581c0.454-0.027,1.354-0.223,1.354-1.333v-1.578 C34.031,22.007,32.865,21.908,32.56,21.902z" /><path class="cl-switch-path-minus" d="M32.677,26.099c0.454-0.027,1.354-0.223,1.354-1.333v-1.578c0-1.181-1.166-1.28-1.472-1.286H15.297 c-1.22,0-1.323,0.941-1.328,1.21v1.809c0.006,0.247,0.108,1.178,1.328,1.178H32.677z" /></g></svg></div></td><td class="cl-results-header-title">Результаты</td></tr></table></div><div class="cl-results-contents" /></div></div></div></div></div>]]></export_content>
+<params>
+<hidden.obj.not.defined type="edit">Цель не определена</hidden.obj.not.defined>
+<hidden.no.objects type="edit">Объекты для результатов не определены</hidden.no.objects>
+<hidden.results type="edit">Результаты по объектам не могут быть показаны в редакторе</hidden.results>
+<hidden.question_header type="edit">Пример заголовка вопроса</hidden.question_header>
+<hidden.question_text type="edit">Пример текста вопроса</hidden.question_text>
+<hidden.question_variant_correct type="edit">Пример правильно выбранного варианта</hidden.question_variant_correct>
+<hidden.question_variant_incorrect type="edit">Пример неправильно выбранного варианта</hidden.question_variant_incorrect>
+<hidden.question_variant_selected type="edit">Пример выбранного варианта</hidden.question_variant_selected>
+<hidden.question_variant_unselected type="edit">Пример невыбранного варианта</hidden.question_variant_unselected>
+<display_type type="select">detail</display_type>
+<fs_plain type="fieldset"></fs_plain>
+<q_board type="objectiveid">total</q_board>
+<plain_values type="select">score_percent</plain_values>
+<plain_text type="edit">Набрано {{1}} баллов из {{2}}</plain_text>
+<fs_scale type="fieldset"></fs_scale>
+<scoreboards type="list">
+<item>
+<scoreboard type="objectiveid">total</scoreboard>
+<sb_text type="edit">Название шкалы</sb_text>
+<scorecolor type="color">#0080C0</scorecolor>
+</item>
+</scoreboards>
+<scale_values type="select">score_percent</scale_values>
+<scale_text type="edit">{{1}} из {{2}}</scale_text>
+<fs_detail type="fieldset"></fs_detail>
+<objects type="list">
+<item>
+<objid type="objectid">OBJ_23</objid>
+<displayobjheader type="check">yes</displayobjheader>
+<objheader type="edit">Результаты теста:</objheader>
+</item>
+</objects>
+<display_questiontext type="check">yes</display_questiontext>
+<display_main_score type="check">no</display_main_score>
+<display_statistics type="check">no</display_statistics>
+<display_attempts type="check">no</display_attempts>
+<display_scores type="check">no</display_scores>
+<display_timers type="check">yes</display_timers>
+<display_variants type="check">yes</display_variants>
+<display_corrects type="check">yes</display_corrects>
+<display_bg type="check">yes</display_bg>
+<fs_bg type="fieldset"></fs_bg>
+<theme type="select">light</theme>
+<bg_color type="color">#E8EEFF</bg_color>
+<border_color type="color">#336699</border_color>
+<padding type="spinner">8</padding>
+<shadow_strength type="select">normal</shadow_strength>
+<font type="select">robotomedium</font>
+<font_custom type="edit"></font_custom>
+<font_style type="select">normal</font_style>
+<font_size type="spinner">16</font_size>
+<font_color_type type="select">by_scale</font_color_type>
+<font_color type="color">#666666</font_color>
+<base_color_type type="select">by_theme</base_color_type>
+<base_color type="color">#0080C0</base_color>
+<scalecolor type="color">#666666</scalecolor>
+<interscale type="spinner">10</interscale>
+<text_objecttypes type="select">na</text_objecttypes>
+<text_objecttype_na type="edit">Не определен</text_objecttype_na>
+<text_objecttype_tf type="edit">Вопрос Правда-Ложь</text_objecttype_tf>
+<text_objecttype_choice type="edit">Вопрос с единственным выбором</text_objecttype_choice>
+<text_objecttype_select type="edit">Вопрос с множественным выбором</text_objecttype_select>
+<text_objecttype_range type="edit">Вопрос на упорядочивание вариантов</text_objecttype_range>
+<text_objecttype_numeric type="edit">Вопрос на числовой ввод</text_objecttype_numeric>
+<text_objecttype_text type="edit">Вопрос на текстовый ввод</text_objecttype_text>
+<text_objecttype_oto type="edit">Вопрос на соответствие один-к-одному</text_objecttype_oto>
+<text_objecttype_otm type="edit">Вопрос на соответствие один-к-многим</text_objecttype_otm>
+<text_objecttype_mtm type="edit">Вопрос на соответствие многие-к-многим</text_objecttype_mtm>
+<text_objecttype_test type="edit">Тест</text_objecttype_test>
+<text_scoringtypes type="select">plain</text_scoringtypes>
+<text_scoringtype_plain type="edit">Общий вес вопроса по всем целям</text_scoringtype_plain>
+<text_scoringtype_regressive type="edit">Вес по попыткам регрессивно по всем целям</text_scoringtype_regressive>
+<text_scoringtype_byobj type="edit">Разные веса по целям</text_scoringtype_byobj>
+<text_scoringtype_byvar type="edit">Вес выбранного варианта по всем целям</text_scoringtype_byvar>
+<text_scoringtype_max type="edit">Максимальный вес выбранного ответа по всем целям</text_scoringtype_max>
+<text_scoringtype_min type="edit">Минимальный вес выбранного ответа по всем целям</text_scoringtype_min>
+<text_scoringtype_avg type="edit">Средний вес только по выбранным ответам по всем целям</text_scoringtype_avg>
+<text_scoringtype_avgall type="edit">Средний вес выбранных ответов по отношению ко всем правильным ответам по всем целям</text_scoringtype_avgall>
+<text_constants type="select">notdefined</text_constants>
+<text_constant_notdefined type="edit">Текст вопроса не определен</text_constant_notdefined>
+<text_constant_attemptsleft type="edit">Осталось попыток:</text_constant_attemptsleft>
+<text_constant_attemptsmax type="edit">Отведено попыток:</text_constant_attemptsmax>
+<text_constant_duration type="edit">Отведено времени:</text_constant_duration>
+<text_constant_latency type="edit">Затрачено времени:</text_constant_latency>
+<text_constant_nolimit type="edit">не ограничено</text_constant_nolimit>
+<text_constant_sec type="edit">сек</text_constant_sec>
+<text_constant_scoringtype type="edit">Расчет оценки:</text_constant_scoringtype>
+<text_constant_objectives type="edit">Цели</text_constant_objectives>
+<text_constant_score type="edit">Баллы</text_constant_score>
+<text_constant_weight type="edit">вес:</text_constant_weight>
+<text_constant_youranswer type="edit">Ваш ответ</text_constant_youranswer>
+<text_constant_bullets type="edit">Вы присоединили</text_constant_bullets>
+<text_constant_targets type="edit">Базы</text_constant_targets>
+<text_constant_correct type="edit">Правильно</text_constant_correct>
+<text_constant_nodata type="edit">Еще не пройден</text_constant_nodata>
+<text_constant_statistics type="edit">Статистика</text_constant_statistics>
+<text_constant_results type="edit">Результаты</text_constant_results>
+<text_constant_variants type="edit">Варианты</text_constant_variants>
+<text_constant_uncredited type="edit">Вопрос неоцениваемый</text_constant_uncredited>
+<text_constant_question type="edit">Вопрос неоцениваемый</text_constant_question>
+</params>
+</object>
+<object type="div" guid="05772bbd_1a35_4b28_8828_498c5a83a5bd" id="OBJ_26" left="32" top="44" width="956" height="559" display="none" begin="0">
+<selectedDialogButton>apply</selectedDialogButton>
+<default_text>text_main</default_text>
+<default_color_bg>bg_color</default_color_bg>
+<default_color_border>border_color</default_color_border>
+<theme>theme</theme>
+<template>basic_popup</template>
+<design_content><![CDATA[<div class="cl-container cl-theme-light" data-adjuster="43" ><div class="cl-outer-box  unselectable" style="height: 557px; background-color: #FFFFFF; border-color: #336699; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; -moz-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); -webkit-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); box-shadow: 2px 2px 6px rgba(102,102,102,0.66);"><div class="cl-inner-box"><div class="cl-header-box" style="background-color: #B9DCFF; -moz-border-radius: 4px 4px 0 0; -webkit-border-radius: 4px 4px 0 0; border-radius: 4px 4px 0 0; background-image: -o-linear-gradient(90deg,#B9DCFF 0%,#E8F4FF 100%); background-image: -ms-linear-gradient(90deg,#B9DCFF 0%,#E8F4FF 100%); background-image: -moz-linear-gradient(90deg,#B9DCFF 0%,#E8F4FF 100%); background-image: -webkit-linear-gradient(90deg,#B9DCFF 0%,#E8F4FF 100%); background-image: linear-gradient(0deg,#B9DCFF 0%,#E8F4FF 100%);"><table cellpadding="0" cellspacing="0" border="0" class="cl-header-table"><tr><td class="cl-header-td cl-header-txt-box" style="color: #336699; padding: 10px;"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;"><span style="line-height: 21.600000381469727px;">Правила проведения теста</span></span></span></td></tr></table></div><div class="cl-txt-container" style="border-color: #336699; border-style: solid none none none; border-width: 1px 0 0 0; background-color: #FFFFFF; padding: 20px; -moz-border-radius: 0 0 4px 4px; -webkit-border-radius: 0 0 4px 4px; border-radius: 0 0 4px 4px;"><div class="cl-txt-box" style="overflow-y: auto;"><p align="center"><span style="font-family:times new roman,times,serif;"><span style="font-size:20px;">Прохождение следующего теста имеет ряд правил и ограничений:</span></span></p>
+
+<p align="center"><span style="font-family:times new roman,times,serif;"><span style="font-size:20px;">Время прохождения теста&nbsp;<strong>не ограничено</strong>.</span></span></p>
+
+<p align="center"><span style="font-family:times new roman,times,serif;"><span style="font-size:20px;">На прохождение теста дается лишь&nbsp;<strong>одна попытка</strong>.</span></span></p>
+
+<p align="center"><span style="font-family:times new roman,times,serif;"><span style="font-size:20px;">В тесте содержится 7<strong>&nbsp;вопросов</strong>. За каждый правильный ответ будет начисляться один балл.</span></span></p>
+
+<p align="center"><span style="font-family:times new roman,times,serif;"><span style="font-size:20px;">Некоторые из вопросов предполагают множественный выбор вариантов ответов. Также присутствуют вопросы на парное соответствие.&nbsp;Внимательно следите за описанием вопросов в тесте.</span></span></p>
+
+<p align="center"><span style="font-family:times new roman,times,serif;"><span style="font-size:20px;">Тест будет считаться успешно пройдённым, если будет набрано 5<strong>&nbsp;или более баллов</strong>.</span></span></p>
+
+<p>&nbsp;</p></div></div></div></div></div><script >
+			function Adjust()
+			{
+				try
+				{
+					var aHeaders = document.getElementsByClassName('cl-header-box');
+					var iHeaderH = (aHeaders.length==0) ? 0 : aHeaders[0].offsetHeight;
+					var oTxt = document.getElementsByClassName('cl-txt-box')[0];
+					var iAvailH = +559;
+					var iAdjuster = +43;
+					var iH = iAvailH - iAdjuster - iHeaderH;
+					oTxt.style.height = iH + "px";
+				}
+				catch(e)
+				{}
+			}
+		</script>]]></design_content>
+<export_content><![CDATA[<div class="cl-audio-files-list" style="display: none"  /><div class="cl-container cl-theme-light unselectable" data-adjuster="43" ><div class="style-custom" data-ie9="1" style="display: none"><div class="rule" data-name="#OBJ_26 .cl-header-box"><span class="rule-dynamic" data-ie9="1" data-type="linear-gradient" data-angle="0" data-colors="#B9DCFF|0;#E8F4FF|100" /></div></div><div class="cl-outer-box  unselectable" style="height: 557px; background-color: #FFFFFF; border-color: #336699; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; -moz-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); -webkit-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); box-shadow: 2px 2px 6px rgba(102,102,102,0.66);"><div class="cl-inner-box"><div class="cl-header-box" style="background-color: #B9DCFF; -moz-border-radius: 4px 4px 0 0; -webkit-border-radius: 4px 4px 0 0; border-radius: 4px 4px 0 0; background-image: -o-linear-gradient(90deg,#B9DCFF 0%,#E8F4FF 100%); background-image: -ms-linear-gradient(90deg,#B9DCFF 0%,#E8F4FF 100%); background-image: -moz-linear-gradient(90deg,#B9DCFF 0%,#E8F4FF 100%); background-image: -webkit-linear-gradient(90deg,#B9DCFF 0%,#E8F4FF 100%); background-image: linear-gradient(0deg,#B9DCFF 0%,#E8F4FF 100%);"><table cellpadding="0" cellspacing="0" border="0" class="cl-header-table"><tr><td class="cl-header-td cl-header-txt-box" style="color: #336699; padding: 10px;"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;"><span style="line-height: 21.600000381469727px;">Правила проведения теста</span></span></span></td></tr></table></div><div class="cl-txt-container" style="border-color: #336699; border-style: solid none none none; border-width: 1px 0 0 0; background-color: #FFFFFF; padding: 20px; -moz-border-radius: 0 0 4px 4px; -webkit-border-radius: 0 0 4px 4px; border-radius: 0 0 4px 4px;"><div class="cl-txt-box" style="overflow-y: auto;"><p align="center"><span style="font-family:times new roman,times,serif;"><span style="font-size:20px;">Прохождение следующего теста имеет ряд правил и ограничений:</span></span></p>
+
+<p align="center"><span style="font-family:times new roman,times,serif;"><span style="font-size:20px;">Время прохождения теста&nbsp;<strong>не ограничено</strong>.</span></span></p>
+
+<p align="center"><span style="font-family:times new roman,times,serif;"><span style="font-size:20px;">На прохождение теста дается лишь&nbsp;<strong>одна попытка</strong>.</span></span></p>
+
+<p align="center"><span style="font-family:times new roman,times,serif;"><span style="font-size:20px;">В тесте содержится 7<strong>&nbsp;вопросов</strong>. За каждый правильный ответ будет начисляться один балл.</span></span></p>
+
+<p align="center"><span style="font-family:times new roman,times,serif;"><span style="font-size:20px;">Некоторые из вопросов предполагают множественный выбор вариантов ответов. Также присутствуют вопросы на парное соответствие.&nbsp;Внимательно следите за описанием вопросов в тесте.</span></span></p>
+
+<p align="center"><span style="font-family:times new roman,times,serif;"><span style="font-size:20px;">Тест будет считаться успешно пройдённым, если будет набрано 5<strong>&nbsp;или более баллов</strong>.</span></span></p>
+
+<p>&nbsp;</p></div></div></div></div></div>]]></export_content>
+<params>
+<display_header type="check">yes</display_header>
+<text_header type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;line-height: 21.600000381469727px;&amp;quot;&amp;gt;Правила проведения теста&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</text_header>
+<text_main type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;p align=&amp;quot;center&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;Прохождение следующего теста имеет ряд правил и ограничений:&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p align=&amp;quot;center&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;Время прохождения теста&amp;amp;nbsp;&amp;lt;strong&amp;gt;не ограничено&amp;lt;/strong&amp;gt;.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p align=&amp;quot;center&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;На прохождение теста дается лишь&amp;amp;nbsp;&amp;lt;strong&amp;gt;одна попытка&amp;lt;/strong&amp;gt;.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p align=&amp;quot;center&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;В тесте содержится 7&amp;lt;strong&amp;gt;&amp;amp;nbsp;вопросов&amp;lt;/strong&amp;gt;. За каждый правильный ответ будет начисляться один балл.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p align=&amp;quot;center&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;Некоторые из вопросов предполагают множественный выбор вариантов ответов. Также присутствуют вопросы на парное соответствие.&amp;amp;nbsp;Внимательно следите за описанием вопросов в тесте.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p align=&amp;quot;center&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;Тест будет считаться успешно пройдённым, если будет набрано 5&amp;lt;strong&amp;gt;&amp;amp;nbsp;или более баллов&amp;lt;/strong&amp;gt;.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+
+&amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
+&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</text_main>
+<theme type="select">light</theme>
+<bg_color type="color">#FFFFFF</bg_color>
+<header_color type="color">#B9DCFF</header_color>
+<border_color type="color">#336699</border_color>
+<fs_profile_text type="fieldset"></fs_profile_text>
+<stroke_weight type="spinner">1</stroke_weight>
+<border_radius type="spinner">10</border_radius>
+<gradient_angle type="spinner">0</gradient_angle>
+<fs_profile_custom type="fieldset"></fs_profile_custom>
+<gradient_color type="color">#CEE0FF</gradient_color>
+<btn_size type="spinner">32</btn_size>
+<btn_color type="color">#336699</btn_color>
+<border_style type="select">solid</border_style>
+<size_to type="select">container</size_to>
+<close_by type="select">method</close_by>
+<close_title type="edit">Нажмите для закрытия</close_title>
+<modal type="check">no</modal>
+<shadow_strength type="select">normal</shadow_strength>
+<text_padding type="spinner">20</text_padding>
+<header_padding type="spinner">10</header_padding>
+<typewriter type="check">no</typewriter>
+<typewriter_speed type="spinner">10</typewriter_speed>
+<sound_click type="select">none</sound_click>
+<sound_click_file_custom type="file"></sound_click_file_custom>
+</params>
+</object>
+<object type="div" guid="84f7093b_1acb_4f91_b448_c70afa5d671e" id="OBJ_27" left="470" top="545" width="81" height="30" display="none" begin="0">
+<default_color_bg>bg_color</default_color_bg>
+<default_color_border>border_color</default_color_border>
+<template>form_010_button</template>
+<design_content><![CDATA[<style >
+		.cl-btn { width: 81px; height: 30px; padding: 5px; text-align: center; border-style: solid; border-width: 1px; border-color: #0080C0; background-color: #0080C0; color: #336699; font-family: robotoregular, Arial, Helvetica, sans-serif; font-size:16px;-webkit-border-radius: 5px; border-radius: 5px;background-image: linear-gradient(0deg, #0080C0 0%, #A6E1FF 100%); }
+	</style><div class="cl-container" ><button id="OBJ_27_BTN" class="cl-btn">ОК</button></div>]]></design_content>
+<export_content><![CDATA[<div class="cl-audio-files-list" style="display: none"   /><div class="style-custom" style="display: none"  ><div class="rule" data-name="#OBJ_27 .cl-btn"><span class="rule-static">width: 81px; height: 30px; padding: 5px; text-align: center; border-style: solid; border-width: 1px; border-color: #0080C0; background-color: #0080C0; color: #336699; font-family: robotoregular, Arial, Helvetica, sans-serif; font-size:16px;</span><span class="rule-dynamic" data-type="border-radius" data-value="5px" /><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#0080C0|0;#A6E1FF|100" /></div><div class="rule" data-name="#OBJ_27 .cl-btn:hover"><span class="rule-dynamic" data-type="linear-gradient" data-angle="180" data-colors="#0080C0|0;#A6E1FF|100" /></div></div><div class="cl-container unselectable"  ><button id="OBJ_27_BTN" class="cl-btn">ОК</button></div>]]></export_content>
+<params>
+<input_text type="edit">ОК</input_text>
+<border_style type="select">solid</border_style>
+<border_width type="spinner">1</border_width>
+<border_radius type="spinner">5</border_radius>
+<bg_color type="color">#0080C0</bg_color>
+<border_color type="color">#0080C0</border_color>
+<font_color type="color">#336699</font_color>
+<shadow_strength type="select">normal</shadow_strength>
+<text_align type="select">center</text_align>
+<padding type="spinner">5</padding>
+<font type="select">robotoregular</font>
+<font_custom type="edit"></font_custom>
+<font_style type="select">normal</font_style>
+<font_size type="spinner">16</font_size>
+<text_shadow_strength type="select">none</text_shadow_strength>
+<text_shadow_color type="color">#FFFFFF</text_shadow_color>
+<sound_click type="select">none</sound_click>
+<sound_click_file_custom type="file"></sound_click_file_custom>
+<sound_over type="select">none</sound_over>
+<sound_over_file_custom type="file"></sound_over_file_custom>
+</params>
+<events>
+<onclick id="OBJ_27_1" type="actions">
+<DISPLAY pid="OBJ_26" display="none" transition="0" fs_dur="" dur="1000"/>
+<DISPLAY pid="OBJ_27" display="none" transition="0" fs_dur="" dur="1000"/>
+</onclick>
+</events>
+</object>
+<object type="div" guid="66d5b8e5_e7bb_4fa0_9a71_dd935522fc28" id="OBJ_28" left="351" top="248" width="320" height="199" display="none" begin="0">
+<default_text>text_main</default_text>
+<default_color_bg>bg_color</default_color_bg>
+<default_color_border>border_color</default_color_border>
+<theme>theme</theme>
+<template>basic_popup</template>
+<design_content><![CDATA[<div class="cl-container cl-theme-light" data-adjuster="43" ><div class="cl-outer-box  unselectable" style="height: 197px; background-color: #FFFFFF; border-color: #336699; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; -moz-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); -webkit-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); box-shadow: 2px 2px 6px rgba(102,102,102,0.66);"><div class="cl-inner-box"><div class="cl-header-box" style="background-color: #CEE0FF; -moz-border-radius: 4px 4px 0 0; -webkit-border-radius: 4px 4px 0 0; border-radius: 4px 4px 0 0; background-image: -o-linear-gradient(90deg,#CEE0FF 0%,#EDF4FF 100%); background-image: -ms-linear-gradient(90deg,#CEE0FF 0%,#EDF4FF 100%); background-image: -moz-linear-gradient(90deg,#CEE0FF 0%,#EDF4FF 100%); background-image: -webkit-linear-gradient(90deg,#CEE0FF 0%,#EDF4FF 100%); background-image: linear-gradient(0deg,#CEE0FF 0%,#EDF4FF 100%);"><table cellpadding="0" cellspacing="0" border="0" class="cl-header-table"><tr><td class="cl-header-td cl-header-txt-box" style="color: #336699; padding: 10px;"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;"><span style="line-height: 13.4399995803833px;">Тест завершен</span></span></span></td></tr></table></div><div class="cl-txt-container" style="border-color: #336699; border-style: solid none none none; border-width: 1px 0 0 0; background-color: #FFFFFF; padding: 20px; -moz-border-radius: 0 0 4px 4px; -webkit-border-radius: 0 0 4px 4px; border-radius: 0 0 4px 4px;"><div class="cl-txt-box" style="overflow-y: auto;"></div></div></div></div></div><script >
+			function Adjust()
+			{
+				try
+				{
+					var aHeaders = document.getElementsByClassName('cl-header-box');
+					var iHeaderH = (aHeaders.length==0) ? 0 : aHeaders[0].offsetHeight;
+					var oTxt = document.getElementsByClassName('cl-txt-box')[0];
+					var iAvailH = +199;
+					var iAdjuster = +43;
+					var iH = iAvailH - iAdjuster - iHeaderH;
+					oTxt.style.height = iH + "px";
+				}
+				catch(e)
+				{}
+			}
+		</script>]]></design_content>
+<export_content><![CDATA[<div class="cl-audio-files-list" style="display: none"  /><div class="cl-container cl-theme-light unselectable" data-adjuster="43" ><div class="style-custom" data-ie9="1" style="display: none"><div class="rule" data-name="#OBJ_28 .cl-header-box"><span class="rule-dynamic" data-ie9="1" data-type="linear-gradient" data-angle="0" data-colors="#CEE0FF|0;#EDF4FF|100" /></div></div><div class="cl-outer-box  unselectable" style="height: 197px; background-color: #FFFFFF; border-color: #336699; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; -moz-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); -webkit-box-shadow: 2px 2px 6px rgba(102,102,102,0.66); box-shadow: 2px 2px 6px rgba(102,102,102,0.66);"><div class="cl-inner-box"><div class="cl-header-box" style="background-color: #CEE0FF; -moz-border-radius: 4px 4px 0 0; -webkit-border-radius: 4px 4px 0 0; border-radius: 4px 4px 0 0; background-image: -o-linear-gradient(90deg,#CEE0FF 0%,#EDF4FF 100%); background-image: -ms-linear-gradient(90deg,#CEE0FF 0%,#EDF4FF 100%); background-image: -moz-linear-gradient(90deg,#CEE0FF 0%,#EDF4FF 100%); background-image: -webkit-linear-gradient(90deg,#CEE0FF 0%,#EDF4FF 100%); background-image: linear-gradient(0deg,#CEE0FF 0%,#EDF4FF 100%);"><table cellpadding="0" cellspacing="0" border="0" class="cl-header-table"><tr><td class="cl-header-td cl-header-txt-box" style="color: #336699; padding: 10px;"><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;"><span style="line-height: 13.4399995803833px;">Тест завершен</span></span></span></td></tr></table></div><div class="cl-txt-container" style="border-color: #336699; border-style: solid none none none; border-width: 1px 0 0 0; background-color: #FFFFFF; padding: 20px; -moz-border-radius: 0 0 4px 4px; -webkit-border-radius: 0 0 4px 4px; border-radius: 0 0 4px 4px;"><div class="cl-txt-box" style="overflow-y: auto;"></div></div></div></div></div>]]></export_content>
+<params>
+<text_header type="textedit">&lt;ietext&gt;&lt;text&gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;line-height: 13.4399995803833px;&amp;quot;&amp;gt;Тест завершен&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</text_header>
+<text_main type="textedit">&lt;ietext&gt;&lt;text&gt;&lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</text_main>
+<theme type="select">light</theme>
+<bg_color type="color">#FFFFFF</bg_color>
+<header_color type="color">#CEE0FF</header_color>
+<border_color type="color">#336699</border_color>
+<fs_profile_text type="fieldset"></fs_profile_text>
+<stroke_weight type="spinner">1</stroke_weight>
+<border_radius type="spinner">10</border_radius>
+<gradient_angle type="spinner">0</gradient_angle>
+<size_to type="select">container</size_to>
+<close_by type="select">method</close_by>
+<close_title type="edit">Нажмите для закрытия</close_title>
+<modal type="check">no</modal>
+<shadow_strength type="select">normal</shadow_strength>
+<text_padding type="spinner">20</text_padding>
+<header_padding type="spinner">10</header_padding>
+<sound_click type="select">none</sound_click>
+<sound_click_file_custom type="file"></sound_click_file_custom>
+<display_header type="check">yes</display_header>
+<fs_profile_custom type="fieldset"></fs_profile_custom>
+<gradient_color type="color">#CEE0FF</gradient_color>
+<btn_size type="spinner">32</btn_size>
+<btn_color type="color">#336699</btn_color>
+<border_style type="select">solid</border_style>
+<typewriter type="check">no</typewriter>
+<typewriter_speed type="spinner">10</typewriter_speed>
+</params>
+</object>
+<object type="div" guid="cec07e08_f444_41de_a6d2_5f7b20e92869" id="OBJ_29" left="404" top="408" width="214" height="32" display="none" begin="0">
+<default_color_bg>bg_color</default_color_bg>
+<default_color_border>border_color</default_color_border>
+<template>form_010_button</template>
+<design_content><![CDATA[<style >
+		.cl-btn { width: 214px; height: 32px; padding: 5px; text-align: center; border-style: solid; border-width: 1px; border-color: #0080C0; background-color: #0080C0; color: #336699; font-family: robotoregular, Arial, Helvetica, sans-serif; font-size:16px;-webkit-border-radius: 5px; border-radius: 5px;background-image: linear-gradient(0deg, #0080C0 0%, #A6E1FF 100%); }
+	</style><div class="cl-container" ><button id="OBJ_29_BTN" class="cl-btn">Детальные результаты</button></div>]]></design_content>
+<export_content><![CDATA[<div class="cl-audio-files-list" style="display: none"   /><div class="style-custom" style="display: none"  ><div class="rule" data-name="#OBJ_29 .cl-btn"><span class="rule-static">width: 214px; height: 32px; padding: 5px; text-align: center; border-style: solid; border-width: 1px; border-color: #0080C0; background-color: #0080C0; color: #336699; font-family: robotoregular, Arial, Helvetica, sans-serif; font-size:16px;</span><span class="rule-dynamic" data-type="border-radius" data-value="5px" /><span class="rule-dynamic" data-type="linear-gradient" data-angle="0" data-colors="#0080C0|0;#A6E1FF|100" /></div><div class="rule" data-name="#OBJ_29 .cl-btn:hover"><span class="rule-dynamic" data-type="linear-gradient" data-angle="180" data-colors="#0080C0|0;#A6E1FF|100" /></div></div><div class="cl-container unselectable"  ><button id="OBJ_29_BTN" class="cl-btn">Детальные результаты</button></div>]]></export_content>
+<params>
+<input_text type="edit">Детальные результаты</input_text>
+<border_style type="select">solid</border_style>
+<border_width type="spinner">1</border_width>
+<border_radius type="spinner">5</border_radius>
+<bg_color type="color">#0080C0</bg_color>
+<border_color type="color">#0080C0</border_color>
+<font_color type="color">#336699</font_color>
+<shadow_strength type="select">normal</shadow_strength>
+<text_align type="select">center</text_align>
+<padding type="spinner">5</padding>
+<font type="select">robotoregular</font>
+<font_custom type="edit"></font_custom>
+<font_style type="select">normal</font_style>
+<font_size type="spinner">16</font_size>
+<text_shadow_strength type="select">none</text_shadow_strength>
+<text_shadow_color type="color">#FFFFFF</text_shadow_color>
+<sound_click type="select">none</sound_click>
+<sound_click_file_custom type="file"></sound_click_file_custom>
+<sound_over type="select">none</sound_over>
+<sound_over_file_custom type="file"></sound_over_file_custom>
+</params>
+<events>
+<onclick id="OBJ_29_1" type="actions">
+<DISPLAY pid="OBJ_25" display="inline" transition="0" fs_dur="" dur="1000"/>
+<DISPLAY pid="OBJ_28" display="none" transition="0" fs_dur="" dur="1000"/>
+<DISPLAY pid="OBJ_29" display="none" transition="0" fs_dur="" dur="1000"/>
+</onclick>
+</events>
+</object>
+</objects>
+</subslide>
+</subslides>
+<events>
+<ondisplay id="SLIDE_30_1" type="actions">
+<IF type="completion" fs_expression="" if="" fs_confirm="" confirm="" fs_drop="" objectid="" fs_objective="" pid="total" fs_cs="" cs="c" fs_ss="" ss="p" fs_score="" oid="" condition="lt" score=""/>
+<DISPLAY _indent="1" pid="OBJ_25" display="inline" transition="0" fs_dur="" dur="1000"/>
+<IF type="completion" fs_expression="" if="" fs_confirm="" confirm="" fs_drop="" objectid="" fs_objective="" pid="total" fs_cs="" cs="c" fs_ss="" ss="p" fs_score="" oid="" condition="lt" score=""/>
+<DISPLAY _indent="1" pid="OBJ_26" display="none" transition="0" fs_dur="" dur="1000"/>
+<DISPLAY _indent="1" pid="OBJ_27" display="none" transition="0" fs_dur="" dur="1000"/>
+<ELSE _indent="1"/>
+<DISPLAY _indent="2" pid="OBJ_26" display="inline" transition="0" fs_dur="" dur="1000"/>
+<DISPLAY _indent="2" pid="OBJ_27" display="inline" transition="0" fs_dur="" dur="1000"/>
+</ondisplay>
+</events>
+</slide>
 </slides>
 <objectives>
-<objective id="total" name="Главная цель модуля" cs="i" ss="u" scoremax="100" scoremin="0" module="yes"/>
+<objective id="total" name="Главная цель модуля" cs="i" ss="u" scoremax="7" scoremin="0" module="yes"/>
 </objectives>
 <runtimechecks>
 <runtimecheck id="MSMP" check="0"/>

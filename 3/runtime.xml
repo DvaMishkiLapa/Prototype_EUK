@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Presentation file, saved 12/17/2017 4:39:46 PM using CourseLab 171024 -->
+<!-- Presentation file, saved 12/17/2017 5:12:31 PM using CourseLab 171024 -->
 <module>
 <runtime preview_fullscreen="yes" preview_fitwindow="no" fit_small_window="yes" showsplash="yes" seqslides="no" preloadimages="yes" normalize="no"/>
 <groups>
@@ -10137,7 +10137,7 @@
 </q_variants_oto>
 <q_attempts_type>fixed</q_attempts_type>
 <q_attempts>1</q_attempts>
-<q_scored>yes</q_scored>
+<q_scored>no</q_scored>
 <q_scoring_type_tf>plain</q_scoring_type_tf>
 <q_scoring_type_choice>plain</q_scoring_type_choice>
 <q_weight>1.0</q_weight>
