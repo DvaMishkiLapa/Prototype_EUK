@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Module file, saved 12/16/2017 10:28:09 PM by artem using CourseLab 171024 -->
+<!-- Module file, saved 12/17/2017 1:25:19 PM by artem using CourseLab 171024 -->
 <module format="3.1 171024" rev="2" slideWidth="1018" slideHeight="682" template="Standard\0004" file="C:\github\Prototype_EUK\4\4.xml">
 <font face="robotoregular, Arial, Helvetica, sans-serif" style="1" size="14" color="#333333"/>
 <default_text></default_text>
@@ -47,6 +47,14 @@
 <color>d7e4bc</color>
 </customColors>
 <guideLines>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
 <guideLine pos="341" isVertical="no"/>
 <guideLine pos="509" isVertical="yes"/>
 <guideLine pos="341" isVertical="no"/>
@@ -485,7 +493,6 @@
 </params>
 </object>
 <object type="div" guid="e4c6f044_1408_442e_8689_cb35dc6bb3c6" id="OBJ_7" state_extension="false" left="117" top="624" width="50" height="50" display="frame" begin="0">
-<selectedDialogButton>apply</selectedDialogButton>
 <default_color_bg>bg_color</default_color_bg>
 <default_color_border>border_color</default_color_border>
 <template>nav_0000_btn_toggle</template>

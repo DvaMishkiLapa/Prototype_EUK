@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Module file, saved 12/17/2017 1:16:15 PM by artem using CourseLab 171024 -->
+<!-- Module file, saved 12/17/2017 1:22:57 PM by artem using CourseLab 171024 -->
 <module format="3.1 171024" rev="2" slideWidth="1018" slideHeight="682" template="Standard\0004" file="C:\github\Prototype_EUK\1\1.xml">
 <font face="Calibri" style="1" size="18" color="#000000"/>
 <default_text></default_text>
@@ -41,6 +41,8 @@
 <color>ccffcc</color>
 </moduleColors>
 <guideLines>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
 <guideLine pos="509" isVertical="yes"/>
 <guideLine pos="341" isVertical="no"/>
 </guideLines>

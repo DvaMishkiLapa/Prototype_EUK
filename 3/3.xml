@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Module file, saved 12/16/2017 10:27:23 PM by artem using CourseLab 171024 -->
+<!-- Module file, saved 12/17/2017 1:24:32 PM by artem using CourseLab 171024 -->
 <module format="3.1 171024" rev="2" slideWidth="1018" slideHeight="682" template="Standard\0004" file="C:\github\Prototype_EUK\3\3.xml">
 <font face="robotoregular, Arial, Helvetica, sans-serif" style="1" size="14" color="#333333"/>
 <default_text></default_text>
@@ -47,6 +47,10 @@
 <color>d7e4bc</color>
 </customColors>
 <guideLines>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
 <guideLine pos="509" isVertical="yes"/>
 <guideLine pos="341" isVertical="no"/>
 <guideLine pos="509" isVertical="yes"/>
@@ -481,7 +485,6 @@
 </params>
 </object>
 <object type="div" guid="38df6024_ed51_4c9c_aa90_65d3f5a17bc4" id="OBJ_6" state_extension="false" left="117" top="624" width="50" height="50" display="frame" begin="0">
-<selectedDialogButton>apply</selectedDialogButton>
 <default_color_bg>bg_color</default_color_bg>
 <default_color_border>border_color</default_color_border>
 <template>nav_0000_btn_toggle</template>

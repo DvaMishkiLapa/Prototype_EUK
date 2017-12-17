@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Course file, saved 12/17/2017 1:16:16 PM by artem using CourseLab 171024 -->
+<!-- Course file, saved 12/17/2017 2:50:55 PM by artem using CourseLab 171024 -->
 <course3>
 <aicc_code>Genetik_Inzh</aicc_code>
 <aicc_name>Прототип ЭУК</aicc_name>
@@ -29,9 +29,9 @@
 <name>3</name>
 <folder_id>1</folder_id>
 <file>3\3.xml</file>
-<aicc_code></aicc_code>
-<aicc_name>Раздел 2. Современные подходы в генной инженерии</aicc_name>
-<aicc_description></aicc_description>
+<aicc_code>Modern approaches</aicc_code>
+<aicc_name>Раздел 2. Современные подходы в генной инженерии.</aicc_name>
+<aicc_description>null</aicc_description>
 <aicc_maxmark></aicc_maxmark>
 <aicc_reqmark></aicc_reqmark>
 </module>
@@ -39,9 +39,19 @@
 <name>4</name>
 <folder_id>1</folder_id>
 <file>4\4.xml</file>
-<aicc_code></aicc_code>
-<aicc_name>Раздел 3. Введение в пищевую микробиологию</aicc_name>
-<aicc_description></aicc_description>
+<aicc_code>Introduction to food microbiology</aicc_code>
+<aicc_name>Раздел 3. Введение в пищевую микробиологию.</aicc_name>
+<aicc_description>null</aicc_description>
+<aicc_maxmark></aicc_maxmark>
+<aicc_reqmark></aicc_reqmark>
+</module>
+<module>
+<name>5</name>
+<folder_id>1</folder_id>
+<file>5\5.xml</file>
+<aicc_code>Biosafety of food production</aicc_code>
+<aicc_name>Раздел 5. Биобезопасность пищевых производств.</aicc_name>
+<aicc_description>null</aicc_description>
 <aicc_maxmark></aicc_maxmark>
 <aicc_reqmark></aicc_reqmark>
 </module>
@@ -55,14 +65,10 @@
 </folders>
 <windows>
 <window>
-<module>2</module>
-<zoom>100</zoom>
-</window>
-<window>
-<module>1</module>
-<zoom>100</zoom>
+<module>5</module>
+<zoom>123</zoom>
 <active>true</active>
-<slide>SLIDE_4</slide>
+<slide>SLIDE_25</slide>
 </window>
 </windows>
 </course3>
