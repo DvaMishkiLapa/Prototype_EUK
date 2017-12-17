@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Module file, saved 12/17/2017 5:12:27 PM by artem using CourseLab 171024 -->
+<!-- Module file, saved 12/17/2017 5:49:51 PM by artem using CourseLab 171024 -->
 <module format="3.1 171024" rev="2" slideWidth="1018" slideHeight="682" template="Standard\0004" file="C:\github\Prototype_EUK\4\4.xml">
 <font face="robotoregular, Arial, Helvetica, sans-serif" style="1" size="14" color="#333333"/>
 <default_text></default_text>
@@ -47,6 +47,86 @@
 <color>d7e4bc</color>
 </customColors>
 <guideLines>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
 <guideLine pos="341" isVertical="no"/>
 <guideLine pos="509" isVertical="yes"/>
 <guideLine pos="341" isVertical="no"/>
@@ -2602,7 +2682,6 @@
 <subslide guid="b8a6dd49_aa76_4e96_8fce_203cdd543c6b" id="FRAME_31" dur="0">
 <objects>
 <object type="div" guid="44213e2d_ba87_47dc_98d9_0d5e82a9b247" id="OBJ_23" state_extension="false" left="44" top="49" width="932" height="509" display="frame" begin="0">
-<selectedDialogButton>apply</selectedDialogButton>
 <default_text>text_main</default_text>
 <default_color_bg>bg_color</default_color_bg>
 <default_color_border>border_color</default_color_border>
@@ -3628,7 +3707,6 @@ function Adjust()
 </params>
 </object>
 <object type="div" guid="67cf7eb6_15bc_4cd3_abfc_73a01187a301" id="OBJ_25" state_extension="false" left="33" top="48" width="953" height="555" display="none" begin="0" hide_design="1">
-<selectedDialogButton>apply</selectedDialogButton>
 <default_color_bg>bg_color</default_color_bg>
 <default_color_border>border_color</default_color_border>
 <theme>theme</theme>
@@ -3798,11 +3876,11 @@ function Adjust()
 
 <p align="center"><span style="font-family:times new roman,times,serif;"><span style="font-size:20px;">На прохождение теста дается лишь&nbsp;<strong>одна попытка</strong>.</span></span></p>
 
-<p align="center"><span style="font-family:times new roman,times,serif;"><span style="font-size:20px;">В тесте содержится 7<strong>&nbsp;вопросов</strong>. За каждый правильный ответ будет начисляться один балл.</span></span></p>
+<p align="center"><span style="font-family:times new roman,times,serif;"><span style="font-size:20px;">В тесте содержится <strong>7&nbsp;вопросов</strong>. За каждый правильный ответ будет начисляться один балл.</span></span></p>
 
 <p align="center"><span style="font-family:times new roman,times,serif;"><span style="font-size:20px;">Некоторые из вопросов предполагают множественный выбор вариантов ответов. Также присутствуют вопросы на парное соответствие.&nbsp;Внимательно следите за описанием вопросов в тесте.</span></span></p>
 
-<p align="center"><span style="font-family:times new roman,times,serif;"><span style="font-size:20px;">Тест будет считаться успешно пройдённым, если будет набрано 5<strong>&nbsp;или более баллов</strong>.</span></span></p>
+<p align="center"><span style="font-family:times new roman,times,serif;"><span style="font-size:20px;">Тест будет считаться успешно пройдённым, если будет набрано <strong>5&nbsp;или более баллов</strong>.</span></span></p>
 
 <p>&nbsp;</p></div></div></div></div></div><script >
 			function Adjust()
@@ -3827,11 +3905,11 @@ function Adjust()
 
 <p align="center"><span style="font-family:times new roman,times,serif;"><span style="font-size:20px;">На прохождение теста дается лишь&nbsp;<strong>одна попытка</strong>.</span></span></p>
 
-<p align="center"><span style="font-family:times new roman,times,serif;"><span style="font-size:20px;">В тесте содержится 7<strong>&nbsp;вопросов</strong>. За каждый правильный ответ будет начисляться один балл.</span></span></p>
+<p align="center"><span style="font-family:times new roman,times,serif;"><span style="font-size:20px;">В тесте содержится <strong>7&nbsp;вопросов</strong>. За каждый правильный ответ будет начисляться один балл.</span></span></p>
 
 <p align="center"><span style="font-family:times new roman,times,serif;"><span style="font-size:20px;">Некоторые из вопросов предполагают множественный выбор вариантов ответов. Также присутствуют вопросы на парное соответствие.&nbsp;Внимательно следите за описанием вопросов в тесте.</span></span></p>
 
-<p align="center"><span style="font-family:times new roman,times,serif;"><span style="font-size:20px;">Тест будет считаться успешно пройдённым, если будет набрано 5<strong>&nbsp;или более баллов</strong>.</span></span></p>
+<p align="center"><span style="font-family:times new roman,times,serif;"><span style="font-size:20px;">Тест будет считаться успешно пройдённым, если будет набрано <strong>5&nbsp;или более баллов</strong>.</span></span></p>
 
 <p>&nbsp;</p></div></div></div></div></div>]]></export_content>
 <params>
@@ -3843,11 +3921,11 @@ function Adjust()
 
 &amp;lt;p align=&amp;quot;center&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;На прохождение теста дается лишь&amp;amp;nbsp;&amp;lt;strong&amp;gt;одна попытка&amp;lt;/strong&amp;gt;.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
 
-&amp;lt;p align=&amp;quot;center&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;В тесте содержится 7&amp;lt;strong&amp;gt;&amp;amp;nbsp;вопросов&amp;lt;/strong&amp;gt;. За каждый правильный ответ будет начисляться один балл.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p align=&amp;quot;center&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;В тесте содержится &amp;lt;strong&amp;gt;7&amp;amp;nbsp;вопросов&amp;lt;/strong&amp;gt;. За каждый правильный ответ будет начисляться один балл.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
 
 &amp;lt;p align=&amp;quot;center&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;Некоторые из вопросов предполагают множественный выбор вариантов ответов. Также присутствуют вопросы на парное соответствие.&amp;amp;nbsp;Внимательно следите за описанием вопросов в тесте.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
 
-&amp;lt;p align=&amp;quot;center&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;Тест будет считаться успешно пройдённым, если будет набрано 5&amp;lt;strong&amp;gt;&amp;amp;nbsp;или более баллов&amp;lt;/strong&amp;gt;.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
+&amp;lt;p align=&amp;quot;center&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-family:times new roman,times,serif;&amp;quot;&amp;gt;&amp;lt;span style=&amp;quot;font-size:20px;&amp;quot;&amp;gt;Тест будет считаться успешно пройдённым, если будет набрано &amp;lt;strong&amp;gt;5&amp;amp;nbsp;или более баллов&amp;lt;/strong&amp;gt;.&amp;lt;/span&amp;gt;&amp;lt;/span&amp;gt;&amp;lt;/p&amp;gt;
 
 &amp;lt;p&amp;gt;&amp;amp;nbsp;&amp;lt;/p&amp;gt;
 &lt;/text&gt;&lt;hyperlinks/&gt;&lt;/ietext&gt;</text_main>
