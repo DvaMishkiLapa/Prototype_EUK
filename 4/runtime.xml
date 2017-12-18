@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Presentation file, saved 12/17/2017 5:49:51 PM using CourseLab 171024 -->
+<!-- Presentation file, saved 12/18/2017 11:56:11 AM using CourseLab 171024 -->
 <module>
 <runtime preview_fullscreen="yes" preview_fitwindow="no" fit_small_window="yes" showsplash="yes" seqslides="no" preloadimages="yes" normalize="no"/>
 <groups>
@@ -18,9 +18,9 @@
 <![CDATA[<div style="width: 504px; height: 33px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">С<sub>6</sub>Н<sub>12</sub>О<sub>6</sub> + 2 АДФ + 2 Фн &rarr; 2 СН<sub>3</sub>СН<sub>2</sub>ОН + 2 СО<sub>2</sub> + 2 АТФ</span></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_5" x="290" y="188" w="438" h="52" z="102" display="frame" begin="0">
+<object id="TXT_5" x="290" y="188" w="438" h="63" z="102" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 438px; height: 52px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Осуществляют прокариоты (Zymomonas, Erwinia, Sarcina) и эукариоты (Aspergillus, Saccharomyces)</span></span></p></div>]]>
+<![CDATA[<div style="width: 438px; height: 63px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Осуществляют прокариоты (Zymomonas, Erwinia, Sarcina) и эукариоты (Aspergillus, Saccharomyces)</span></span></p></div>]]>
 </data>
 </object>
 <object id="IMG_4" x="358" y="315" w="303" h="247" z="103" display="frame" begin="0" preload="images/clip20171216_2.png">
@@ -51,9 +51,9 @@
 <![CDATA[<div style="width: 663px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Формы сбраживания по </span><span style="font-weight: bold;">Нейбергу</span></span></span><span style="font-size:28px;"><strong><span style="font-family:times new roman,times,serif;"><span style="color: rgb(0, 0, 0);"> </span></span></strong></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_10" x="51" y="237" w="640" h="211" z="101" display="frame" begin="0">
+<object id="TXT_10" x="51" y="237" w="640" h="224" z="101" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 640px; height: 211px; box-sizing: border-box;"><p><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">1) Классическая</span></span></p>
+<![CDATA[<div style="width: 640px; height: 224px; box-sizing: border-box;"><p><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">1) Классическая</span></span></p>
 
 <div>&nbsp;</div>
 
@@ -146,9 +146,9 @@
 <![CDATA[<div style="width: 663px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Молочнокислое брожение</span></span></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_16" x="51" y="268" w="651" h="145" z="101" display="frame" begin="0">
+<object id="TXT_16" x="51" y="268" w="651" h="166" z="101" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 651px; height: 145px; box-sizing: border-box;"><div><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&bull; С<sub>6</sub>Н<sub>12</sub>О<sub>6</sub> + 2 АДФ + 2 Фн &rarr; 2 СН<sub>3</sub>СНОНСООН + 2 АТФ</span></span></div>
+<![CDATA[<div style="width: 651px; height: 166px; box-sizing: border-box;"><div><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&bull; С<sub>6</sub>Н<sub>12</sub>О<sub>6</sub> + 2 АДФ + 2 Фн &rarr; 2 СН<sub>3</sub>СНОНСООН + 2 АТФ</span></span></div>
 
 <div>&nbsp;</div>
 
@@ -215,9 +215,9 @@
 <![CDATA[<div style="width: 663px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Маслянокислое</span><span style="font-weight: bold;"> брожение</span></span></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_20" x="51" y="159" w="920" h="68" z="101" display="frame" begin="0">
+<object id="TXT_20" x="51" y="159" w="920" h="97" z="101" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 920px; height: 68px; box-sizing: border-box;"><div style="text-align: center;">
+<![CDATA[<div style="width: 920px; height: 97px; box-sizing: border-box;"><div style="text-align: center;">
 <div><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&bull; 4 С<sub>6</sub>Н<sub>12</sub>О6 + 3 АДФ + 3 Фн &rarr; 3 СН<sub>3</sub>СН<sub>2</sub>СН<sub>2</sub>СООН + 8 Н<sub>2</sub> +2 СН<sub>3</sub>СООН + 8 СО<sub>2</sub> +3 АТФ</span></span><br />
 &nbsp;</div>
 
@@ -273,9 +273,9 @@
 <![CDATA[<div style="width: 663px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Маслянокислое</span><span style="font-weight: bold;"> брожение</span></span></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_24" x="49" y="115" w="920" h="109" z="101" display="frame" begin="0">
+<object id="TXT_24" x="49" y="115" w="920" h="119" z="101" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 920px; height: 109px; box-sizing: border-box;"><div style="text-align: center;">
+<![CDATA[<div style="width: 920px; height: 119px; box-sizing: border-box;"><div style="text-align: center;">
 <div><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&bull; Clostridium botulinum &ndash; возбудитель ботулизма</span></span></div>
 
 <div>&nbsp;</div>
@@ -321,9 +321,9 @@
 <![CDATA[<div style="width: 419px; height: 214px; box-sizing: border-box;"><p><span style="font-family:times new roman,times,serif;"><span style="font-size:18px;">Пропионовокислые бактерии - неспороносные грамположительные неподвижные палочки размером 0,5&mdash;0,8 или 1,0&mdash;1,5 мкм (в молодых культурах &mdash; искривленные, слегка ветвящиеся палочки, в более старых &mdash; кокковидной формы). Образуют колонии жёлтого, оранжевого или красного цвета, растут как в аэробных, так и в анаэробных условиях.</span></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_27" x="51" y="415" w="916" h="172" z="102" display="frame" begin="0">
+<object id="TXT_27" x="51" y="415" w="916" h="188" z="102" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 916px; height: 172px; box-sizing: border-box;"><p><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Основная роль пропионовокислых бактерий в созревании сыров состоит в использовании лактатов, образованных молочнокислыми бактериями при сбраживании лактозы молока, при этом лактаты превращаются в пропионовую, уксусную кислоты и СО2. Кислоты обеспечивают острый вкус сыров, участвуют в консервации молочного белка казеина; гидролитическое расщепление липидов с образованием жирных кислот важно для развития органолептических свойств сыра; образование пролина и других аминокислот, а также летучих веществ: ацетоина, диацетила, диметилсульфида, ацетальдегида, участвующих в формировании аромата сыра; образование углекислоты в процессе пропионово-кислого брожения лактата и декарбоксилирования аминокислот; СО2&nbsp;участвует в создании рисунка сыра - &laquo;глазков&raquo;, образовании витаминов, и в первую очередь витамина В12.</span></span></p></div>]]>
+<![CDATA[<div style="width: 916px; height: 188px; box-sizing: border-box;"><p><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Основная роль пропионовокислых бактерий в созревании сыров состоит в использовании лактатов, образованных молочнокислыми бактериями при сбраживании лактозы молока, при этом лактаты превращаются в пропионовую, уксусную кислоты и СО2. Кислоты обеспечивают острый вкус сыров, участвуют в консервации молочного белка казеина; гидролитическое расщепление липидов с образованием жирных кислот важно для развития органолептических свойств сыра; образование пролина и других аминокислот, а также летучих веществ: ацетоина, диацетила, диметилсульфида, ацетальдегида, участвующих в формировании аромата сыра; образование углекислоты в процессе пропионово-кислого брожения лактата и декарбоксилирования аминокислот; СО2&nbsp;участвует в создании рисунка сыра - &laquo;глазков&raquo;, образовании витаминов, и в первую очередь витамина В12.</span></span></p></div>]]>
 </data>
 </object>
 <object id="OBJ_15" x="481" y="115" w="503" h="287" z="103" display="frame" begin="0" type="v_block_005">
@@ -344,9 +344,9 @@
 <![CDATA[<div style="width: 663px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Ферментация</span></span></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_29" x="46" y="120" w="926" h="343" z="101" display="frame" begin="0">
+<object id="TXT_29" x="46" y="120" w="926" h="380" z="101" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 926px; height: 343px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Ферментация (культивирование) </span>&ndash; это вся совокупность последовательных операций от внесения в заранее приготовленную и термостатированную питательную среду посевного материала (инокулята) до завершения процессов роста и биосинтеза вследствие исчерпывания питательных веществ среды.</span></span></p>
+<![CDATA[<div style="width: 926px; height: 380px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Ферментация (культивирование) </span>&ndash; это вся совокупность последовательных операций от внесения в заранее приготовленную и термостатированную питательную среду посевного материала (инокулята) до завершения процессов роста и биосинтеза вследствие исчерпывания питательных веществ среды.</span></span></p>
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
 
@@ -390,9 +390,9 @@
 <![CDATA[<div style="width: 663px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:26px;"><span style="font-family:times new roman,times,serif;"><span style="font-style: normal; font-variant: normal; font-weight: bold; line-height: 28.799999237060547px; text-align: center;">Требования, предъявляемые к питательным средам</span></span></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_31" x="46" y="120" w="926" h="218" z="101" display="frame" begin="0">
+<object id="TXT_31" x="46" y="120" w="926" h="213" z="101" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 926px; height: 218px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Основные требования, предъявляемые к питательным средам</span><span style="font-weight: bold;">:</span></span></span></p>
+<![CDATA[<div style="width: 926px; height: 213px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Основные требования, предъявляемые к питательным средам</span><span style="font-weight: bold;">:</span></span></span></p>
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">1. Питательные среды должны содержать все необходимые для питания микроба питательные вещества, т.е. обладать питательностью.</span></span></p>
 
@@ -450,9 +450,9 @@
 <![CDATA[<div style="width: 663px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Глубинное культивирование&nbsp;</span></span></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_35" x="46" y="120" w="926" h="178" z="101" display="frame" begin="0">
+<object id="TXT_35" x="46" y="120" w="926" h="172" z="101" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 926px; height: 178px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Глубинное культивирование </span>проводится на жидких питательных средах, в которых микроорганизмы развиваются во всем объеме питательной среды. Сочетание питательной среды и растущих в ней микроорганизмов называют культуральной жидкостью. Осуществляется глубинное культивирование в специальных аппаратах &ndash; ферментаторах, снабженных мешалками и системой подвода стерильного воздуха для обеспечения роста аэробных микроорганизмов. Аэрирование &ndash; продувание стерильного воздуха через культуральную жидкость. Глубинный способ является более выгодным для промышленности по сравнению с поверхностным способом, так как позволяет осуществлять полную механизацию и автоматизацию процесса, избегать инфицирования технологического процесса посторонней микрофлорой.</span></span></p>
+<![CDATA[<div style="width: 926px; height: 172px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Глубинное культивирование </span>проводится на жидких питательных средах, в которых микроорганизмы развиваются во всем объеме питательной среды. Сочетание питательной среды и растущих в ней микроорганизмов называют культуральной жидкостью. Осуществляется глубинное культивирование в специальных аппаратах &ndash; ферментаторах, снабженных мешалками и системой подвода стерильного воздуха для обеспечения роста аэробных микроорганизмов. Аэрирование &ndash; продувание стерильного воздуха через культуральную жидкость. Глубинный способ является более выгодным для промышленности по сравнению с поверхностным способом, так как позволяет осуществлять полную механизацию и автоматизацию процесса, избегать инфицирования технологического процесса посторонней микрофлорой.</span></span></p>
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p></div>]]>
 </data>
@@ -475,9 +475,9 @@
 <![CDATA[<div style="width: 663px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Бактерии, вызывающие порчу пищевых продуктов</span></span></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_37" x="46" y="120" w="471" h="318" z="101" display="frame" begin="0">
+<object id="TXT_37" x="46" y="120" w="471" h="322" z="101" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 471px; height: 318px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal; text-align: center;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Род </span><span style="font-weight: bold; font-style: italic;">Micrococcus</span></span></span></p>
+<![CDATA[<div style="width: 471px; height: 322px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal; text-align: center;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Род </span><span style="font-weight: bold; font-style: italic;">Micrococcus</span></span></span></p>
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;">&nbsp;</p>
 
@@ -488,9 +488,9 @@
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Многие представители рода образуют пигменты, в результате чего колонии окрашены в белый, желтый, оранжевый, розовый, золотистый цвет. Оптимальная температура роста микрококков от 25 до 30 &ordm;С. Отдельные виды могут выдерживать нагревание до 63&ndash;65 &ordm;С в течение 30 мин и кратковременную пастеризацию при температуре 72&ndash;75 &ordm;С.&nbsp;</span></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_38" x="42" y="455" w="935" h="114" z="102" display="frame" begin="0">
+<object id="TXT_38" x="42" y="455" w="935" h="126" z="102" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 935px; height: 114px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Порча продуктов. </span>Интенсивное размножение микрококков в молоке приводит к появлению в нем горького вкуса и свертыванию при низкой кислотности, что обусловлено их способностью выделять фермент типа сычужного. В сгущенном молоке с сахаром наряду с появлением горького вкуса образуются хлопья или происходит его загустевание. При размножении на поверхности пищевых продуктов микрококки образуют окрашенные в разные цвета пигментные пятна.</span></span></p></div>]]>
+<![CDATA[<div style="width: 935px; height: 126px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Порча продуктов. </span>Интенсивное размножение микрококков в молоке приводит к появлению в нем горького вкуса и свертыванию при низкой кислотности, что обусловлено их способностью выделять фермент типа сычужного. В сгущенном молоке с сахаром наряду с появлением горького вкуса образуются хлопья или происходит его загустевание. При размножении на поверхности пищевых продуктов микрококки образуют окрашенные в разные цвета пигментные пятна.</span></span></p></div>]]>
 </data>
 </object>
 <object id="TXT_39" x="626" y="410" w="280" h="23" z="103" display="frame" begin="0">
@@ -516,16 +516,16 @@
 <![CDATA[<div style="width: 663px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Бактерии, вызывающие порчу пищевых продуктов</span></span></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_42" x="46" y="120" w="471" h="335" z="101" display="frame" begin="0">
+<object id="TXT_42" x="46" y="120" w="471" h="381" z="101" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 471px; height: 335px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal; text-align: center;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><strong>Род&nbsp;<span style="font-variant: normal; line-height: 21.600000381469727px; font-style: italic; text-align: center;">Enterococcus</span></strong></span></span></p>
+<![CDATA[<div style="width: 471px; height: 381px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal; text-align: center;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><strong>Род&nbsp;<span style="font-variant: normal; line-height: 21.600000381469727px; font-style: italic; text-align: center;">Enterococcus</span></strong></span></span></p>
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;">&nbsp;</p>
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Это стрептококки кишечного происхождения, являются представителями нормальной микрофлоры кишечника человека и животных. Клетки сферические или овальные, диаметр 0,6-2,5 мкм, располагаются попарно или цепочками. Грамположительные, неподвижные, спор и капсул не образуют. Факультативные анаэробы. На поверхности плотных питательных сред образуют мелкие выпуклые бесцветные колонии, глубинные колонии напоминают лодочку.<span style="font-style: italic;"> </span>Бродильшики сбраживают углеводы с образованием, в основном, молочной кислоты. Оптимальная температура роста энтерококков 30&ndash;37 &ordm;С, температурный диапазон роста от 10 до 45 &ordm;С. Энтерококки довольно устойчивы к воздействию факторов внешней среды, выдерживают кратковременное нагревание до температуры 75&ndash;80 &ordm;С, могут расти в среде, содержащей 6,5 % хлорида натрия, и в щелочной среде с рН 9,6.&nbsp;</span></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_43" x="42" y="477" w="935" h="53" z="102" display="frame" begin="0">
+<object id="TXT_43" x="42" y="522" w="935" h="53" z="102" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 935px; height: 53px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Порча продуктов. </span>Энтерококки расщепляют белки с образованием горьких пептидов, что приводит к появлению горечи в пищевых продуктах.&nbsp;</span></span></p></div>]]>
 </data>
@@ -594,9 +594,9 @@
 <![CDATA[<div style="width: 663px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Бактерии, вызывающие порчу пищевых продуктов</span></span></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_50" x="46" y="120" w="471" h="343" z="101" display="frame" begin="0">
+<object id="TXT_50" x="46" y="120" w="471" h="345" z="101" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 471px; height: 343px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: center; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Род</span><span style="font-weight: bold; font-style: italic;"> </span><span style="font-weight: bold; font-style: italic;">Staphylococcus</span></span></span></p>
+<![CDATA[<div style="width: 471px; height: 345px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: center; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Род</span><span style="font-weight: bold; font-style: italic;"> </span><span style="font-weight: bold; font-style: italic;">Staphylococcus</span></span></span></p>
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: center; direction: ltr; word-break: normal;">&nbsp;</p>
 
@@ -639,9 +639,9 @@
 <![CDATA[<div style="width: 663px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Бактерии, вызывающие порчу пищевых продуктов</span></span></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_54" x="46" y="120" w="471" h="318" z="101" display="frame" begin="0">
+<object id="TXT_54" x="46" y="120" w="471" h="326" z="101" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 471px; height: 318px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: center; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Род </span><span style="font-weight: bold; font-style: italic;">Escherichi</span><span style="font-weight: bold; font-style: italic;">а</span></span></span></p>
+<![CDATA[<div style="width: 471px; height: 326px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: center; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Род </span><span style="font-weight: bold; font-style: italic;">Escherichi</span><span style="font-weight: bold; font-style: italic;">а</span></span></span></p>
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: center; direction: ltr; word-break: normal;">&nbsp;</p>
 
@@ -680,9 +680,9 @@
 <![CDATA[<div style="width: 663px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Бактерии, вызывающие порчу пищевых продуктов</span></span></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_58" x="46" y="120" w="471" h="318" z="101" display="frame" begin="0">
+<object id="TXT_58" x="46" y="120" w="471" h="337" z="101" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 471px; height: 318px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: center; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Род </span><span style="font-weight: bold; font-style: italic;">Proteus</span></span></span></p>
+<![CDATA[<div style="width: 471px; height: 337px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: center; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Род </span><span style="font-weight: bold; font-style: italic;">Proteus</span></span></span></p>
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: center; direction: ltr; word-break: normal;">&nbsp;</p>
 
@@ -721,9 +721,9 @@
 <![CDATA[<div style="width: 663px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Бактерии, вызывающие порчу пищевых продуктов</span></span></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_62" x="46" y="120" w="471" h="304" z="101" display="frame" begin="0">
+<object id="TXT_62" x="46" y="120" w="471" h="314" z="101" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 471px; height: 304px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: center; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Род </span><span style="font-weight: bold; font-style: italic;">Pseudomonas</span><span style="font-weight: bold;"> </span></span></span></p>
+<![CDATA[<div style="width: 471px; height: 314px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: center; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Род </span><span style="font-weight: bold; font-style: italic;">Pseudomonas</span><span style="font-weight: bold;"> </span></span></span></p>
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: center; direction: ltr; word-break: normal;">&nbsp;</p>
 
@@ -762,9 +762,9 @@
 <![CDATA[<div style="width: 663px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Бактерии, вызывающие порчу пищевых продуктов</span></span></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_70" x="46" y="120" w="471" h="415" z="101" display="frame" begin="0">
+<object id="TXT_70" x="46" y="120" w="471" h="412" z="101" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 471px; height: 415px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: center; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Род </span><span style="font-weight: bold; font-style: italic;">Bacillus</span></span></span></p>
+<![CDATA[<div style="width: 471px; height: 412px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: center; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Род </span><span style="font-weight: bold; font-style: italic;">Bacillus</span></span></span></p>
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: center; direction: ltr; word-break: normal;">&nbsp;</p>
 
@@ -803,9 +803,9 @@
 <![CDATA[<div style="width: 663px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Бактерии, вызывающие порчу пищевых продуктов</span></span></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_66" x="46" y="120" w="471" h="336" z="101" display="frame" begin="0">
+<object id="TXT_66" x="46" y="120" w="471" h="364" z="101" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 471px; height: 336px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold; font-style: italic;">Bacillus</span><span style="font-weight: bold; font-style: italic;"> </span><span style="font-weight: bold; font-style: italic;">megaterium</span><span style="font-weight: bold; font-style: italic;"> </span>(земляная палочка, от лат. terra &ndash; земля) &ndash; крупные зернистые палочки с закругленными концами размером (5&ndash;7)&times;(1,2&ndash;1,5) мкм, располагающиеся длинными цепочками. Споры эллиптические, располагающиеся в центре клетки. На плотной питательной среде образует крупные, гладкие, матовые или блестящие колонии с волнисто-бахромчатыми краями, серовато-белые. Обладает активными протеазами, расщепляет углеводы с образованием кислоты. </span></span></p>
+<![CDATA[<div style="width: 471px; height: 364px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold; font-style: italic;">Bacillus</span><span style="font-weight: bold; font-style: italic;"> </span><span style="font-weight: bold; font-style: italic;">megaterium</span><span style="font-weight: bold; font-style: italic;"> </span>(земляная палочка, от лат. terra &ndash; земля) &ndash; крупные зернистые палочки с закругленными концами размером (5&ndash;7)&times;(1,2&ndash;1,5) мкм, располагающиеся длинными цепочками. Споры эллиптические, располагающиеся в центре клетки. На плотной питательной среде образует крупные, гладкие, матовые или блестящие колонии с волнисто-бахромчатыми краями, серовато-белые. Обладает активными протеазами, расщепляет углеводы с образованием кислоты. </span></span></p>
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
 
@@ -891,9 +891,9 @@
 <![CDATA[<div style="width: 663px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Бактерии, вызывающие порчу пищевых продуктов</span></span></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_79" x="46" y="120" w="471" h="364" z="101" display="frame" begin="0">
+<object id="TXT_79" x="46" y="120" w="471" h="323" z="101" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 471px; height: 364px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold; font-style: italic;">Clostridium</span><span style="font-weight: bold; font-style: italic;"> </span><span style="font-weight: bold; font-style: italic;">perfringens</span><span style="font-weight: bold; font-style: italic;"> </span>&ndash; крупная палочка размером (1&ndash;2)&times;(5&ndash;8) мкм, в отличие от других клостридий неподвижная, в организме человека и животных образует капсулу. Споры располагаются терминально или субтерминально. Хемоорганотрофы, метаболизм бродильного типа. На плотной среде образуют мелкие круглые колонии с гладким или зубчатым краем. При росте на кровяном агаре колонии палочки перфрингенс круглые, гладкие, сероватые, впоследствии приобретающие зеленую окраску и окруженные зоной &beta;-гемолиза. Бактерии этого вида синтезируют ряд ферментов агрессивности: лецитиназу, коллагеназу, гиалуронидазу и др.</span></span></p></div>]]>
+<![CDATA[<div style="width: 471px; height: 323px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold; font-style: italic;">Clostridium</span><span style="font-weight: bold; font-style: italic;"> </span><span style="font-weight: bold; font-style: italic;">perfringens</span><span style="font-weight: bold; font-style: italic;"> </span>&ndash; крупная палочка размером (1&ndash;2)&times;(5&ndash;8) мкм, в отличие от других клостридий неподвижная, в организме человека и животных образует капсулу. Споры располагаются терминально или субтерминально. Хемоорганотрофы, метаболизм бродильного типа. На плотной среде образуют мелкие круглые колонии с гладким или зубчатым краем. При росте на кровяном агаре колонии палочки перфрингенс круглые, гладкие, сероватые, впоследствии приобретающие зеленую окраску и окруженные зоной &beta;-гемолиза. Бактерии этого вида синтезируют ряд ферментов агрессивности: лецитиназу, коллагеназу, гиалуронидазу и др.</span></span></p></div>]]>
 </data>
 </object>
 <object id="TXT_80" x="43" y="466" w="935" h="137" z="102" display="frame" begin="0">

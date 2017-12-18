@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Module file, saved 12/17/2017 5:49:48 PM by artem using CourseLab 171024 -->
+<!-- Module file, saved 12/18/2017 11:59:39 AM by artem using CourseLab 171024 -->
 <module format="3.1 171024" rev="2" slideWidth="1018" slideHeight="682" template="Standard\0004" file="C:\github\Prototype_EUK\5\5.xml">
 <font face="robotoregular, Arial, Helvetica, sans-serif" style="1" size="12" color="#000000"/>
 <default_text></default_text>
@@ -1756,7 +1756,7 @@
 &lt;span style=&quot;font-weight: bold;&quot;&gt;и &lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;органных &lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;биотехнологиях&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="cb0c4423_2897_4cce_beb1_51feddb965e9" id="TXT_6" left="45" top="344" width="929" height="251" display="frame" begin="0">
+<object type="iebox" guid="cb0c4423_2897_4cce_beb1_51feddb965e9" id="TXT_6" left="45" top="344" width="929" height="260" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Манипуляции с растительными и животными клетками и их органеллами, а также с одноклеточными микроорганизмами осуществляют в научных лабораториях медицинской, пищевой и других видов промышленности. Они основаны на фундаментальных исследованиях биологии и цитологии клеток и тканей, открытии явления &lt;span style=&quot;font-style: italic;&quot;&gt;тотипотентности&lt;/span&gt; клеток (способность регенерировать взрослые организмы), а также на выявлении способности соматических клеток к слиянию (&lt;span style=&quot;font-style: italic;&quot;&gt;соматическая гибридизация&lt;/span&gt;), обмену органеллами, дифференциации и дедифференциации. В клеточных технологиях для получения клеток с измененной наследственностью используют спонтанный и направленный мутагенез. Это главная причина генетической гетерогенности клеток одного и того же генотипа. Поэтому в клеточных биотехнологиях необходим постоянный мониторинг за спектром соматической вариабельности, появлением мутантов с положительными и отрицательными признаками. В большинстве случаев соматическая вариабельность не выходит за рамки положительных или слабых отрицательных изменений и позволяет получать материал для селекции растений с улучшенными или исходными свойствами в границах обеспечения биобезопасности.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
@@ -1821,7 +1821,7 @@
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Обоснование необходимости стандартов&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="08824954_d92d_4a49_bc94_ba343ea4385b" id="TXT_16" left="45" top="120" width="929" height="303" display="frame" begin="0">
+<object type="iebox" guid="08824954_d92d_4a49_bc94_ba343ea4385b" id="TXT_16" left="45" top="120" width="929" height="432" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;ul dir=&quot;ltr&quot;&gt;
 	&lt;li style=&quot;margin-top: 4.32pt; margin-bottom: 0pt; margin-left: 0in; text-indent: 0in; text-align: justify; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Генная инженерия динамично развивается в целом ряде научных центров и опытно-промышленных производств. Важные исследования по различным направлениям генно-инженерных работ проводятся не только в специально оборудованных лабораториях головных институтов, но и в отдаленных точках страны, не имеющих специальных генно-инженерных блоков и соответствующей надежной защиты;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
 	&amp;nbsp;&lt;/li&gt;
@@ -1847,7 +1847,7 @@
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Стандарт GLP&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="6f274b39_c793_4fb0_9eec_0b2192307968" id="TXT_18" left="45" top="120" width="533" height="446" display="frame" begin="0">
+<object type="iebox" guid="6f274b39_c793_4fb0_9eec_0b2192307968" id="TXT_18" left="45" top="120" width="533" height="332" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 4.32pt; margin-bottom: 0pt; margin-left: 0in; text-indent: 0in; text-align: justify; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Стандарт GLP (Good Laboratory Practice &amp;mdash; надлежащая лабораторная практика) &amp;mdash; система норм, правил и указаний, направленных на обеспечение согласованности и достоверности результатов лабораторных исследований. Система является утвержденным национальным стандартом РФ с 1 марта 2010 года &amp;mdash; ГОСТ 33044-2014.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p style=&quot;margin-top: 4.32pt; margin-bottom: 0pt; margin-left: 0in; text-indent: 0in; text-align: justify; word-break: normal;margin-top: 4.32pt; margin-bottom: 0pt; margin-left: 0in; text-indent: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&amp;nbsp;&lt;/p&gt;
@@ -1979,7 +1979,7 @@
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-variant: normal; font-weight: bold; font-style: normal; text-align: center;&quot;&gt;Основные требования&lt;/span&gt;&lt;span style=&quot;font-variant: normal; font-style: normal; text-align: center;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;&amp;nbsp;GLP&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="20a135cb_2374_49d8_aaa5_ec387378245e" id="TXT_28" left="30" top="116" width="958" height="421" display="frame" begin="0">
+<object type="iebox" guid="20a135cb_2374_49d8_aaa5_ec387378245e" id="TXT_28" left="30" top="116" width="958" height="440" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;div style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;strong&gt; Обязанности персонала, выполняющего исследования:&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
 &amp;nbsp;&lt;/div&gt;
 
@@ -2350,7 +2350,7 @@
 &lt;p&gt;&amp;nbsp;&lt;/p&gt;
 
 &lt;ul&gt;
-	&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Бактерий группы кишечных палочек - по&amp;nbsp;&lt;u&gt;ГОСТ 9225&amp;nbsp;&lt;/u&gt;и нормативным документам, действующим на территории государств, принявших стандарт;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+	&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Бактерий группы кишечных палочек - по&amp;nbsp;&lt;u&gt;ГОСТ 9225&lt;/u&gt;&amp;nbsp;и нормативным документам, действующим на территории государств, принявших стандарт;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
 	&amp;nbsp;&lt;/li&gt;
 	&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Дрожжей, плесеней - по&amp;nbsp;&lt;u&gt;ГОСТ 10444.12&lt;/u&gt;&amp;nbsp;и нормативным документам, действующим на территории государств, принявших стандарт;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
 	&amp;nbsp;&lt;/li&gt;
@@ -2384,19 +2384,19 @@
 &lt;div&gt;
 &lt;div&gt;
 &lt;div&gt;
-&lt;div&gt;&lt;strong&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;ГОСТ Р 52686-2006&amp;nbsp;Сыры&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;strong&gt;ГОСТ Р 52686-2006&amp;nbsp;Сыры&lt;/strong&gt;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
 
-&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Определение микробиологических показателей:&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;p&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;Определение микробиологических показателей:&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
 &amp;nbsp;&lt;/p&gt;
 
 &lt;ul&gt;
-	&lt;li style=&quot;text-align: left;&quot;&gt;Бактерий группы кишечных палочек - по&amp;nbsp;&lt;u&gt;ГОСТ 9225&lt;/u&gt;;&lt;br /&gt;
+	&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;Бактерий группы кишечных палочек - по&amp;nbsp;&lt;u&gt;ГОСТ 9225&lt;/u&gt;;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
 	&amp;nbsp;&lt;/li&gt;
-	&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Staphylococcus aureus - по&amp;nbsp;&lt;u&gt;ГОСТ 30347&lt;/u&gt;;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+	&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;Staphylococcus aureus - по&amp;nbsp;&lt;u&gt;ГОСТ 30347&lt;/u&gt;;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
 	&amp;nbsp;&lt;/li&gt;
-	&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Патогенных микроорганизмов, в том числе сальмонелл - по&amp;nbsp;&lt;u&gt;ГОСТ 30519&lt;/u&gt;;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+	&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;Патогенных микроорганизмов, в том числе сальмонелл - по&amp;nbsp;&lt;u&gt;ГОСТ 30519&lt;/u&gt;;&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
 	&amp;nbsp;&lt;/li&gt;
-	&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Listeria monocytogenes - по&amp;nbsp;&lt;u&gt;ГОСТ Р &lt;/u&gt;&lt;u&gt;51921;&lt;/u&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+	&lt;li style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;Listeria monocytogenes - по&amp;nbsp;&lt;u&gt;ГОСТ Р 51921;&lt;/u&gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;/div&gt;
@@ -2414,7 +2414,6 @@
 <subslide guid="5be9d71a_f299_4226_b4c4_740b93ac4d10" id="FRAME_27" dur="0">
 <objects>
 <object type="div" guid="2c275da7_5b62_49a6_ac84_584d5a47a7d7" id="OBJ_14" state_extension="false" left="44" top="49" width="932" height="509" display="frame" begin="0">
-<selectedDialogButton>apply</selectedDialogButton>
 <default_text>text_main</default_text>
 <default_color_bg>bg_color</default_color_bg>
 <default_color_border>border_color</default_color_border>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Module file, saved 12/17/2017 5:12:31 PM by artem using CourseLab 171024 -->
+<!-- Module file, saved 12/18/2017 11:54:13 AM by artem using CourseLab 171024 -->
 <module format="3.1 171024" rev="2" slideWidth="1018" slideHeight="682" template="Standard\0004" file="C:\github\Prototype_EUK\3\3.xml">
 <font face="robotoregular, Arial, Helvetica, sans-serif" style="1" size="14" color="#333333"/>
 <default_text></default_text>
@@ -1899,8 +1899,8 @@
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Асиломарская конференция&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="3b585a61_da9e_4d0b_b7e5_7bb77d1eabbe" id="TXT_13" left="33" top="110" width="953" height="481" display="frame" begin="0">
-<content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Стремительные успехи в развитии генной инженерии привлекли широкое внимание общественности. Это повлекло за собой большое количестве этических вопросов. По этой причине в феврале 1975 г. П. Берг созвал конференцию, на которой предстояло решить ряд вопросов. 140 специалистов (в первую очередь биологов, а так же врачей и юристов) были собраны для разработки руководствующих принципов для обеспечения безопасности технологии рекомбинантных ДНК.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+<object type="iebox" guid="3b585a61_da9e_4d0b_b7e5_7bb77d1eabbe" id="TXT_13" left="33" top="110" width="953" height="474" display="frame" begin="0">
+<content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Стремительные успехи в развитии генной инженерии привлекли широкое внимание общественности. Это повлекло за собой большое количество&amp;nbsp;этических вопросов. По этой причине в феврале 1975 г. П. Берг созвал конференцию, на которой предстояло решить ряд вопросов. 140 специалистов (в первую очередь биологов, а так же врачей и юристов) были собраны для разработки руководствующих принципов для обеспечения безопасности технологии рекомбинантных ДНК.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&amp;nbsp;&lt;/p&gt;
 
@@ -2030,7 +2030,7 @@
 <modal type="check">yes</modal>
 </params>
 </object>
-<object type="iebox" guid="66afafa9_a73b_41fb_b91a_41cbd8ded769" id="TXT_18" left="550" top="113" width="438" height="69" display="frame" begin="0">
+<object type="iebox" guid="66afafa9_a73b_41fb_b91a_41cbd8ded769" id="TXT_18" left="550" top="113" width="438" height="72" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Сайты распознавания некоторых наиболее распространенных ферментов эндонуклеаз рестрикции:&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
@@ -2130,7 +2130,7 @@
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Комплементарной спаривание липких концов фрагментов ДНК&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="9dfecaaf_d1d6_4561_a7cf_d88901c21269" id="TXT_24" left="34" top="539" width="951" height="59" display="frame" begin="0">
+<object type="iebox" guid="9dfecaaf_d1d6_4561_a7cf_d88901c21269" id="TXT_24" left="34" top="539" width="951" height="66" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;После расщепления ДНК эндонуклеазами рестрикции смешивают образцы разных ДНК и благодаря комплементарному спариванию липких концов фрагментов разных образцов могут образовываться новые комбинации генов &amp;ndash; рекомбинантные ДНК.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
@@ -2350,7 +2350,7 @@
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Иммунологический скрининг&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="97e97a2e_491f_468a_930c_34dcb8b08d01" id="TXT_35" left="33" top="110" width="953" height="374" display="frame" begin="0">
+<object type="iebox" guid="97e97a2e_491f_468a_930c_34dcb8b08d01" id="TXT_35" left="33" top="110" width="953" height="404" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Иммунологический скрининг геномной библиотеки осуществляется в несколько этапов. После трансформации клетки высевают на твердую питательную среду, обеспечивающую рост только трансформированных клеток. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&amp;nbsp;&lt;/p&gt;
@@ -2428,7 +2428,7 @@
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Скрининг по активности белка&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="e962a827_14a7_49b3_8b6a_11effb3ce9a1" id="TXT_38" left="33" top="110" width="953" height="374" display="frame" begin="0">
+<object type="iebox" guid="e962a827_14a7_49b3_8b6a_11effb3ce9a1" id="TXT_38" left="33" top="110" width="953" height="460" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Проверка способности выделенных микроорганизмов продуцировать требуемые ферменты &amp;ndash; важный этап в селекции промышленных микроорганизмов. В отличие от иммунологического скрининга он представляет собой как качественный, так и количественный отбор. Его целью является подтверждение способности организмов продуцировать определенные ферменты и оценка их продуктивного потенциала. На этом этапе избавляются от всех организмов, которые обладают ложноположительной и низкой активностью. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&amp;nbsp;&lt;/p&gt;
@@ -2555,7 +2555,7 @@
 &lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: center; direction: ltr; word-break: normal;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;эукариотических систем&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="66000ebe_6546_41d9_80c4_3c796c55681c" id="TXT_46" left="32" top="148" width="953" height="431" display="frame" begin="0">
+<object type="iebox" guid="66000ebe_6546_41d9_80c4_3c796c55681c" id="TXT_46" left="32" top="148" width="953" height="424" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Для получения гетерологичных рекомбинантных белков с клонированной эукариотической комп&amp;shy;лементарной ДНК обычно используются прокариотические системы экспрессии. Однако в некоторых случаях эукариотические белки, синтезированные в бактериях, оказываются не&amp;shy;стабильными или биологически неактивными. Чтобы решить эти проблемы, были разработаны эукариотические системы экспрессии. Такие белки должны быть идентичны природным по своим биохимиче&amp;shy;ским, физическим и функциональным свойст&amp;shy;вам. Неспособность прокариот синтезировать аутентичные варианты белков обусловлена в основном отсутствием у них адекватных меха&amp;shy;низмов внесения специфических посттрансляционных модификаций.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&amp;nbsp;&lt;/p&gt;
@@ -2659,7 +2659,7 @@
 <modal type="check">yes</modal>
 </params>
 </object>
-<object type="iebox" guid="93e8a3c1_fdb6_462b_a4cd_51204e8815c0" id="TXT_55" left="32" top="219" width="386" height="221" display="frame" begin="0">
+<object type="iebox" guid="93e8a3c1_fdb6_462b_a4cd_51204e8815c0" id="TXT_55" left="32" top="219" width="386" height="254" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;YAC-система содержит селективный маркерный ген E.Coli (Amp&lt;span style=&quot;vertical-align: super;&quot;&gt;r&lt;/span&gt;); сайт инициации&amp;nbsp; репликации (ori&lt;span style=&quot;vertical-align: super;&quot;&gt;E&lt;/span&gt;); сегмент дрожжевой ДНК, включающий участки URA3, CEN, TRP1 и ARS. T &amp;ndash; теломерные области.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;YAC-система сначала обрабатывают SmaI, BamHI и щелочной фосфатазой, а затем сшивают с фрагментом ДНК длиной 100 т.п.н. Конечная конструкция содержит клонированную ДНК.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
@@ -2786,11 +2786,11 @@
 <modal type="check">yes</modal>
 </params>
 </object>
-<object type="iebox" guid="c0bd6b2a_80f4_435b_a969_3fe106ab08d6" id="TXT_67" left="31" top="111" width="440" height="155" display="frame" begin="0">
+<object type="iebox" guid="c0bd6b2a_80f4_435b_a969_3fe106ab08d6" id="TXT_67" left="31" top="111" width="440" height="166" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Термостабильность можно увеличить за счет внесения изменений, которые позволяют им не денатурировать при повышении температуры. К значительному повышению термостабильности приводит образование дополнительных дисульфидных связей. Основная проблемы заключаются в том, чтобы они не мешали нормальному функционированию фермента.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="5bf25547_d4ab_438a_875e_7feae3e1900b" id="TXT_68" left="550" top="109" width="438" height="155" display="frame" begin="0">
+<object type="iebox" guid="5bf25547_d4ab_438a_875e_7feae3e1900b" id="TXT_68" left="550" top="109" width="438" height="166" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;При высоких температурах остатки аспарагина и глутамина могут дезаминировать с образованием аммиака. Это приводит к локальным изменениям конформации и утрате активности. При направленном мутагенезе, в результате которого происходит замена двух остатков аспарагина, время полужизни белка при температуре 100&amp;ordm;С увеличивается почти в два раза.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
@@ -2858,7 +2858,7 @@
 <content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: center; direction: ltr; word-break: normal;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Повышение стабильности и&amp;nbsp; специфичности фермента&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="cc54b4eb_88c9_4ba0_b3b1_6c29b78ea2c5" id="TXT_78" left="32" top="119" width="953" height="374" display="frame" begin="0">
+<object type="iebox" guid="cc54b4eb_88c9_4ba0_b3b1_6c29b78ea2c5" id="TXT_78" left="32" top="119" width="953" height="272" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Фермент активатор тканевого плазминогена (t РА), - это сериновая протеиназа, состоящая из нескольких доменов; ее используют в клинике для растворения сгустков&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;крови. К сожалению, tРА быстро выводится из системы кровообращения, поэтому его приходится вводить путем инфузии. Чтобы добиться желаемого терапевтического эффекта, необходимо использовать высокие концентрации фермента, а это может приводить к неспецифическому внутреннему кровотечению. Таким образом, было бы весьма желательно получить долгоживущий фермент tРА, обладающий высоким сродством к фибрину в тромбах и не вызывающий кровотечения. Белок с такими свойствами можно получить, внося специфические мутации в ген нативного tPА. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&amp;nbsp;&lt;/p&gt;
@@ -2899,7 +2899,6 @@
 <subslide guid="37b5cb94_d6a9_4e64_945d_4f5333e53127" id="FRAME_33" dur="0">
 <objects>
 <object type="div" guid="9f542a61_b444_4412_b467_96d1a4602f28" id="OBJ_39" state_extension="false" left="43" top="85" width="932" height="489" display="frame" begin="0">
-<selectedDialogButton>apply</selectedDialogButton>
 <default_text>text_main</default_text>
 <default_color_bg>bg_color</default_color_bg>
 <default_color_border>border_color</default_color_border>
@@ -4218,7 +4217,6 @@ function Adjust()
 </params>
 </object>
 <object type="div" guid="e890c03e_5bd7_4afb_b651_13781a6381f2" id="OBJ_42" left="31" top="73" width="956" height="514" display="none" begin="0">
-<selectedDialogButton>apply</selectedDialogButton>
 <default_text>text_main</default_text>
 <default_color_bg>bg_color</default_color_bg>
 <default_color_border>border_color</default_color_border>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Module file, saved 12/17/2017 4:14:17 PM by artem using CourseLab 171024 -->
+<!-- Module file, saved 12/18/2017 11:58:25 AM by artem using CourseLab 171024 -->
 <module format="3.1 171024" rev="2" slideWidth="1018" slideHeight="682" template="Standard\0004" file="C:\github\Prototype_EUK\2\2.xml">
 <font face="robotoregular, Arial, Helvetica, sans-serif" style="1" size="14" color="#333333"/>
 <default_text></default_text>
@@ -1771,7 +1771,7 @@
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Характеристики ферментов&amp;nbsp;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="516ad932_a096_4056_b162_aec8946ff3f7" id="TXT_4" left="31" top="111" width="958" height="526" display="frame" begin="0">
+<object type="iebox" guid="516ad932_a096_4056_b162_aec8946ff3f7" id="TXT_4" left="31" top="111" width="958" height="315" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;color:#000000;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;strong&gt;Ферменты&lt;/strong&gt; - это высокоактивные соединения белковой природы, являющиеся специфическими катализаторами реакций.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align: justify;&quot;&gt;&amp;nbsp;&lt;/p&gt;
@@ -1860,7 +1860,7 @@ VI класс &amp;ndash; &lt;strong&gt;Лигазы &lt;/strong&gt;&lt;/span&gt
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;I класс &amp;ndash; &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;span style=&quot;font-size: 28pt; font-family: &#39;Times New Roman&#39;;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Оксидоредуктазы&lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="2c32f4af_c752_4635_af66_63b19ddc32a9" id="TXT_12" left="31" top="111" width="958" height="484" display="frame" begin="0">
+<object type="iebox" guid="2c32f4af_c752_4635_af66_63b19ddc32a9" id="TXT_12" left="31" top="111" width="958" height="475" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Катализируют окислительно-восстановительные реакции, лежащие в основе биологического окисления. Класс насчитывает 22 подкласса. Коферментами этого класса являются НАД, НАДФ, ФАД, ФМН, убихинон, глутатион, липоевая кислота.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p style=&quot;text-align: justify;&quot;&gt;&amp;nbsp;&lt;/p&gt;
@@ -2171,7 +2171,7 @@ VI класс &amp;ndash; &lt;strong&gt;Лигазы &lt;/strong&gt;&lt;/span&gt
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;IV &lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;класс &amp;ndash; &lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Лиазы&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 28pt; font-family: &#39;Times New Roman&#39;; font-weight: bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="55205318_dd56_4f07_8cc0_ea16b8ddbafe" id="TXT_24" left="55" top="415" width="378" height="180" display="frame" begin="0">
+<object type="iebox" guid="55205318_dd56_4f07_8cc0_ea16b8ddbafe" id="TXT_24" left="55" top="415" width="378" height="187" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Систематическое название&lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;:&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;2-оксокислота:карбокси-лиаза&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
@@ -2249,7 +2249,7 @@ VI класс &amp;ndash; &lt;strong&gt;Лигазы &lt;/strong&gt;&lt;/span&gt
 <subslides>
 <subslide guid="c01d76bd_cc23_4d28_93ba_03c84783e5c9" id="FRAME_13" dur="0">
 <objects>
-<object type="div" guid="d6de464a_f8dd_485c_adcf_e02f1e00d3ef" id="OBJ_40" state_extension="false" left="56" top="240" width="382" height="154" display="frame" begin="0">
+<object type="div" guid="d6de464a_f8dd_485c_adcf_e02f1e00d3ef" id="OBJ_40" state_extension="false" left="56" top="238" width="382" height="154" display="frame" begin="0">
 <template>v_block_005</template>
 <design_content><![CDATA[<style >
 		.cl-container { width: 382px; height: 154px; }
@@ -2275,7 +2275,7 @@ VI класс &amp;ndash; &lt;strong&gt;Лигазы &lt;/strong&gt;&lt;/span&gt
 <modal type="check">yes</modal>
 </params>
 </object>
-<object type="div" guid="08e3f85a_1145_42e0_bd23_d1fb8756f2d6" id="OBJ_39" state_extension="false" left="528" top="225" width="444" height="164" display="frame" begin="0">
+<object type="div" guid="08e3f85a_1145_42e0_bd23_d1fb8756f2d6" id="OBJ_39" state_extension="false" left="528" top="234" width="444" height="164" display="frame" begin="0">
 <template>v_block_005</template>
 <design_content><![CDATA[<style >
 		.cl-container { width: 444px; height: 164px; }
@@ -2341,7 +2341,7 @@ VI класс &amp;ndash; &lt;strong&gt;Лигазы &lt;/strong&gt;&lt;/span&gt
 &lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Кофактор&lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;: &lt;/span&gt;Глюкозо-1,6-дифосфат&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="113fe41e_41e4_4684_93bc_812403961a64" id="TXT_30" left="56" top="115" width="908" height="138" display="frame" begin="0">
+<object type="iebox" guid="113fe41e_41e4_4684_93bc_812403961a64" id="TXT_30" left="56" top="115" width="908" height="129" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Катализируют изомерные превращения в пределах одной молекулы. Изомеразы &amp;ndash; сложные ферменты. К их коферментам относятся пиридоксальфосфат, дезоксиаденозилкобаламин, глутатион, фосфаты моносахаридов (глюкозо-1,6-дифосфат) и др.&lt;span style=&quot;color: rgb(51, 51, 51);&quot;&gt; &lt;/span&gt;&lt;br /&gt;
 Систематическое название образуется: Субстрат &amp;ndash; [ ] &amp;ndash; реакция, где [ ] &amp;ndash; обозначение, отражающее суть реакции, например, &amp;laquo;номер изменяемого атома углерода&amp;raquo;, изменение &amp;laquo;цис-транс&amp;raquo;, изменение &amp;laquo;кето-енол&amp;raquo;, изменение &amp;laquo;альдозо-кетозо&amp;raquo;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
@@ -2464,19 +2464,15 @@ VI класс &amp;ndash; &lt;strong&gt;Лигазы &lt;/strong&gt;&lt;/span&gt
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Ферменты в пищевой промышленности&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 28pt; font-family: &#39;Times New Roman&#39;; font-weight: bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="41f0ec02_5e3a_471b_804d_fdd0ce7b637e" id="TXT_36" left="55" top="488" width="378" height="106" display="frame" begin="0">
+<object type="iebox" guid="41f0ec02_5e3a_471b_804d_fdd0ce7b637e" id="TXT_36" left="55" top="451" width="378" height="106" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Ферментные препараты растительного происхождения извлекаются из папайи, инжира, ананаса, а также представлены солодом и препаратами на основе солода.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="22ef37eb_b5a7_4f70_9c9e_9da5720141f8" id="TXT_37" left="573" top="487" width="378" height="106" display="frame" begin="0">
+<object type="iebox" guid="22ef37eb_b5a7_4f70_9c9e_9da5720141f8" id="TXT_37" left="573" top="450" width="378" height="106" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Ферментные препараты животного происхождения выделяют из различных отделов желудочно-кишечного тракта животных. По сути &amp;ndash; это пищеварительные ферменты. Все они являются протеолитическими ферментами.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="1ce4e2ae_88d6_4f0c_abe3_0aeaf335946c" id="TXT_38" left="56" top="115" width="908" height="67" display="frame" begin="0">
-<content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Катализируют присоединение друг к другу двух молекул с использованием энергии высокоэнергетических связей АТФ (или других макроэргов). Сложные ферменты. Они содержат нуклеотидные (УТФ), биотиновые (витамин Н), фолиевые коферменты.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-</text><hyperlinks/></ietext>]]></content>
-</object>
-<object type="div" guid="1e11ca4c_c042_4453_9b5a_c6dd6539f107" id="OBJ_44" state_extension="false" left="124" top="188" width="746" height="287" display="frame" begin="0">
+<object type="div" guid="1e11ca4c_c042_4453_9b5a_c6dd6539f107" id="OBJ_44" state_extension="false" left="124" top="151" width="746" height="287" display="frame" begin="0">
 <template>v_block_005</template>
 <design_content><![CDATA[<style >
 		.cl-container { width: 746px; height: 287px; }
@@ -2590,7 +2586,7 @@ VI класс &amp;ndash; &lt;strong&gt;Лигазы &lt;/strong&gt;&lt;/span&gt
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Ферменты микробного происхождения&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 28pt; font-family: &#39;Times New Roman&#39;; font-weight: bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="091f71b1_ad18_4830_bfab_898eed2cd3d8" id="TXT_42" left="31" top="111" width="958" height="164" display="frame" begin="0">
+<object type="iebox" guid="091f71b1_ad18_4830_bfab_898eed2cd3d8" id="TXT_42" left="31" top="111" width="958" height="103" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Ферментные препараты микробного происхождения получают при культивировании специфических микроорганизмов, способных вырабатывать определенные ферменты. В настоящее время большинство ферментов в промышленности получают, используя бактерии и плесневые грибы в специальных аппаратах биореакторах (ферментерах) в жестко контролируемых условиях.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
@@ -2923,7 +2919,7 @@ VI класс &amp;ndash; &lt;strong&gt;Лигазы &lt;/strong&gt;&lt;/span&gt
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Протеолитические ферменты&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="83d52a8a_8fa8_4b61_80cd_fec4754107aa" id="TXT_57" left="31" top="111" width="958" height="363" display="frame" begin="0">
+<object type="iebox" guid="83d52a8a_8fa8_4b61_80cd_fec4754107aa" id="TXT_57" left="31" top="111" width="958" height="428" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Протеолитические ферменты &lt;/span&gt;продуцируются грибами рода &lt;span style=&quot;font-style: italic;&quot;&gt;Aspergillus&lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;Penicillium&lt;/span&gt;, бактериями рода &lt;span style=&quot;font-style: italic;&quot;&gt;Bacillus&lt;/span&gt;, дрожжами рода &lt;span style=&quot;font-style: italic;&quot;&gt;Saccharomyces&lt;/span&gt;. Эти ферменты используют при переработке животного сырья в мясной, молочной и рыбной промышленности. Они применяются как размягчители мяса, ускорители созревания мяса и рыбы. При проведении слабого протеолиза с использованием набора специфических ферментов происходит незначительное изменение структуры мяса, но оно становится качественно лучше, значительно мягче. Особенно важным является действие ферментов на белки соединительной ткани. В этом случае оказывается возможным значительно полнее использовать все части туши. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&amp;nbsp;&lt;/p&gt;
@@ -2954,11 +2950,11 @@ VI класс &amp;ndash; &lt;strong&gt;Лигазы &lt;/strong&gt;&lt;/span&gt
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="iebox" guid="161b346c_c35d_4a8c_b921_1bc945c4dd5c" id="TXT_60" left="39" top="257" width="940" height="139" display="frame" begin="0">
-<content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Целлюлолитические&lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt; ферменты&lt;/span&gt;, участвующие в гидролизе целлюлозы, представляют собой комплекс, состоящий из нескольких ферментов с различной специфичностью действия: эндоглюканазы, экзоглюкозидазы, &amp;beta;-глюкозидазы и др. Целлюлазы и гемицеллюлазы могут быть получены только с помощью микроорганизмов. Целлюлазы, продуцируемые грибами родов &lt;span style=&quot;font-style: italic;&quot;&gt;Fusarium&lt;/span&gt;, &lt;span style=&quot;font-style: italic;&quot;&gt;Trichoderma&lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;Penicillium&lt;/span&gt;, применяют в спирто-вой, пищеконцентратной промышленностях, где сырьем являются растительные материалы или отходы переработки растений, например, в производстве растворимого кофе.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+<content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Целлюлолитические&lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt; ферменты&lt;/span&gt;, участвующие в гидролизе целлюлозы, представляют собой комплекс, состоящий из нескольких ферментов с различной специфичностью действия: эндоглюканазы, экзоглюкозидазы, &amp;beta;-глюкозидазы и др. Целлюлазы и гемицеллюлазы могут быть получены только с помощью микроорганизмов. Целлюлазы, продуцируемые грибами родов &lt;span style=&quot;font-style: italic;&quot;&gt;Fusarium&lt;/span&gt;, &lt;span style=&quot;font-style: italic;&quot;&gt;Trichoderma&lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;Penicillium&lt;/span&gt;, применяют в спиртовой, пищеконцентратной промышленностях, где сырьем являются растительные материалы или отходы переработки растений, например, в производстве растворимого кофе.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="268289ad_6ffb_4c31_81a7_080d6ec0ff71" id="TXT_87" left="37" top="410" width="943" height="156" display="frame" begin="0">
-<content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Пектолитические&lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt; ферменты &lt;/span&gt;продуцируют грибы родов &lt;span style=&quot;font-style: italic;&quot;&gt;Aspergillus&lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;Aspergillus&lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;niger&lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;)&lt;/span&gt;, &lt;span style=&quot;font-style: italic;&quot;&gt;Penicillium&lt;/span&gt;, бактерии &lt;span style=&quot;font-style: italic;&quot;&gt;Erwinia&lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;caratovora&lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;Clostridium&lt;/span&gt; sp. Пектиназы представляют комплекс ферментов, состоящий из полигалактуроназы, пектинметилэстеразы и др. Эти ферменты использу-ют при производстве осветленных соков из плодов и ягод, для осветления вин. Применение пектиназ в производстве соков обусловлено тем, что они катализируют гидролиз пектиновых веществ растительных клеток, тем самым освобождая сок из клеточных структур. Применение пектиназ в виноделии увеличивает скорость фильтрации сусла, способствует его осветлению и стабилизации. При этом возрастает содержание экстрактивных веществ, витамина С, флавоноидов, обладающих Р-витаминной активностью.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+<object type="iebox" guid="268289ad_6ffb_4c31_81a7_080d6ec0ff71" id="TXT_87" left="37" top="410" width="943" height="167" display="frame" begin="0">
+<content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Пектолитические&lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt; ферменты &lt;/span&gt;продуцируют грибы родов &lt;span style=&quot;font-style: italic;&quot;&gt;Aspergillus&lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;Aspergillus&lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;niger&lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;)&lt;/span&gt;, &lt;span style=&quot;font-style: italic;&quot;&gt;Penicillium&lt;/span&gt;, бактерии &lt;span style=&quot;font-style: italic;&quot;&gt;Erwinia&lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;caratovora&lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;, &lt;/span&gt;&lt;span style=&quot;font-style: italic;&quot;&gt;Clostridium&lt;/span&gt; sp. Пектиназы представляют комплекс ферментов, состоящий из полигалактуроназы, пектинметилэстеразы и др. Эти ферменты используют при производстве осветленных соков из плодов и ягод, для осветления вин. Применение пектиназ в производстве соков обусловлено тем, что они катализируют гидролиз пектиновых веществ растительных клеток, тем самым освобождая сок из клеточных структур. Применение пектиназ в виноделии увеличивает скорость фильтрации сусла, способствует его осветлению и стабилизации. При этом возрастает содержание экстрактивных веществ, витамина С, флавоноидов, обладающих Р-витаминной активностью.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;&quot;&gt;&amp;nbsp;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
@@ -2975,7 +2971,7 @@ VI класс &amp;ndash; &lt;strong&gt;Лигазы &lt;/strong&gt;&lt;/span&gt
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Протеолитические ферменты - протеазы&amp;nbsp;&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="e90402c0_7fd7_4453_a368_5bcc04596842" id="TXT_64" left="31" top="111" width="958" height="233" display="frame" begin="0">
+<object type="iebox" guid="e90402c0_7fd7_4453_a368_5bcc04596842" id="TXT_64" left="31" top="111" width="958" height="290" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Используются для улучшения консистенции и повышения пищевой ценности мяса. Применение ферментных препаратов положительно влияет на нежность, сочность, пищевую ценность сырья, формирование требуемого уровня водосвязывающей и адгезионной способности, улучшает органолептические характеристики благодаря целенаправленному воздействию ферментативных комплексов на компоненты мышечной ткани.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&amp;nbsp;&lt;/p&gt;
@@ -3045,13 +3041,13 @@ VI класс &amp;ndash; &lt;strong&gt;Лигазы &lt;/strong&gt;&lt;/span&gt
 <content><![CDATA[<ietext><text>&lt;ul&gt;
 	&lt;li&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Разрушает пептидную связь между аминокислотами с гидрофобными радикалами, например между валином (Val) и лейцином (Leu).&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
 	&amp;nbsp;&lt;/li&gt;
-	&lt;li&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Для пищевой промышленности&amp;nbsp;используют желудочный фермент жвачных животных, вырабатываемый железами сычуга, отсюда его тривиальное название - сычужный фермент. Также известен как &amp;laquo;реннин&amp;quot;, &amp;laquo;химозин&amp;quot;.&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
+	&lt;li&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Для пищевой промышленности&amp;nbsp;используют желудочный фермент жвачных животных, вырабатываемый железами сычуга, отсюда его тривиальное название - сычужный фермент. Также известен как &amp;quot;реннин&amp;quot;, &amp;quot;химозин&amp;quot;.&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
 	&amp;nbsp;&lt;/li&gt;
 	&lt;li&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Широко применяется в сыроделии​.&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="938ab5a5_61a1_4f5e_9f90_976bdae00fa3" id="TXT_72" left="31" top="284" width="958" height="147" display="frame" begin="0">
+<object type="iebox" guid="938ab5a5_61a1_4f5e_9f90_976bdae00fa3" id="TXT_72" left="31" top="284" width="958" height="152" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;ul&gt;
 	&lt;li&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Гидролизует связь между остатками&amp;nbsp;лейцина&amp;nbsp;в положениях 10 и 11 в ангиотензиногене.&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
 	&amp;nbsp;&lt;/li&gt;
@@ -3071,7 +3067,7 @@ VI класс &amp;ndash; &lt;strong&gt;Лигазы &lt;/strong&gt;&lt;/span&gt
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Панкреатин&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="851b6d09_dcb5_4f72_bb44_0988183b6fdd" id="TXT_88" left="32" top="490" width="958" height="107" display="frame" begin="0">
+<object type="iebox" guid="851b6d09_dcb5_4f72_bb44_0988183b6fdd" id="TXT_88" left="32" top="490" width="958" height="110" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;ul dir=&quot;ltr&quot;&gt;
 	&lt;li style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Смесь трипсина, химотрипсина, липаз и амилаз.&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
 	&amp;nbsp;&lt;/li&gt;
@@ -3126,7 +3122,7 @@ VI класс &amp;ndash; &lt;strong&gt;Лигазы &lt;/strong&gt;&lt;/span&gt
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Ферменты &lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;карбогидразы&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="a77691a1_69d4_4245_8100_732659021a68" id="TXT_80" left="31" top="125" width="958" height="257" display="frame" begin="0">
+<object type="iebox" guid="a77691a1_69d4_4245_8100_732659021a68" id="TXT_80" left="31" top="125" width="958" height="291" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;ul dir=&quot;ltr&quot;&gt;
 	&lt;li style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Амилаза &amp;ndash; расщепляет крахмал, участвует в процессе&amp;nbsp;пищеварения.&amp;nbsp;Используются&amp;nbsp;в&amp;nbsp;спиртовой&amp;nbsp;промышленности&amp;nbsp;и&amp;nbsp;в хлебопечении, а также&amp;nbsp;при&amp;nbsp;производстве&amp;nbsp;глюкозы.&lt;/span&gt;&lt;/span&gt;&lt;br /&gt;
 	&amp;nbsp;&lt;/li&gt;
@@ -3151,7 +3147,6 @@ VI класс &amp;ndash; &lt;strong&gt;Лигазы &lt;/strong&gt;&lt;/span&gt
 <subslide guid="df735fa6_2b03_4636_a4ce_d0f239c339ab" id="FRAME_33" dur="0">
 <objects>
 <object type="div" guid="7b2cc5b8_b203_4749_8ccc_1884a4bd7579" id="OBJ_45" state_extension="false" left="44" top="49" width="932" height="509" display="frame" begin="0">
-<selectedDialogButton>apply</selectedDialogButton>
 <default_text>text_main</default_text>
 <default_color_bg>bg_color</default_color_bg>
 <default_color_border>border_color</default_color_border>
@@ -4564,7 +4559,6 @@ function Adjust()
 </params>
 </object>
 <object type="div" guid="8c26c53e_a11f_4053_9df0_5d117669b0bd" id="OBJ_48" left="32" top="44" width="956" height="559" display="none" begin="0">
-<selectedDialogButton>cancel</selectedDialogButton>
 <default_text>text_main</default_text>
 <default_color_bg>bg_color</default_color_bg>
 <default_color_border>border_color</default_color_border>
