@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Module file, saved 12/18/2017 11:59:39 AM by artem using CourseLab 171024 -->
+<!-- Module file, saved 12/20/2017 9:53:56 PM by artem using CourseLab 171024 -->
 <module format="3.1 171024" rev="2" slideWidth="1018" slideHeight="682" template="Standard\0004" file="C:\github\Prototype_EUK\5\5.xml">
 <font face="robotoregular, Arial, Helvetica, sans-serif" style="1" size="12" color="#000000"/>
 <default_text></default_text>
@@ -41,6 +41,12 @@
 <color>ccffcc</color>
 </moduleColors>
 <guideLines>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="509" isVertical="yes"/>
 <guideLine pos="509" isVertical="yes"/>
 <guideLine pos="509" isVertical="yes"/>
 <guideLine pos="509" isVertical="yes"/>
@@ -204,13 +210,14 @@
 </params>
 </object>
 <object type="div" guid="a15db5b3_e78d_4e5f_986e_2fefaa7a9160" id="OBJ_4" state_extension="false" left="925" top="624" width="47" height="50" display="frame" begin="0">
+<selectedDialogButton>apply</selectedDialogButton>
 <default_color_bg>bg_color</default_color_bg>
 <default_color_border>border_color</default_color_border>
 <template>nav_0000_btn_navi</template>
 <design_content><![CDATA[<style >
 		.cl-btn { width: 47px; height: 50px; }
-		</style><div class="clo-nav_0000_btn_navi" ><div class="cl-container"><div class="cl-btn cl-btn-img cl-idle"><img class="cl-img-idle" src="C:\github\Prototype_EUK\5\images\nextSlide_20171217.png" /></div></div></div>]]></design_content>
-<export_content><![CDATA[<div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_4 .cl-btn"><span class="rule-static">width: 47px; height: 50px;</span></div></div><div class="cl-container unselectable" ><div class="cl-btn cl-btn-img cl-idle" title="Следующий слайд" data-title-enabled="Следующий слайд" data-title-disabled="Переход запрещен"><img class="cl-img-idle" src="images/nextSlide_20171217.png" /><img class="cl-img-over" src="images/nextSlide_hover_20171217.png" /><img class="cl-img-disabled" src="images/nextSlide_pressed_20171217.png" /></div></div>]]></export_content>
+		</style><div class="clo-nav_0000_btn_navi" ><div class="cl-container"><div class="cl-btn cl-btn-img cl-idle"><img class="cl-img-idle" src="C:\github\Prototype_EUK\5\images\nextSlide.png" /></div></div></div>]]></design_content>
+<export_content><![CDATA[<div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_4 .cl-btn"><span class="rule-static">width: 47px; height: 50px;</span></div></div><div class="cl-container unselectable" ><div class="cl-btn cl-btn-img cl-idle" title="Следующий слайд" data-title-enabled="Следующий слайд" data-title-disabled="Переход запрещен"><img class="cl-img-idle" src="images/nextSlide.png" /><img class="cl-img-over" src="images/nextSlide_hover.png" /><img class="cl-img-disabled" src="images/nextSlide_pressed.png" /></div></div>]]></export_content>
 <params>
 <role type="select">nextslide</role>
 <selectedslide type="slideid"></selectedslide>
@@ -269,9 +276,9 @@
 <swipe type="check">yes</swipe>
 <btn_type type="select">image</btn_type>
 <fs_image type="fieldset"></fs_image>
-<n1_img type="file">images/nextSlide_20171217.png</n1_img>
-<n2_img type="file">images/nextSlide_hover_20171217.png</n2_img>
-<n3_img type="file">images/nextSlide_pressed_20171217.png</n3_img>
+<n1_img type="file">images/nextSlide.png</n1_img>
+<n2_img type="file">images/nextSlide_hover.png</n2_img>
+<n3_img type="file">images/nextSlide_pressed.png</n3_img>
 <fs_html type="fieldset"></fs_html>
 <bg_type type="select">auto</bg_type>
 <border_style type="select">solid</border_style>
@@ -306,13 +313,14 @@
 </params>
 </object>
 <object type="div" guid="ebd7f9a3_d832_424d_89a0_b365d562ff2b" id="OBJ_5" state_extension="false" left="853" top="624" width="56" height="50" display="frame" begin="0">
+<selectedDialogButton>apply</selectedDialogButton>
 <default_color_bg>bg_color</default_color_bg>
 <default_color_border>border_color</default_color_border>
 <template>nav_0000_btn_navi</template>
 <design_content><![CDATA[<style >
 		.cl-btn { width: 56px; height: 50px; }
-		</style><div class="clo-nav_0000_btn_navi" ><div class="cl-container"><div class="cl-btn cl-btn-img cl-idle"><img class="cl-img-idle" src="C:\github\Prototype_EUK\5\images\pastSlide_20171217.png" /></div></div></div>]]></design_content>
-<export_content><![CDATA[<div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_5 .cl-btn"><span class="rule-static">width: 56px; height: 50px;</span></div></div><div class="cl-container unselectable" ><div class="cl-btn cl-btn-img cl-idle" title="Предыдущий слайд" data-title-enabled="Предыдущий слайд" data-title-disabled="Переход запрещен"><img class="cl-img-idle" src="images/pastSlide_20171217.png" /><img class="cl-img-over" src="images/pastSlide_hover_20171217.png" /><img class="cl-img-disabled" src="images/pastSlide_pressed_20171217.png" /></div></div>]]></export_content>
+		</style><div class="clo-nav_0000_btn_navi" ><div class="cl-container"><div class="cl-btn cl-btn-img cl-idle"><img class="cl-img-idle" src="C:\github\Prototype_EUK\5\images\pastSlide.png" /></div></div></div>]]></design_content>
+<export_content><![CDATA[<div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_5 .cl-btn"><span class="rule-static">width: 56px; height: 50px;</span></div></div><div class="cl-container unselectable" ><div class="cl-btn cl-btn-img cl-idle" title="Предыдущий слайд" data-title-enabled="Предыдущий слайд" data-title-disabled="Переход запрещен"><img class="cl-img-idle" src="images/pastSlide.png" /><img class="cl-img-over" src="images/pastSlide_hover.png" /><img class="cl-img-disabled" src="images/pastSlide_pressed.png" /></div></div>]]></export_content>
 <params>
 <role type="select">prevslide</role>
 <selectedslide type="slideid"></selectedslide>
@@ -371,9 +379,9 @@
 <swipe type="check">yes</swipe>
 <btn_type type="select">image</btn_type>
 <fs_image type="fieldset"></fs_image>
-<n1_img type="file">images/pastSlide_20171217.png</n1_img>
-<n2_img type="file">images/pastSlide_hover_20171217.png</n2_img>
-<n3_img type="file">images/pastSlide_pressed_20171217.png</n3_img>
+<n1_img type="file">images/pastSlide.png</n1_img>
+<n2_img type="file">images/pastSlide_hover.png</n2_img>
+<n3_img type="file">images/pastSlide_pressed.png</n3_img>
 <fs_html type="fieldset"></fs_html>
 <bg_type type="select">auto</bg_type>
 <border_style type="select">solid</border_style>
@@ -408,6 +416,7 @@
 </params>
 </object>
 <object type="div" guid="48a6c853_917d_4687_98ef_b261e2691929" id="OBJ_6" state_extension="false" left="117" top="624" width="50" height="50" display="frame" begin="0">
+<selectedDialogButton>apply</selectedDialogButton>
 <default_color_bg>bg_color</default_color_bg>
 <default_color_border>border_color</default_color_border>
 <template>nav_0000_btn_toggle</template>
@@ -415,12 +424,12 @@
 		.cl-btn { width: 50px; height: 50px; }
 		.cl-btn-html {  }
 		.cl-idle {  }
-		.cl-btn-bg { width: 48px; height: 48px; background-image: url('file:///C:/github/Prototype_EUK/5/images/thesaurus_20171217.png'); background-position: center center; background-repeat: no-repeat; }
+		.cl-btn-bg { width: 48px; height: 48px; background-image: url('file:///C:/github/Prototype_EUK/5/images/thesaurus.png'); background-position: center center; background-repeat: no-repeat; }
 		.cl-btn-table { width: 48px; height: 48px; }
 		.cl-btn-table .cl-btn-table-content { width: 48px; height: 48px; text-align: center; padding: 0 0px 0 0px; 
 		font-family: robotoblack, 'Arial Black', Gadget, sans-serif; font-size: 14px; color: #004080; text-shadow: 1px 1px 2px rgba(255,255,255,0.66); }
 	</style><div class="clo-nav_0000_btn_toggle" ><div id="OBJ_6_CONTAINER" class="cl-container"><div id="OBJ_6_BTN" class="cl-btn cl-btn-html cl-idle"><div class="cl-btn-bg"><table class="cl-btn-table"><tr><td class="cl-btn-table-content"> </td></tr></table></div></div></div></div>]]></design_content>
-<export_content><![CDATA[<div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_6 .cl-btn"><span class="rule-static">width: 50px; height: 50px;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-html"><span class="rule-static"></span></div><div class="rule" data-name="#OBJ_6 .cl-btn-on .cl-idle" /><div class="rule" data-name="#OBJ_6 .cl-btn-on .cl-over"><span class="rule-static">background-color: ;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-off .cl-idle" /><div class="rule" data-name="#OBJ_6 .cl-btn-off .cl-over"><span class="rule-static">background-color: ;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-bg"><span class="rule-static">width: 48px; height: 48px;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-on .cl-idle .cl-btn-bg"><span class="rule-static">background-image: url(images/thesaurus_20171217.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-on .cl-over .cl-btn-bg"><span class="rule-static">background-image: url(images/thesaurus_hover_20171217.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-off .cl-idle .cl-btn-bg"><span class="rule-static">background-image: url(images/thesaurus_pressed_20171217.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-off .cl-over .cl-btn-bg"><span class="rule-static">background-image: url(images/thesaurus_hover_20171217.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-table"><span class="rule-static">width: 48px; height: 48px;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-table .cl-btn-table-content"><span class="rule-static">width: 48px; height: 48px; text-align: center; padding: 0 0px 0 0px; 
+<export_content><![CDATA[<div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_6 .cl-btn"><span class="rule-static">width: 50px; height: 50px;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-html"><span class="rule-static"></span></div><div class="rule" data-name="#OBJ_6 .cl-btn-on .cl-idle" /><div class="rule" data-name="#OBJ_6 .cl-btn-on .cl-over"><span class="rule-static">background-color: ;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-off .cl-idle" /><div class="rule" data-name="#OBJ_6 .cl-btn-off .cl-over"><span class="rule-static">background-color: ;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-bg"><span class="rule-static">width: 48px; height: 48px;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-on .cl-idle .cl-btn-bg"><span class="rule-static">background-image: url(images/thesaurus.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-on .cl-over .cl-btn-bg"><span class="rule-static">background-image: url(images/thesaurus_hover.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-off .cl-idle .cl-btn-bg"><span class="rule-static">background-image: url(images/thesaurus_pressed.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-off .cl-over .cl-btn-bg"><span class="rule-static">background-image: url(images/thesaurus_hover.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-table"><span class="rule-static">width: 48px; height: 48px;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-table .cl-btn-table-content"><span class="rule-static">width: 48px; height: 48px; text-align: center; padding: 0 0px 0 0px; 
 		font-family: robotoblack, 'Arial Black', Gadget, sans-serif; font-size: 14px; color: #004080; text-shadow: 1px 1px 2px rgba(255,255,255,0.66);</span></div><div class="rule" data-name="#OBJ_6 .cl-over .cl-btn-table-content"><span class="rule-static">color: #4080C0 !important;</span></div></div><div id="OBJ_6_CONTAINER" class="cl-container unselectable" ><div id="OBJ_6_BTN" class="cl-btn cl-btn-html cl-btn-on" title="Показать тезаурус" data-title-on="Показать тезаурус" data-title-off="Скрыть тезаурус"><div class="cl-idle"><div class="cl-btn-bg"><table class="cl-btn-table"><tr><td class="cl-btn-table-content"> </td></tr></table></div></div></div></div>]]></export_content>
 <params>
 <role type="select">method</role>
@@ -466,10 +475,10 @@
 <shadow_strength type="select">none</shadow_strength>
 <content type="select">image</content>
 <fs_bg_img type="fieldset"></fs_bg_img>
-<bg_img_1 type="file">images/thesaurus_20171217.png</bg_img_1>
-<bg_img_2 type="file">images/thesaurus_hover_20171217.png</bg_img_2>
-<bg_img_3 type="file">images/thesaurus_pressed_20171217.png</bg_img_3>
-<bg_img_4 type="file">images/thesaurus_hover_20171217.png</bg_img_4>
+<bg_img_1 type="file">images/thesaurus.png</bg_img_1>
+<bg_img_2 type="file">images/thesaurus_hover.png</bg_img_2>
+<bg_img_3 type="file">images/thesaurus_pressed.png</bg_img_3>
+<bg_img_4 type="file">images/thesaurus_hover.png</bg_img_4>
 <bg_position type="select">center</bg_position>
 <fs_text type="fieldset"></fs_text>
 <text_position type="select">center</text_position>
@@ -1483,13 +1492,14 @@
 </params>
 </object>
 <object type="div" guid="f0696445_bcad_4be6_88ca_35d5a698a124" id="OBJ_10" state_extension="false" left="988" top="10" width="16" height="15" display="frame" begin="0">
+<selectedDialogButton>apply</selectedDialogButton>
 <default_color_bg>bg_color</default_color_bg>
 <default_color_border>border_color</default_color_border>
 <template>nav_0000_btn_navi</template>
 <design_content><![CDATA[<style >
 		.cl-btn { width: 16px; height: 15px; }
-		</style><div class="clo-nav_0000_btn_navi" ><div class="cl-container"><div class="cl-btn cl-btn-img cl-idle"><img class="cl-img-idle" src="C:\github\Prototype_EUK\5\images\close_20171217.png" /></div></div></div>]]></design_content>
-<export_content><![CDATA[<div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_10 .cl-btn"><span class="rule-static">width: 16px; height: 15px;</span></div></div><div class="cl-container unselectable" ><div class="cl-btn cl-btn-img cl-idle" title="Закрыть модуль" data-title-enabled="Закрыть модуль" data-title-disabled=""><img class="cl-img-idle" src="images/close_20171217.png" /><img class="cl-img-over" src="images/close_20171217.png" /><img class="cl-img-disabled" src="images/close_20171217.png" /></div></div>]]></export_content>
+		</style><div class="clo-nav_0000_btn_navi" ><div class="cl-container"><div class="cl-btn cl-btn-img cl-idle"><img class="cl-img-idle" src="C:\github\Prototype_EUK\5\images\close.png" /></div></div></div>]]></design_content>
+<export_content><![CDATA[<div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_10 .cl-btn"><span class="rule-static">width: 16px; height: 15px;</span></div></div><div class="cl-container unselectable" ><div class="cl-btn cl-btn-img cl-idle" title="Закрыть модуль" data-title-enabled="Закрыть модуль" data-title-disabled=""><img class="cl-img-idle" src="images/close.png" /><img class="cl-img-over" src="images/close.png" /><img class="cl-img-disabled" src="images/close.png" /></div></div>]]></export_content>
 <params>
 <role type="select">closemodule</role>
 <selectedslide type="slideid"></selectedslide>
@@ -1548,9 +1558,9 @@
 <swipe type="check">yes</swipe>
 <btn_type type="select">image</btn_type>
 <fs_image type="fieldset"></fs_image>
-<n1_img type="file">images/close_20171217.png</n1_img>
-<n2_img type="file">images/close_20171217.png</n2_img>
-<n3_img type="file">images/close_20171217.png</n3_img>
+<n1_img type="file">images/close.png</n1_img>
+<n2_img type="file">images/close.png</n2_img>
+<n3_img type="file">images/close.png</n3_img>
 <fs_html type="fieldset"></fs_html>
 <bg_type type="select">auto</bg_type>
 <border_style type="select">solid</border_style>
@@ -1585,6 +1595,7 @@
 </params>
 </object>
 <object type="div" guid="b64b193f_7772_45fb_a114_0c0544f0e378" id="OBJ_11" state_extension="false" left="49" top="624" width="50" height="50" display="frame" begin="0">
+<selectedDialogButton>apply</selectedDialogButton>
 <default_color_bg>bg_color</default_color_bg>
 <default_color_border>border_color</default_color_border>
 <template>nav_0000_btn_toggle</template>
@@ -1592,12 +1603,12 @@
 		.cl-btn { width: 50px; height: 50px; }
 		.cl-btn-html {  }
 		.cl-idle {  }
-		.cl-btn-bg { width: 48px; height: 48px; background-image: url('file:///C:/github/Prototype_EUK/5/images/listSlider_20171217.png'); background-position: center center; background-repeat: no-repeat; }
+		.cl-btn-bg { width: 48px; height: 48px; background-image: url('file:///C:/github/Prototype_EUK/5/images/listSlider.png'); background-position: center center; background-repeat: no-repeat; }
 		.cl-btn-table { width: 48px; height: 48px; }
 		.cl-btn-table .cl-btn-table-content { width: 48px; height: 48px; text-align: center; padding: 0 0px 0 0px; 
 		font-family: robotoblack, 'Arial Black', Gadget, sans-serif; font-size: 14px; color: #004080; text-shadow: 1px 1px 2px rgba(255,255,255,0.66); }
 	</style><div class="clo-nav_0000_btn_toggle" ><div id="OBJ_11_CONTAINER" class="cl-container"><div id="OBJ_11_BTN" class="cl-btn cl-btn-html cl-idle"><div class="cl-btn-bg"><table class="cl-btn-table"><tr><td class="cl-btn-table-content"> </td></tr></table></div></div></div></div>]]></design_content>
-<export_content><![CDATA[<div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_11 .cl-btn"><span class="rule-static">width: 50px; height: 50px;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-html"><span class="rule-static"></span></div><div class="rule" data-name="#OBJ_11 .cl-btn-on .cl-idle" /><div class="rule" data-name="#OBJ_11 .cl-btn-on .cl-over"><span class="rule-static">background-color: ;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-off .cl-idle" /><div class="rule" data-name="#OBJ_11 .cl-btn-off .cl-over"><span class="rule-static">background-color: ;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-bg"><span class="rule-static">width: 48px; height: 48px;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-on .cl-idle .cl-btn-bg"><span class="rule-static">background-image: url(images/listSlider_20171217.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-on .cl-over .cl-btn-bg"><span class="rule-static">background-image: url(images/listSlider_hover_20171217.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-off .cl-idle .cl-btn-bg"><span class="rule-static">background-image: url(images/Bezymyanny-1_20171217.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-off .cl-over .cl-btn-bg"><span class="rule-static">background-image: url(images/listSlider_hover_20171217.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-table"><span class="rule-static">width: 48px; height: 48px;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-table .cl-btn-table-content"><span class="rule-static">width: 48px; height: 48px; text-align: center; padding: 0 0px 0 0px; 
+<export_content><![CDATA[<div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_11 .cl-btn"><span class="rule-static">width: 50px; height: 50px;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-html"><span class="rule-static"></span></div><div class="rule" data-name="#OBJ_11 .cl-btn-on .cl-idle" /><div class="rule" data-name="#OBJ_11 .cl-btn-on .cl-over"><span class="rule-static">background-color: ;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-off .cl-idle" /><div class="rule" data-name="#OBJ_11 .cl-btn-off .cl-over"><span class="rule-static">background-color: ;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-bg"><span class="rule-static">width: 48px; height: 48px;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-on .cl-idle .cl-btn-bg"><span class="rule-static">background-image: url(images/listSlider.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-on .cl-over .cl-btn-bg"><span class="rule-static">background-image: url(images/listSlider_hover.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-off .cl-idle .cl-btn-bg"><span class="rule-static">background-image: url(images/Bezymyanny-1.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-off .cl-over .cl-btn-bg"><span class="rule-static">background-image: url(images/listSlider_hover.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-table"><span class="rule-static">width: 48px; height: 48px;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-table .cl-btn-table-content"><span class="rule-static">width: 48px; height: 48px; text-align: center; padding: 0 0px 0 0px; 
 		font-family: robotoblack, 'Arial Black', Gadget, sans-serif; font-size: 14px; color: #004080; text-shadow: 1px 1px 2px rgba(255,255,255,0.66);</span></div><div class="rule" data-name="#OBJ_11 .cl-over .cl-btn-table-content"><span class="rule-static">color: #4080C0 !important;</span></div></div><div id="OBJ_11_CONTAINER" class="cl-container unselectable" ><div id="OBJ_11_BTN" class="cl-btn cl-btn-html cl-btn-on" title="Показать список слайдов" data-title-on="Показать список слайдов" data-title-off="Скрыть список слайдов"><div class="cl-idle"><div class="cl-btn-bg"><table class="cl-btn-table"><tr><td class="cl-btn-table-content"> </td></tr></table></div></div></div></div>]]></export_content>
 <params>
 <role type="select">method</role>
@@ -1643,10 +1654,10 @@
 <shadow_strength type="select">none</shadow_strength>
 <content type="select">image</content>
 <fs_bg_img type="fieldset"></fs_bg_img>
-<bg_img_1 type="file">images/listSlider_20171217.png</bg_img_1>
-<bg_img_2 type="file">images/listSlider_hover_20171217.png</bg_img_2>
-<bg_img_3 type="file">images/Bezymyanny-1_20171217.png</bg_img_3>
-<bg_img_4 type="file">images/listSlider_hover_20171217.png</bg_img_4>
+<bg_img_1 type="file">images/listSlider.png</bg_img_1>
+<bg_img_2 type="file">images/listSlider_hover.png</bg_img_2>
+<bg_img_3 type="file">images/Bezymyanny-1.png</bg_img_3>
+<bg_img_4 type="file">images/listSlider_hover.png</bg_img_4>
 <bg_position type="select">center</bg_position>
 <fs_text type="fieldset"></fs_text>
 <text_position type="select">center</text_position>
@@ -1897,30 +1908,21 @@
 <subslides>
 <subslide guid="a0e1933d_9bec_4323_b259_61adc3622efa" id="FRAME_11" dur="0">
 <objects>
-<object type="iebox" guid="a593c7b9_1a77_4588_962d_9f3924b8aa4e" id="TXT_21" left="94" top="60" width="830" height="36" display="frame" begin="0">
-<content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Принципы GLP&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-</text><hyperlinks/></ietext>]]></content>
-</object>
-<object type="iebox" guid="2480402b_40fb_497f_a3ce_6459422180b9" id="TXT_22" left="52" top="134" width="474" height="275" display="frame" begin="0">
-<content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 4.32pt; margin-bottom: 0pt; margin-left: 0in; text-indent: 0in; word-break: normal; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Настоящий стандарт устанавливает Принципы надлежащей лабораторной практики, предназначенные для применения при проведении неклинических исследований безопасности объектов испытаний, содержащихся в лекарственных средствах, пестицидах, косметической продукции, ветеринарных препаратах, пищевых и кормовых добавках, а также химических веществах промышленного назначения.&lt;br /&gt;
-&lt;br /&gt;
-Межгосударственный стандарт ГОСТ 33044-2014 введен в действие в качестве национального стандарта Российской Федерации с 1 августа 2015 г.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-</text><hyperlinks/></ietext>]]></content>
-</object>
-<object type="div" guid="54989a8e_19b9_4aee_8966_62774f781462" id="OBJ_13" state_extension="false" left="546" top="125" width="450" height="349" display="frame" begin="0">
+<object type="div" guid="54989a8e_19b9_4aee_8966_62774f781462" id="OBJ_13" state_extension="false" left="520" top="125" width="476" height="369" display="frame" begin="0">
+<selectedDialogButton>apply</selectedDialogButton>
 <template>v_block_005</template>
 <design_content><![CDATA[<style >
-		.cl-container { width: 450px; height: 349px; }
-		.cl-box { width: 450px; height: 349px; background-color: #FFFFFF; border-radius: 7px; }
-		.cl-box img { width: 450px; height: 349px; border-radius: 7px; }
-		.cl-noimg-table { width: 450px; height: 349px; }
-		.cl-noimg-table td { width: 450px; height: 349px; color: #008BBF; }
+		.cl-container { width: 476px; height: 369px; }
+		.cl-box { width: 476px; height: 369px; background-color: #FFFFFF; border-radius: 7px; }
+		.cl-box img { width: 476px; height: 369px; border-radius: 7px; }
+		.cl-noimg-table { width: 476px; height: 369px; }
+		.cl-noimg-table td { width: 476px; height: 369px; color: #008BBF; }
 		.cl-magnify-svg { fill: #008BBF; }
-	</style><div class="clo-v_block_005" ><div class="cl-container"><div class="cl-box"><img src="C:\github\Prototype_EUK\5\images\9.png" /><div class="cl-btn cl-btn-magnify"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div></div>]]></design_content>
-<export_content><![CDATA[<div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_13 .cl-container"><span class="rule-static">width: 450px; height: 349px;</span></div><div class="rule" data-name="#OBJ_13 .cl-box"><span class="rule-static">width: 450px; height: 349px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="7px" /></div><div class="rule" data-name="#OBJ_13 .cl-box img"><span class="rule-static">width: 450px; height: 349px;</span><span class="rule-dynamic" data-type="border-radius" data-value="7px" /></div><div class="rule" data-name="#OBJ_13 .cl-magnify-svg"><span class="rule-static">fill: #008BBF;</span></div><div class="rule" data-name="#OBJ_13_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="7px" /></div><div class="rule" data-name="#OBJ_13_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="7px" /></div><div class="rule" data-name="#OBJ_13_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="7px" /></div><div class="rule" data-name="#OBJ_13_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_13_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #008BBF;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/9.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_13_ZOOM" class="cl-zoom" ><div id="OBJ_13_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_13_ZOOM_IMG" src="images/9.png" onload="CLO['OBJ_13'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_13_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div>]]></export_content>
+	</style><div class="clo-v_block_005" ><div class="cl-container"><div class="cl-box"><img src="C:\github\Prototype_EUK\5\images\7.png" /><div class="cl-btn cl-btn-magnify"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div></div>]]></design_content>
+<export_content><![CDATA[<div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_13 .cl-container"><span class="rule-static">width: 476px; height: 369px;</span></div><div class="rule" data-name="#OBJ_13 .cl-box"><span class="rule-static">width: 476px; height: 369px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="7px" /></div><div class="rule" data-name="#OBJ_13 .cl-box img"><span class="rule-static">width: 476px; height: 369px;</span><span class="rule-dynamic" data-type="border-radius" data-value="7px" /></div><div class="rule" data-name="#OBJ_13 .cl-magnify-svg"><span class="rule-static">fill: #008BBF;</span></div><div class="rule" data-name="#OBJ_13_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="7px" /></div><div class="rule" data-name="#OBJ_13_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="7px" /></div><div class="rule" data-name="#OBJ_13_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="7px" /></div><div class="rule" data-name="#OBJ_13_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_13_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #008BBF;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/7.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_13_ZOOM" class="cl-zoom" ><div id="OBJ_13_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_13_ZOOM_IMG" src="images/7.png" onload="CLO['OBJ_13'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_13_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div>]]></export_content>
 <params>
 <hidden_noimg type="edit">Картинка не задана</hidden_noimg>
-<imagefile type="file">images/9.png</imagefile>
+<imagefile type="file">images/7.png</imagefile>
 <bg_color_profile type="select">custom</bg_color_profile>
 <bg_color_custom type="color">#FFFFFF</bg_color_custom>
 <button_color_profile type="select">custom</button_color_profile>
@@ -1932,6 +1934,16 @@
 <hide_onclick type="check">yes</hide_onclick>
 <modal type="check">yes</modal>
 </params>
+</object>
+<object type="iebox" guid="a593c7b9_1a77_4588_962d_9f3924b8aa4e" id="TXT_21" left="94" top="60" width="830" height="36" display="frame" begin="0">
+<content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Принципы GLP&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</text><hyperlinks/></ietext>]]></content>
+</object>
+<object type="iebox" guid="2480402b_40fb_497f_a3ce_6459422180b9" id="TXT_22" left="52" top="134" width="474" height="275" display="frame" begin="0">
+<content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 4.32pt; margin-bottom: 0pt; margin-left: 0in; text-indent: 0in; word-break: normal; text-align: justify;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Настоящий стандарт устанавливает Принципы надлежащей лабораторной практики, предназначенные для применения при проведении неклинических исследований безопасности объектов испытаний, содержащихся в лекарственных средствах, пестицидах, косметической продукции, ветеринарных препаратах, пищевых и кормовых добавках, а также химических веществах промышленного назначения.&lt;br /&gt;
+&lt;br /&gt;
+Межгосударственный стандарт ГОСТ 33044-2014 введен в действие в качестве национального стандарта Российской Федерации с 1 августа 2015 г.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</text><hyperlinks/></ietext>]]></content>
 </object>
 </objects>
 </subslide>

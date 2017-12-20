@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Module file, saved 12/19/2017 10:43:27 AM by artem using CourseLab 171024 -->
+<!-- Module file, saved 12/20/2017 10:02:36 PM by artem using CourseLab 171024 -->
 <module format="3.1 171024" rev="2" slideWidth="1018" slideHeight="682" template="Standard\0004" file="C:\github\Prototype_EUK\3\3.xml">
 <font face="robotoregular, Arial, Helvetica, sans-serif" style="1" size="14" color="#333333"/>
 <default_text></default_text>
@@ -47,6 +47,14 @@
 <color>d7e4bc</color>
 </customColors>
 <guideLines>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
 <guideLine pos="509" isVertical="yes"/>
 <guideLine pos="341" isVertical="no"/>
 <guideLine pos="509" isVertical="yes"/>
@@ -1862,7 +1870,7 @@
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="div" guid="75ea15d3_ff9c_4b15_9d4e_9f6a72460142" id="OBJ_19" state_extension="false" left="224" top="265" width="571" height="345" display="frame" begin="0">
-<selectedDialogButton>apply</selectedDialogButton>
+<selectedDialogButton>cancel</selectedDialogButton>
 <template>v_block_005</template>
 <design_content><![CDATA[<style >
 		.cl-container { width: 571px; height: 345px; }
@@ -2052,7 +2060,6 @@
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="div" guid="549bcfa0_f405_40c2_9c35_93dd06ec1f19" id="OBJ_21" state_extension="false" left="138" top="110" width="743" height="412" display="frame" begin="0">
-<selectedDialogButton>apply</selectedDialogButton>
 <template>v_block_005</template>
 <design_content><![CDATA[<style >
 		.cl-container { width: 743px; height: 412px; }
@@ -2682,7 +2689,6 @@
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="div" guid="4b6b91a0_b178_4b90_9f2e_c3f9aa08501d" id="OBJ_32" state_extension="false" left="142" top="137" width="733" height="471" display="frame" begin="0">
-<selectedDialogButton>apply</selectedDialogButton>
 <template>v_block_005</template>
 <design_content><![CDATA[<style >
 		.cl-container { width: 733px; height: 471px; }

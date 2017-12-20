@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Module file, saved 12/18/2017 12:24:50 PM by artem using CourseLab 171024 -->
+<!-- Module file, saved 12/20/2017 10:03:11 PM by artem using CourseLab 171024 -->
 <module format="3.1 171024" rev="2" slideWidth="1018" slideHeight="682" template="Standard\0004" file="C:\github\Prototype_EUK\4\4.xml">
 <font face="robotoregular, Arial, Helvetica, sans-serif" style="1" size="14" color="#333333"/>
 <default_text></default_text>
@@ -47,6 +47,102 @@
 <color>d7e4bc</color>
 </customColors>
 <guideLines>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
+<guideLine pos="341" isVertical="no"/>
+<guideLine pos="509" isVertical="yes"/>
 <guideLine pos="341" isVertical="no"/>
 <guideLine pos="509" isVertical="yes"/>
 <guideLine pos="341" isVertical="no"/>
@@ -2682,7 +2778,6 @@
 <subslide guid="b8a6dd49_aa76_4e96_8fce_203cdd543c6b" id="FRAME_31" dur="0">
 <objects>
 <object type="div" guid="44213e2d_ba87_47dc_98d9_0d5e82a9b247" id="OBJ_23" state_extension="false" left="44" top="49" width="932" height="509" display="frame" begin="0">
-<selectedDialogButton>apply</selectedDialogButton>
 <default_text>text_main</default_text>
 <default_color_bg>bg_color</default_color_bg>
 <default_color_border>border_color</default_color_border>

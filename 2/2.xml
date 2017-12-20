@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Module file, saved 12/20/2017 9:23:38 PM by artem using CourseLab 171024 -->
+<!-- Module file, saved 12/20/2017 10:06:10 PM by artem using CourseLab 171024 -->
 <module format="3.1 171024" rev="2" slideWidth="1018" slideHeight="682" template="Standard\0004" file="C:\github\Prototype_EUK\2\2.xml">
 <font face="robotoregular, Arial, Helvetica, sans-serif" style="1" size="14" color="#333333"/>
 <default_text></default_text>
@@ -47,6 +47,30 @@
 <color>d7e4bc</color>
 </customColors>
 <guideLines>
+<guideLine pos="347" isVertical="no"/>
+<guideLine pos="510" isVertical="yes"/>
+<guideLine pos="347" isVertical="no"/>
+<guideLine pos="510" isVertical="yes"/>
+<guideLine pos="347" isVertical="no"/>
+<guideLine pos="510" isVertical="yes"/>
+<guideLine pos="347" isVertical="no"/>
+<guideLine pos="510" isVertical="yes"/>
+<guideLine pos="347" isVertical="no"/>
+<guideLine pos="510" isVertical="yes"/>
+<guideLine pos="347" isVertical="no"/>
+<guideLine pos="510" isVertical="yes"/>
+<guideLine pos="347" isVertical="no"/>
+<guideLine pos="510" isVertical="yes"/>
+<guideLine pos="347" isVertical="no"/>
+<guideLine pos="510" isVertical="yes"/>
+<guideLine pos="347" isVertical="no"/>
+<guideLine pos="510" isVertical="yes"/>
+<guideLine pos="347" isVertical="no"/>
+<guideLine pos="510" isVertical="yes"/>
+<guideLine pos="347" isVertical="no"/>
+<guideLine pos="510" isVertical="yes"/>
+<guideLine pos="347" isVertical="no"/>
+<guideLine pos="510" isVertical="yes"/>
 <guideLine pos="347" isVertical="no"/>
 <guideLine pos="510" isVertical="yes"/>
 <guideLine pos="347" isVertical="no"/>
@@ -1814,28 +1838,21 @@ VI класс &amp;ndash; &lt;strong&gt;Лигазы &lt;/strong&gt;&lt;/span&gt
 &lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 51);&quot;&gt;&lt;strong&gt;Алкогольдегидрогеназа (КФ.1.1.1.1. или EC.1.1.1.1.)&lt;/strong&gt; оксидоредуктаза, действует на ОН-группу донора с НАД в качестве акцептора с первым порядковым номером в своем подподклассе.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="b3c8e7d3_a020_45b2_8674_2c8aace278a5" id="TXT_9" left="565" top="435" width="378" height="149" display="frame" begin="0">
-<content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Пример 2:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-
-&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;&quot;&gt;&amp;nbsp;&lt;/p&gt;
-
-&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;strong&gt;Алкогольдегидрогеназа (КФ.1.1.1.27. или EC.1.1.1.27.)&lt;/strong&gt; оксидоредуктаза, действует на ОН-группу донора с НАД в качестве акцептора с порядковым номером 27 в своем подподклассе.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
-</text><hyperlinks/></ietext>]]></content>
-</object>
-<object type="div" guid="1621d2f9_1cdd_494f_896b_dfbcaaac3363" id="OBJ_13" state_extension="false" left="490" top="212" width="495" height="168" display="frame" begin="0">
+<object type="div" guid="1621d2f9_1cdd_494f_896b_dfbcaaac3363" id="OBJ_13" state_extension="false" left="509" top="141" width="452" height="290" display="frame" begin="0">
+<selectedDialogButton>apply</selectedDialogButton>
 <template>v_block_005</template>
 <design_content><![CDATA[<style >
-		.cl-container { width: 495px; height: 168px; }
-		.cl-box { width: 495px; height: 168px; background-color: #FFFFFF; border-radius: 10px; }
-		.cl-box img { width: 495px; height: 168px; border-radius: 10px; }
-		.cl-noimg-table { width: 495px; height: 168px; }
-		.cl-noimg-table td { width: 495px; height: 168px; color: #0080C0; }
+		.cl-container { width: 452px; height: 290px; }
+		.cl-box { width: 452px; height: 290px; background-color: #FFFFFF; border-radius: 10px; }
+		.cl-box img { width: 452px; height: 290px; border-radius: 10px; }
+		.cl-noimg-table { width: 452px; height: 290px; }
+		.cl-noimg-table td { width: 452px; height: 290px; color: #0080C0; }
 		.cl-magnify-svg { fill: #0080C0; }
-	</style><div class="clo-v_block_005" ><div class="cl-container"><div class="cl-box"><img src="C:\github\Prototype_EUK\2\images\3.png" /><div class="cl-btn cl-btn-magnify"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div></div>]]></design_content>
-<export_content><![CDATA[<div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_13 .cl-container"><span class="rule-static">width: 495px; height: 168px;</span></div><div class="rule" data-name="#OBJ_13 .cl-box"><span class="rule-static">width: 495px; height: 168px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_13 .cl-box img"><span class="rule-static">width: 495px; height: 168px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_13 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_13_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_13_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_13_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_13_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_13_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/3.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_13_ZOOM" class="cl-zoom" ><div id="OBJ_13_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_13_ZOOM_IMG" src="images/3.png" onload="CLO['OBJ_13'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_13_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div>]]></export_content>
+	</style><div class="clo-v_block_005" ><div class="cl-container"><div class="cl-box"><img src="C:\github\Prototype_EUK\2\images\2.png" /><div class="cl-btn cl-btn-magnify"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div></div>]]></design_content>
+<export_content><![CDATA[<div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_13 .cl-container"><span class="rule-static">width: 452px; height: 290px;</span></div><div class="rule" data-name="#OBJ_13 .cl-box"><span class="rule-static">width: 452px; height: 290px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_13 .cl-box img"><span class="rule-static">width: 452px; height: 290px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_13 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_13_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_13_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_13_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_13_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_13_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/2.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_13_ZOOM" class="cl-zoom" ><div id="OBJ_13_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_13_ZOOM_IMG" src="images/2.png" onload="CLO['OBJ_13'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_13_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div>]]></export_content>
 <params>
 <hidden_noimg type="edit">Картинка не задана</hidden_noimg>
-<imagefile type="file">images/3.png</imagefile>
+<imagefile type="file">images/2.png</imagefile>
 <bg_color_profile type="select">custom</bg_color_profile>
 <bg_color_custom type="color">#FFFFFF</bg_color_custom>
 <button_color_profile type="select">custom</button_color_profile>
@@ -1847,6 +1864,14 @@ VI класс &amp;ndash; &lt;strong&gt;Лигазы &lt;/strong&gt;&lt;/span&gt
 <hide_onclick type="check">yes</hide_onclick>
 <modal type="check">yes</modal>
 </params>
+</object>
+<object type="iebox" guid="b3c8e7d3_a020_45b2_8674_2c8aace278a5" id="TXT_9" left="565" top="435" width="378" height="149" display="frame" begin="0">
+<content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Пример 2:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;&quot;&gt;&amp;nbsp;&lt;/p&gt;
+
+&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;strong&gt;Алкогольдегидрогеназа (КФ.1.1.1.27. или EC.1.1.1.27.)&lt;/strong&gt; оксидоредуктаза, действует на ОН-группу донора с НАД в качестве акцептора с порядковым номером 27 в своем подподклассе.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</text><hyperlinks/></ietext>]]></content>
 </object>
 </objects>
 </subslide>
@@ -1940,6 +1965,7 @@ VI класс &amp;ndash; &lt;strong&gt;Лигазы &lt;/strong&gt;&lt;/span&gt
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="div" guid="2ca912f5_2226_43a3_b69f_250e2c7d0e40" id="OBJ_32" state_extension="false" left="542" top="144" width="420" height="158" display="frame" begin="0">
+<selectedDialogButton>apply</selectedDialogButton>
 <template>v_block_005</template>
 <design_content><![CDATA[<style >
 		.cl-container { width: 420px; height: 158px; }
@@ -1966,6 +1992,7 @@ VI класс &amp;ndash; &lt;strong&gt;Лигазы &lt;/strong&gt;&lt;/span&gt
 </params>
 </object>
 <object type="div" guid="aa397c6e_052b_4a8f_8fb1_8d630aff8b27" id="OBJ_33" state_extension="false" left="53" top="147" width="413" height="156" display="frame" begin="0">
+<selectedDialogButton>apply</selectedDialogButton>
 <template>v_block_005</template>
 <design_content><![CDATA[<style >
 		.cl-container { width: 413px; height: 156px; }
@@ -2168,7 +2195,6 @@ VI класс &amp;ndash; &lt;strong&gt;Лигазы &lt;/strong&gt;&lt;/span&gt
 <subslide guid="46b995a4_d46f_4f69_80b7_c65649b3c011" id="FRAME_12" dur="0">
 <objects>
 <object type="div" guid="e10cbd22_34c4_4985_8991_da800dc6667f" id="OBJ_38" state_extension="false" left="63" top="168" width="352" height="248" display="frame" begin="0">
-<selectedDialogButton>apply</selectedDialogButton>
 <template>v_block_005</template>
 <design_content><![CDATA[<style >
 		.cl-container { width: 352px; height: 248px; }
@@ -2195,7 +2221,6 @@ VI класс &amp;ndash; &lt;strong&gt;Лигазы &lt;/strong&gt;&lt;/span&gt
 </params>
 </object>
 <object type="div" guid="03ebc9e3_3d1a_405f_a96e_d7426948f678" id="OBJ_37" state_extension="false" left="548" top="152" width="409" height="289" display="frame" begin="0">
-<selectedDialogButton>apply</selectedDialogButton>
 <template>v_block_005</template>
 <design_content><![CDATA[<style >
 		.cl-container { width: 409px; height: 289px; }
@@ -2277,43 +2302,18 @@ VI класс &amp;ndash; &lt;strong&gt;Лигазы &lt;/strong&gt;&lt;/span&gt
 <subslides>
 <subslide guid="c01d76bd_cc23_4d28_93ba_03c84783e5c9" id="FRAME_13" dur="0">
 <objects>
-<object type="div" guid="d6de464a_f8dd_485c_adcf_e02f1e00d3ef" id="OBJ_40" state_extension="false" left="56" top="238" width="382" height="154" display="frame" begin="0">
+<object type="div" guid="08e3f85a_1145_42e0_bd23_d1fb8756f2d6" id="OBJ_39" state_extension="false" left="549" top="186" width="387" height="247" display="frame" begin="0">
+<selectedDialogButton>cancel</selectedDialogButton>
 <template>v_block_005</template>
 <design_content><![CDATA[<style >
-		.cl-container { width: 382px; height: 154px; }
-		.cl-box { width: 382px; height: 154px; background-color: #FFFFFF; border-radius: 10px; }
-		.cl-box img { width: 382px; height: 154px; border-radius: 10px; }
-		.cl-noimg-table { width: 382px; height: 154px; }
-		.cl-noimg-table td { width: 382px; height: 154px; color: #0080C0; }
-		.cl-magnify-svg { fill: #0080C0; }
-	</style><div class="clo-v_block_005" ><div class="cl-container"><div class="cl-box"><img src="C:\github\Prototype_EUK\2\images\9.1.png" /><div class="cl-btn cl-btn-magnify"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div></div>]]></design_content>
-<export_content><![CDATA[<div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_40 .cl-container"><span class="rule-static">width: 382px; height: 154px;</span></div><div class="rule" data-name="#OBJ_40 .cl-box"><span class="rule-static">width: 382px; height: 154px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_40 .cl-box img"><span class="rule-static">width: 382px; height: 154px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_40 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_40_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_40_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_40_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_40_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_40_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/9.1.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_40_ZOOM" class="cl-zoom" ><div id="OBJ_40_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_40_ZOOM_IMG" src="images/9.1.png" onload="CLO['OBJ_40'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_40_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div>]]></export_content>
-<params>
-<hidden_noimg type="edit">Картинка не задана</hidden_noimg>
-<imagefile type="file">images/9.1.png</imagefile>
-<bg_color_profile type="select">custom</bg_color_profile>
-<bg_color_custom type="color">#FFFFFF</bg_color_custom>
-<button_color_profile type="select">custom</button_color_profile>
-<button_color_custom type="color">#0080C0</button_color_custom>
-<radius type="spinner">10</radius>
-<shadow type="select">normal</shadow>
-<tooltip_zoomin type="edit">Нажите здесь, чтобы увеличить картинку</tooltip_zoomin>
-<tooltip_close type="edit">Нажмите здесь, чтобы закрыть картинку</tooltip_close>
-<hide_onclick type="check">yes</hide_onclick>
-<modal type="check">yes</modal>
-</params>
-</object>
-<object type="div" guid="08e3f85a_1145_42e0_bd23_d1fb8756f2d6" id="OBJ_39" state_extension="false" left="528" top="234" width="444" height="164" display="frame" begin="0">
-<template>v_block_005</template>
-<design_content><![CDATA[<style >
-		.cl-container { width: 444px; height: 164px; }
-		.cl-box { width: 444px; height: 164px; background-color: #FFFFFF; border-radius: 10px; }
-		.cl-box img { width: 444px; height: 164px; border-radius: 10px; }
-		.cl-noimg-table { width: 444px; height: 164px; }
-		.cl-noimg-table td { width: 444px; height: 164px; color: #0080C0; }
+		.cl-container { width: 387px; height: 247px; }
+		.cl-box { width: 387px; height: 247px; background-color: #FFFFFF; border-radius: 10px; }
+		.cl-box img { width: 387px; height: 247px; border-radius: 10px; }
+		.cl-noimg-table { width: 387px; height: 247px; }
+		.cl-noimg-table td { width: 387px; height: 247px; color: #0080C0; }
 		.cl-magnify-svg { fill: #0080C0; }
 	</style><div class="clo-v_block_005" ><div class="cl-container"><div class="cl-box"><img src="C:\github\Prototype_EUK\2\images\9.2.png" /><div class="cl-btn cl-btn-magnify"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div></div>]]></design_content>
-<export_content><![CDATA[<div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_39 .cl-container"><span class="rule-static">width: 444px; height: 164px;</span></div><div class="rule" data-name="#OBJ_39 .cl-box"><span class="rule-static">width: 444px; height: 164px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_39 .cl-box img"><span class="rule-static">width: 444px; height: 164px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_39 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_39_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_39_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_39_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_39_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_39_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/9.2.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_39_ZOOM" class="cl-zoom" ><div id="OBJ_39_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_39_ZOOM_IMG" src="images/9.2.png" onload="CLO['OBJ_39'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_39_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div>]]></export_content>
+<export_content><![CDATA[<div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_39 .cl-container"><span class="rule-static">width: 387px; height: 247px;</span></div><div class="rule" data-name="#OBJ_39 .cl-box"><span class="rule-static">width: 387px; height: 247px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_39 .cl-box img"><span class="rule-static">width: 387px; height: 247px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_39 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_39_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_39_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_39_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_39_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_39_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/9.2.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_39_ZOOM" class="cl-zoom" ><div id="OBJ_39_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_39_ZOOM_IMG" src="images/9.2.png" onload="CLO['OBJ_39'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_39_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div>]]></export_content>
 <params>
 <hidden_noimg type="edit">Картинка не задана</hidden_noimg>
 <imagefile type="file">images/9.2.png</imagefile>
@@ -2329,8 +2329,36 @@ VI класс &amp;ndash; &lt;strong&gt;Лигазы &lt;/strong&gt;&lt;/span&gt
 <modal type="check">yes</modal>
 </params>
 </object>
-<object type="iebox" guid="c9cc9d4e_79e9_433e_bdbc_e6e310c469f5" id="TXT_27" left="268" top="64" width="485" height="36" display="frame" begin="0">
-<content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;V &lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;класс &amp;ndash; &lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Изомеразы&lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 28pt; font-family: &#39;Times New Roman&#39;; font-weight: bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
+<object type="div" guid="d6de464a_f8dd_485c_adcf_e02f1e00d3ef" id="OBJ_40" state_extension="false" left="62" top="190" width="336" height="237" display="frame" begin="0">
+<selectedDialogButton>cancel</selectedDialogButton>
+<template>v_block_005</template>
+<design_content><![CDATA[<style >
+		.cl-container { width: 336px; height: 237px; }
+		.cl-box { width: 336px; height: 237px; background-color: #FFFFFF; border-radius: 10px; }
+		.cl-box img { width: 336px; height: 237px; border-radius: 10px; }
+		.cl-noimg-table { width: 336px; height: 237px; }
+		.cl-noimg-table td { width: 336px; height: 237px; color: #0080C0; }
+		.cl-magnify-svg { fill: #0080C0; }
+	</style><div class="clo-v_block_005" ><div class="cl-container"><div class="cl-box"><img src="C:\github\Prototype_EUK\2\images\9.1.png" /><div class="cl-btn cl-btn-magnify"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div></div>]]></design_content>
+<export_content><![CDATA[<div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_40 .cl-container"><span class="rule-static">width: 336px; height: 237px;</span></div><div class="rule" data-name="#OBJ_40 .cl-box"><span class="rule-static">width: 336px; height: 237px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_40 .cl-box img"><span class="rule-static">width: 336px; height: 237px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_40 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_40_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_40_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_40_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_40_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_40_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/9.1.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_40_ZOOM" class="cl-zoom" ><div id="OBJ_40_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_40_ZOOM_IMG" src="images/9.1.png" onload="CLO['OBJ_40'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_40_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div>]]></export_content>
+<params>
+<hidden_noimg type="edit">Картинка не задана</hidden_noimg>
+<imagefile type="file">images/9.1.png</imagefile>
+<bg_color_profile type="select">custom</bg_color_profile>
+<bg_color_custom type="color">#FFFFFF</bg_color_custom>
+<button_color_profile type="select">custom</button_color_profile>
+<button_color_custom type="color">#0080C0</button_color_custom>
+<radius type="spinner">10</radius>
+<shadow type="select">normal</shadow>
+<tooltip_zoomin type="edit">Нажите здесь, чтобы увеличить картинку</tooltip_zoomin>
+<tooltip_close type="edit">Нажмите здесь, чтобы закрыть картинку</tooltip_close>
+<hide_onclick type="check">yes</hide_onclick>
+<modal type="check">yes</modal>
+</params>
+</object>
+<object type="iebox" guid="113fe41e_41e4_4684_93bc_812403961a64" id="TXT_30" left="56" top="115" width="908" height="129" display="frame" begin="0">
+<content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Катализируют изомерные превращения в пределах одной молекулы. Изомеразы &amp;ndash; сложные ферменты. К их коферментам относятся пиридоксальфосфат, дезоксиаденозилкобаламин, глутатион, фосфаты моносахаридов (глюкозо-1,6-дифосфат) и др.&lt;span style=&quot;color: rgb(51, 51, 51);&quot;&gt; &lt;/span&gt;&lt;br /&gt;
+Систематическое название образуется: Субстрат &amp;ndash; [ ] &amp;ndash; реакция, где [ ] &amp;ndash; обозначение, отражающее суть реакции, например, &amp;laquo;номер изменяемого атома углерода&amp;raquo;, изменение &amp;laquo;цис-транс&amp;raquo;, изменение &amp;laquo;кето-енол&amp;raquo;, изменение &amp;laquo;альдозо-кетозо&amp;raquo;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="iebox" guid="96bd03d5_21e2_4f06_bf76_f27c65e309b5" id="TXT_28" left="55" top="415" width="378" height="180" display="frame" begin="0">
@@ -2369,9 +2397,8 @@ VI класс &amp;ndash; &lt;strong&gt;Лигазы &lt;/strong&gt;&lt;/span&gt
 &lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Кофактор&lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;: &lt;/span&gt;Глюкозо-1,6-дифосфат&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="113fe41e_41e4_4684_93bc_812403961a64" id="TXT_30" left="56" top="115" width="908" height="129" display="frame" begin="0">
-<content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Катализируют изомерные превращения в пределах одной молекулы. Изомеразы &amp;ndash; сложные ферменты. К их коферментам относятся пиридоксальфосфат, дезоксиаденозилкобаламин, глутатион, фосфаты моносахаридов (глюкозо-1,6-дифосфат) и др.&lt;span style=&quot;color: rgb(51, 51, 51);&quot;&gt; &lt;/span&gt;&lt;br /&gt;
-Систематическое название образуется: Субстрат &amp;ndash; [ ] &amp;ndash; реакция, где [ ] &amp;ndash; обозначение, отражающее суть реакции, например, &amp;laquo;номер изменяемого атома углерода&amp;raquo;, изменение &amp;laquo;цис-транс&amp;raquo;, изменение &amp;laquo;кето-енол&amp;raquo;, изменение &amp;laquo;альдозо-кетозо&amp;raquo;.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+<object type="iebox" guid="c9cc9d4e_79e9_433e_bdbc_e6e310c469f5" id="TXT_27" left="268" top="64" width="485" height="36" display="frame" begin="0">
+<content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;V &lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;класс &amp;ndash; &lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;Изомеразы&lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 28pt; font-family: &#39;Times New Roman&#39;; font-weight: bold;&quot;&gt; &lt;/span&gt;&lt;span style=&quot;font-size:28px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt; &lt;/span&gt;&lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
 </objects>
@@ -2383,7 +2410,6 @@ VI класс &amp;ndash; &lt;strong&gt;Лигазы &lt;/strong&gt;&lt;/span&gt
 <subslide guid="ba459ac5_652f_43e8_bbe0_10af8467cf8b" id="FRAME_14" dur="0">
 <objects>
 <object type="div" guid="b393bbde_e847_4f12_9d5c_1d629a62c27b" id="OBJ_41" state_extension="false" left="557" top="151" width="399" height="260" display="frame" begin="0">
-<selectedDialogButton>apply</selectedDialogButton>
 <template>v_block_005</template>
 <design_content><![CDATA[<style >
 		.cl-container { width: 399px; height: 260px; }
@@ -2410,7 +2436,6 @@ VI класс &amp;ndash; &lt;strong&gt;Лигазы &lt;/strong&gt;&lt;/span&gt
 </params>
 </object>
 <object type="div" guid="090c2f35_2130_4ce3_b716_ed1e81b6adc9" id="OBJ_42" state_extension="false" left="56" top="145" width="420" height="268" display="frame" begin="0">
-<selectedDialogButton>apply</selectedDialogButton>
 <template>v_block_005</template>
 <design_content><![CDATA[<style >
 		.cl-container { width: 420px; height: 268px; }

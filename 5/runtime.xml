@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Presentation file, saved 12/18/2017 11:59:39 AM using CourseLab 171024 -->
+<!-- Presentation file, saved 12/20/2017 9:53:56 PM using CourseLab 171024 -->
 <module>
 <runtime preview_fullscreen="yes" preview_fitwindow="no" fit_small_window="yes" showsplash="yes" seqslides="no" preloadimages="yes" normalize="no"/>
 <groups>
@@ -178,21 +178,21 @@
 <slide id="SLIDE_10" sid="q" masterid="MASTER1" advance="" transition="" durout="" name="Принципы GLP" indent="0">
 <frames>
 <frame id="FRAME_11" dur="0" infinite="0">
-<object id="TXT_21" x="94" y="60" w="830" h="36" z="100" display="frame" begin="0">
+<object id="OBJ_13" x="520" y="125" w="476" h="369" z="100" display="frame" begin="0" type="v_block_005">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_13 .cl-container"><span class="rule-static">width: 476px; height: 369px;</span></div><div class="rule" data-name="#OBJ_13 .cl-box"><span class="rule-static">width: 476px; height: 369px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="7px" /></div><div class="rule" data-name="#OBJ_13 .cl-box img"><span class="rule-static">width: 476px; height: 369px;</span><span class="rule-dynamic" data-type="border-radius" data-value="7px" /></div><div class="rule" data-name="#OBJ_13 .cl-magnify-svg"><span class="rule-static">fill: #008BBF;</span></div><div class="rule" data-name="#OBJ_13_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="7px" /></div><div class="rule" data-name="#OBJ_13_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="7px" /></div><div class="rule" data-name="#OBJ_13_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="7px" /></div><div class="rule" data-name="#OBJ_13_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_13_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #008BBF;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/7.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_13_ZOOM" class="cl-zoom" ><div id="OBJ_13_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_13_ZOOM_IMG" src="images/7.png" onload="CLO['OBJ_13'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_13_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
+</data>
+</object>
+<object id="TXT_21" x="94" y="60" w="830" h="36" z="101" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 830px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Принципы GLP</span></span></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_22" x="52" y="134" w="474" h="275" z="101" display="frame" begin="0">
+<object id="TXT_22" x="52" y="134" w="474" h="275" z="102" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 474px; height: 275px; box-sizing: border-box;"><p style="margin-top: 4.32pt; margin-bottom: 0pt; margin-left: 0in; text-indent: 0in; word-break: normal; text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Настоящий стандарт устанавливает Принципы надлежащей лабораторной практики, предназначенные для применения при проведении неклинических исследований безопасности объектов испытаний, содержащихся в лекарственных средствах, пестицидах, косметической продукции, ветеринарных препаратах, пищевых и кормовых добавках, а также химических веществах промышленного назначения.<br />
 <br />
 Межгосударственный стандарт ГОСТ 33044-2014 введен в действие в качестве национального стандарта Российской Федерации с 1 августа 2015 г.</span></span></p></div>]]>
-</data>
-</object>
-<object id="OBJ_13" x="546" y="125" w="450" h="349" z="102" display="frame" begin="0" type="v_block_005">
-<data>
-<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_13 .cl-container"><span class="rule-static">width: 450px; height: 349px;</span></div><div class="rule" data-name="#OBJ_13 .cl-box"><span class="rule-static">width: 450px; height: 349px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="7px" /></div><div class="rule" data-name="#OBJ_13 .cl-box img"><span class="rule-static">width: 450px; height: 349px;</span><span class="rule-dynamic" data-type="border-radius" data-value="7px" /></div><div class="rule" data-name="#OBJ_13 .cl-magnify-svg"><span class="rule-static">fill: #008BBF;</span></div><div class="rule" data-name="#OBJ_13_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="7px" /></div><div class="rule" data-name="#OBJ_13_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="7px" /></div><div class="rule" data-name="#OBJ_13_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="7px" /></div><div class="rule" data-name="#OBJ_13_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_13_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #008BBF;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/9.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_13_ZOOM" class="cl-zoom" ><div id="OBJ_13_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_13_ZOOM_IMG" src="images/9.png" onload="CLO['OBJ_13'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_13_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
 </data>
 </object>
 <timeline>
@@ -926,17 +926,17 @@
 </object>
 <object id="OBJ_4" x="925" y="624" w="47" h="50" z="3" display="frame" begin="0" type="nav_0000_btn_navi">
 <data>
-<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_4 .cl-btn"><span class="rule-static">width: 47px; height: 50px;</span></div></div><div class="cl-container unselectable" ><div class="cl-btn cl-btn-img cl-idle" title="Следующий слайд" data-title-enabled="Следующий слайд" data-title-disabled="Переход запрещен"><img class="cl-img-idle" src="images/nextSlide_20171217.png" /><img class="cl-img-over" src="images/nextSlide_hover_20171217.png" /><img class="cl-img-disabled" src="images/nextSlide_pressed_20171217.png" /></div></div></div>]]>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_4 .cl-btn"><span class="rule-static">width: 47px; height: 50px;</span></div></div><div class="cl-container unselectable" ><div class="cl-btn cl-btn-img cl-idle" title="Следующий слайд" data-title-enabled="Следующий слайд" data-title-disabled="Переход запрещен"><img class="cl-img-idle" src="images/nextSlide.png" /><img class="cl-img-over" src="images/nextSlide_hover.png" /><img class="cl-img-disabled" src="images/nextSlide_pressed.png" /></div></div></div>]]>
 </data>
 </object>
 <object id="OBJ_5" x="853" y="624" w="56" h="50" z="4" display="frame" begin="0" type="nav_0000_btn_navi">
 <data>
-<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_5 .cl-btn"><span class="rule-static">width: 56px; height: 50px;</span></div></div><div class="cl-container unselectable" ><div class="cl-btn cl-btn-img cl-idle" title="Предыдущий слайд" data-title-enabled="Предыдущий слайд" data-title-disabled="Переход запрещен"><img class="cl-img-idle" src="images/pastSlide_20171217.png" /><img class="cl-img-over" src="images/pastSlide_hover_20171217.png" /><img class="cl-img-disabled" src="images/pastSlide_pressed_20171217.png" /></div></div></div>]]>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_5 .cl-btn"><span class="rule-static">width: 56px; height: 50px;</span></div></div><div class="cl-container unselectable" ><div class="cl-btn cl-btn-img cl-idle" title="Предыдущий слайд" data-title-enabled="Предыдущий слайд" data-title-disabled="Переход запрещен"><img class="cl-img-idle" src="images/pastSlide.png" /><img class="cl-img-over" src="images/pastSlide_hover.png" /><img class="cl-img-disabled" src="images/pastSlide_pressed.png" /></div></div></div>]]>
 </data>
 </object>
 <object id="OBJ_6" x="117" y="624" w="50" h="50" z="5" display="frame" begin="0" type="nav_0000_btn_toggle">
 <data>
-<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_6 .cl-btn"><span class="rule-static">width: 50px; height: 50px;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-html"><span class="rule-static"></span></div><div class="rule" data-name="#OBJ_6 .cl-btn-on .cl-idle" /><div class="rule" data-name="#OBJ_6 .cl-btn-on .cl-over"><span class="rule-static">background-color: ;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-off .cl-idle" /><div class="rule" data-name="#OBJ_6 .cl-btn-off .cl-over"><span class="rule-static">background-color: ;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-bg"><span class="rule-static">width: 48px; height: 48px;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-on .cl-idle .cl-btn-bg"><span class="rule-static">background-image: url(images/thesaurus_20171217.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-on .cl-over .cl-btn-bg"><span class="rule-static">background-image: url(images/thesaurus_hover_20171217.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-off .cl-idle .cl-btn-bg"><span class="rule-static">background-image: url(images/thesaurus_pressed_20171217.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-off .cl-over .cl-btn-bg"><span class="rule-static">background-image: url(images/thesaurus_hover_20171217.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-table"><span class="rule-static">width: 48px; height: 48px;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-table .cl-btn-table-content"><span class="rule-static">width: 48px; height: 48px; text-align: center; padding: 0 0px 0 0px; 
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_6 .cl-btn"><span class="rule-static">width: 50px; height: 50px;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-html"><span class="rule-static"></span></div><div class="rule" data-name="#OBJ_6 .cl-btn-on .cl-idle" /><div class="rule" data-name="#OBJ_6 .cl-btn-on .cl-over"><span class="rule-static">background-color: ;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-off .cl-idle" /><div class="rule" data-name="#OBJ_6 .cl-btn-off .cl-over"><span class="rule-static">background-color: ;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-bg"><span class="rule-static">width: 48px; height: 48px;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-on .cl-idle .cl-btn-bg"><span class="rule-static">background-image: url(images/thesaurus.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-on .cl-over .cl-btn-bg"><span class="rule-static">background-image: url(images/thesaurus_hover.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-off .cl-idle .cl-btn-bg"><span class="rule-static">background-image: url(images/thesaurus_pressed.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-off .cl-over .cl-btn-bg"><span class="rule-static">background-image: url(images/thesaurus_hover.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-table"><span class="rule-static">width: 48px; height: 48px;</span></div><div class="rule" data-name="#OBJ_6 .cl-btn-table .cl-btn-table-content"><span class="rule-static">width: 48px; height: 48px; text-align: center; padding: 0 0px 0 0px; 
 		font-family: robotoblack, 'Arial Black', Gadget, sans-serif; font-size: 14px; color: #004080; text-shadow: 1px 1px 2px rgba(255,255,255,0.66);</span></div><div class="rule" data-name="#OBJ_6 .cl-over .cl-btn-table-content"><span class="rule-static">color: #4080C0 !important;</span></div></div><div id="OBJ_6_CONTAINER" class="cl-container unselectable" ><div id="OBJ_6_BTN" class="cl-btn cl-btn-html cl-btn-on" title="Показать тезаурус" data-title-on="Показать тезаурус" data-title-off="Скрыть тезаурус"><div class="cl-idle"><div class="cl-btn-bg"><table class="cl-btn-table"><tr><td class="cl-btn-table-content"> </td></tr></table></div></div></div></div></div>]]>
 </data>
 </object>
@@ -975,12 +975,12 @@
 </object>
 <object id="OBJ_10" x="988" y="10" w="16" h="15" z="9" display="frame" begin="0" type="nav_0000_btn_navi">
 <data>
-<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_10 .cl-btn"><span class="rule-static">width: 16px; height: 15px;</span></div></div><div class="cl-container unselectable" ><div class="cl-btn cl-btn-img cl-idle" title="Закрыть модуль" data-title-enabled="Закрыть модуль" data-title-disabled=""><img class="cl-img-idle" src="images/close_20171217.png" /><img class="cl-img-over" src="images/close_20171217.png" /><img class="cl-img-disabled" src="images/close_20171217.png" /></div></div></div>]]>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_10 .cl-btn"><span class="rule-static">width: 16px; height: 15px;</span></div></div><div class="cl-container unselectable" ><div class="cl-btn cl-btn-img cl-idle" title="Закрыть модуль" data-title-enabled="Закрыть модуль" data-title-disabled=""><img class="cl-img-idle" src="images/close.png" /><img class="cl-img-over" src="images/close.png" /><img class="cl-img-disabled" src="images/close.png" /></div></div></div>]]>
 </data>
 </object>
 <object id="OBJ_11" x="49" y="624" w="50" h="50" z="10" display="frame" begin="0" type="nav_0000_btn_toggle">
 <data>
-<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_11 .cl-btn"><span class="rule-static">width: 50px; height: 50px;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-html"><span class="rule-static"></span></div><div class="rule" data-name="#OBJ_11 .cl-btn-on .cl-idle" /><div class="rule" data-name="#OBJ_11 .cl-btn-on .cl-over"><span class="rule-static">background-color: ;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-off .cl-idle" /><div class="rule" data-name="#OBJ_11 .cl-btn-off .cl-over"><span class="rule-static">background-color: ;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-bg"><span class="rule-static">width: 48px; height: 48px;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-on .cl-idle .cl-btn-bg"><span class="rule-static">background-image: url(images/listSlider_20171217.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-on .cl-over .cl-btn-bg"><span class="rule-static">background-image: url(images/listSlider_hover_20171217.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-off .cl-idle .cl-btn-bg"><span class="rule-static">background-image: url(images/Bezymyanny-1_20171217.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-off .cl-over .cl-btn-bg"><span class="rule-static">background-image: url(images/listSlider_hover_20171217.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-table"><span class="rule-static">width: 48px; height: 48px;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-table .cl-btn-table-content"><span class="rule-static">width: 48px; height: 48px; text-align: center; padding: 0 0px 0 0px; 
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_11 .cl-btn"><span class="rule-static">width: 50px; height: 50px;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-html"><span class="rule-static"></span></div><div class="rule" data-name="#OBJ_11 .cl-btn-on .cl-idle" /><div class="rule" data-name="#OBJ_11 .cl-btn-on .cl-over"><span class="rule-static">background-color: ;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-off .cl-idle" /><div class="rule" data-name="#OBJ_11 .cl-btn-off .cl-over"><span class="rule-static">background-color: ;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-bg"><span class="rule-static">width: 48px; height: 48px;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-on .cl-idle .cl-btn-bg"><span class="rule-static">background-image: url(images/listSlider.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-on .cl-over .cl-btn-bg"><span class="rule-static">background-image: url(images/listSlider_hover.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-off .cl-idle .cl-btn-bg"><span class="rule-static">background-image: url(images/Bezymyanny-1.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-off .cl-over .cl-btn-bg"><span class="rule-static">background-image: url(images/listSlider_hover.png); background-position: center center; background-repeat: no-repeat;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-table"><span class="rule-static">width: 48px; height: 48px;</span></div><div class="rule" data-name="#OBJ_11 .cl-btn-table .cl-btn-table-content"><span class="rule-static">width: 48px; height: 48px; text-align: center; padding: 0 0px 0 0px; 
 		font-family: robotoblack, 'Arial Black', Gadget, sans-serif; font-size: 14px; color: #004080; text-shadow: 1px 1px 2px rgba(255,255,255,0.66);</span></div><div class="rule" data-name="#OBJ_11 .cl-over .cl-btn-table-content"><span class="rule-static">color: #4080C0 !important;</span></div></div><div id="OBJ_11_CONTAINER" class="cl-container unselectable" ><div id="OBJ_11_BTN" class="cl-btn cl-btn-html cl-btn-on" title="Показать список слайдов" data-title-on="Показать список слайдов" data-title-off="Скрыть список слайдов"><div class="cl-idle"><div class="cl-btn-bg"><table class="cl-btn-table"><tr><td class="cl-btn-table-content"> </td></tr></table></div></div></div></div></div>]]>
 </data>
 </object>
@@ -8126,9 +8126,9 @@
 <swipe>yes</swipe>
 <btn_type>image</btn_type>
 <fs_image></fs_image>
-<n1_img>images/nextSlide_20171217.png</n1_img>
-<n2_img>images/nextSlide_hover_20171217.png</n2_img>
-<n3_img>images/nextSlide_pressed_20171217.png</n3_img>
+<n1_img>images/nextSlide.png</n1_img>
+<n2_img>images/nextSlide_hover.png</n2_img>
+<n3_img>images/nextSlide_pressed.png</n3_img>
 <fs_html></fs_html>
 <bg_type>auto</bg_type>
 <border_style>solid</border_style>
@@ -8219,9 +8219,9 @@
 <swipe>yes</swipe>
 <btn_type>image</btn_type>
 <fs_image></fs_image>
-<n1_img>images/pastSlide_20171217.png</n1_img>
-<n2_img>images/pastSlide_hover_20171217.png</n2_img>
-<n3_img>images/pastSlide_pressed_20171217.png</n3_img>
+<n1_img>images/pastSlide.png</n1_img>
+<n2_img>images/pastSlide_hover.png</n2_img>
+<n3_img>images/pastSlide_pressed.png</n3_img>
 <fs_html></fs_html>
 <bg_type>auto</bg_type>
 <border_style>solid</border_style>
@@ -8298,10 +8298,10 @@
 <shadow_strength>none</shadow_strength>
 <content>image</content>
 <fs_bg_img></fs_bg_img>
-<bg_img_1>images/thesaurus_20171217.png</bg_img_1>
-<bg_img_2>images/thesaurus_hover_20171217.png</bg_img_2>
-<bg_img_3>images/thesaurus_pressed_20171217.png</bg_img_3>
-<bg_img_4>images/thesaurus_hover_20171217.png</bg_img_4>
+<bg_img_1>images/thesaurus.png</bg_img_1>
+<bg_img_2>images/thesaurus_hover.png</bg_img_2>
+<bg_img_3>images/thesaurus_pressed.png</bg_img_3>
+<bg_img_4>images/thesaurus_hover.png</bg_img_4>
 <bg_position>center</bg_position>
 <fs_text></fs_text>
 <text_position>center</text_position>
@@ -9030,9 +9030,9 @@
 <swipe>yes</swipe>
 <btn_type>image</btn_type>
 <fs_image></fs_image>
-<n1_img>images/close_20171217.png</n1_img>
-<n2_img>images/close_20171217.png</n2_img>
-<n3_img>images/close_20171217.png</n3_img>
+<n1_img>images/close.png</n1_img>
+<n2_img>images/close.png</n2_img>
+<n3_img>images/close.png</n3_img>
 <fs_html></fs_html>
 <bg_type>auto</bg_type>
 <border_style>solid</border_style>
@@ -9109,10 +9109,10 @@
 <shadow_strength>none</shadow_strength>
 <content>image</content>
 <fs_bg_img></fs_bg_img>
-<bg_img_1>images/listSlider_20171217.png</bg_img_1>
-<bg_img_2>images/listSlider_hover_20171217.png</bg_img_2>
-<bg_img_3>images/Bezymyanny-1_20171217.png</bg_img_3>
-<bg_img_4>images/listSlider_hover_20171217.png</bg_img_4>
+<bg_img_1>images/listSlider.png</bg_img_1>
+<bg_img_2>images/listSlider_hover.png</bg_img_2>
+<bg_img_3>images/Bezymyanny-1.png</bg_img_3>
+<bg_img_4>images/listSlider_hover.png</bg_img_4>
 <bg_position>center</bg_position>
 <fs_text></fs_text>
 <text_position>center</text_position>
@@ -9164,7 +9164,7 @@
 </param>
 <param objectid="OBJ_13">
 <hidden_noimg>Картинка не задана</hidden_noimg>
-<imagefile>images/9.png</imagefile>
+<imagefile>images/7.png</imagefile>
 <bg_color_profile>custom</bg_color_profile>
 <bg_color_custom>#FFFFFF</bg_color_custom>
 <button_color_profile>custom</button_color_profile>
