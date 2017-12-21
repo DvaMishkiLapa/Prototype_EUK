@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Presentation file, saved 12/20/2017 10:02:17 PM using CourseLab 171024 -->
+<!-- Presentation file, saved 12/21/2017 8:10:18 PM using CourseLab 171024 -->
 <module>
 <runtime preview_fullscreen="yes" preview_fitwindow="no" fit_small_window="yes" showsplash="yes" seqslides="no" preloadimages="yes" normalize="no"/>
 <groups>
@@ -103,17 +103,17 @@
 <![CDATA[<div style="width: 859px; height: 86px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Эндонуклеазы рестрикции, рестриктазы&nbsp;&mdash; группа ферментов, относящихся к классу гидролаз, катализирующих реакцию гидролиза нуклеиновых кислот. В отличие от экзонуклеаз, рестриктазы расщепляют нуклеиновые кислоты не с конца молекулы, а в середине.&nbsp;</span></span><span style="font-size:22px;"><strong><span style="color: rgb(0, 0, 0); font-family: Calibri;"> </span></strong></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_18" x="79" y="246" w="859" h="247" z="103" display="frame" begin="0">
+<object id="TXT_18" x="79" y="246" w="859" h="300" z="103" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 859px; height: 247px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">По механизму действия и молекулярной структуре различают три типа рестриктаз:</span></span></p>
+<![CDATA[<div style="width: 859px; height: 300px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">По механизму действия и молекулярной структуре различают три типа рестриктаз:</span></span></p>
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><u>Рестриктазы типа I</u> для проявления своей активности требуют присутствия ATP, S-аденозилметионина и ионов Mg<span style="vertical-align: super;">2+</span>, они не распознают специфические последовательности нуклеотидов и в силу этого не находят широкого применения в генной инженерии. </span></span></p>
 
-<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><u>Рестриктазы типа </u>II узнают специфические последовательности нуклеотидов в точке расщепления ДНК или непосредственной близости от нее, требуют для проявления активности наличия в реакционной смеси ATP и ионов Mg<span style="vertical-align: super;">2+</span> и чаще всего используются при молекулярном клонировании.</span></span></p>
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><u>Рестриктазы типа II</u> узнают специфические последовательности нуклеотидов в точке расщепления ДНК или непосредственной близости от нее, требуют для проявления активности наличия в реакционной смеси ATP и ионов Mg<span style="vertical-align: super;">2+</span> и чаще всего используются при молекулярном клонировании.</span></span></p>
 
-<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><u>Рестриктазы типа III </u>также активны только в присутствии ATP и ионов Mg<span style="vertical-align: super;">2+</span> и не проявляют абсолютной зависимости от S-аденозилметионина.</span></span></p>
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><u>Рестриктазы типа III</u>&nbsp;также активны только в присутствии ATP и ионов Mg<span style="vertical-align: super;">2+</span> и не проявляют абсолютной зависимости от S-аденозилметионина.</span></span></p>
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p></div>]]>
 </data>
@@ -269,9 +269,13 @@
 <![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_21 .cl-container"><span class="rule-static">width: 434px; height: 299px;</span></div><div class="rule" data-name="#OBJ_21 .cl-box"><span class="rule-static">width: 434px; height: 299px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="7px" /></div><div class="rule" data-name="#OBJ_21 .cl-box img"><span class="rule-static">width: 434px; height: 299px;</span><span class="rule-dynamic" data-type="border-radius" data-value="7px" /></div><div class="rule" data-name="#OBJ_21 .cl-magnify-svg"><span class="rule-static">fill: #008BBF;</span></div><div class="rule" data-name="#OBJ_21_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="7px" /></div><div class="rule" data-name="#OBJ_21_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="7px" /></div><div class="rule" data-name="#OBJ_21_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="7px" /></div><div class="rule" data-name="#OBJ_21_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_21_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #008BBF;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/new-8.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_21_ZOOM" class="cl-zoom" ><div id="OBJ_21_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_21_ZOOM_IMG" src="images/new-8.png" onload="CLO['OBJ_21'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_21_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
 </data>
 </object>
-<object id="TXT_85" x="73" y="246" w="430" h="224" z="104" display="frame" begin="0">
+<object id="TXT_85" x="73" y="246" w="430" h="263" z="104" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 430px; height: 224px; box-sizing: border-box;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="color: rgb(0, 0, 0);">ДНК-лигазы разделяют на два семейства в зависимости от используемого ими кофактора в качестве донора AMP. - ATP-зависимые лигазы обнаруживают у бактериальных и эукариотических вирусов, архей, дрожжей, млекопитающих и эубактерий. - NAD+-зависимые ДНК-лигазы имеются почти исключительно у эубактерий. Один из самых распространённых коммерчески доступных ферментов &mdash; ДНК-лигаза бактериофага Т4.</span></span></span></div>]]>
+<![CDATA[<div style="width: 430px; height: 263px; box-sizing: border-box;"><p><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="color: rgb(0, 0, 0);">ДНК - лигазы разделяют на два семейства в зависимости от используемого ими кофактора в качестве донора AMP.</span></span></span></p>
+
+<p><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="color: rgb(0, 0, 0);">ATP - зависимые лигазы обнаруживают у бактериальных и эукариотических вирусов, архей, дрожжей, млекопитающих и эубактерий.</span></span></span></p>
+
+<p><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="color: rgb(0, 0, 0);">NAD+ - зависимые ДНК-лигазы имеются почти исключительно у эубактерий. Один из самых распространённых коммерчески доступных ферментов &mdash; ДНК-лигаза бактериофага Т4.</span></span></span></p></div>]]>
 </data>
 </object>
 <timeline>
@@ -343,7 +347,7 @@
 </object>
 <object id="TXT_45" x="74" y="376" w="868" h="118" z="103" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 868px; height: 118px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Обратные транскриптазы применяются в синтезе двухцепочечных ДНК, комплементарных РНК (особенно мРНК), для последующего ее клонирования в&nbsp; плазмидных векторах при получении&nbsp; библиотек (клонотек) кДНК .</span></span></p>
+<![CDATA[<div style="width: 868px; height: 118px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Обратные транскриптазы применяются в синтезе двухцепочечных ДНК, комплементарных РНК (особенно мРНК), для последующего ее клонирования в&nbsp;плазмидных векторах при получении&nbsp;библиотек (клонотек) кДНК .</span></span></p>
 
 <div style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; direction: ltr; word-break: normal;"><br />
 <!--[endif]--></div></div>]]>
@@ -468,7 +472,7 @@
 
 <div style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">2. Препараты различных молекул ДНК, гидролизованных одной и той же рестриктазой, смешивают, и при определённых условиях липкие концы разных фрагментов ДНК реассоциируют за счёт комплементарного взаимодействия; </span></span></div>
 
-<div style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">3. С&nbsp;помощью ДНК-лигазы происходит ковалентное связывание ассоциированных фрагментов ДНК.</span></span></div></div>]]>
+<div style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">3. С&nbsp;помощью ДНК-лигазы происходит ковалентное связывание ассоциированных фрагментов ДНК;</span></span></div></div>]]>
 </data>
 </object>
 <object id="TXT_58" x="191" y="390" w="276" h="56" z="102" display="frame" begin="0">
@@ -497,12 +501,12 @@
 </object>
 <object id="TXT_60" x="74" y="112" w="868" h="52" z="101" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 868px; height: 52px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><u>Клонирующий вектор </u>&ndash; фрагмент ДНК, обеспечивающий репликацию гиброидной молекулы ДНК в клетке.</span></span></p></div>]]>
+<![CDATA[<div style="width: 868px; height: 52px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><u>Клонирующий вектор</u> &ndash; фрагмент ДНК, обеспечивающий репликацию гиброидной молекулы ДНК в клетке.</span></span></p></div>]]>
 </data>
 </object>
 <object id="TXT_62" x="76" y="198" w="866" h="176" z="102" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 866px; height: 176px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Свойства векторной&nbsp; молекулы:</span></span></p>
+<![CDATA[<div style="width: 866px; height: 176px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Свойства векторной&nbsp;молекулы:</span></span></p>
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;">&nbsp;</p>
 
@@ -604,7 +608,7 @@
 <object id="TXT_69" x="74" y="95" w="868" h="344" z="101" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 868px; height: 344px; box-sizing: border-box;"><div>
-<div><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">1.&nbsp;<em>Трансфекция</em>. Процесс введения&nbsp;нуклеиновой кислоты&nbsp;в клетки&nbsp;эукариот&nbsp;невирусным методом </span></span></div>
+<div><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">1.&nbsp;<em>Трансфекция</em>. Процесс введения&nbsp;нуклеиновой кислоты&nbsp;в клетки&nbsp;эукариот&nbsp;невирусным методом.</span></span></div>
 
 <div><br />
 <!--[endif]--></div>
@@ -619,7 +623,7 @@
 <div><br />
 <!--[endif]--></div>
 
-<div><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">4.&nbsp;<em>Упаковка в липосомы.</em> Липосомы - сферические оболочки, состоящие из фосфолипидов.&nbsp; Метод используется для защиты экзогенного генетического материала от разрушающего действия рестриктаз .</span></span></div>
+<div><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">4.&nbsp;<em>Упаковка в липосомы.</em> Липосомы - сферические оболочки, состоящие из фосфолипидов.&nbsp;Метод используется для защиты экзогенного генетического материала от разрушающего действия рестриктаз.</span></span></div>
 
 <div><br />
 <!--[endif]--></div>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Presentation file, saved 12/20/2017 10:03:12 PM using CourseLab 171024 -->
+<!-- Presentation file, saved 12/21/2017 9:53:38 PM using CourseLab 171024 -->
 <module>
 <runtime preview_fullscreen="yes" preview_fitwindow="no" fit_small_window="yes" showsplash="yes" seqslides="no" preloadimages="yes" normalize="no"/>
 <groups>
@@ -15,7 +15,7 @@
 </object>
 <object id="TXT_4" x="257" y="139" w="504" h="33" z="101" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 504px; height: 33px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">С<sub>6</sub>Н<sub>12</sub>О<sub>6</sub> + 2 АДФ + 2 Фн &rarr; 2 СН<sub>3</sub>СН<sub>2</sub>ОН + 2 СО<sub>2</sub> + 2 АТФ</span></span></p></div>]]>
+<![CDATA[<div style="width: 504px; height: 33px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">С<sub>6</sub>Н<sub>12</sub>О<sub>6</sub> + 2АДФ + 2Фн &rarr; 2СН<sub>3</sub>СН<sub>2</sub>ОН + 2СО<sub>2</sub> + 2АТФ</span></span></p></div>]]>
 </data>
 </object>
 <object id="TXT_5" x="290" y="188" w="438" h="63" z="102" display="frame" begin="0">
@@ -53,18 +53,17 @@
 </object>
 <object id="TXT_10" x="51" y="237" w="640" h="224" z="101" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 640px; height: 224px; box-sizing: border-box;"><p><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">1) Классическая</span></span></p>
+<![CDATA[<div style="width: 640px; height: 224px; box-sizing: border-box;"><p><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">1) Классическая;</span></span></p>
 
 <div>&nbsp;</div>
 
 <div><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">2) С&nbsp;бисульфитом натрия</span></span></div>
 
-<p><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + NaHSO<sub>3</sub> &rarr; CH<sub>3</sub>CHOHSO<sub>3</sub>Na + CO<sub>2</sub> + CH<sub>2</sub>(OH)CH(OH)CH<sub>2</sub>(OH)</span></span></p>
+<p><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + NaHSO<sub>3</sub> &rarr; CH<sub>3</sub>CHOHSO<sub>3</sub>Na + CO<sub>2</sub> + CH<sub>2</sub>(OH)CH(OH)CH<sub>2</sub>(OH);</span></span></p>
 
 <p><br />
-<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">3) С&nbsp;подщелачиванием среды</span></span></p>
-
-<p><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">2 C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + H<sub>2</sub>O &rarr; C<sub>2</sub>H<sub>5</sub>OH + CH<sub>3</sub>COOH + 2 CO<sub>2</sub> + 2CH<sub>2</sub>(OH)CH(OH)CH<sub>2</sub>(OH)</span></span></p></div>]]>
+<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">3) С&nbsp;подщелачиванием среды</span></span><br />
+<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">2C<sub>6</sub>H<sub>12</sub>O<sub>6</sub> + H<sub>2</sub>O &rarr; C<sub>2</sub>H<sub>5</sub>OH + CH<sub>3</sub>COOH + 2CO<sub>2</sub> + 2CH<sub>2</sub>(OH)CH(OH)CH<sub>2</sub>(OH);</span></span></p></div>]]>
 </data>
 </object>
 <object id="OBJ_16" x="706" y="154" w="264" h="373" z="102" display="frame" begin="0" type="v_block_005">
@@ -88,10 +87,10 @@
 <object id="TXT_12" x="51" y="120" w="920" h="144" z="101" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 920px; height: 144px; box-sizing: border-box;"><p><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&bull; Эффект Пастера:<br />
-В аэробных условиях брожение прекращается и начинается процесс дыхания<br />
+В аэробных условиях брожение прекращается и начинается процесс дыхания;<br />
 <br />
 &bull; Эффект Крэбтри:<br />
-В аэробных условиях может идти процесс брожения, но при определенных условиях: необходима высокая концентрация сахара (1,5 - 2,5 %)</span></span></p></div>]]>
+В аэробных условиях может идти процесс брожения, но при определенных условиях: необходима высокая концентрация сахара (1,5 - 2,5 %);</span></span></p></div>]]>
 </data>
 </object>
 <object id="IMG_7" x="233" y="270" w="552" h="326" z="102" display="frame" begin="0" preload="images/clip20171216_6.png">
@@ -148,15 +147,15 @@
 </object>
 <object id="TXT_16" x="51" y="268" w="651" h="166" z="101" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 651px; height: 166px; box-sizing: border-box;"><div><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&bull; С<sub>6</sub>Н<sub>12</sub>О<sub>6</sub> + 2 АДФ + 2 Фн &rarr; 2 СН<sub>3</sub>СНОНСООН + 2 АТФ</span></span></div>
+<![CDATA[<div style="width: 651px; height: 166px; box-sizing: border-box;"><div><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&bull; С<sub>6</sub>Н<sub>12</sub>О<sub>6</sub> + 2АДФ + 2Фн &rarr; 2СН<sub>3</sub>СНОНСООН + 2АТФ;</span></span></div>
 
 <div>&nbsp;</div>
 
-<div><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&bull; Гомоферментативное &ndash; осуществляют Streptococcus lactis, Lactobacillus bulgaricus, Lactobacillus plantarum</span></span></div>
+<div><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&bull; Гомоферментативное &ndash; осуществляют Streptococcus lactis, Lactobacillus bulgaricus, Lactobacillus plantarum;</span></span></div>
 
 <div>&nbsp;</div>
 
-<div><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&bull; Гетероферментативное &ndash; осуществляют Leuconostoc sp., Bifidobacteriun bifidum</span></span></div></div>]]>
+<div><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&bull; Гетероферментативное &ndash; осуществляют Leuconostoc sp., Bifidobacteriun bifidum;</span></span></div></div>]]>
 </data>
 </object>
 <object id="IMG_33" x="708" y="218" w="274" h="246" z="102" display="frame" begin="0" preload="images/clip20171216_1.bmp">
@@ -184,7 +183,7 @@
 </object>
 <object id="TXT_18" x="51" y="178" w="920" h="52" z="101" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 920px; height: 52px; box-sizing: border-box;"><div style="text-align: center;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">3 CH<sub>3</sub>CH(OH)COOH + <span style="background-color:#EE82EE;">FeCl<sub>3</sub></span> &rarr; <span style="background-color:#FFFF00;">(CH<sub>3</sub>CH(OH)COO)<sub>3</sub>Fe</span> + 3 HCl</span></span></div></div>]]>
+<![CDATA[<div style="width: 920px; height: 52px; box-sizing: border-box;"><div style="text-align: center;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">3CH<sub>3</sub>CH(OH)COOH + <span style="background-color:#EE82EE;">FeCl<sub>3</sub></span> &rarr; <span style="background-color:#FFFF00;">(CH<sub>3</sub>CH(OH)COO)<sub>3</sub>Fe</span> + 3HCl</span></span></div></div>]]>
 </data>
 </object>
 <object id="IMG_8" x="20" y="271" w="310" h="233" z="102" display="frame" begin="0" preload="images/clip20171216_7.png">
@@ -218,10 +217,10 @@
 <object id="TXT_20" x="51" y="159" w="920" h="97" z="101" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 920px; height: 97px; box-sizing: border-box;"><div style="text-align: center;">
-<div><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&bull; 4 С<sub>6</sub>Н<sub>12</sub>О6 + 3 АДФ + 3 Фн &rarr; 3 СН<sub>3</sub>СН<sub>2</sub>СН<sub>2</sub>СООН + 8 Н<sub>2</sub> +2 СН<sub>3</sub>СООН + 8 СО<sub>2</sub> +3 АТФ</span></span><br />
+<div><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&bull; 4С<sub>6</sub>Н<sub>12</sub>О6 + 3АДФ + 3Фн &rarr; 3СН<sub>3</sub>СН<sub>2</sub>СН<sub>2</sub>СООН + 8Н<sub>2</sub> + 2СН<sub>3</sub>СООН + 8СО<sub>2</sub> + 3АТФ;</span></span><br />
 &nbsp;</div>
 
-<div><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&bull; Осуществляют сахаролитические анаэробные клостридии: Clostridium pasteurianum, Cl. butiricum</span></span></div>
+<div><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&bull; Осуществляют сахаролитические анаэробные клостридии: Clostridium pasteurianum, Cl. butiricum;</span></span></div>
 </div></div>]]>
 </data>
 </object>
@@ -251,7 +250,7 @@
 <object id="TXT_22" x="51" y="133" w="920" h="38" z="101" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 920px; height: 38px; box-sizing: border-box;"><div style="text-align: center;">
-<div><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Масляная кислота+ FeCl<sub>3</sub> &rarr; бурый осадок</span></span></div>
+<div><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Масляная кислота + FeCl<sub>3</sub> &rarr; бурый осадок</span></span></div>
 </div></div>]]>
 </data>
 </object>
@@ -276,15 +275,15 @@
 <object id="TXT_24" x="49" y="115" w="920" h="119" z="101" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 920px; height: 119px; box-sizing: border-box;"><div style="text-align: center;">
-<div><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&bull; Clostridium botulinum &ndash; возбудитель ботулизма</span></span></div>
+<div><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&bull; Clostridium botulinum &ndash; возбудитель ботулизма;</span></span></div>
 
 <div>&nbsp;</div>
 
-<div><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&bull; Clostridium tetani &ndash; возбудитель столбняка</span></span></div>
+<div><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&bull; Clostridium tetani &ndash; возбудитель столбняка;</span></span></div>
 
 <div>&nbsp;</div>
 
-<div><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&bull; Clostridium septicum, Clostridium novyi &ndash; возбудители газовой гангрены</span></span></div>
+<div><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&bull; Clostridium septicum, Clostridium novyi &ndash; возбудители газовой гангрены;</span></span></div>
 </div></div>]]>
 </data>
 </object>
@@ -311,24 +310,26 @@
 <slide id="SLIDE_14" sid="o" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Пропионовокислое брожение" indent="0">
 <frames>
 <frame id="FRAME_15" dur="600" infinite="0">
-<object id="TXT_25" x="178" y="59" w="663" h="36" z="100" display="frame" begin="0">
+<object id="OBJ_15" x="481" y="115" w="503" h="287" z="100" display="frame" begin="0" type="v_block_005">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_15 .cl-container"><span class="rule-static">width: 503px; height: 287px;</span></div><div class="rule" data-name="#OBJ_15 .cl-box"><span class="rule-static">width: 503px; height: 287px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_15 .cl-box img"><span class="rule-static">width: 503px; height: 287px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_15 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_15_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_15_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_15_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_15_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_15_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/10.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_15_ZOOM" class="cl-zoom" ><div id="OBJ_15_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_15_ZOOM_IMG" src="images/10.png" onload="CLO['OBJ_15'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_15_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
+</data>
+</object>
+<object id="TXT_25" x="178" y="59" w="663" h="36" z="101" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 663px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Пропионовокислое</span><span style="font-weight: bold;"> брожение</span></span></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_26" x="51" y="120" w="419" h="214" z="101" display="frame" begin="0">
+<object id="TXT_27" x="51" y="402" w="916" h="211" z="102" display="frame" begin="0">
+<data>
+<![CDATA[<div style="width: 916px; height: 211px; box-sizing: border-box;"><p><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Основная роль пропионовокислых бактерий в созревании сыров состоит в использовании лактатов, образованных молочнокислыми бактериями при сбраживании лактозы молока, при этом лактаты превращаются в пропионовую, уксусную кислоты и СО<sub>2</sub>.</span></span></p>
+
+<p><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Кислоты обеспечивают острый вкус сыров, участвуют в консервации молочного белка казеина; гидролитическое расщепление липидов с образованием жирных кислот важно для развития органолептических свойств сыра; образование пролина и других аминокислот, а также летучих веществ: ацетоина, диацетила, диметилсульфида, ацетальдегида, участвующих в формировании аромата сыра,&nbsp;образование углекислоты в процессе пропионово-кислого брожения лактата и декарбоксилирования аминокислот.&nbsp;СО<sub>2</sub>&nbsp;участвует в создании рисунка сыра - &laquo;глазков&raquo;, образовании витаминов, и в первую очередь витамина В12.</span></span></p></div>]]>
+</data>
+</object>
+<object id="TXT_26" x="51" y="120" w="419" h="214" z="103" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 419px; height: 214px; box-sizing: border-box;"><p><span style="font-family:times new roman,times,serif;"><span style="font-size:18px;">Пропионовокислые бактерии - неспороносные грамположительные неподвижные палочки размером 0,5&mdash;0,8 или 1,0&mdash;1,5 мкм (в молодых культурах &mdash; искривленные, слегка ветвящиеся палочки, в более старых &mdash; кокковидной формы). Образуют колонии жёлтого, оранжевого или красного цвета, растут как в аэробных, так и в анаэробных условиях.</span></span></p></div>]]>
-</data>
-</object>
-<object id="TXT_27" x="51" y="415" w="916" h="188" z="102" display="frame" begin="0">
-<data>
-<![CDATA[<div style="width: 916px; height: 188px; box-sizing: border-box;"><p><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Основная роль пропионовокислых бактерий в созревании сыров состоит в использовании лактатов, образованных молочнокислыми бактериями при сбраживании лактозы молока, при этом лактаты превращаются в пропионовую, уксусную кислоты и СО2. Кислоты обеспечивают острый вкус сыров, участвуют в консервации молочного белка казеина; гидролитическое расщепление липидов с образованием жирных кислот важно для развития органолептических свойств сыра; образование пролина и других аминокислот, а также летучих веществ: ацетоина, диацетила, диметилсульфида, ацетальдегида, участвующих в формировании аромата сыра; образование углекислоты в процессе пропионово-кислого брожения лактата и декарбоксилирования аминокислот; СО2&nbsp;участвует в создании рисунка сыра - &laquo;глазков&raquo;, образовании витаминов, и в первую очередь витамина В12.</span></span></p></div>]]>
-</data>
-</object>
-<object id="OBJ_15" x="481" y="115" w="503" h="287" z="103" display="frame" begin="0" type="v_block_005">
-<data>
-<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_15 .cl-container"><span class="rule-static">width: 503px; height: 287px;</span></div><div class="rule" data-name="#OBJ_15 .cl-box"><span class="rule-static">width: 503px; height: 287px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_15 .cl-box img"><span class="rule-static">width: 503px; height: 287px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_15 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_15_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_15_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_15_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_15_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_15_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/10.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_15_ZOOM" class="cl-zoom" ><div id="OBJ_15_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_15_ZOOM_IMG" src="images/10.png" onload="CLO['OBJ_15'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_15_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
 </data>
 </object>
 <timeline>
@@ -868,9 +869,9 @@
 <![CDATA[<div style="width: 935px; height: 108px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Порча продуктов. </span>Маслянокислые бактерии относятся к группе сахаролитических клостридий; они сбраживают</span></span><span style="font-size: 18pt; font-family: 'Times New Roman';"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"> углеводы с образованием масляной, уксусной, муравьиной кислот и большого количества газов, в связи с чем вызывают такие пороки пищевых продуктов, как прогорклый вкус, бомбаж консервов, вспучивание сыров.</span></span></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_77" x="626" y="410" w="280" h="23" z="103" display="frame" begin="0">
+<object id="TXT_77" x="626" y="410" w="280" h="34" z="103" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 280px; height: 23px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal; text-align: center;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-style: italic;">Clostridium</span><span style="font-style: italic;"> </span><span style="font-style: italic;">butyricum</span></span></span><span style="font-size: 18pt; font-family: 'Times New Roman'; font-style: italic;"> </span></p></div>]]>
+<![CDATA[<div style="width: 280px; height: 34px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal; text-align: center;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-style: italic;">Clostridium</span><span style="font-style: italic;"> </span><span style="font-style: italic;">butyricum</span></span></span><span style="font-size: 18pt; font-family: 'Times New Roman'; font-style: italic;"> </span></p></div>]]>
 </data>
 </object>
 <object id="IMG_31" x="587" y="157" w="375" h="235" z="104" display="frame" begin="0" preload="images/clip20171216_34.png">
@@ -9436,22 +9437,22 @@
 <q_variants_select>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">глюкоза</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Глюкоза</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>yes</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">этанол​</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Этанол​</span></span>]]></q_variant>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>yes</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">углекислый газ</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Углекислый газ</span></span>]]></q_variant>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">лактат</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Лактат</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 </q_variants_select>
@@ -9500,22 +9501,22 @@
 <q_variants_choice>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">спиртовому брожению</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Спиртовому брожению</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>yes</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">молочнокислому брожению</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Молочнокислому брожению</span></span>]]></q_variant>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">маслянокислому брожению</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Маслянокислому брожению</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">пропионовокислому брожению</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Пропионовокислому брожению</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 </q_variants_choice>
@@ -9632,22 +9633,22 @@
 <q_variants_choice>
 <item>
 <q_right>yes</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">производстве сыров</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Производстве сыров</span></span>]]></q_variant>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">пивоварении</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Пивоварении</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">хлебопечении</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Хлебопечении</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">виноделии</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Виноделии</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 </q_variants_choice>
@@ -9698,22 +9699,22 @@
 <q_variants_choice>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">род<em> Proteus</em></span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Род<em> Proteus</em></span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">род<em> Bacillus&nbsp;</em></span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Род<em> Bacillus&nbsp;</em></span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">род<em> Pseudomonas</em></span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Род<em> Pseudomonas</em></span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>yes</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">род <em>Escherichiа</em></span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Род <em>Escherichiа</em></span></span>]]></q_variant>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 </q_variants_choice>
@@ -9840,22 +9841,22 @@
 <q_variants_choice>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">род <em>Enterococcus</em></span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Род <em>Enterococcus</em></span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">род <em>Proteus</em></span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Род <em>Proteus</em></span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">род <em>Micrococcus</em></span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Род <em>Micrococcus</em></span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>yes</q_right>
-<q_variant><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">род <em>Staphylococcus</em></span></span></p>]]></q_variant>
+<q_variant><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Род <em>Staphylococcus</em></span></span></p>]]></q_variant>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 </q_variants_choice>

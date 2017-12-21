@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Module file, saved 12/20/2017 10:02:17 PM by artem using CourseLab 171024 -->
+<!-- Module file, saved 12/21/2017 8:10:18 PM by artem using CourseLab 171024 -->
 <module format="3.1 171024" rev="2" slideWidth="1018" slideHeight="682" template="Standard\0004" file="C:\github\Prototype_EUK\1\1.xml">
 <font face="Calibri" style="1" size="18" color="#000000"/>
 <default_text></default_text>
@@ -1871,16 +1871,16 @@
 <content><![CDATA[<ietext><text>&lt;p style=&quot;text-align: justify;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Эндонуклеазы рестрикции, рестриктазы&amp;nbsp;&amp;mdash; группа ферментов, относящихся к классу гидролаз, катализирующих реакцию гидролиза нуклеиновых кислот. В отличие от экзонуклеаз, рестриктазы расщепляют нуклеиновые кислоты не с конца молекулы, а в середине.&amp;nbsp;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;font-size:22px;&quot;&gt;&lt;strong&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Calibri;&quot;&gt; &lt;/span&gt;&lt;/strong&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
-<object type="iebox" guid="53b10e2a_2ef6_4152_ba8b_da7e2030267a" id="TXT_18" left="79" top="246" width="859" height="247" display="frame" begin="0">
+<object type="iebox" guid="53b10e2a_2ef6_4152_ba8b_da7e2030267a" id="TXT_18" left="79" top="246" width="859" height="300" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;По механизму действия и молекулярной структуре различают три типа рестриктаз:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&amp;nbsp;&lt;/p&gt;
 
 &lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;u&gt;Рестриктазы типа I&lt;/u&gt; для проявления своей активности требуют присутствия ATP, S-аденозилметионина и ионов Mg&lt;span style=&quot;vertical-align: super;&quot;&gt;2+&lt;/span&gt;, они не распознают специфические последовательности нуклеотидов и в силу этого не находят широкого применения в генной инженерии. &lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
-&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;u&gt;Рестриктазы типа &lt;/u&gt;II узнают специфические последовательности нуклеотидов в точке расщепления ДНК или непосредственной близости от нее, требуют для проявления активности наличия в реакционной смеси ATP и ионов Mg&lt;span style=&quot;vertical-align: super;&quot;&gt;2+&lt;/span&gt; и чаще всего используются при молекулярном клонировании.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;u&gt;Рестриктазы типа II&lt;/u&gt; узнают специфические последовательности нуклеотидов в точке расщепления ДНК или непосредственной близости от нее, требуют для проявления активности наличия в реакционной смеси ATP и ионов Mg&lt;span style=&quot;vertical-align: super;&quot;&gt;2+&lt;/span&gt; и чаще всего используются при молекулярном клонировании.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
-&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;u&gt;Рестриктазы типа III &lt;/u&gt;также активны только в присутствии ATP и ионов Mg&lt;span style=&quot;vertical-align: super;&quot;&gt;2+&lt;/span&gt; и не проявляют абсолютной зависимости от S-аденозилметионина.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;u&gt;Рестриктазы типа III&lt;/u&gt;&amp;nbsp;также активны только в присутствии ATP и ионов Mg&lt;span style=&quot;vertical-align: super;&quot;&gt;2+&lt;/span&gt; и не проявляют абсолютной зависимости от S-аденозилметионина.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;&quot;&gt;&amp;nbsp;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
@@ -2085,8 +2085,13 @@
 <modal type="check">yes</modal>
 </params>
 </object>
-<object type="iebox" guid="841333bc_57ec_46fc_9694_63c087167120" id="TXT_85" left="73" top="246" width="430" height="224" display="frame" begin="0">
-<content><![CDATA[<ietext><text>&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;ДНК-лигазы разделяют на два семейства в зависимости от используемого ими кофактора в качестве донора AMP. - ATP-зависимые лигазы обнаруживают у бактериальных и эукариотических вирусов, архей, дрожжей, млекопитающих и эубактерий. - NAD+-зависимые ДНК-лигазы имеются почти исключительно у эубактерий. Один из самых распространённых коммерчески доступных ферментов &amp;mdash; ДНК-лигаза бактериофага Т4.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;</text><hyperlinks/></ietext>]]></content>
+<object type="iebox" guid="841333bc_57ec_46fc_9694_63c087167120" id="TXT_85" left="73" top="246" width="430" height="263" display="frame" begin="0">
+<content><![CDATA[<ietext><text>&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;ДНК - лигазы разделяют на два семейства в зависимости от используемого ими кофактора в качестве донора AMP.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;ATP - зависимые лигазы обнаруживают у бактериальных и эукариотических вирусов, архей, дрожжей, млекопитающих и эубактерий.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;NAD+ - зависимые ДНК-лигазы имеются почти исключительно у эубактерий. Один из самых распространённых коммерчески доступных ферментов &amp;mdash; ДНК-лигаза бактериофага Т4.&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+</text><hyperlinks/></ietext>]]></content>
 </object>
 </objects>
 </subslide>
@@ -2169,7 +2174,7 @@
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="iebox" guid="ae08b04c_b906_4cb4_aad5_01157f83d475" id="TXT_45" left="74" top="376" width="868" height="118" display="frame" begin="0">
-<content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Обратные транскриптазы применяются в синтезе двухцепочечных ДНК, комплементарных РНК (особенно мРНК), для последующего ее клонирования в&amp;nbsp; плазмидных векторах при получении&amp;nbsp; библиотек (клонотек) кДНК .&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+<content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Обратные транскриптазы применяются в синтезе двухцепочечных ДНК, комплементарных РНК (особенно мРНК), для последующего ее клонирования в&amp;nbsp;плазмидных векторах при получении&amp;nbsp;библиотек (клонотек) кДНК .&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;div style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; direction: ltr; word-break: normal;&quot;&gt;&lt;br /&gt;
 &lt;!--[endif]--&gt;&lt;/div&gt;
@@ -2303,7 +2308,7 @@
 
 &lt;div style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;2. Препараты различных молекул ДНК, гидролизованных одной и той же рестриктазой, смешивают, и при определённых условиях липкие концы разных фрагментов ДНК реассоциируют за счёт комплементарного взаимодействия; &lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
 
-&lt;div style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;3. С&amp;nbsp;помощью ДНК-лигазы происходит ковалентное связывание ассоциированных фрагментов ДНК.&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0.38in; text-indent: -0.38in; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;3. С&amp;nbsp;помощью ДНК-лигазы происходит ковалентное связывание ассоциированных фрагментов ДНК;&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="iebox" guid="8c51bcfa_5eba_4416_8486_709b01b5a9fa" id="TXT_58" left="191" top="390" width="276" height="56" display="frame" begin="0">
@@ -2350,11 +2355,11 @@
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="iebox" guid="848285e0_7513_4950_b28a_9ade01f90e6c" id="TXT_60" left="74" top="112" width="868" height="52" display="frame" begin="0">
-<content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;u&gt;Клонирующий вектор &lt;/u&gt;&amp;ndash; фрагмент ДНК, обеспечивающий репликацию гиброидной молекулы ДНК в клетке.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+<content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;&lt;u&gt;Клонирующий вектор&lt;/u&gt; &amp;ndash; фрагмент ДНК, обеспечивающий репликацию гиброидной молекулы ДНК в клетке.&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 </text><hyperlinks/></ietext>]]></content>
 </object>
 <object type="iebox" guid="01255a13_af7a_4ab3_bee2_edd18c21192e" id="TXT_62" left="76" top="198" width="866" height="176" display="frame" begin="0">
-<content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Свойства векторной&amp;nbsp; молекулы:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
+<content><![CDATA[<ietext><text>&lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;&quot;&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;Свойства векторной&amp;nbsp;молекулы:&lt;/span&gt;&lt;/span&gt;&lt;/p&gt;
 
 &lt;p style=&quot;margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; direction: ltr; word-break: normal;&quot;&gt;&amp;nbsp;&lt;/p&gt;
 
@@ -2448,7 +2453,7 @@
 </object>
 <object type="iebox" guid="ee7052a8_8c4c_420d_9e78_27b86f0eba65" id="TXT_69" left="74" top="95" width="868" height="344" display="frame" begin="0">
 <content><![CDATA[<ietext><text>&lt;div&gt;
-&lt;div&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;1.&amp;nbsp;&lt;em&gt;Трансфекция&lt;/em&gt;. Процесс введения&amp;nbsp;нуклеиновой кислоты&amp;nbsp;в клетки&amp;nbsp;эукариот&amp;nbsp;невирусным методом &lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;1.&amp;nbsp;&lt;em&gt;Трансфекция&lt;/em&gt;. Процесс введения&amp;nbsp;нуклеиновой кислоты&amp;nbsp;в клетки&amp;nbsp;эукариот&amp;nbsp;невирусным методом.&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
 
 &lt;div&gt;&lt;br /&gt;
 &lt;!--[endif]--&gt;&lt;/div&gt;
@@ -2463,7 +2468,7 @@
 &lt;div&gt;&lt;br /&gt;
 &lt;!--[endif]--&gt;&lt;/div&gt;
 
-&lt;div&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;4.&amp;nbsp;&lt;em&gt;Упаковка в липосомы.&lt;/em&gt; Липосомы - сферические оболочки, состоящие из фосфолипидов.&amp;nbsp; Метод используется для защиты экзогенного генетического материала от разрушающего действия рестриктаз .&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div&gt;&lt;span style=&quot;font-size:18px;&quot;&gt;&lt;span style=&quot;font-family:times new roman,times,serif;&quot;&gt;4.&amp;nbsp;&lt;em&gt;Упаковка в липосомы.&lt;/em&gt; Липосомы - сферические оболочки, состоящие из фосфолипидов.&amp;nbsp;Метод используется для защиты экзогенного генетического материала от разрушающего действия рестриктаз.&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;
 
 &lt;div&gt;&lt;br /&gt;
 &lt;!--[endif]--&gt;&lt;/div&gt;

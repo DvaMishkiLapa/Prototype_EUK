@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Presentation file, saved 12/20/2017 10:02:36 PM using CourseLab 171024 -->
+<!-- Presentation file, saved 12/21/2017 10:00:01 PM using CourseLab 171024 -->
 <module>
 <runtime preview_fullscreen="yes" preview_fitwindow="no" fit_small_window="yes" showsplash="yes" seqslides="no" preloadimages="yes" normalize="no"/>
 <groups>
@@ -196,9 +196,9 @@
 <![CDATA[<div style="width: 951px; height: 59px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Схема расщепления короткого фрагмента ДНК эндонуклеазой рестрикции EcoRI с образованием липких концов. S &ndash; дезоксирибоза, P &ndash; фосфатная группа, OH &ndash; гидроксильная группа, A,T,G,C &ndash; азотистые основания.&nbsp;</span></span></p></div>]]>
 </data>
 </object>
-<object id="OBJ_21" x="138" y="110" w="743" h="412" z="102" display="frame" begin="0" type="v_block_005">
+<object id="OBJ_21" x="149" y="110" w="721" h="412" z="102" display="frame" begin="0" type="v_block_005">
 <data>
-<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_21 .cl-container"><span class="rule-static">width: 743px; height: 412px;</span></div><div class="rule" data-name="#OBJ_21 .cl-box"><span class="rule-static">width: 743px; height: 412px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_21 .cl-box img"><span class="rule-static">width: 743px; height: 412px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_21 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_21_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_21_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_21_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_21_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_21_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/6.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_21_ZOOM" class="cl-zoom" ><div id="OBJ_21_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_21_ZOOM_IMG" src="images/6.png" onload="CLO['OBJ_21'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_21_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_21 .cl-container"><span class="rule-static">width: 721px; height: 412px;</span></div><div class="rule" data-name="#OBJ_21 .cl-box"><span class="rule-static">width: 721px; height: 412px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_21 .cl-box img"><span class="rule-static">width: 721px; height: 412px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_21 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_21_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_21_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_21_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_21_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_21_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/6.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_21_ZOOM" class="cl-zoom" ><div id="OBJ_21_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_21_ZOOM_IMG" src="images/6.png" onload="CLO['OBJ_21'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_21_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
 </data>
 </object>
 <timeline>
@@ -219,9 +219,9 @@
 <![CDATA[<div style="width: 951px; height: 59px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Схема расщепления короткого фрагмента ДНК эндонуклеазой рестрикции HindII с образованием тупых концов. S &ndash; дезоксирибоза, P &ndash; фосфатная группа, OH &ndash; гидроксильная группа, A,T,G,C &ndash; азотистые основания.&nbsp;</span></span></p></div>]]>
 </data>
 </object>
-<object id="OBJ_22" x="180" y="95" w="658" h="434" z="102" display="frame" begin="0" type="v_block_005">
+<object id="OBJ_22" x="185" y="95" w="649" h="434" z="102" display="frame" begin="0" type="v_block_005">
 <data>
-<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_22 .cl-container"><span class="rule-static">width: 658px; height: 434px;</span></div><div class="rule" data-name="#OBJ_22 .cl-box"><span class="rule-static">width: 658px; height: 434px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_22 .cl-box img"><span class="rule-static">width: 658px; height: 434px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_22 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_22_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_22_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_22_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_22_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_22_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/7.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_22_ZOOM" class="cl-zoom" ><div id="OBJ_22_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_22_ZOOM_IMG" src="images/7.png" onload="CLO['OBJ_22'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_22_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_22 .cl-container"><span class="rule-static">width: 649px; height: 434px;</span></div><div class="rule" data-name="#OBJ_22 .cl-box"><span class="rule-static">width: 649px; height: 434px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_22 .cl-box img"><span class="rule-static">width: 649px; height: 434px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_22 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_22_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_22_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_22_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_22_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_22_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/7.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_22_ZOOM" class="cl-zoom" ><div id="OBJ_22_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_22_ZOOM_IMG" src="images/7.png" onload="CLO['OBJ_22'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_22_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
 </data>
 </object>
 <timeline>
@@ -452,19 +452,19 @@
 <slide id="SLIDE_20" sid="w" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Оптимизация экспрессии генов" indent="0">
 <frames>
 <frame id="FRAME_21" dur="600" infinite="0">
-<object id="TXT_39" x="178" y="59" w="663" h="36" z="100" display="frame" begin="0">
+<object id="OBJ_29" x="185" y="220" w="649" h="386" z="100" display="frame" begin="0" type="v_block_005">
+<data>
+<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_29 .cl-container"><span class="rule-static">width: 649px; height: 386px;</span></div><div class="rule" data-name="#OBJ_29 .cl-box"><span class="rule-static">width: 649px; height: 386px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_29 .cl-box img"><span class="rule-static">width: 649px; height: 386px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_29 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_29_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_29_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_29_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_29_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_29_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/16.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_29_ZOOM" class="cl-zoom" ><div id="OBJ_29_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_29_ZOOM_IMG" src="images/16.png" onload="CLO['OBJ_29'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_29_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
+</data>
+</object>
+<object id="TXT_39" x="178" y="59" w="663" h="36" z="101" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 663px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><strong><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;">Оптимизация экспрессии генов</span></span></strong><span style="font-size:28px;"><strong><span style="font-family:times new roman,times,serif;"><span style="color: rgb(0, 0, 0);"> </span></span></strong></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_41" x="43" y="109" w="931" h="176" z="101" display="frame" begin="0">
+<object id="TXT_41" x="43" y="109" w="931" h="176" z="102" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 931px; height: 176px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Для эффективной экспрессии любого гена необходимо наличие сильного регулируемого промотора, расположенного перед данным геном. Такой промотор&nbsp; имеет высокое сродство к РНК-полимеразе, поэтому прилегающие к нему последовательности эффективно транскрибируются. Регулируемость промотора позволяет клетке осуществлять строгий контроль транскрипции. Для экспрессии клонированных генов широко применяют хорошо изученный Lac-оперон E. Coli. Также транскрипция регулируется с помощью активатора катаболизма (CAP). Сродство CAP к промотору повышается при его связывании с cAMP, уровень которого повышается при снижении концентрации глюкозы в среде.&nbsp;</span></span></p></div>]]>
-</data>
-</object>
-<object id="OBJ_29" x="210" y="253" w="597" h="344" z="102" display="frame" begin="0" type="v_block_005">
-<data>
-<![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_29 .cl-container"><span class="rule-static">width: 597px; height: 344px;</span></div><div class="rule" data-name="#OBJ_29 .cl-box"><span class="rule-static">width: 597px; height: 344px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_29 .cl-box img"><span class="rule-static">width: 597px; height: 344px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_29 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_29_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_29_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_29_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_29_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_29_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/16.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_29_ZOOM" class="cl-zoom" ><div id="OBJ_29_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_29_ZOOM_IMG" src="images/16.png" onload="CLO['OBJ_29'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_29_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
 </data>
 </object>
 <timeline>
@@ -507,14 +507,12 @@
 </frame>
 </frames>
 </slide>
-<slide id="SLIDE_22" sid="y" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Получение рекомбинантных ДНК с помощью " indent="0">
+<slide id="SLIDE_22" sid="y" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Получение рекомбинантных ДНК с помощью эукариотических систем" indent="0">
 <frames>
 <frame id="FRAME_23" dur="600" infinite="0">
 <object id="TXT_45" x="178" y="59" w="663" h="75" z="100" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 663px; height: 75px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: center; direction: ltr; word-break: normal;"><strong><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;">Получение рекомбинантных ДНК с помощью </span></span></strong></p>
-
-<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: center; direction: ltr; word-break: normal;"><strong><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;">эукариотических систем</span></span></strong></p></div>]]>
+<![CDATA[<div style="width: 663px; height: 75px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: center; direction: ltr; word-break: normal;"><strong><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;">Получение рекомбинантных ДНК с помощью&nbsp;</span></span></strong><strong><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;">эукариотических систем</span></span></strong></p></div>]]>
 </data>
 </object>
 <object id="TXT_46" x="32" y="148" w="953" h="424" z="101" display="frame" begin="0">
@@ -551,14 +549,12 @@
 </frame>
 </frames>
 </slide>
-<slide id="SLIDE_23" sid="z" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Отличие эукариотических и прокариотических" indent="0">
+<slide id="SLIDE_23" sid="z" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Отличие эукариотических и прокариотических экспрессионных систем" indent="0">
 <frames>
 <frame id="FRAME_24" dur="600" infinite="0">
 <object id="TXT_47" x="178" y="59" w="663" h="80" z="100" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 663px; height: 80px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: center; direction: ltr; word-break: normal;"><strong><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;">Отличие эукариотических и прокариотических </span></span></strong></p>
-
-<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: center; direction: ltr; word-break: normal;"><strong><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;">экспрессионных систем</span></span></strong></p></div>]]>
+<![CDATA[<div style="width: 663px; height: 80px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: center; direction: ltr; word-break: normal;"><strong><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;">Отличие эукариотических и прокариотических&nbsp;</span></span></strong><strong><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;">экспрессионных систем</span></span></strong></p></div>]]>
 </data>
 </object>
 <object id="TXT_48" x="31" y="234" w="440" h="105" z="101" display="frame" begin="0">
@@ -609,9 +605,11 @@
 <![CDATA[<div class="cl-wrapper" style=""><div class="style-custom" style="display: none" ><div class="rule" data-name="#OBJ_31 .cl-container"><span class="rule-static">width: 627px; height: 414px;</span></div><div class="rule" data-name="#OBJ_31 .cl-box"><span class="rule-static">width: 627px; height: 414px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_31 .cl-box img"><span class="rule-static">width: 627px; height: 414px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_31 .cl-magnify-svg"><span class="rule-static">fill: #0080C0;</span></div><div class="rule" data-name="#OBJ_31_ZOOM"><span class="rule-static">position: absolute; left: -10000px; top: -10000px; background-color: #FFFFFF;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_31_ZOOM .cl-zoom-box"><span class="rule-static">position: relative; margin: 10px;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_31_ZOOM .cl-zoom-box img"><span class="rule-static">position: relative; cursor: pointer;</span><span class="rule-dynamic" data-type="border-radius" data-value="10px" /></div><div class="rule" data-name="#OBJ_31_BTN_CLOSE"><span class="rule-static">cursor: pointer; position: absolute; right: 20px; top: 20px; width: 32px; height: 32px;</span></div><div class="rule" data-name="#OBJ_31_BTN_CLOSE .cl-close-svg"><span class="rule-static">position: relative; width: 32px; height: 32px; fill: #0080C0;</span></div></div><div class="cl-container unselectable" ><div class="cl-box"><img src="images/20.png" /><div class="cl-btn cl-btn-magnify" title="Нажите здесь, чтобы увеличить картинку"><svg viewBox="0 0 512 512" class="cl-magnify-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M497.913,497.914c-18.782,18.781-49.226,18.781-68.008,0l-84.862-84.864c-34.89,22.366-76.131,35.718-120.66,35.718  C100.468,448.768,0,348.314,0,224.384C0,100.454,100.468,0,224.383,0c123.931,0,224.384,100.453,224.384,224.384  c0,44.529-13.353,85.771-35.718,120.675l84.863,84.849C516.695,448.689,516.695,479.131,497.913,497.914z M224.383,64.11  c-88.511,0-160.274,71.763-160.274,160.274c0,88.526,71.764,160.274,160.274,160.274c88.526,0,160.273-71.748,160.273-160.274  C384.656,135.873,312.909,64.11,224.383,64.11z M256.438,320.548h-64.108v-64.109H128.22V192.33h64.109v-64.11h64.108v64.11h64.11  v64.109h-64.11V320.548z" /></g></svg></div></div></div><div id="OBJ_31_ZOOM" class="cl-zoom" ><div id="OBJ_31_ZOOM_IMGDIV" class="cl-zoom-box"><img class="cl-close-on-img" id="OBJ_31_ZOOM_IMG" src="images/20.png" onload="CLO['OBJ_31'].CallMethod({ sMethod: 'Adjust', oMethodArgs: { elem: this } })" title="Нажмите здесь, чтобы закрыть картинку" /></div><div id="OBJ_31_BTN_CLOSE" class="cl-btn cl-btn-close" title="Нажмите здесь, чтобы закрыть картинку"><svg viewBox="0 0 512 512" class="cl-close-svg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"><g><path d="M74.966,437.013c-99.97-99.97-99.97-262.065,0-362.037c100.002-99.97,262.066-99.97,362.067,0  c99.971,99.971,99.971,262.067,0,362.037C337.032,536.998,174.968,536.998,74.966,437.013z M391.782,120.227  c-75.001-74.985-196.564-74.985-271.534,0c-75.001,74.985-75.001,196.55,0,271.535c74.97,74.986,196.533,74.986,271.534,0  C466.754,316.775,466.754,195.212,391.782,120.227z M188.124,369.137l-45.251-45.266l67.876-67.877l-67.876-67.876l45.251-45.267  L256,210.743l67.877-67.892l45.25,45.267l-67.876,67.876l67.876,67.877l-45.25,45.266L256,301.245L188.124,369.137z" /></g></svg></div></div></div>]]>
 </data>
 </object>
-<object id="TXT_55" x="32" y="219" w="386" h="254" z="103" display="frame" begin="0">
+<object id="TXT_55" x="32" y="219" w="386" h="272" z="103" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 386px; height: 254px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">YAC-система содержит селективный маркерный ген E.Coli (Amp<span style="vertical-align: super;">r</span>); сайт инициации&nbsp; репликации (ori<span style="vertical-align: super;">E</span>); сегмент дрожжевой ДНК, включающий участки URA3, CEN, TRP1 и ARS. T &ndash; теломерные области.</span></span></p>
+<![CDATA[<div style="width: 386px; height: 272px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">YAC-система содержит селективный маркерный ген E.Coli (Amp<span style="vertical-align: super;">r</span>); сайт инициации&nbsp; репликации (ori<span style="vertical-align: super;">E</span>); сегмент дрожжевой ДНК, включающий участки URA3, CEN, TRP1 и ARS. T &ndash; теломерные области.</span></span></p>
+
+<p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">YAC-система сначала обрабатывают SmaI, BamHI и щелочной фосфатазой, а затем сшивают с фрагментом ДНК длиной 100 т.п.н. Конечная конструкция содержит клонированную ДНК.&nbsp;</span></span></p></div>]]>
 </data>
@@ -666,7 +664,7 @@
 </object>
 <object id="TXT_63" x="595" y="337" w="302" h="51" z="104" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 302px; height: 51px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Повышение ферментативной активности</span></span></p></div>]]>
+<![CDATA[<div style="width: 302px; height: 51px; box-sizing: border-box;"><p><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Повышение ферментативной активности</span></span></p></div>]]>
 </data>
 </object>
 <object id="TXT_58" x="197" y="389" w="223" h="66" z="105" display="frame" begin="0">
@@ -722,7 +720,7 @@
 </frame>
 </frames>
 </slide>
-<slide id="SLIDE_28" sid="E" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Уменьшение числа свободных сульфгидрильных групп и повышение ферментативной активности" indent="0">
+<slide id="SLIDE_28" sid="E" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Уменьшение числа свободных сульфгидрильных групп, повышение ферментативной активности" indent="0">
 <frames>
 <frame id="FRAME_29" dur="600" infinite="0">
 <object id="TXT_69" x="142" y="59" w="735" h="37" z="100" display="frame" begin="0">
@@ -750,7 +748,7 @@
 </frame>
 </frames>
 </slide>
-<slide id="SLIDE_29" sid="F" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Изменение потробности и специфичности фермента" indent="0">
+<slide id="SLIDE_29" sid="F" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Изменение потробности, специфичности фермента" indent="0">
 <frames>
 <frame id="FRAME_30" dur="600" infinite="0">
 <object id="TXT_73" x="61" y="59" w="898" h="37" z="100" display="frame" begin="0">
@@ -787,12 +785,12 @@
 <frame id="FRAME_31" dur="600" infinite="0">
 <object id="TXT_77" x="126" y="59" w="763" h="42" z="100" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 763px; height: 42px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: center; direction: ltr; word-break: normal;"><strong><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;">Повышение стабильности и&nbsp; специфичности фермента</span></span></strong></p></div>]]>
+<![CDATA[<div style="width: 763px; height: 42px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: center; direction: ltr; word-break: normal;"><strong><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;">Повышение стабильности и&nbsp;специфичности фермента</span></span></strong></p></div>]]>
 </data>
 </object>
 <object id="TXT_78" x="32" y="119" w="953" h="272" z="101" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 953px; height: 272px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Фермент активатор тканевого плазминогена (t РА), - это сериновая протеиназа, состоящая из нескольких доменов; ее используют в клинике для растворения сгустков&nbsp;</span></span><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">крови. К сожалению, tРА быстро выводится из системы кровообращения, поэтому его приходится вводить путем инфузии. Чтобы добиться желаемого терапевтического эффекта, необходимо использовать высокие концентрации фермента, а это может приводить к неспецифическому внутреннему кровотечению. Таким образом, было бы весьма желательно получить долгоживущий фермент tРА, обладающий высоким сродством к фибрину в тромбах и не вызывающий кровотечения. Белок с такими свойствами можно получить, внося специфические мутации в ген нативного tPА. </span></span></p>
+<![CDATA[<div style="width: 953px; height: 272px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Фермент активатор тканевого плазминогена (t РА), - это сериновая протеиназа, состоящая из нескольких доменов,&nbsp;ее используют в клинике для растворения сгустков&nbsp;</span></span><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">крови. К сожалению, tРА быстро выводится из системы кровообращения, поэтому его приходится вводить путем инфузии. Чтобы добиться желаемого терапевтического эффекта, необходимо использовать высокие концентрации фермента, а это может приводить к неспецифическому внутреннему кровотечению. Таким образом, было бы весьма желательно получить долгоживущий фермент tРА, обладающий высоким сродством к фибрину в тромбах и не вызывающий кровотечения. Белок с такими свойствами можно получить, внося специфические мутации в ген нативного tPА. </span></span></p>
 
 <p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: justify; direction: ltr; word-break: normal;">&nbsp;</p>
 
@@ -9574,22 +9572,22 @@
 <q_variants_choice>
 <item>
 <q_right>yes</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">три группы риска</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Три группы риска</span></span>]]></q_variant>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">четыре группы риска</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Четыре группы риска</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">пять групп риска</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Пять групп риска</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">шесть групп риска</span></span></p>]]></q_variant>
+<q_variant><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Шесть групп риска</span></span></p>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 </q_variants_choice>
@@ -9640,22 +9638,22 @@
 <q_variants_choice>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">инъекция</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Инъекция</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>yes</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">трансформация</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Трансформация</span></span>]]></q_variant>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">гибридизация</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Гибридизация</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">транслокация</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Транслокация</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 </q_variants_choice>
@@ -9706,22 +9704,22 @@
 <q_variants_choice>
 <item>
 <q_right>yes</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">иммунологическом скрининге</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Иммунологическом скрининге</span></span>]]></q_variant>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">скрининге по активности белка</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Скрининге по активности белка</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">скрининге экспрессии</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Скрининге экспрессии</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">биохимическом скрининге</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Биохимическом скрининге</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 </q_variants_choice>
@@ -9779,12 +9777,12 @@
 </item>
 <item>
 <q_right>yes</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">краситель Конго</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Краситель Конго</span></span>]]></q_variant>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">метиленовый фиолетовый</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Метиленовый фиолетовый</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
@@ -9838,22 +9836,22 @@
 <q_variants_choice>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">аденовирусы</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Аденовирусы</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>yes</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">ретровирусы</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Ретровирусы</span></span>]]></q_variant>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">вирус полиомиелита</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Вирус полиомиелита</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">герпесвирусы</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Герпесвирусы</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 </q_variants_choice>
@@ -9972,22 +9970,22 @@
 <q_variants_select>
 <item>
 <q_right>yes</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">гликозилирование</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Гликозилирование</span></span>]]></q_variant>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>yes</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">ацетилирование</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Ацетилирование</span></span>]]></q_variant>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>yes</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">карбоксилирование</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Карбоксилирование</span></span>]]></q_variant>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>yes</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">фосфорилирование</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Фосфорилирование</span></span>]]></q_variant>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 </q_variants_select>
@@ -10038,22 +10036,22 @@
 <q_variants_select>
 <item>
 <q_right>yes</q_right>
-<q_variant><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">селективный маркерный ген</span></span></p>]]></q_variant>
+<q_variant><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Селективный маркерный ген</span></span></p>]]></q_variant>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>yes</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">сайт инициации репликации</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Сайт инициации репликации</span></span>]]></q_variant>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>yes</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">теломерные области</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Теломерные области</span></span>]]></q_variant>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>yes</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">сегмент дрожжевой ДНК</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Сегмент дрожжевой ДНК</span></span>]]></q_variant>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 </q_variants_select>
@@ -10110,28 +10108,28 @@
 <q_var_logic_fib>AND</q_var_logic_fib>
 <q_variants_oto>
 <item>
-<q_target><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">целлюлаза</span></span>]]></q_target>
-<q_bullet><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">получение спирта и глюкозы</span></span>]]></q_bullet>
+<q_target><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Целлюлаза</span></span>]]></q_target>
+<q_bullet><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Получение спирта и глюкозы</span></span>]]></q_bullet>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 <item>
-<q_target><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">инвертаза</span></span>]]></q_target>
-<q_bullet><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">инверсия сахарозы</span></span>]]></q_bullet>
+<q_target><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Инвертаза</span></span>]]></q_target>
+<q_bullet><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Инверсия сахарозы</span></span>]]></q_bullet>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 <item>
-<q_target><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">лактаза</span></span>]]></q_target>
-<q_bullet><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">утилизация сыворотки, гидролиз лактозы</span></span>]]></q_bullet>
+<q_target><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Лактаза</span></span>]]></q_target>
+<q_bullet><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Утилизация сыворотки, гидролиз лактозы</span></span>]]></q_bullet>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 <item>
-<q_target><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">реннет</span></span>]]></q_target>
-<q_bullet><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">сыроварение</span></span>]]></q_bullet>
+<q_target><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Реннет</span></span>]]></q_target>
+<q_bullet><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Сыроварение</span></span>]]></q_bullet>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 <item>
-<q_target><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">липаза</span></span>]]></q_target>
-<q_bullet><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">получение ароматизаторов</span></span>]]></q_bullet>
+<q_target><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Липаза</span></span>]]></q_target>
+<q_bullet><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Получение ароматизаторов</span></span>]]></q_bullet>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 </q_variants_oto>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Course file, saved 12/20/2017 9:54:14 PM by artem using CourseLab 171024 -->
+<!-- Course file, saved 12/20/2017 10:08:48 PM by artem using CourseLab 171024 -->
 <course3>
 <aicc_code>Genetik_Inzh_final003</aicc_code>
 <aicc_name>Прототип ЭУК</aicc_name>
@@ -67,8 +67,6 @@
 <window>
 <module>5</module>
 <zoom>100</zoom>
-<active>true</active>
-<slide>SLIDE_10</slide>
 </window>
 <window>
 <module>1</module>
@@ -85,6 +83,8 @@
 <window>
 <module>2</module>
 <zoom>100</zoom>
+<active>true</active>
+<slide>SLIDE_8</slide>
 </window>
 </windows>
 </course3>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Presentation file, saved 12/20/2017 9:53:56 PM using CourseLab 171024 -->
+<!-- Presentation file, saved 12/21/2017 10:02:16 PM using CourseLab 171024 -->
 <module>
 <runtime preview_fullscreen="yes" preview_fitwindow="no" fit_small_window="yes" showsplash="yes" seqslides="no" preloadimages="yes" normalize="no"/>
 <groups>
@@ -70,7 +70,7 @@
 <frame id="FRAME_7" dur="0" infinite="0">
 <object id="TXT_13" x="94" y="60" w="830" h="36" z="100" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 830px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Юридические аспекты&nbsp; биоинженерии</span></span></span></p></div>]]>
+<![CDATA[<div style="width: 830px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Юридические аспекты&nbsp;биоинженерии</span></span></span></p></div>]]>
 </data>
 </object>
 <object id="TXT_14" x="45" y="120" w="929" h="303" z="101" display="frame" begin="0">
@@ -190,7 +190,7 @@
 </object>
 <object id="TXT_22" x="52" y="134" w="474" h="275" z="102" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 474px; height: 275px; box-sizing: border-box;"><p style="margin-top: 4.32pt; margin-bottom: 0pt; margin-left: 0in; text-indent: 0in; word-break: normal; text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Настоящий стандарт устанавливает Принципы надлежащей лабораторной практики, предназначенные для применения при проведении неклинических исследований безопасности объектов испытаний, содержащихся в лекарственных средствах, пестицидах, косметической продукции, ветеринарных препаратах, пищевых и кормовых добавках, а также химических веществах промышленного назначения.<br />
+<![CDATA[<div style="width: 474px; height: 275px; box-sizing: border-box;"><p style="margin-top: 4.32pt; margin-bottom: 0pt; margin-left: 0in; text-indent: 0in; word-break: normal; text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Настоящий стандарт устанавливает принципы надлежащей лабораторной практики, предназначенные для применения при проведении неклинических исследований безопасности объектов испытаний, содержащихся в лекарственных средствах, пестицидах, косметической продукции, ветеринарных препаратах, пищевых и кормовых добавках, а также химических веществах промышленного назначения.<br />
 <br />
 Межгосударственный стандарт ГОСТ 33044-2014 введен в действие в качестве национального стандарта Российской Федерации с 1 августа 2015 г.</span></span></p></div>]]>
 </data>
@@ -227,7 +227,7 @@
 &nbsp;</p>
 
 <ul>
-	<li><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Ответственный исследователь несет ответственность за проведение порученных ему этапов исследования в соответствии с Принципами надлежащей лабораторной практики;</span></span></li>
+	<li><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Ответственный исследователь несет ответственность за проведение порученных ему этапов исследования в соответствии с принципами надлежащей лабораторной практики;</span></span></li>
 </ul></div>]]>
 </data>
 </object>
@@ -244,17 +244,17 @@
 <![CDATA[<div style="width: 830px; height: 36px; box-sizing: border-box;"><p style="text-align: center;"><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><span style="font-variant: normal; font-weight: bold; font-style: normal; text-align: center;">Основные требования</span><span style="font-variant: normal; font-style: normal; text-align: center;"><span style="font-weight: bold;">&nbsp;GLP</span></span></span></span></p></div>]]>
 </data>
 </object>
-<object id="TXT_28" x="30" y="116" w="958" h="440" z="101" display="frame" begin="0">
+<object id="TXT_28" x="30" y="116" w="958" h="456" z="101" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 958px; height: 440px; box-sizing: border-box;"><div style="text-align: center;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><strong> Обязанности персонала, выполняющего исследования:</strong></span></span><br />
+<![CDATA[<div style="width: 958px; height: 456px; box-sizing: border-box;"><div style="text-align: center;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><strong> Обязанности персонала, выполняющего исследования:</strong></span></span><br />
 &nbsp;</div>
 
 <ul>
-	<li><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Весь персонал должен знать Принципы надлежащей лабораторной практики в части, которая имеет отношение к их участию в исследовании;</span></span><br />
+	<li><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Весь персонал должен знать принципы надлежащей лабораторной практики в части, которая имеет отношение к их участию в исследовании;</span></span><br />
 	&nbsp;</li>
 	<li><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Персонал, выполняющий исследования, должен иметь доступ к плану исследования и соответствующим стандартным операционным процедурам, применяемым к их участию в исследовании. Его обязанностью является выполнение инструкций, содержащихся в этих документах;</span></span><br />
 	&nbsp;</li>
-	<li><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Персонал, выполняющий исследования в соответствии с настоящими Принципами надлежащей лабораторной практики, обязан своевременно и точно вести записи первичных данных исследования и нести ответственность за достоверность представленных им данных;</span></span></li>
+	<li><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Персонал, выполняющий исследования в соответствии с настоящими принципами надлежащей лабораторной практики, обязан своевременно и точно вести записи первичных данных исследования и нести ответственность за достоверность представленных им данных;</span></span></li>
 </ul>
 
 <div><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"> </span></span><br />
@@ -409,7 +409,7 @@
 Микробиологические тесты пищевых продуктов можно разделить на два типа:</span></span></p>
 
 <p style="margin-top: 4.32pt; margin-bottom: 0pt; margin-left: 0in; text-indent: 0in; direction: ltr; word-break: normal;"><br />
-<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">а) <strong>К</strong><span style="font-weight: bold;">оличественные,</span> в которых группы микроорганизмов в пробе подсчитываются, а результат выражают в виде количества присутствующих организмов на единицу массы пробы;</span></span></p>
+<span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">а) <strong>К</strong><span style="font-weight: bold;">оличественные</span></span></span><span style="font-family: 'times new roman', times, serif; font-size: 18px; font-style: normal; font-variant: normal; line-height: 21.600000381469727px;">,</span><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">&nbsp;в которых группы микроорганизмов в пробе подсчитываются, а результат выражают в виде количества присутствующих организмов на единицу массы пробы;</span></span></p>
 
 <p style="margin-top: 4.32pt; margin-bottom: 0pt; margin-left: 0in; text-indent: 0in; direction: ltr; word-break: normal;"><br />
 <span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">б)&nbsp;<strong>К</strong><span style="font-weight: bold;">ачественные</span> (&laquo;присутствие/ отсутствие&raquo;), которые сводятся к обнаружению наличия или отсутствия определенного микроорганизма в известной массе пробы;</span></span></p>
@@ -434,14 +434,14 @@
 </object>
 <object id="TXT_38" x="42" y="125" w="934" h="335" z="101" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 934px; height: 335px; box-sizing: border-box;"><div style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><strong>‬Микробиологические методы</strong></span></span></div>
+<![CDATA[<div style="width: 934px; height: 335px; box-sizing: border-box;"><div style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><strong>‬Микробиологические методы:</strong></span></span></div>
 
 <div style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">‬Традиционные микробиологические мето&shy;дики основаны на общепризнанном методе: пробы пищевого продукта помещают в пи&shy;тательную среду и в течение некоторого времени выдерживают там для роста микро&shy;организмов. Определение микроорганизмов или их подсчет затем осуществляют путем обычной визуальной оценки роста культуры. Эти методы технически просты и относительно дешевы, поскольку не требуют сложного оборудования. При этом они легко могут быть приспособлены для определения количества микроорганизмов различных групп.</span></span></div>
 
 <div>
 <p style="text-align: justify;">&nbsp;</p>
 
-<div style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><strong>‬Количественные методы</strong></span></span></div>
+<div style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><strong>‬Количественные методы:</strong></span></span></div>
 
 <div style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">‬Подсчет количества микроорганизмов в пробах обычно производится методом под&shy;счета на пластинке или методом наиболее вероятного числа (НВЧ). Наиболее широ&shy;ко применяется первый из этих методов, а второй обычно используется лишь для определенных микроорганизмов (например, Escherichia coli) или их групп (напри&shy;мер, колиформ).</span></span></div>
 </div></div>]]>
@@ -463,12 +463,12 @@
 <object id="TXT_40" x="42" y="125" w="934" h="335" z="101" display="frame" begin="0">
 <data>
 <![CDATA[<div style="width: 934px; height: 335px; box-sizing: border-box;"><div style="text-align: justify;">
-<p style="margin-top: 4.32pt; margin-bottom: 0pt; margin-left: 0in; text-indent: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Метод подсчета на чашке Петри</span></span></span><br />
+<p style="margin-top: 4.32pt; margin-bottom: 0pt; margin-left: 0in; text-indent: 0in; text-align: justify; direction: ltr; word-break: normal;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Метод подсчета на чашке Петри:</span></span></span><br />
 <span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Основан на помещении пробы в слой агара в чашке Петри или на него. Отдельные микроорганизмы после инкубации вырастают, образуя отдельные колонии, количество которых подсчитывают визуально. Для подсчета количества различных видов микроорганизмов можно использовать различные виды агаровой среды.</span></span><br />
 <br />
 &nbsp;</p>
 
-<p><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><strong>Метод наиболее вероятного числа</strong></span></span><br />
+<p><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><strong>Метод наиболее вероятного числа:</strong></span></span><br />
 <span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Это метод, который позволяет оценить количество жизнеспособных микроорганизмов в пробе на основе статисти&shy;ческого метода. Оценку получают, готовя десятикратные разбавления пробы и перено&shy;ся полученные пробы каждого разбавления в три (обычно) пробирки питательной среды. Эти пробирки выдерживают, и те, в которых наблюдается какой-либо рост (помутнение), фиксируют и сравнивают со стандартной таблицей результатов, в которой указан уровень содержания микроорганизмов.</span></span><br />
 <span style="font-size:18px;"><span style="font-family:times new roman,times,serif;">Этот метод используют только для некоторых видов тестов, так как он более трудо&shy;емок и требует больше материалов, чем метод подсчета на чашке. Кроме того, гра&shy;ницы доверительного интервала велики, и таким образом, этот метод обычно менее точен, чем метод подсчета на пластинке.</span></span></p>
 
@@ -9217,22 +9217,22 @@
 <q_variants_select>
 <item>
 <q_right>yes</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">требования к оборудованию</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Требования к оборудованию</span></span>]]></q_variant>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>yes</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">требования к организации помещения​</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Требования к организации помещения​</span></span>]]></q_variant>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>yes</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">требования к составлению отчета</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Требования к составлению отчета</span></span>]]></q_variant>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>yes</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">требования к персоналу</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Ттребования к персоналу</span></span>]]></q_variant>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 </q_variants_select>
@@ -9281,26 +9281,26 @@
 <q_variants_choice>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">унипотентностью</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Унипотентностью</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">мультипотентностью</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Мультипотентностью</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">плюрипотентностью</span></span></p>]]></q_variant>
+<q_variant><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Плюрипотентностью</span></span></p>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>yes</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">тотипотентностью</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Тотипотентностью</span></span>]]></q_variant>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 </q_variants_choice>
-<q_shuffle_choice>yes</q_shuffle_choice>
+<q_shuffle_choice>no</q_shuffle_choice>
 <q_variants_select></q_variants_select>
 <q_shuffle_select>no</q_shuffle_select>
 <q_variants_order></q_variants_order>
@@ -9547,22 +9547,22 @@
 <q_variants_select>
 <item>
 <q_right>yes</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">метод НВЧ</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Метод НВЧ</span></span>]]></q_variant>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>yes</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">визуальный подсчет выросших колоний</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Визуальный подсчет выросших колоний</span></span>]]></q_variant>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">биохимический анализ</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Биохимический анализ</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">рост на селективной среде</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Рост на селективной среде</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 </q_variants_select>

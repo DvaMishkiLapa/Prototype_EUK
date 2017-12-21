@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Presentation file, saved 12/20/2017 10:06:10 PM using CourseLab 171024 -->
+<!-- Presentation file, saved 12/21/2017 10:00:02 PM using CourseLab 171024 -->
 <module>
 <runtime preview_fullscreen="yes" preview_fitwindow="no" fit_small_window="yes" showsplash="yes" seqslides="no" preloadimages="yes" normalize="no"/>
 <groups>
@@ -41,7 +41,7 @@
 </object>
 <object id="TXT_6" x="49" y="110" w="665" h="58" z="101" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 665px; height: 58px; box-sizing: border-box;"><p><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="color: rgb(51, 51, 51);"><strong>1961 г. Москва. V Международный биохимический союз</strong> Была принята современная классификация ферментов:</span></span></span></p></div>]]>
+<![CDATA[<div style="width: 665px; height: 58px; box-sizing: border-box;"><p><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="color: rgb(51, 51, 51);"><strong>1961 г. Москва. V Международный биохимический союз.&nbsp;</strong>Была принята современная классификация ферментов:</span></span></span></p></div>]]>
 </data>
 </object>
 <object id="TXT_7" x="48" y="167" w="406" h="167" z="102" display="frame" begin="0">
@@ -290,7 +290,7 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 </object>
 <object id="TXT_22" x="56" y="115" w="908" h="69" z="105" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 908px; height: 69px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="color: rgb(51, 51, 51);">Осуществляют разрыв внутримолекулярных связей в субстрате (за исключением С-С связей) путем присоединения элементов Н2О. Ввиду сложности многих субстратов у ряда ферментов сохранены тривиальные названия, например, пепсин, трипсин. Коферменты отсутствуют. </span></span></span></p></div>]]>
+<![CDATA[<div style="width: 908px; height: 69px; box-sizing: border-box;"><p style="text-align: justify;"><span style="font-size:18px;"><span style="font-family:times new roman,times,serif;"><span style="color: rgb(51, 51, 51);">Осуществляют разрыв внутримолекулярных связей в субстрате (за исключением С-С связей) путем присоединения элементов Н<sub>2</sub>О. Ввиду сложности многих субстратов у ряда ферментов сохранены тривиальные названия, например, пепсин, трипсин. Коферменты отсутствуют. </span></span></span></p></div>]]>
 </data>
 </object>
 <timeline>
@@ -849,7 +849,7 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 </frame>
 </frames>
 </slide>
-<slide id="SLIDE_22" sid="x" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Применение ферментных препаратов в " indent="0">
+<slide id="SLIDE_22" sid="x" masterid="SLIDE_MASTER" advance="wait" transition="-1" durout="0" name="Применение ферментных препаратов в пищевой промышленности" indent="0">
 <frames>
 <frame id="FRAME_23" dur="0" infinite="0">
 <object id="IMG_9" x="773" y="101" w="108" h="141" z="100" display="frame" begin="0" preload="images/clip20171124_6.png">
@@ -874,7 +874,7 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 </object>
 <object id="TXT_55" x="34" y="64" w="951" h="36" z="104" display="frame" begin="0">
 <data>
-<![CDATA[<div style="width: 951px; height: 36px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: center; direction: ltr; word-break: normal;"><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Применение ферментных препаратов в </span></span></span><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">пищевой промышленности</span></span></span></p></div>]]>
+<![CDATA[<div style="width: 951px; height: 36px; box-sizing: border-box;"><p style="margin-top: 0pt; margin-bottom: 0pt; margin-left: 0in; text-align: center; direction: ltr; word-break: normal;"><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">Применение ферментных препаратов в </span></span></span><span style="font-size:28px;"><span style="font-family:times new roman,times,serif;"><span style="font-weight: bold;">пищевой&nbsp;промышленности</span></span></span></p></div>]]>
 </data>
 </object>
 <object id="TXT_82" x="45" y="247" w="223" h="288" z="105" display="frame" begin="0">
@@ -10001,22 +10001,22 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 <q_variants_choice>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">номер, класс, подкласс, подподкласс</span></span></p>]]></q_variant>
+<q_variant><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Номер, класс, подкласс, подподкласс</span></span></p>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>yes</q_right>
-<q_variant><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">класс, подкласс, подподкласс, номер</span></span></p>]]></q_variant>
+<q_variant><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Класс, подкласс, подподкласс, номер</span></span></p>]]></q_variant>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">номер, подподкласс, подкласс, класс</span></span></p>]]></q_variant>
+<q_variant><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Номер, подподкласс, подкласс, класс</span></span></p>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">класс, подкласс, номер, подподкласс</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Класс, подкласс, номер, подподкласс</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 </q_variants_choice>
@@ -10067,22 +10067,22 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 <q_variants_choice>
 <item>
 <q_right>yes</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">трансферазы</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Трансферазы</span></span>]]></q_variant>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">лиазы</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Лиазы</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">лигазы</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Лигазы</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">изомеразы</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Изомеразы</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 </q_variants_choice>
@@ -10133,22 +10133,22 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 <q_variants_choice>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">изомеразы</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Изомеразы</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">трансферазы</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Трансферазы</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>yes</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">оксидоредуктазы</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Оксидоредуктазы</span></span>]]></q_variant>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">лигазы</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Лигазы</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 </q_variants_choice>
@@ -10201,22 +10201,22 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 <q_variants_select>
 <item>
 <q_right>yes</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">лиазы</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Лиазы</span></span>]]></q_variant>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">лигазы</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Лигазы</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>yes</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">гидролазы</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Гидролазы</span></span>]]></q_variant>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">оксидоредуктазы</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Оксидоредуктазы</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 </q_variants_select>
@@ -10267,22 +10267,22 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 <q_variants_select>
 <item>
 <q_right>yes</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">бактерий</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Бактерий</span></span>]]></q_variant>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>yes</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">грибов</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Грибов</span></span>]]></q_variant>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>yes</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">растений</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Растений</span></span>]]></q_variant>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>yes</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">животных</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Животных</span></span>]]></q_variant>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 </q_variants_select>
@@ -10339,33 +10339,33 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 <q_var_logic_fib>AND</q_var_logic_fib>
 <q_variants_oto>
 <item>
-<q_target><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">мальтаза</span></span>]]></q_target>
-<q_bullet><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">гидролазы</span></span></p>]]></q_bullet>
+<q_target><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Мальтаза</span></span>]]></q_target>
+<q_bullet><![CDATA[<p><span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Гидролазы</span></span></p>]]></q_bullet>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 <item>
-<q_target><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">декарбоксилаза</span></span>]]></q_target>
-<q_bullet><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">лиазы</span></span>]]></q_bullet>
+<q_target><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Декарбоксилаза</span></span>]]></q_target>
+<q_bullet><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Лиазы</span></span>]]></q_bullet>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 <item>
-<q_target><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">сукцинил-КоА-синтетаза&nbsp;</span></span>]]></q_target>
-<q_bullet><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">лигазы</span></span>]]></q_bullet>
+<q_target><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Сукцинил-КоА-синтетаза</span></span>]]></q_target>
+<q_bullet><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Лигазы</span></span>]]></q_bullet>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 <item>
-<q_target><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">гексокиназа</span></span>]]></q_target>
-<q_bullet><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">трансферазы</span></span>]]></q_bullet>
+<q_target><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Гексокиназа</span></span>]]></q_target>
+<q_bullet><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Трансферазы</span></span>]]></q_bullet>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 <item>
-<q_target><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">эпимераза</span></span>]]></q_target>
-<q_bullet><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">изомеразы</span></span>]]></q_bullet>
+<q_target><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Эпимераза</span></span>]]></q_target>
+<q_bullet><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Изомеразы</span></span>]]></q_bullet>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 <item>
-<q_target><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">пероксидаза</span></span>]]></q_target>
-<q_bullet><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">оксидоредуктазы</span></span>]]></q_bullet>
+<q_target><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Пероксидаза</span></span>]]></q_target>
+<q_bullet><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Оксидоредуктазы</span></span>]]></q_bullet>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 </q_variants_oto>
@@ -10407,22 +10407,22 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 <q_variants_choice>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">протеолитическими</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Протеолитическими</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">амилолитическими</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Амилолитическими</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>yes</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">целлюлолитическими</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Целлюлолитическими</span></span>]]></q_variant>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">пектолитическими</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Пектолитическими</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 </q_variants_choice>
@@ -10473,22 +10473,22 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 <q_variants_choice>
 <item>
 <q_right>yes</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">протеолитическим ферментам</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Протеолитическим ферментам</span></span>]]></q_variant>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">амилолитическим ферментам</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Амилолитическим ферментам</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">целлюлолитическим ферментам</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Целлюлолитическим ферментам</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">пектолитическим ферментам</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Пектолитическим ферментам</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 </q_variants_choice>
@@ -10539,22 +10539,22 @@ VI класс &ndash; <strong>Лигазы </strong></span></span></span></p></d
 <q_variants_choice>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">мальтаза</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Мальтаза</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>yes</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">амилаза</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Амилаза</span></span>]]></q_variant>
 <q_weight_by_connection>1.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">целлобиаза</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Целлобиаза</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 <item>
 <q_right>no</q_right>
-<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">инвертаза</span></span>]]></q_variant>
+<q_variant><![CDATA[<span style="font-size:20px;"><span style="font-family:times new roman,times,serif;">Инвертаза</span></span>]]></q_variant>
 <q_weight_by_connection>0.0</q_weight_by_connection>
 </item>
 </q_variants_choice>
