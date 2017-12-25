@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Course file, saved 12/21/2017 10:34:33 PM by artem using CourseLab 171024 -->
+<!-- Course file, saved 12/25/2017 10:56:23 AM by artem using CourseLab 171024 -->
 <course3>
-<aicc_code>Genetik_Inzh_final005</aicc_code>
-<aicc_name>Прототип ЭУК</aicc_name>
+<aicc_code>Genetik_Inzh</aicc_code>
+<aicc_name>Основные принципы применения генной инженерии в пищевой биотехнологии</aicc_name>
 <aicc_description>null</aicc_description>
 <modules>
 <module>
@@ -65,26 +65,10 @@
 </folders>
 <windows>
 <window>
-<module>5</module>
-<zoom>100</zoom>
-</window>
-<window>
-<module>1</module>
-<zoom>100</zoom>
-</window>
-<window>
 <module>3</module>
 <zoom>100</zoom>
-</window>
-<window>
-<module>4</module>
-<zoom>100</zoom>
-</window>
-<window>
-<module>2</module>
-<zoom>100</zoom>
 <active>true</active>
-<slide>SLIDE_8</slide>
+<slide>SLIDE_25</slide>
 </window>
 </windows>
 </course3>
